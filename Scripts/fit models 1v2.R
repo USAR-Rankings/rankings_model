@@ -12,8 +12,8 @@
 
 # USER INPUT: Gender----------------
 # User inputs gender here; 'women' or 'open'
-gender = 'women'
-write_csvs = FALSE
+gender = 'open'
+write_csvs = TRUE
 
 # Preload----------------------
 # A custom preload script is sourced here to load in necessary packages and functions
@@ -75,7 +75,7 @@ pool_weight = 1
 results = list()
 counter = 0
 #Looper
-for(d in 1:1){
+for(d in 2){
   gender = c('women', 'open')[d]
   for(ty in 1:1){
     target_years = list(2023)[[ty]]
