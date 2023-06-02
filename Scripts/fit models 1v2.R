@@ -75,10 +75,10 @@ pool_weight = 1
 results = list()
 counter = 0
 #Looper
-for(d in 1:2){
+for(d in 1:1){
   gender = c('women', 'open')[d]
-  for(ty in 1:3){
-    target_years = list(2021, 2022,2021:2022)[[ty]]
+  for(ty in 1:1){
+    target_years = list(2023)[[ty]]
     # cat(target_years)
     # cat(gender)
     for(yd in seq(1, 1, by = .25)){
@@ -110,6 +110,7 @@ for(d in 1:2){
         
         files = dir('Tourney Results') %>% 
           data.frame(url = .) %>%
+          filter(url != 'Manual Downloads') %>% 
           pull(url)
         
         for (i in 1:length(files)){
@@ -683,17 +684,17 @@ youth_ranks = player_ratings_df %>%
 
 if(write_csvs){
   if(gender == 'women'){
-    write.csv(pred_df, file = 'Predictions/2022/Women/pred_1v2_df.csv', row.names = F)
-    write.csv(ranks, file = 'Predictions/2022/Women/player_ratings_1v2_df.csv', row.names = F)
-    write.csv(youth_ranks, file = 'Predictions/2022/Women/youth_player_ratings_1v2_df.csv', row.names = F)
-    write.csv(player_ratings_df, file = 'Predictions/2022/Women/player_ratings_1v2_df_full.csv', row.names = F)
-    write.csv(ranks, file = paste0('Predictions/2022/Women/player_ratings_1v2_df_', Sys.Date(), '.csv'), row.names = F)
+    write.csv(pred_df, file = 'Predictions/2023/Women/pred_1v2_df.csv', row.names = F)
+    write.csv(ranks, file = 'Predictions/2023/Women/player_ratings_1v2_df.csv', row.names = F)
+    write.csv(youth_ranks, file = 'Predictions/2023/Women/youth_player_ratings_1v2_df.csv', row.names = F)
+    write.csv(player_ratings_df, file = 'Predictions/2023/Women/player_ratings_1v2_df_full.csv', row.names = F)
+    write.csv(ranks, file = paste0('Predictions/2023/Women/player_ratings_1v2_df_', Sys.Date(), '.csv'), row.names = F)
   }
   if(gender == 'open'){
-    write.csv(pred_df, file = 'Predictions/2022/Open/pred_1v2_df.csv', row.names = F)
-    write.csv(ranks, file = 'Predictions/2022/Open/player_ratings_1v2_df.csv', row.names = F)
-    write.csv(youth_ranks, file = 'Predictions/2022/Open/youth_player_ratings_1v2_df.csv', row.names = F)
-    write.csv(player_ratings_df, file = 'Predictions/2022/Open/player_ratings_1v2_df_full.csv', row.names = F)
-    write.csv(ranks, file = paste0('Predictions/2022/Open/player_ratings_1v2_df_', Sys.Date(), '.csv'), row.names = F)
+    write.csv(pred_df, file = 'Predictions/2023/Open/pred_1v2_df.csv', row.names = F)
+    write.csv(ranks, file = 'Predictions/2023/Open/player_ratings_1v2_df.csv', row.names = F)
+    write.csv(youth_ranks, file = 'Predictions/2023/Open/youth_player_ratings_1v2_df.csv', row.names = F)
+    write.csv(player_ratings_df, file = 'Predictions/2023/Open/player_ratings_1v2_df_full.csv', row.names = F)
+    write.csv(ranks, file = paste0('Predictions/2023/Open/player_ratings_1v2_df_', Sys.Date(), '.csv'), row.names = F)
   }
 }
