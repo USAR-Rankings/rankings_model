@@ -1,0 +1,9 @@
+# Data science related
+pandas
+
+# Read write to google drive
+# google-colab
+# conda install -c conda-forge google-colab
+
+# Reading env files
+python-dotenv
