@@ -2,7 +2,7 @@
 Main python runner function to refresh the rankings model on the USAR website
 """
 # Importing modules from the directory as needed
-from rankings_model.src.utils.dag_runner_helpers import generate_run_id
+from rankings_model.src.utils. dag_runner_helpers import generate_run_id
 from rankings_model.src.tasks.preprocessing import example_preprocess
 # Importing packages needed
 import subprocess
@@ -12,7 +12,7 @@ load_dotenv()
 
 
 # Defining main DAG id (should match the filename)
-DAG_ID = "refresh_rankings_model"
+DAG_ID = "model_comparison_experiment"
 
 
 # Main runner function for the DAG
@@ -24,12 +24,16 @@ def run(dag_id: str, run_id: str):
     # Preprocessing tournament results
     example_preprocess.run(dag_id, run_id)
 
-    # Fitting the rankings model and producing the new predictions
+    # Fitting all individual models onto the preprocessed data. Each will output its predictions for
+    # the desired test as defined in the config / params folder
+    # PLACEHOLDER FOR ELO
+
+    # PLACEHOLDER FOR MIXED MODEL
     subprocess.call("Rscript ../tasks/modelling/fit_models_1v2.R", shell=True)
 
-    # Post-processing the predictions to get any stats needed
+    # Post-processing the predictions to get aggregated error metrics to compare all models
 
-    # Publishing the predictions online
+    # Creating any final visualizations
 
     print(f"{dag_id} DAG finished")
     return

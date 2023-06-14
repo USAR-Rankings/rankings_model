@@ -8,19 +8,21 @@
 # 4. A record of unfiltered full season player ratings titled player_ratings_1v2_df_full.csv
 # 5. A backup copy of #2 with date included as a record titled player_ratings_1v2_df_[Date].csv
 
-Sys.getenv(".env")
-
+print("Starting fit_models_1_v2 task")
 
 # USER INPUT: Gender----------------
 # User inputs gender here; 'women' or 'open'
 gender = 'women'
-write_csvs = FALSE
+write_csvs = TRUE
 
 # Preload----------------------
 # A custom preload script is sourced here to load in necessary packages and functions
-#source('Scripts/Preload.R')
-source('utils/Preload.R')
-
+# This file is called from the DAG directory so keep that in mind when creating relative references
+defaultW <- getOption("warn")
+options(warn = -1)
+source('../utils/Preload.R')
+options(warn = defaultW)
+print("Finished R env imports")
 
 # Seed Set-------------------
 # Seed is set to 1 for consistent retroactive comparisons (should have a marginal effect on mixed model fitting)
@@ -31,28 +33,28 @@ set.seed(1)
 # 1. Fwango URLs that includes tournament titles, URLs, and model use status
 # 2. USA Roundnet Membership_Rankings Committee Filtered List, which (is supposed to) show membership and USA status for all players
 
-sheet_scrape = drive_find(type = "spreadsheet") %>%
-  filter(name == 'Fwango URLs')
+# sheet_scrape = drive_find(type = "spreadsheet") %>%
+#   filter(name == 'Fwango URLs')
 
-sheet_scrape2 = read_sheet(sheet_scrape$id,
-                           col_types = 'c') %>%
-  as.data.frame()%>% 
+sheet_scrape = read_data(c(input_dir), FWANGO_URLS, sheet_name=USAR_YOUTH_MEMBERSHIP_FILE_SHEET_NAME)
+
+sheet_scrape2 = sheet_scrape %>%
+  as.data.frame()%>%
   mutate(tourney = toupper(`URL identifier`),
-         Date = as.Date(Date, format = '%m/%d/%Y')) %>% 
+         Date = as.Date(Date, format = '%m/%d/%Y')) %>%
   add_row(data.frame(tourney = 'END OF SEASON', Date = as.Date(max(.$Date))+7))
 
+eligible_players_sheet = read_data(c(input_dir), USAR_MEMBERSHIP_FILTERED_LIST, sheet_name=USAR_MEMBERSHIP_FILTERED_LIST_SHEET_NAME)
+# eligible_players_sheet = drive_find(type = "spreadsheet") %>%
+#   filter(name == 'USA Roundnet Membership_Rankings Committee Filtered List')
 
-eligible_players_sheet = drive_find(type = "spreadsheet") %>%
-  filter(name == 'USA Roundnet Membership_Rankings Committee Filtered List')
-
-usar_players = read_sheet(eligible_players_sheet$id,
-                          col_types = 'c') %>%
+usar_players = eligible_players_sheet %>%
   as.data.frame()
 
 # Youth Players Load-----------------
 # Here we read a local csv with youth/DOB status of players. This is a terrible system and should be moved to google sheets at the very least. 
 # Also the data quality has been terrible.
-youth_players = read.csv('Players/USA Roundnet Membership_2022-08-01.csv', as.is = T) %>% 
+youth_players = read_data(c(input_dir, '/Players/'), USAR_YOUTH_MEMBERSHIP_FILE) %>%
   mutate(Name = toupper(Full.name),
          DOB = as.Date(Date.of.birth, format = "%m/%d/%Y"),
          Age = time_length(difftime(Sys.Date(), DOB), "years")) %>% 
@@ -61,7 +63,7 @@ youth_players = read.csv('Players/USA Roundnet Membership_2022-08-01.csv', as.is
 
 # Name Corrections Load--------------------
 # Here we load in a csv that includes manual name corrections
-all_cors = read.csv('Players/name_corrections.csv', as.is = T) %>% 
+all_cors = read_data(c(input_dir, '/Players/'), NAME_CORRECTIONS) %>%
   filter(is.na(Tourney)) %>% 
   select(-Tourney) %>% 
   mutate_all(toupper)
@@ -110,18 +112,22 @@ for(d in 1:2){
         # Here we pull and combine the scraped csvs from those tournaments and divisions
         tg = list()
         
-        files = dir('Tourney Results') %>% 
-          data.frame(url = .) %>%
-          pull(url)
+#         files = dir(tourney_data_dir) %>%
+#           data.frame(url = .) %>%
+#           pull(url)
+
+#         for (i in 1:length(files)){
+#           tg[[i]] = read.csv(paste0('Tourney Results/', files[i]), as.is = T, stringsAsFactors = F, fileEncoding="UTF-8")
+#         }
         
-        for (i in 1:length(files)){
-          tg[[i]] = read.csv(paste0('Tourney Results/', files[i]), as.is = T, stringsAsFactors = F, fileEncoding="UTF-8")
-        }
-        
-        dat = bind_rows(tg) %>% 
-          mutate_at(vars(tourney:T2P2), toupper) %>% 
-          filter(!((t1score %in% c(-1, -2) & t2score == 0) | (t2score %in% c(-1, -2) & t1score == 0)))
-        
+#         dat = bind_rows(tg) %>%
+#           mutate_at(vars(tourney:T2P2), toupper) %>%
+#           filter(!((t1score %in% c(-1, -2) & t2score == 0) | (t2score %in% c(-1, -2) & t1score == 0)))
+        dat = read_all_data_in_dir(tourney_data_dir) %>%
+            bind_rows(tg) %>%
+            mutate_at(vars(tourney:T2P2), toupper) %>%
+            filter(!((t1score %in% c(-1, -2) & t2score == 0) | (t2score %in% c(-1, -2) & t1score == 0)))
+
         # Filtering to valid tourney and division, applying name corrections, and adding a dummy "END OF SEASON" tournament
         pp = dat %>% 
           left_join(qual_tourneys, by = c('tourney', 'Division')) %>% 
@@ -685,17 +691,19 @@ youth_ranks = player_ratings_df %>%
 
 if(write_csvs){
   if(gender == 'women'){
-    write.csv(pred_df, file = cat(output_dir, '/Predictions/2022/Women/pred_1v2_df.csv'), row.names = F)
-    write.csv(ranks, file = cat(output_dir, '/Predictions/2022/Women/player_ratings_1v2_df.csv'), row.names = F)
-    write.csv(youth_ranks, file = cat(output_dir, '/Predictions/2022/Women/youth_player_ratings_1v2_df.csv'), row.names = F)
-    write.csv(player_ratings_df, file = cat(output_dir, '/Predictions/2022/Women/player_ratings_1v2_df_full.csv'), row.names = F)
-    write.csv(ranks, file = paste0(output_dir, '/Predictions/2022/Women/player_ratings_1v2_df_', Sys.Date(), '.csv'), row.names = F)
+    write_data(pred_df, c(output_dir, '/Predictions/2022/Women'), 'pred_1v2_df.csv')
+    write_data(ranks, c(output_dir, '/Predictions/2022/Women/'), 'player_ratings_1v2_df.csv')
+    write_data(youth_ranks, c(output_dir, '/Predictions/2022/Women/'), 'youth_player_ratings_1v2_df.csv')
+    write_data(player_ratings_df, c(output_dir, '/Predictions/2022/Women/'), 'player_ratings_1v2_df_full.csv')
+    write_data(ranks, c(output_dir, '/Predictions/2022/Women/'), paste0('player_ratings_1v2_df_', Sys.Date(), '.csv'))
   }
   if(gender == 'open'){
-    write.csv(pred_df, file = cat(output_dir, '/Predictions/2022/Open/pred_1v2_df.csv'), row.names = F)
-    write.csv(ranks, file = cat(output_dir, '/Predictions/2022/Open/player_ratings_1v2_df.csv'), row.names = F)
-    write.csv(youth_ranks, file = cat(output_dir, '/Predictions/2022/Open/youth_player_ratings_1v2_df.csv'), row.names = F)
-    write.csv(player_ratings_df, file = cat(output_dir, '/Predictions/2022/Open/player_ratings_1v2_df_full.csv'), row.names = F)
-    write.csv(ranks, file = paste0(output_dir, '/Predictions/2022/Open/player_ratings_1v2_df_', Sys.Date(), '.csv'), row.names = F)
+    write_data(pred_df, c(output_dir, '/Predictions/2022/Open/'), 'pred_1v2_df.csv')
+    write_data(ranks, c(output_dir, '/Predictions/2022/Open/'), 'player_ratings_1v2_df.csv')
+    write_data(youth_ranks, c(output_dir, '/Predictions/2022/Open/'), 'youth_player_ratings_1v2_df.csv')
+    write_data(player_ratings_df, c(output_dir, '/Predictions/2022/Open/'), 'player_ratings_1v2_df_full.csv')
+    write_data(ranks, c(output_dir, '/Predictions/2022/Open/'), paste0('player_ratings_1v2_df_', Sys.Date(), '.csv'))
   }
 }
+
+print("fit_models_1_v2 task completed")
