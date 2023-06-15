@@ -35,7 +35,7 @@ setwd(project_directory)
 # Loading the enviroment and turning warnings back on
 source('src/utils/Preload.R')
 options(warn = defaultW)
-cat("\nFinished R env setup")
+cat("\nFinished R env setup\n")
 
 # Seed Set-------------------
 # Seed is set to 1 for consistent retroactive comparisons (should have a marginal effect on mixed model fitting)
@@ -723,4 +723,4 @@ if(write_csvs){
   }
 }
 
-cat("\nfit_models_1_v2 task completed")
+cat("\nfit_models_1_v2 task completed\n")
