@@ -3,14 +3,13 @@ This file serves as an example for how to read / write data in python and the ge
 task
 """
 # Reading in anything needed from this module
-from rankings_model.src.utils.read_write import read_data, read_all_data_in_dir, write_data
-from rankings_model.src.configs.constants import (USAR_YOUTH_MEMBERSHIP_FILE,
-                                                  NAME_CORRECTIONS,
-                                                  )
+from src.utils.read_write import read_data, read_all_data_in_dir, write_data
+from src.configs.constants import (USAR_YOUTH_MEMBERSHIP_FILE,
+                                   NAME_CORRECTIONS,
+                                   )
 # Reading in libraries
 import os
 import pandas as pd
-
 
 # Defining the task ID
 TASK_ID = "example_preprocess"

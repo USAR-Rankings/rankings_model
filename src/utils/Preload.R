@@ -25,12 +25,12 @@ suppressMessages(library(readxl))
 suppressMessages(library(dotenv))
 
 # Loading variables from this module
-load_dot_env(file="../../.env")
+load_dot_env(file=".env")
 input_dir <- Sys.getenv("input_dir")
 output_dir <- Sys.getenv("output_dir")
 tourney_data_dir <- Sys.getenv("tourney_data_dir")
-source_python("../configs/constants.py")
-source('../utils/read_write.R')
+source_python("src/configs/constants.py")
+source('src/utils/read_write.R')
 
 timeouts <- function (remDr, milliseconds){
   qpath <- sprintf("%s/session/%s/timeouts", remDr$serverURL,

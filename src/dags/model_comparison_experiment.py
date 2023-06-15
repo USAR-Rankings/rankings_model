@@ -2,8 +2,8 @@
 Main python runner function to refresh the rankings model on the USAR website
 """
 # Importing modules from the directory as needed
-from rankings_model.src.utils.dag_runner_helpers import generate_run_id
-from rankings_model.src.tasks.preprocessing import example_preprocess
+from src.utils.dag_runner_helpers import generate_run_id
+from src.tasks.preprocessing import example_preprocess
 # Importing packages needed
 import subprocess
 # Importing env variables
