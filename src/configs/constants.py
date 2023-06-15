@@ -8,7 +8,8 @@ USAR_YOUTH_MEMBERSHIP_FILE_SHEET_NAME = "URLs"
 
 NAME_CORRECTIONS = "name_corrections.csv"
 
-FWANGO_URLS = "FWANGO URLs.xlsx"
+FWANGO_URLS = "Fwango URLs.xlsx"
+FWANGO_URLS_SHEET_NAME = "URLs"
 
 USAR_MEMBERSHIP_FILTERED_LIST = "USA Roundnet Membership_Rankings Committee Filtered List.xlsx"
 USAR_MEMBERSHIP_FILTERED_LIST_SHEET_NAME = "Rankings Committee Filtered Lis"

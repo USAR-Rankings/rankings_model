@@ -47,7 +47,7 @@ set.seed(1)
 # sheet_scrape = drive_find(type = "spreadsheet") %>%
 #   filter(name == 'Fwango URLs')
 
-sheet_scrape = read_data(c(input_dir), FWANGO_URLS, sheet_name=USAR_YOUTH_MEMBERSHIP_FILE_SHEET_NAME)
+sheet_scrape = read_data(c(input_dir), FWANGO_URLS, sheet_name=FWANGO_URLS_SHEET_NAME)
 
 sheet_scrape2 = sheet_scrape %>%
   as.data.frame()%>%
