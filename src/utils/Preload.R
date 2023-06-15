@@ -22,7 +22,7 @@ installed_packages <- packages %in% rownames(installed.packages())
 if (any(installed_packages == FALSE)) {
   invisible(install.packages(packages[!installed_packages]))
 }
-print("Finished necessary installs; now sourcing")
+cat("\nFinished necessary installs; now sourcing R packages")
 
 # Packages loading
 suppressMessages(lapply(packages, library, character.only = TRUE, quietly=T))

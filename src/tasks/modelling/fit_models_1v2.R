@@ -8,7 +8,7 @@
 # 4. A record of unfiltered full season player ratings titled player_ratings_1v2_df_full.csv
 # 5. A backup copy of #2 with date included as a record titled player_ratings_1v2_df_[Date].csv
 
-print("Starting fit_models_1_v2 task")
+cat("Starting fit_models_1_v2 task")
 
 # USER INPUT: Gender----------------
 # User inputs gender here; 'women' or 'open'
@@ -33,7 +33,7 @@ setwd(new_dir)
 # Loading the enviroment and turning warnings back on
 source('src/utils/Preload.R')
 options(warn = defaultW)
-print("Finished R env imports")
+cat("\nFinished R env setup")
 
 # Seed Set-------------------
 # Seed is set to 1 for consistent retroactive comparisons (should have a marginal effect on mixed model fitting)
@@ -717,4 +717,4 @@ if(write_csvs){
   }
 }
 
-print("fit_models_1_v2 task completed")
+cat("\nfit_models_1_v2 task completed")
