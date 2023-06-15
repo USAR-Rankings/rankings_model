@@ -22,9 +22,10 @@ installed_packages <- packages %in% rownames(installed.packages())
 if (any(installed_packages == FALSE)) {
   invisible(install.packages(packages[!installed_packages]))
 }
+print("Finished necessary installs; now sourcing")
 
 # Packages loading
-invisible(lapply(packages, library, character.only = TRUE))
+suppressMessages(lapply(packages, library, character.only = TRUE, quietly=T))
 
 # Loading variables from this module
 load_dot_env(file=".env")
