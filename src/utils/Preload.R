@@ -1,28 +1,30 @@
 #Preload
 options(repos = list(CRAN="http://cran.rstudio.com/"))
 
-# suppressPackageStartupMessages(install.packages('tibble'))
-# suppressPackageStartupMessages(install.packages('dplyr'))
-suppressMessages(library(RSelenium))
-suppressMessages(library(jsonlite))
-suppressMessages(library(rvest))
-suppressMessages(library(stringr))
-suppressMessages(library(dplyr))
-suppressMessages(library(tidyr))
-suppressMessages(library(tidyverse))
-suppressMessages(library(RecordLinkage))
-suppressMessages(library(DescTools))
-suppressMessages(library(plotly))
-suppressMessages(library(viridis))
-suppressMessages(library(lme4))
-# suppressMessages(library(googlesheets4))
-# suppressMessages(library(googledrive))
-suppressMessages(library(lubridate))
-# suppressPackageStartupMessages(install.packages('reticulate'))
-suppressMessages(library(reticulate))
-suppressMessages(library(readxl))
-# suppressPackageStartupMessages(install.packages('dotenv'))
-suppressMessages(library(dotenv))
+# Package names
+packages <- c("RSelenium",
+              "jsonlite",
+              "stringr",
+              "dplyr",
+              "tidyr",
+              "tidyverse",
+              "RecordLinkage",
+              "DescTools",
+              "plotly",
+              "viridis",
+              "lme4",
+              "lubridate",
+              "reticulate",
+              "readxl",
+              "dotenv")
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  invisible(install.packages(packages[!installed_packages]))
+}
+
+# Packages loading
+invisible(lapply(packages, library, character.only = TRUE))
 
 # Loading variables from this module
 load_dot_env(file=".env")
