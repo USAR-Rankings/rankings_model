@@ -1,5 +1,7 @@
 # USAR Rankings Model
 
+![USA-Roundnet-Logo](https://github.com/USAR-Rankings/rankings_model/assets/60453676/d8f53b03-0950-44c4-8caf-719aeb002314)
+
 This repo serves to hold all code related to the USAR Rankings model. It holds all code
 that the USAR Rankings committee uses to refresh the rankings after each tournament 
 and experiments conducted to find the best model to use.
