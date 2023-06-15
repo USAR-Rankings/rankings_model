@@ -35,11 +35,11 @@ read_data <- function(file_path_list, file_name, sheet_name=""){
 # Function to write specific CSV file from a given directory
 write_data <- function(file_path_list, file_name, df){
     # Creating the entire file path name
-    full_path = paste(file_path_list, collapse='/' )
+    full_path = paste(file_path_list, collapse='/')
     # Checking if path exists and if not, creating it
     if (!file.exists(full_path)){
-        dir.create(file.path(full_path))
+        dir.create(file.path(full_path), recursive=TRUE)
     }
     # Writing out the CSV
-    write.csv(df, file = cat(full_path, file_name), row.names = F)
+    write.csv(df, file = paste0(full_path, file_name), row.names = F)
 }

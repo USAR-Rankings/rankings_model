@@ -22,13 +22,15 @@ write_csvs = TRUE
 defaultW <- getOption("warn")
 options(warn = -1)
 
+# Reading in arguments from the python runner
+myArgs <- commandArgs(trailingOnly = TRUE)
+dag_id = myArgs[1]
+run_id = myArgs[2]
+project_directory = myArgs[3]
+
 # Updating the working directory to be the top level folder of the repo
 # (So you can call this directly when running the python script or indirectly from terminal)
-cur_wd = getwd()
-directory_begin_search_string = "rankings_model"
-index = unlist(gregexpr(directory_begin_search_string, cur_wd))[1]
-new_dir = substr(cur_wd, 1, index+nchar(directory_begin_search_string))
-setwd(new_dir)
+setwd(project_directory)
 
 # Loading the enviroment and turning warnings back on
 source('src/utils/Preload.R')
@@ -92,14 +94,17 @@ counter = 0
 #Looper
 for(d in 1:2){
   gender = c('women', 'open')[d]
-  for(ty in 1:3){
+#   for(ty in 1:3){
+  for(ty in 1:1){
     target_years = list(2021, 2022,2021:2022)[[ty]]
     # cat(target_years)
     # cat(gender)
-    for(yd in seq(1, 1, by = .25)){
+#     for(yd in seq(1, 1, by = .25)){
+    for(yd in 1:1){
       year_decay = yd
       # cat(year_decay)
-      for(pw in seq(1, 1, by = .25)){
+#       for(pw in seq(1, 1, by = .25)){
+      for(pw in 1:1){
         pool_weight = pw
         # cat(pool_weight)
         
@@ -280,7 +285,8 @@ for(d in 1:2){
         player_ratings = list()
         player_ratings_split = list()
         
-        for(i in 1:length(tourney_list)){
+#         for(i in 1:length(tourney_list)){
+        for(i in 1:2){
           cat('\n\nTourney: ', tourney_list[i])  # Readout
           
           # This is the holdout training dataset where we include all scores EXCEPT that of the target tourney
@@ -702,18 +708,18 @@ youth_ranks = player_ratings_df %>%
 
 if(write_csvs){
   if(gender == 'women'){
-    write_data(pred_df, c(output_dir, '/Predictions/2022/Women'), 'pred_1v2_df.csv')
-    write_data(ranks, c(output_dir, '/Predictions/2022/Women/'), 'player_ratings_1v2_df.csv')
-    write_data(youth_ranks, c(output_dir, '/Predictions/2022/Women/'), 'youth_player_ratings_1v2_df.csv')
-    write_data(player_ratings_df, c(output_dir, '/Predictions/2022/Women/'), 'player_ratings_1v2_df_full.csv')
-    write_data(ranks, c(output_dir, '/Predictions/2022/Women/'), paste0('player_ratings_1v2_df_', Sys.Date(), '.csv'))
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women'), 'pred_1v2_df.csv', pred_df)
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), 'player_ratings_1v2_df.csv', ranks)
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), 'youth_player_ratings_1v2_df.csv', youth_ranks)
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), 'player_ratings_1v2_df_full.csv', player_ratings_df)
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), paste0('player_ratings_1v2_df_', Sys.Date(), '.csv'), ranks)
   }
   if(gender == 'open'){
-    write_data(pred_df, c(output_dir, '/Predictions/2022/Open/'), 'pred_1v2_df.csv')
-    write_data(ranks, c(output_dir, '/Predictions/2022/Open/'), 'player_ratings_1v2_df.csv')
-    write_data(youth_ranks, c(output_dir, '/Predictions/2022/Open/'), 'youth_player_ratings_1v2_df.csv')
-    write_data(player_ratings_df, c(output_dir, '/Predictions/2022/Open/'), 'player_ratings_1v2_df_full.csv')
-    write_data(ranks, c(output_dir, '/Predictions/2022/Open/'), paste0('player_ratings_1v2_df_', Sys.Date(), '.csv'))
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), 'pred_1v2_df.csv', pred_df)
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), 'player_ratings_1v2_df.csv', ranks)
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), 'youth_player_ratings_1v2_df.csv', youth_ranks)
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), 'player_ratings_1v2_df_full.csv', player_ratings_df)
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), paste0('player_ratings_1v2_df_', Sys.Date(), '.csv'), ranks)
   }
 }
 
