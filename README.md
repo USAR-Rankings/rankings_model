@@ -42,6 +42,12 @@ To run from an IDE, follow these steps:
 2. Add the rankings_model (top level of this repo) to the PYTHONPATH (or the source) using the IDE's settings
 3. Run the refresh_rankings_model.py file (or any relevant DAG)
 
+If you want to run this for actual deployment, please do so from the google
+collab file. Please navigate to the USAR google drive, and there will be a google
+collab file titled "cli_runner.ipynb". All you need to do is hit run all on this
+file and you can run the pipeline remotely. Please utilize this for any actual
+deployments, and utilize your local environment when developing.
+
 ## Best practices for development
 The following is some notes pertaining to best practices to use while pushing
 any code to this repo.
