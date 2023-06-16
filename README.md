@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/USAR-Rankings/rankings_model/assets/60453676/d8f53b03-0950-44c4-8caf-719aeb002314)" />
+  <img src="http://some_place.com/image.png](https://github.com/USAR-Rankings/rankings_model/assets/60453676/d8f53b03-0950-44c4-8caf-719aeb002314" />
 </p>
 
 # USAR Rankings Model
