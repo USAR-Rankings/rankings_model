@@ -25,7 +25,7 @@ def run(dag_id: str, run_id: str):
     # Preprocessing tournament results
     example_preprocess.run(dag_id, run_id)
 
-    # # Fitting the rankings model and producing the new predictions
+    # Fitting the rankings model and producing the new predictions
     subprocess.run(["Rscript",
                     f"{os.environ['project_directory']}/src/tasks/modelling/fit_models_1v2.R",
                     dag_id,
