@@ -707,20 +707,20 @@ youth_ranks = player_ratings_df %>%
 #Write CSVs-----------------------
 
 if(write_csvs){
-  if(gender == 'women'){
-    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women'), 'pred_1v2_df.csv', pred_df)
+  #if(gender == 'women'){
+    write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), 'pred_1v2_df.csv', pred_df)
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), 'player_ratings_1v2_df.csv', ranks)
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), 'youth_player_ratings_1v2_df.csv', youth_ranks)
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), 'player_ratings_1v2_df_full.csv', player_ratings_df)
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Women/'), paste0('player_ratings_1v2_df_', Sys.Date(), '.csv'), ranks)
-  }
-  if(gender == 'open'){
+  #}
+  #if(gender == 'open'){
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), 'pred_1v2_df.csv', pred_df)
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), 'player_ratings_1v2_df.csv', ranks)
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), 'youth_player_ratings_1v2_df.csv', youth_ranks)
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), 'player_ratings_1v2_df_full.csv', player_ratings_df)
     write_data(c(output_dir, paste0(dag_id, '_', run_id), 'fit_models_1_v2/Predictions/2022/Open/'), paste0('player_ratings_1v2_df_', Sys.Date(), '.csv'), ranks)
-  }
+  #}
 }
 
 cat("\nfit_models_1_v2 task completed\n")

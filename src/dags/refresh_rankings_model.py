@@ -25,18 +25,25 @@ def run(dag_id: str, run_id: str):
     # Preprocessing tournament results
     example_preprocess.run(dag_id, run_id)
 
-    # Fitting the rankings model and producing the new predictions
-    r_output = subprocess.run(["Rscript",
-                               f"{os.environ['project_directory']}/src/tasks/modelling/fit_models_1v2.R",
-                               dag_id,
-                               run_id,
-                               os.environ['project_directory'],
-                               ],
-                              )
+    # # Fitting the rankings model and producing the new predictions
+    subprocess.run(["Rscript",
+                    f"{os.environ['project_directory']}/src/tasks/modelling/fit_models_1v2.R",
+                    dag_id,
+                    run_id,
+                    os.environ['project_directory'],
+                    ],
+                   )
 
     # Post-processing the predictions to get any stats needed
 
     # Publishing the predictions online
+    subprocess.run(["Rscript",
+                    f"{os.environ['project_directory']}/src/tasks/publish_rankings/app.R",
+                    dag_id,
+                    run_id,
+                    os.environ['project_directory'],
+                    ],
+                   )
 
     print(f"{dag_id} DAG finished")
     return

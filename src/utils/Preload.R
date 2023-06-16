@@ -16,7 +16,12 @@ packages <- c("RSelenium",
               "lubridate",
               "reticulate",
               "readxl",
-              "dotenv")
+              "dotenv",
+              "shiny",
+              "janitor",
+              "stringi",
+              "shinyWidgets",
+              "fontawesome")
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
 if (any(installed_packages == FALSE)) {
