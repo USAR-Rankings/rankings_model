@@ -1,0 +1,5 @@
+# Data science related
+pandas
+
+# Reading env files
+python-dotenv
