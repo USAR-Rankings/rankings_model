@@ -1,0 +1,23 @@
+name: Refresh Rankings
+
+on:
+  workflow_dispatch:
+    inputs:
+      user:
+        description: 'GitHub username'
+        required: true
+      date:
+        description: 'Date of trigger'
+        required: true
+
+jobs:
+  refresh_rankings:
+    runs-on: ubuntu-latest
+    name: "Rankings refresh triggered by ${{ github.event.inputs.user }} on ${{ github.event.inputs.date }}"
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+    
+    - name: Run R Script
+      run: Rscript Scripts/fit_models_1v2.R
