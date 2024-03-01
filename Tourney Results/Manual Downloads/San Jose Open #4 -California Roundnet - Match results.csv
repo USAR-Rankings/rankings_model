@@ -1,0 +1,91 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Expert 5.0,Group A,1,Single game,Accio Pitcher,Chernobyl,Accio Pitcher,21,17,,,,,Connor Nelson,Jacob Payer,James Lamkin,Dylan Medveal
+Group Stage,Expert 5.0,Group A,1,Single game,"Almost a full Mexican ",GQ’s finest,"Almost a full Mexican ",21,17,,,,,Clifton Miller,Josh Fragiacomo,Quinn Hufler,Alec Galbo
+Group Stage,Expert 5.0,Group A,1,Single game,Electro-Monkies,super sluggers,Electro-Monkies,21,17,,,,,Nathaniel Schrag,Ryan McCargar,Sasha Mariniuk,Nate Gauthier
+Group Stage,Expert 5.0,Group B,1,Single game,Dino nugs and rice,The Disciples,Dino nugs and rice,21,17,,,,,Warren Foote,Josh Cain,Mason Thau,Benjamin Walker-Edwards
+Group Stage,Expert 5.0,Group B,1,Single game,white men can’t jump,blind date 2 electric boogaloo,blind date 2 electric boogaloo,15,21,,,,,Jason Rhoads,Joseph Kaylor,Douglas Page,Patrick Drucker
+Group Stage,Expert 5.0,Group B,1,Single game,Du/Camarena,the locals,Du/Camarena,21,14,,,,,Michael Du,Charlie Camarena,Elle Lowe,Ryan Oswalt
+Group Stage,Expert 5.0,Group A,2,Single game,Accio Pitcher,GQ’s finest,Accio Pitcher,21,9,,,,,Connor Nelson,Jacob Payer,Quinn Hufler,Alec Galbo
+Group Stage,Expert 5.0,Group A,2,Single game,"Almost a full Mexican ",Electro-Monkies,Electro-Monkies,21,23,,,,,Clifton Miller,Josh Fragiacomo,Nathaniel Schrag,Ryan McCargar
+Group Stage,Expert 5.0,Group A,2,Single game,super sluggers,Chernobyl,Chernobyl,20,22,,,,,Sasha Mariniuk,Nate Gauthier,James Lamkin,Dylan Medveal
+Group Stage,Expert 5.0,Group B,2,Single game,Dino nugs and rice,blind date 2 electric boogaloo,blind date 2 electric boogaloo,19,21,,,,,Warren Foote,Josh Cain,Douglas Page,Patrick Drucker
+Group Stage,Expert 5.0,Group B,2,Single game,white men can’t jump,Du/Camarena,Du/Camarena,17,21,,,,,Jason Rhoads,Joseph Kaylor,Michael Du,Charlie Camarena
+Group Stage,Expert 5.0,Group B,2,Single game,the locals,The Disciples,the locals,21,16,,,,,Elle Lowe,Ryan Oswalt,Mason Thau,Benjamin Walker-Edwards
+Group Stage,Expert 5.0,Group A,3,Single game,Accio Pitcher,super sluggers,Accio Pitcher,21,11,,,,,Connor Nelson,Jacob Payer,Sasha Mariniuk,Nate Gauthier
+Group Stage,Expert 5.0,Group A,3,Single game,"Almost a full Mexican ",Chernobyl,"Almost a full Mexican ",21,15,,,,,Clifton Miller,Josh Fragiacomo,James Lamkin,Dylan Medveal
+Group Stage,Expert 5.0,Group A,3,Single game,Electro-Monkies,GQ’s finest,GQ’s finest,15,21,,,,,Nathaniel Schrag,Ryan McCargar,Quinn Hufler,Alec Galbo
+Group Stage,Expert 5.0,Group B,3,Single game,Dino nugs and rice,the locals,Dino nugs and rice,21,16,,,,,Warren Foote,Josh Cain,Elle Lowe,Ryan Oswalt
+Group Stage,Expert 5.0,Group B,3,Single game,white men can’t jump,The Disciples,white men can’t jump,21,9,,,,,Jason Rhoads,Joseph Kaylor,Mason Thau,Benjamin Walker-Edwards
+Group Stage,Expert 5.0,Group B,3,Single game,Du/Camarena,blind date 2 electric boogaloo,blind date 2 electric boogaloo,20,22,,,,,Michael Du,Charlie Camarena,Douglas Page,Patrick Drucker
+Group Stage,Expert 5.0,Group A,4,Single game,Accio Pitcher,Electro-Monkies,Electro-Monkies,15,21,,,,,Connor Nelson,Jacob Payer,Nathaniel Schrag,Ryan McCargar
+Group Stage,Expert 5.0,Group A,4,Single game,"Almost a full Mexican ",super sluggers,"Almost a full Mexican ",21,18,,,,,Clifton Miller,Josh Fragiacomo,Sasha Mariniuk,Nate Gauthier
+Group Stage,Expert 5.0,Group A,4,Single game,GQ’s finest,Chernobyl,GQ’s finest,21,15,,,,,Quinn Hufler,Alec Galbo,James Lamkin,Dylan Medveal
+Group Stage,Expert 5.0,Group B,4,Single game,Dino nugs and rice,Du/Camarena,Dino nugs and rice,21,14,,,,,Warren Foote,Josh Cain,Michael Du,Charlie Camarena
+Group Stage,Expert 5.0,Group B,4,Single game,white men can’t jump,the locals,white men can’t jump,21,18,,,,,Jason Rhoads,Joseph Kaylor,Elle Lowe,Ryan Oswalt
+Group Stage,Expert 5.0,Group B,4,Single game,blind date 2 electric boogaloo,The Disciples,blind date 2 electric boogaloo,21,19,,,,,Douglas Page,Patrick Drucker,Mason Thau,Benjamin Walker-Edwards
+Group Stage,Expert 5.0,Group A,5,Single game,Accio Pitcher,"Almost a full Mexican ",Accio Pitcher,21,17,,,,,Connor Nelson,Jacob Payer,Clifton Miller,Josh Fragiacomo
+Group Stage,Expert 5.0,Group A,5,Single game,Electro-Monkies,Chernobyl,Chernobyl,16,21,,,,,Nathaniel Schrag,Ryan McCargar,James Lamkin,Dylan Medveal
+Group Stage,Expert 5.0,Group A,5,Single game,super sluggers,GQ’s finest,GQ’s finest,9,21,,,,,Sasha Mariniuk,Nate Gauthier,Quinn Hufler,Alec Galbo
+Group Stage,Expert 5.0,Group B,5,Single game,Dino nugs and rice,white men can’t jump,Dino nugs and rice,21,11,,,,,Warren Foote,Josh Cain,Jason Rhoads,Joseph Kaylor
+Group Stage,Expert 5.0,Group B,5,Single game,Du/Camarena,The Disciples,Du/Camarena,21,14,,,,,Michael Du,Charlie Camarena,Mason Thau,Benjamin Walker-Edwards
+Group Stage,Expert 5.0,Group B,5,Single game,the locals,blind date 2 electric boogaloo,the locals,21,17,,,,,Elle Lowe,Ryan Oswalt,Douglas Page,Patrick Drucker
+Bracket Stage,Expert 5.0,Bracket A,Round of 16,Best of 3,GQ’s finest,super sluggers,GQ’s finest,21,16,21,15,,,Quinn Hufler,Alec Galbo,Sasha Mariniuk,Nate Gauthier
+Bracket Stage,Expert 5.0,Bracket A,Round of 16,Best of 3,"Almost a full Mexican ",The Disciples,"Almost a full Mexican ",22,14,21,17,,,Clifton Miller,Josh Fragiacomo,Mason Thau,Benjamin Walker-Edwards
+Bracket Stage,Expert 5.0,Bracket A,Round of 16,Best of 3,Electro-Monkies,Chernobyl,Electro-Monkies,21,18,21,18,,,Nathaniel Schrag,Ryan McCargar,James Lamkin,Dylan Medveal
+Bracket Stage,Expert 5.0,Bracket A,Round of 16,Best of 3,white men can’t jump,the locals,white men can’t jump,21,11,21,17,,,Jason Rhoads,Joseph Kaylor,Elle Lowe,Ryan Oswalt
+Bracket Stage,Expert 5.0,Bracket A,Quarter-final,Best of 3,Dino nugs and rice,white men can’t jump,white men can’t jump,17,21,9,21,,,Warren Foote,Josh Cain,Jason Rhoads,Joseph Kaylor
+Bracket Stage,Expert 5.0,Bracket A,Quarter-final,Best of 3,Accio Pitcher,Electro-Monkies,Accio Pitcher,21,15,21,10,,,Connor Nelson,Jacob Payer,Nathaniel Schrag,Ryan McCargar
+Bracket Stage,Expert 5.0,Bracket A,Quarter-final,Best of 3,blind date 2 electric boogaloo,"Almost a full Mexican ","Almost a full Mexican ",19,21,17,21,,,Douglas Page,Patrick Drucker,Clifton Miller,Josh Fragiacomo
+Bracket Stage,Expert 5.0,Bracket A,Quarter-final,Best of 3,Du/Camarena,GQ’s finest,Du/Camarena,21,15,21,18,,,Michael Du,Charlie Camarena,Quinn Hufler,Alec Galbo
+Bracket Stage,Expert 5.0,Bracket A,Semi-final,Best of 3,white men can’t jump,Du/Camarena,white men can’t jump,21,14,21,18,,,Jason Rhoads,Joseph Kaylor,Michael Du,Charlie Camarena
+Bracket Stage,Expert 5.0,Bracket A,Semi-final,Best of 3,Accio Pitcher,"Almost a full Mexican ","Almost a full Mexican ",18,21,27,29,,,Connor Nelson,Jacob Payer,Clifton Miller,Josh Fragiacomo
+Bracket Stage,Expert 5.0,Bracket A,Final,Best of 3,white men can’t jump,"Almost a full Mexican ",white men can’t jump,21,17,21,18,,,Jason Rhoads,Joseph Kaylor,Clifton Miller,Josh Fragiacomo
+Bracket Stage,Expert 5.0,Bracket A,P3: Final,Best of 3,Accio Pitcher,Du/Camarena,Accio Pitcher,21,17,21,18,,,Connor Nelson,Jacob Payer,Michael Du,Charlie Camarena
+Group Stage,Contender 3.0-4.5,Group A,1,Single game,Butter,Kevin's Kids,Butter,15,11,,,,,Michael Liu,Esteban Cambronero Saba,Abby Cham,Paurush Pandey
+Group Stage,Contender 3.0-4.5,Group A,1,Single game,Fwango Unchained,Moultrie Madness,Fwango Unchained,15,8,,,,,"Thomas  McClure ",Noah Saddik,Jeffrey Wang,Samuel Wallen
+Group Stage,Contender 3.0-4.5,Group A,1,Single game,on2,Vanilla Rice,on2,15,12,,,,,Rohun Shroff,Devon Lee,Jacob Crumley,Rob Gunn
+Group Stage,Contender 3.0-4.5,Group A,1,Single game,Spike Department,SetOnMyFace,SetOnMyFace,3,15,,,,,Joseph Lee,Coleman Bass,Krish Kumar,Jake Young
+Group Stage,Contender 3.0-4.5,Group A,2,Single game,Butter,Moultrie Madness,Butter,15,9,,,,,Michael Liu,Esteban Cambronero Saba,Jeffrey Wang,Samuel Wallen
+Group Stage,Contender 3.0-4.5,Group A,2,Single game,Fwango Unchained,SetOnMyFace,SetOnMyFace,11,15,,,,,"Thomas  McClure ",Noah Saddik,Krish Kumar,Jake Young
+Group Stage,Contender 3.0-4.5,Group A,2,Single game,on2,Out Of Pocket,on2,15,12,,,,,Rohun Shroff,Devon Lee,Cooper Rivard,Caedon Gibson
+Group Stage,Contender 3.0-4.5,Group A,2,Single game,Vanilla Rice,Kevin's Kids,Vanilla Rice,15,12,,,,,Jacob Crumley,Rob Gunn,Abby Cham,Paurush Pandey
+Group Stage,Contender 3.0-4.5,Group A,3,Single game,Butter,Vanilla Rice,Butter,15,11,,,,,Michael Liu,Esteban Cambronero Saba,Jacob Crumley,Rob Gunn
+Group Stage,Contender 3.0-4.5,Group A,3,Single game,on2,Spike Department,on2,15,3,,,,,Rohun Shroff,Devon Lee,Joseph Lee,Coleman Bass
+Group Stage,Contender 3.0-4.5,Group A,3,Single game,Out Of Pocket,Kevin's Kids,Out Of Pocket,16,14,,,,,Cooper Rivard,Caedon Gibson,Abby Cham,Paurush Pandey
+Group Stage,Contender 3.0-4.5,Group A,3,Single game,SetOnMyFace,Moultrie Madness,SetOnMyFace,15,5,,,,,Krish Kumar,Jake Young,Jeffrey Wang,Samuel Wallen
+Group Stage,Contender 3.0-4.5,Group A,4,Single game,Butter,SetOnMyFace,SetOnMyFace,4,15,,,,,Michael Liu,Esteban Cambronero Saba,Krish Kumar,Jake Young
+Group Stage,Contender 3.0-4.5,Group A,4,Single game,Fwango Unchained,on2,Fwango Unchained,15,6,,,,,"Thomas  McClure ",Noah Saddik,Rohun Shroff,Devon Lee
+Group Stage,Contender 3.0-4.5,Group A,4,Single game,Spike Department,Kevin's Kids,Kevin's Kids,12,15,,,,,Joseph Lee,Coleman Bass,Abby Cham,Paurush Pandey
+Group Stage,Contender 3.0-4.5,Group A,4,Single game,Out Of Pocket,Vanilla Rice,Out Of Pocket,15,11,,,,,Cooper Rivard,Caedon Gibson,Jacob Crumley,Rob Gunn
+Group Stage,Contender 3.0-4.5,Group A,5,Single game,Butter,Out Of Pocket,Butter,15,13,,,,,Michael Liu,Esteban Cambronero Saba,Cooper Rivard,Caedon Gibson
+Group Stage,Contender 3.0-4.5,Group A,5,Single game,Fwango Unchained,Kevin's Kids,Fwango Unchained,15,9,,,,,"Thomas  McClure ",Noah Saddik,Abby Cham,Paurush Pandey
+Group Stage,Contender 3.0-4.5,Group A,5,Single game,on2,Moultrie Madness,on2,15,3,,,,,Rohun Shroff,Devon Lee,Jeffrey Wang,Samuel Wallen
+Group Stage,Contender 3.0-4.5,Group A,5,Single game,Spike Department,Vanilla Rice,Vanilla Rice,9,15,,,,,Joseph Lee,Coleman Bass,Jacob Crumley,Rob Gunn
+Group Stage,Contender 3.0-4.5,Group A,6,Single game,Fwango Unchained,Vanilla Rice,Fwango Unchained,15,13,,,,,"Thomas  McClure ",Noah Saddik,Jacob Crumley,Rob Gunn
+Group Stage,Contender 3.0-4.5,Group A,6,Single game,on2,SetOnMyFace,SetOnMyFace,10,15,,,,,Rohun Shroff,Devon Lee,Krish Kumar,Jake Young
+Group Stage,Contender 3.0-4.5,Group A,6,Single game,Spike Department,Out Of Pocket,Out Of Pocket,6,15,,,,,Joseph Lee,Coleman Bass,Cooper Rivard,Caedon Gibson
+Group Stage,Contender 3.0-4.5,Group A,6,Single game,Moultrie Madness,Kevin's Kids,Kevin's Kids,9,15,,,,,Jeffrey Wang,Samuel Wallen,Abby Cham,Paurush Pandey
+Group Stage,Contender 3.0-4.5,Group A,7,Single game,Butter,Spike Department,Butter,15,2,,,,,Michael Liu,Esteban Cambronero Saba,Joseph Lee,Coleman Bass
+Group Stage,Contender 3.0-4.5,Group A,7,Single game,Fwango Unchained,Out Of Pocket,Fwango Unchained,15,9,,,,,"Thomas  McClure ",Noah Saddik,Cooper Rivard,Caedon Gibson
+Group Stage,Contender 3.0-4.5,Group A,7,Single game,SetOnMyFace,Kevin's Kids,SetOnMyFace,15,4,,,,,Krish Kumar,Jake Young,Abby Cham,Paurush Pandey
+Group Stage,Contender 3.0-4.5,Group A,7,Single game,Vanilla Rice,Moultrie Madness,Moultrie Madness,14,16,,,,,Jacob Crumley,Rob Gunn,Jeffrey Wang,Samuel Wallen
+Group Stage,Contender 3.0-4.5,Group A,8,Single game,Butter,on2,Butter,17,15,,,,,Michael Liu,Esteban Cambronero Saba,Rohun Shroff,Devon Lee
+Group Stage,Contender 3.0-4.5,Group A,8,Single game,Fwango Unchained,Spike Department,Fwango Unchained,15,6,,,,,"Thomas  McClure ",Noah Saddik,Joseph Lee,Coleman Bass
+Group Stage,Contender 3.0-4.5,Group A,8,Single game,Out Of Pocket,Moultrie Madness,Out Of Pocket,15,6,,,,,Cooper Rivard,Caedon Gibson,Jeffrey Wang,Samuel Wallen
+Group Stage,Contender 3.0-4.5,Group A,8,Single game,SetOnMyFace,Vanilla Rice,SetOnMyFace,15,3,,,,,Krish Kumar,Jake Young,Jacob Crumley,Rob Gunn
+Group Stage,Contender 3.0-4.5,Group A,9,Single game,Butter,Fwango Unchained,Butter,15,11,,,,,Michael Liu,Esteban Cambronero Saba,"Thomas  McClure ",Noah Saddik
+Group Stage,Contender 3.0-4.5,Group A,9,Single game,on2,Kevin's Kids,on2,15,9,,,,,Rohun Shroff,Devon Lee,Abby Cham,Paurush Pandey
+Group Stage,Contender 3.0-4.5,Group A,9,Single game,Spike Department,Moultrie Madness,Moultrie Madness,10,15,,,,,Joseph Lee,Coleman Bass,Jeffrey Wang,Samuel Wallen
+Group Stage,Contender 3.0-4.5,Group A,9,Single game,Out Of Pocket,SetOnMyFace,SetOnMyFace,9,15,,,,,Cooper Rivard,Caedon Gibson,Krish Kumar,Jake Young
+Bracket Stage,Contender 3.0-4.5,Bracket A,Round of 16,Best of 3,Moultrie Madness,Spike Department,Moultrie Madness,21,12,21,17,,,Jeffrey Wang,Samuel Wallen,Joseph Lee,Coleman Bass
+Bracket Stage,Contender 3.0-4.5,Bracket A,Quarter-final,Best of 3,SetOnMyFace,Moultrie Madness,SetOnMyFace,21,6,21,10,,,Krish Kumar,Jake Young,Jeffrey Wang,Samuel Wallen
+Bracket Stage,Contender 3.0-4.5,Bracket A,Quarter-final,Best of 3,Butter,Kevin's Kids,Butter,21,11,21,9,,,Michael Liu,Esteban Cambronero Saba,Abby Cham,Paurush Pandey
+Bracket Stage,Contender 3.0-4.5,Bracket A,Quarter-final,Best of 3,Fwango Unchained,Vanilla Rice,Fwango Unchained,21,13,21,19,,,"Thomas  McClure ",Noah Saddik,Jacob Crumley,Rob Gunn
+Bracket Stage,Contender 3.0-4.5,Bracket A,Quarter-final,Best of 3,on2,Out Of Pocket,on2,11,21,21,18,21,19,Rohun Shroff,Devon Lee,Cooper Rivard,Caedon Gibson
+Bracket Stage,Contender 3.0-4.5,Bracket A,Semi-final,Best of 3,SetOnMyFace,on2,SetOnMyFace,21,10,21,11,,,Krish Kumar,Jake Young,Rohun Shroff,Devon Lee
+Bracket Stage,Contender 3.0-4.5,Bracket A,Semi-final,Best of 3,Butter,Fwango Unchained,Butter,1,0,1,0,,,Michael Liu,Esteban Cambronero Saba,"Thomas  McClure ",Noah Saddik
+Bracket Stage,Contender 3.0-4.5,Bracket A,P5: Semi-final,Best of 3,Out Of Pocket,Moultrie Madness,Out Of Pocket,21,11,18,21,21,16,Cooper Rivard,Caedon Gibson,Jeffrey Wang,Samuel Wallen
+Bracket Stage,Contender 3.0-4.5,Bracket A,P5: Semi-final,Best of 3,Vanilla Rice,Kevin's Kids,Vanilla Rice,19,21,24,22,21,17,Jacob Crumley,Rob Gunn,Abby Cham,Paurush Pandey
+Bracket Stage,Contender 3.0-4.5,Bracket A,Final,Best of 3,SetOnMyFace,Butter,SetOnMyFace,21,9,21,10,,,Krish Kumar,Jake Young,Michael Liu,Esteban Cambronero Saba
+Bracket Stage,Contender 3.0-4.5,Bracket A,P5: Final,Best of 3,Out Of Pocket,Vanilla Rice,Out Of Pocket,28,26,21,12,,,Cooper Rivard,Caedon Gibson,Jacob Crumley,Rob Gunn
+Bracket Stage,Contender 3.0-4.5,Bracket A,P7: Final,Best of 3,Kevin's Kids,Moultrie Madness,,15,15,,,13,15,Abby Cham,Paurush Pandey,Jeffrey Wang,Samuel Wallen
