@@ -14,7 +14,6 @@ def calculate_win_prob(elo1,elo2):
                 an elo rating
         """
     return 1.0 * 1.0 / (1 + 1.0 * math.pow(10, 1.0 * (elo1 - elo2) / 400))
-
 def team_elo_obj(player1,player2):
         """
         Calculates the teams elo based on the two players elos

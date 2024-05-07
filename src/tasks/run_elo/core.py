@@ -179,8 +179,6 @@ class Player:
         ----------
         date : datetime
             The current date.
-        decay_array: int arrary
-            The decay values for each time point
         """
         self.days_since_played=abs(self.last_played-date).days
 
@@ -193,7 +191,6 @@ class Player:
         elif self.days_since_played > 91:
             self.decay_rating(decay_array[0])
     
-        
 class ELO_Model:
     """
     A class that has is able to fun a elo calucuations and store results.
@@ -291,7 +288,8 @@ class ELO_Model:
                 div=0
             else: 
                 div=1
-        elif (("EXPERT" in division) or ("ELITE" in division) or ("ADVANCED" in division)or ("GOLD" in division)):
+        elif (("EXPERT" in division) or ("ELITE" in division) or ("ADVANCED" in division)or ("GOLD" in division)or ("WOMEN" in division)):
+            starting_elo=self.sep-self.de
             starting_elo=self.sep-self.de
             div=2
         else:
@@ -676,4 +674,4 @@ class ELO_Model:
         """
         for i in range(0,len(combos)):
             self.predict_tourney(data,combos.loc[i,"tourney"],combos.loc[i,"Division"])
-        self.predicted_games=self.predicted_games.dropna(subset = ['Predict_win']).reset_index()
+        self.predicted_games=self.predicted_games.dropna(subset = ['Predict_win']).reset_index()    
