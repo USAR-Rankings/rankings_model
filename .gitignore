@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .Rproj.user
+
+# Mac
+.DS_Store
+.idea
