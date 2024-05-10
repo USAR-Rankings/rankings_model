@@ -1,590 +1,590 @@
-"tourney","Division","Round","Team1","Team2","T1P1","T1P2","T2P1","T2P2","t1score","t2score"
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Net Ninjas","Blue Bulls","Max Wagner","Daniel Gonzalez","Aidan Hilson","Maximilian Fido",21,10
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","[HRN] Shenanigans","Primal Instinct ","Kelvin Xiao","Cesar Escalante","Eddie Moquete","Patrick Fazzio",21,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","visor bois","[HRN] Cricket Wireless","Paul Smith","James Lightner","Nicole Hernandez","Alejandro Sosa",21,12
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Mello Yello","Mirinda","John Gomez","Brandon Depara","Evan Karcher","Frederik Hardervig",17,19
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","2GAS Spikeball","Thicky Spike Boys","Jacob Carver","Blaine Roberts","Benjamin Disse","Samuel Salazar",13,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Spilled Milk","BangBros","Michael Mondestin","Owen Polewitch","Chris Perez","Gary Balderas",15,5
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Net Ninjas","Primal Instinct ","Max Wagner","Daniel Gonzalez","Eddie Moquete","Patrick Fazzio",21,16
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","[HRN] Shenanigans","visor bois","Kelvin Xiao","Cesar Escalante","Paul Smith","James Lightner",18,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","[HRN] Cricket Wireless","Blue Bulls","Nicole Hernandez","Alejandro Sosa","Aidan Hilson","Maximilian Fido",21,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Mello Yello","Thicky Spike Boys","John Gomez","Brandon Depara","Benjamin Disse","Samuel Salazar",15,7
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","2GAS Spikeball","Spiked U thought","Jacob Carver","Blaine Roberts","Gabe Ramundo","Grace Yount",15,10
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","BangBros","Mirinda","Chris Perez","Gary Balderas","Evan Karcher","Frederik Hardervig",12,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Net Ninjas","[HRN] Cricket Wireless","Max Wagner","Daniel Gonzalez","Nicole Hernandez","Alejandro Sosa",21,14
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","[HRN] Shenanigans","Blue Bulls","Kelvin Xiao","Cesar Escalante","Aidan Hilson","Maximilian Fido",21,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","visor bois","Primal Instinct ","Paul Smith","James Lightner","Eddie Moquete","Patrick Fazzio",21,7
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Mello Yello","BangBros","John Gomez","Brandon Depara","Chris Perez","Gary Balderas",15,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","2GAS Spikeball","Spilled Milk","Jacob Carver","Blaine Roberts","Michael Mondestin","Owen Polewitch",15,9
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Spiked U thought","Thicky Spike Boys","Gabe Ramundo","Grace Yount","Benjamin Disse","Samuel Salazar",12,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Net Ninjas","visor bois","Max Wagner","Daniel Gonzalez","Paul Smith","James Lightner",10,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","[HRN] Shenanigans","[HRN] Cricket Wireless","Kelvin Xiao","Cesar Escalante","Nicole Hernandez","Alejandro Sosa",21,18
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Primal Instinct ","Blue Bulls","Eddie Moquete","Patrick Fazzio","Aidan Hilson","Maximilian Fido",19,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Mello Yello","Spiked U thought","John Gomez","Brandon Depara","Gabe Ramundo","Grace Yount",15,6
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","2GAS Spikeball","Mirinda","Jacob Carver","Blaine Roberts","Evan Karcher","Frederik Hardervig",13,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Spilled Milk","Thicky Spike Boys","Michael Mondestin","Owen Polewitch","Benjamin Disse","Samuel Salazar",15,8
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Net Ninjas","[HRN] Shenanigans","Max Wagner","Daniel Gonzalez","Kelvin Xiao","Cesar Escalante",14,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","visor bois","Blue Bulls","Paul Smith","James Lightner","Aidan Hilson","Maximilian Fido",21,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","[HRN] Cricket Wireless","Primal Instinct ","Nicole Hernandez","Alejandro Sosa","Eddie Moquete","Patrick Fazzio",21,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","2GAS Spikeball","BangBros","Jacob Carver","Blaine Roberts","Chris Perez","Gary Balderas",12,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Spilled Milk","Spiked U thought","Michael Mondestin","Owen Polewitch","Gabe Ramundo","Grace Yount",15,9
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Thicky Spike Boys","Mirinda","Benjamin Disse","Samuel Salazar","Evan Karcher","Frederik Hardervig",8,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Mello Yello","Spilled Milk","John Gomez","Brandon Depara","Michael Mondestin","Owen Polewitch",15,13
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Spiked U thought","Mirinda","Gabe Ramundo","Grace Yount","Evan Karcher","Frederik Hardervig",13,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","BangBros","Thicky Spike Boys","Chris Perez","Gary Balderas","Benjamin Disse","Samuel Salazar",15,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Mello Yello","2GAS Spikeball","John Gomez","Brandon Depara","Jacob Carver","Blaine Roberts",15,7
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Spilled Milk","Mirinda","Michael Mondestin","Owen Polewitch","Evan Karcher","Frederik Hardervig",15,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Pool","Spiked U thought","BangBros","Gabe Ramundo","Grace Yount","Chris Perez","Gary Balderas",12,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","Mirinda","Spiked U thought","Evan Karcher","Frederik Hardervig","Gabe Ramundo","Grace Yount",21,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","Mirinda","Spiked U thought","Evan Karcher","Frederik Hardervig","Gabe Ramundo","Grace Yount",21,8
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","Spilled Milk","Primal Instinct ","Michael Mondestin","Owen Polewitch","Eddie Moquete","Patrick Fazzio",16,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","Spilled Milk","Primal Instinct ","Michael Mondestin","Owen Polewitch","Eddie Moquete","Patrick Fazzio",12,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","Net Ninjas","Blue Bulls","Max Wagner","Daniel Gonzalez","Aidan Hilson","Maximilian Fido",21,17
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","Net Ninjas","Blue Bulls","Max Wagner","Daniel Gonzalez","Aidan Hilson","Maximilian Fido",21,19
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","[HRN] Cricket Wireless","Thicky Spike Boys","Nicole Hernandez","Alejandro Sosa","Benjamin Disse","Samuel Salazar",21,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","[HRN] Cricket Wireless","Thicky Spike Boys","Nicole Hernandez","Alejandro Sosa","Benjamin Disse","Samuel Salazar",21,12
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","BangBros","2GAS Spikeball","Chris Perez","Gary Balderas","Jacob Carver","Blaine Roberts",21,19
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Round of 16","BangBros","2GAS Spikeball","Chris Perez","Gary Balderas","Jacob Carver","Blaine Roberts",21,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Quarter-final","visor bois","BangBros","Paul Smith","James Lightner","Chris Perez","Gary Balderas",21,12
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Quarter-final","visor bois","BangBros","Paul Smith","James Lightner","Chris Perez","Gary Balderas",21,11
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Quarter-final","Mello Yello","[HRN] Cricket Wireless","John Gomez","Brandon Depara","Nicole Hernandez","Alejandro Sosa",24,22
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Quarter-final","Mello Yello","[HRN] Cricket Wireless","John Gomez","Brandon Depara","Nicole Hernandez","Alejandro Sosa",21,18
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Quarter-final","[HRN] Shenanigans","Net Ninjas","Kelvin Xiao","Cesar Escalante","Max Wagner","Daniel Gonzalez",21,18
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Quarter-final","[HRN] Shenanigans","Net Ninjas","Kelvin Xiao","Cesar Escalante","Max Wagner","Daniel Gonzalez",22,20
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Quarter-final","Mirinda","Primal Instinct ","Evan Karcher","Frederik Hardervig","Eddie Moquete","Patrick Fazzio",21,17
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Quarter-final","Mirinda","Primal Instinct ","Evan Karcher","Frederik Hardervig","Eddie Moquete","Patrick Fazzio",21,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Quarter-final","Spilled Milk","Spiked U thought","Michael Mondestin","Owen Polewitch","Gabe Ramundo","Grace Yount",21,6
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Quarter-final","Spilled Milk","Spiked U thought","Michael Mondestin","Owen Polewitch","Gabe Ramundo","Grace Yount",21,16
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Semi-final","visor bois","Mirinda","Paul Smith","James Lightner","Evan Karcher","Frederik Hardervig",21,9
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Semi-final","visor bois","Mirinda","Paul Smith","James Lightner","Evan Karcher","Frederik Hardervig",21,16
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Semi-final","Mello Yello","[HRN] Shenanigans","John Gomez","Brandon Depara","Kelvin Xiao","Cesar Escalante",21,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Semi-final","Mello Yello","[HRN] Shenanigans","John Gomez","Brandon Depara","Kelvin Xiao","Cesar Escalante",22,20
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P5: Semi-final","Primal Instinct ","BangBros","Eddie Moquete","Patrick Fazzio","Chris Perez","Gary Balderas",0,1
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P5: Semi-final","Primal Instinct ","BangBros","Eddie Moquete","Patrick Fazzio","Chris Perez","Gary Balderas",0,1
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P5: Semi-final","Net Ninjas","[HRN] Cricket Wireless","Max Wagner","Daniel Gonzalez","Nicole Hernandez","Alejandro Sosa",18,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P5: Semi-final","Net Ninjas","[HRN] Cricket Wireless","Max Wagner","Daniel Gonzalez","Nicole Hernandez","Alejandro Sosa",21,19
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P5: Semi-final","Net Ninjas","[HRN] Cricket Wireless","Max Wagner","Daniel Gonzalez","Nicole Hernandez","Alejandro Sosa",23,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Semi-final","2GAS Spikeball","Spilled Milk","Jacob Carver","Blaine Roberts","Michael Mondestin","Owen Polewitch",0,1
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Semi-final","2GAS Spikeball","Spilled Milk","Jacob Carver","Blaine Roberts","Michael Mondestin","Owen Polewitch",0,1
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Semi-final","Thicky Spike Boys","Blue Bulls","Benjamin Disse","Samuel Salazar","Aidan Hilson","Maximilian Fido",17,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Semi-final","Thicky Spike Boys","Blue Bulls","Benjamin Disse","Samuel Salazar","Aidan Hilson","Maximilian Fido",15,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Final","visor bois","Mello Yello","Paul Smith","James Lightner","John Gomez","Brandon Depara",0,1
-"fl-roundnet-open-23","Intermediate (Open 3.0)","Final","visor bois","Mello Yello","Paul Smith","James Lightner","John Gomez","Brandon Depara",0,1
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P3: Final","[HRN] Shenanigans","Mirinda","Kelvin Xiao","Cesar Escalante","Evan Karcher","Frederik Hardervig",21,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P3: Final","[HRN] Shenanigans","Mirinda","Kelvin Xiao","Cesar Escalante","Evan Karcher","Frederik Hardervig",21,23
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P3: Final","[HRN] Shenanigans","Mirinda","Kelvin Xiao","Cesar Escalante","Evan Karcher","Frederik Hardervig",19,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P5: Final","BangBros","Net Ninjas","Chris Perez","Gary Balderas","Max Wagner","Daniel Gonzalez",10,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P5: Final","BangBros","Net Ninjas","Chris Perez","Gary Balderas","Max Wagner","Daniel Gonzalez",10,15
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P7: Final","[HRN] Cricket Wireless","Primal Instinct ","Nicole Hernandez","Alejandro Sosa","Eddie Moquete","Patrick Fazzio",1,0
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P7: Final","[HRN] Cricket Wireless","Primal Instinct ","Nicole Hernandez","Alejandro Sosa","Eddie Moquete","Patrick Fazzio",1,0
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Final","Spilled Milk","Blue Bulls","Michael Mondestin","Owen Polewitch","Aidan Hilson","Maximilian Fido",22,20
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Final","Spilled Milk","Blue Bulls","Michael Mondestin","Owen Polewitch","Aidan Hilson","Maximilian Fido",16,21
-"fl-roundnet-open-23","Intermediate (Open 3.0)","P9: Final","Spilled Milk","Blue Bulls","Michael Mondestin","Owen Polewitch","Aidan Hilson","Maximilian Fido",18,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Round 2 #notkayne","Cutting Season","Alex Cook","Benjamin Goldfarb","Chris Loubert","Aquila Lee",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Black Lotus","S.O.S","Josh DiDonato","Ant Terrigno","Christien Ward","Willie Rowland",21,11
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Rim Reapers","Impeccable","Kyle Fowler","Grant Marshall","Pierre-André Gaumond","Charles Desgens",22,20
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Big Z is Back","Mash Potatoes","Ryan Baillargeon","Molly Miles","Nilo Buan","Colin Harrington",23,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Terrible Internship Locations","The Barber Shop","Griffin Sisk","Stephen Jones","Jacob Stewart","Wyatt Koth",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Backpackers","some jitties ","Brian Perlson","Tim Daudelin","Rishab Jain","Jacob Narayan",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Y’all spike eh?","Sauerkraut","Ian Austin","Nick Wideman","Joshua Travis","Timo Lorenzen",21,16
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Thoughtless","Bundy/Felty","Alex Fox","Patricio Duran","Andrew Felty","Gray Bundy",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","2004 Toyota Corolla","Nic Sick 💨","Joshua Mollineda","Derek McRea","Guidzag Kassabian","spencer Katepalli",21,9
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","E10","Ace in our Veins","Daniel Haungs","Bradley Clark","Jaden DeJesus","Kyle Samrajit",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Cola Boys","IPS Spike","Riley Williamson","Allen Ombougno","Gresham White","Elliot Paul",21,15
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Eppes/Randall","Juicy J's","Sam Randall","Bransen Eppes","Joshua Calderon","Jose Morales",21,6
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","PJ and Les","Drink Prime","Paraj Patel","Leslie Nguyen","Alexander Gonzalez","Ryan Hart",12,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Round 2 #notkayne","S.O.S","Alex Cook","Benjamin Goldfarb","Christien Ward","Willie Rowland",21,14
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Nate B-Rent","Cutting Season","Nathan Benjamin","Brent Summers","Chris Loubert","Aquila Lee",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Rim Reapers","Mash Potatoes","Kyle Fowler","Grant Marshall","Nilo Buan","Colin Harrington",21,7
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Farm Boys","Impeccable","Nathan Montgomery","Ryan Montgomery","Pierre-André Gaumond","Charles Desgens",15,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Terrible Internship Locations","some jitties ","Griffin Sisk","Stephen Jones","Rishab Jain","Jacob Narayan",21,14
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","[HRN] Jammin'","The Barber Shop","Larkin Sharpe","Daniel Sánchez","Jacob Stewart","Wyatt Koth",21,17
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Y’all spike eh?","Bundy/Felty","Ian Austin","Nick Wideman","Andrew Felty","Gray Bundy",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Net Gains","Sauerkraut","Jack Duffy","Zachery Geist","Joshua Travis","Timo Lorenzen",12,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","2004 Toyota Corolla","Ace in our Veins","Joshua Mollineda","Derek McRea","Jaden DeJesus","Kyle Samrajit",21,11
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","UT Tractors","Nic Sick 💨","Sam Buytaert","Tyler Griffin","Guidzag Kassabian","spencer Katepalli",13,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Cola Boys","Juicy J's","Riley Williamson","Allen Ombougno","Joshua Calderon","Jose Morales",21,16
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Eppes/Randall","PJ and Les","Sam Randall","Bransen Eppes","Paraj Patel","Leslie Nguyen",21,10
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Drink Prime","IPS Spike","Alexander Gonzalez","Ryan Hart","Gresham White","Elliot Paul",21,11
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Round 2 #notkayne","Nate B-Rent","Alex Cook","Benjamin Goldfarb","Nathan Benjamin","Brent Summers",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Black Lotus","Cutting Season","Josh DiDonato","Ant Terrigno","Chris Loubert","Aquila Lee",22,24
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Rim Reapers","Farm Boys","Kyle Fowler","Grant Marshall","Nathan Montgomery","Ryan Montgomery",21,13
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Big Z is Back","Impeccable","Ryan Baillargeon","Molly Miles","Pierre-André Gaumond","Charles Desgens",15,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Terrible Internship Locations","[HRN] Jammin'","Griffin Sisk","Stephen Jones","Larkin Sharpe","Daniel Sánchez",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Backpackers","The Barber Shop","Brian Perlson","Tim Daudelin","Jacob Stewart","Wyatt Koth",21,11
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Y’all spike eh?","Net Gains","Ian Austin","Nick Wideman","Jack Duffy","Zachery Geist",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Thoughtless","Sauerkraut","Alex Fox","Patricio Duran","Joshua Travis","Timo Lorenzen",17,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","2004 Toyota Corolla","UT Tractors","Joshua Mollineda","Derek McRea","Sam Buytaert","Tyler Griffin",21,9
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","E10","Nic Sick 💨","Daniel Haungs","Bradley Clark","Guidzag Kassabian","spencer Katepalli",21,11
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Cola Boys","Drink Prime","Riley Williamson","Allen Ombougno","Alexander Gonzalez","Ryan Hart",25,24
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Eppes/Randall","IPS Spike","Sam Randall","Bransen Eppes","Gresham White","Elliot Paul",21,6
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","PJ and Les","Juicy J's","Paraj Patel","Leslie Nguyen","Joshua Calderon","Jose Morales",21,16
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Black Lotus","Nate B-Rent","Josh DiDonato","Ant Terrigno","Nathan Benjamin","Brent Summers",13,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","S.O.S","Cutting Season","Christien Ward","Willie Rowland","Chris Loubert","Aquila Lee",13,22
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Big Z is Back","Farm Boys","Ryan Baillargeon","Molly Miles","Nathan Montgomery","Ryan Montgomery",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Mash Potatoes","Impeccable","Nilo Buan","Colin Harrington","Pierre-André Gaumond","Charles Desgens",16,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Backpackers","[HRN] Jammin'","Brian Perlson","Tim Daudelin","Larkin Sharpe","Daniel Sánchez",18,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","some jitties ","The Barber Shop","Rishab Jain","Jacob Narayan","Jacob Stewart","Wyatt Koth",21,11
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Thoughtless","Net Gains","Alex Fox","Patricio Duran","Jack Duffy","Zachery Geist",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Bundy/Felty","Sauerkraut","Andrew Felty","Gray Bundy","Joshua Travis","Timo Lorenzen",12,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","E10","UT Tractors","Daniel Haungs","Bradley Clark","Sam Buytaert","Tyler Griffin",21,9
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Ace in our Veins","Nic Sick 💨","Jaden DeJesus","Kyle Samrajit","Guidzag Kassabian","spencer Katepalli",18,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Cola Boys","PJ and Les","Riley Williamson","Allen Ombougno","Paraj Patel","Leslie Nguyen",21,9
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Eppes/Randall","Drink Prime","Sam Randall","Bransen Eppes","Alexander Gonzalez","Ryan Hart",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Juicy J's","IPS Spike","Joshua Calderon","Jose Morales","Gresham White","Elliot Paul",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Round 2 #notkayne","Black Lotus","Alex Cook","Benjamin Goldfarb","Josh DiDonato","Ant Terrigno",21,14
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Nate B-Rent","S.O.S","Nathan Benjamin","Brent Summers","Christien Ward","Willie Rowland",21,13
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Rim Reapers","Big Z is Back","Kyle Fowler","Grant Marshall","Ryan Baillargeon","Molly Miles",21,16
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Farm Boys","Mash Potatoes","Nathan Montgomery","Ryan Montgomery","Nilo Buan","Colin Harrington",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Terrible Internship Locations","Backpackers","Griffin Sisk","Stephen Jones","Brian Perlson","Tim Daudelin",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","[HRN] Jammin'","some jitties ","Larkin Sharpe","Daniel Sánchez","Rishab Jain","Jacob Narayan",24,22
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Y’all spike eh?","Thoughtless","Ian Austin","Nick Wideman","Alex Fox","Patricio Duran",21,15
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Net Gains","Bundy/Felty","Jack Duffy","Zachery Geist","Andrew Felty","Gray Bundy",18,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","2004 Toyota Corolla","E10","Joshua Mollineda","Derek McRea","Daniel Haungs","Bradley Clark",16,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","UT Tractors","Ace in our Veins","Sam Buytaert","Tyler Griffin","Jaden DeJesus","Kyle Samrajit",17,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Cola Boys","Eppes/Randall","Riley Williamson","Allen Ombougno","Sam Randall","Bransen Eppes",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","PJ and Les","IPS Spike","Paraj Patel","Leslie Nguyen","Gresham White","Elliot Paul",21,17
-"fl-roundnet-open-23","Contender (Open 4.5)","Pool","Drink Prime","Juicy J's","Alexander Gonzalez","Ryan Hart","Joshua Calderon","Jose Morales",21,14
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Rim Reapers","IPS Spike","Kyle Fowler","Grant Marshall","Gresham White","Elliot Paul",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Rim Reapers","IPS Spike","Kyle Fowler","Grant Marshall","Gresham White","Elliot Paul",21,15
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Terrible Internship Locations","UT Tractors","Griffin Sisk","Stephen Jones","Sam Buytaert","Tyler Griffin",21,15
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Terrible Internship Locations","UT Tractors","Griffin Sisk","Stephen Jones","Sam Buytaert","Tyler Griffin",21,8
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Y’all spike eh?","S.O.S","Ian Austin","Nick Wideman","Christien Ward","Willie Rowland",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Y’all spike eh?","S.O.S","Ian Austin","Nick Wideman","Christien Ward","Willie Rowland",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Cola Boys","Mash Potatoes","Riley Williamson","Allen Ombougno","Nilo Buan","Colin Harrington",17,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Cola Boys","Mash Potatoes","Riley Williamson","Allen Ombougno","Nilo Buan","Colin Harrington",21,17
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Cola Boys","Mash Potatoes","Riley Williamson","Allen Ombougno","Nilo Buan","Colin Harrington",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Round 2 #notkayne","The Barber Shop","Alex Cook","Benjamin Goldfarb","Jacob Stewart","Wyatt Koth",21,3
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Round 2 #notkayne","The Barber Shop","Alex Cook","Benjamin Goldfarb","Jacob Stewart","Wyatt Koth",1000,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Eppes/Randall","Juicy J's","Sam Randall","Bransen Eppes","Joshua Calderon","Jose Morales",21,9
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Eppes/Randall","Juicy J's","Sam Randall","Bransen Eppes","Joshua Calderon","Jose Morales",21,13
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","2004 Toyota Corolla","Net Gains","Joshua Mollineda","Derek McRea","Jack Duffy","Zachery Geist",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","2004 Toyota Corolla","Net Gains","Joshua Mollineda","Derek McRea","Jack Duffy","Zachery Geist",19,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","2004 Toyota Corolla","Net Gains","Joshua Mollineda","Derek McRea","Jack Duffy","Zachery Geist",17,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Nate B-Rent","PJ and Les","Nathan Benjamin","Brent Summers","Paraj Patel","Leslie Nguyen",21,16
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Nate B-Rent","PJ and Les","Nathan Benjamin","Brent Summers","Paraj Patel","Leslie Nguyen",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Sauerkraut","Bundy/Felty","Joshua Travis","Timo Lorenzen","Andrew Felty","Gray Bundy",21,15
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Sauerkraut","Bundy/Felty","Joshua Travis","Timo Lorenzen","Andrew Felty","Gray Bundy",21,9
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Impeccable","Ace in our Veins","Pierre-André Gaumond","Charles Desgens","Jaden DeJesus","Kyle Samrajit",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Impeccable","Ace in our Veins","Pierre-André Gaumond","Charles Desgens","Jaden DeJesus","Kyle Samrajit",21,14
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","[HRN] Jammin'","Farm Boys","Larkin Sharpe","Daniel Sánchez","Nathan Montgomery","Ryan Montgomery",19,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","[HRN] Jammin'","Farm Boys","Larkin Sharpe","Daniel Sánchez","Nathan Montgomery","Ryan Montgomery",17,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Drink Prime","Black Lotus","Alexander Gonzalez","Ryan Hart","Josh DiDonato","Ant Terrigno",15,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Drink Prime","Black Lotus","Alexander Gonzalez","Ryan Hart","Josh DiDonato","Ant Terrigno",13,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Backpackers","some jitties ","Brian Perlson","Tim Daudelin","Rishab Jain","Jacob Narayan",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Backpackers","some jitties ","Brian Perlson","Tim Daudelin","Rishab Jain","Jacob Narayan",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Cutting Season","Nic Sick 💨","Chris Loubert","Aquila Lee","Guidzag Kassabian","spencer Katepalli",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Cutting Season","Nic Sick 💨","Chris Loubert","Aquila Lee","Guidzag Kassabian","spencer Katepalli",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Thoughtless","Big Z is Back","Alex Fox","Patricio Duran","Ryan Baillargeon","Molly Miles",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Thoughtless","Big Z is Back","Alex Fox","Patricio Duran","Ryan Baillargeon","Molly Miles",16,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 32","Thoughtless","Big Z is Back","Alex Fox","Patricio Duran","Ryan Baillargeon","Molly Miles",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","E10","Thoughtless","Daniel Haungs","Bradley Clark","Alex Fox","Patricio Duran",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","E10","Thoughtless","Daniel Haungs","Bradley Clark","Alex Fox","Patricio Duran",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","E10","Thoughtless","Daniel Haungs","Bradley Clark","Alex Fox","Patricio Duran",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Rim Reapers","Cutting Season","Kyle Fowler","Grant Marshall","Chris Loubert","Aquila Lee",21,16
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Rim Reapers","Cutting Season","Kyle Fowler","Grant Marshall","Chris Loubert","Aquila Lee",19,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Rim Reapers","Cutting Season","Kyle Fowler","Grant Marshall","Chris Loubert","Aquila Lee",21,12
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Terrible Internship Locations","Backpackers","Griffin Sisk","Stephen Jones","Brian Perlson","Tim Daudelin",21,16
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Terrible Internship Locations","Backpackers","Griffin Sisk","Stephen Jones","Brian Perlson","Tim Daudelin",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Y’all spike eh?","Black Lotus","Ian Austin","Nick Wideman","Josh DiDonato","Ant Terrigno",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Y’all spike eh?","Black Lotus","Ian Austin","Nick Wideman","Josh DiDonato","Ant Terrigno",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Cola Boys","Farm Boys","Riley Williamson","Allen Ombougno","Nathan Montgomery","Ryan Montgomery",21,19
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Cola Boys","Farm Boys","Riley Williamson","Allen Ombougno","Nathan Montgomery","Ryan Montgomery",19,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Cola Boys","Farm Boys","Riley Williamson","Allen Ombougno","Nathan Montgomery","Ryan Montgomery",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Round 2 #notkayne","Impeccable","Alex Cook","Benjamin Goldfarb","Pierre-André Gaumond","Charles Desgens",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Round 2 #notkayne","Impeccable","Alex Cook","Benjamin Goldfarb","Pierre-André Gaumond","Charles Desgens",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Eppes/Randall","Sauerkraut","Sam Randall","Bransen Eppes","Joshua Travis","Timo Lorenzen",18,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Eppes/Randall","Sauerkraut","Sam Randall","Bransen Eppes","Joshua Travis","Timo Lorenzen",16,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Net Gains","Nate B-Rent","Jack Duffy","Zachery Geist","Nathan Benjamin","Brent Summers",18,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Net Gains","Nate B-Rent","Jack Duffy","Zachery Geist","Nathan Benjamin","Brent Summers",21,14
-"fl-roundnet-open-23","Contender (Open 4.5)","Round of 16","Net Gains","Nate B-Rent","Jack Duffy","Zachery Geist","Nathan Benjamin","Brent Summers",24,22
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","Nic Sick 💨","IPS Spike","Guidzag Kassabian","spencer Katepalli","Gresham White","Elliot Paul",10,15
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","Nic Sick 💨","IPS Spike","Guidzag Kassabian","spencer Katepalli","Gresham White","Elliot Paul",13,15
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","some jitties ","UT Tractors","Rishab Jain","Jacob Narayan","Sam Buytaert","Tyler Griffin",0,21
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","some jitties ","UT Tractors","Rishab Jain","Jacob Narayan","Sam Buytaert","Tyler Griffin",0,21
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","Drink Prime","S.O.S","Alexander Gonzalez","Ryan Hart","Christien Ward","Willie Rowland",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","Drink Prime","S.O.S","Alexander Gonzalez","Ryan Hart","Christien Ward","Willie Rowland",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","[HRN] Jammin'","Mash Potatoes","Larkin Sharpe","Daniel Sánchez","Nilo Buan","Colin Harrington",24,22
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","[HRN] Jammin'","Mash Potatoes","Larkin Sharpe","Daniel Sánchez","Nilo Buan","Colin Harrington",21,13
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","Ace in our Veins","The Barber Shop","Jaden DeJesus","Kyle Samrajit","Jacob Stewart","Wyatt Koth",14,21
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","Ace in our Veins","The Barber Shop","Jaden DeJesus","Kyle Samrajit","Jacob Stewart","Wyatt Koth",9,21
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","Bundy/Felty","Juicy J's","Andrew Felty","Gray Bundy","Joshua Calderon","Jose Morales",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","Bundy/Felty","Juicy J's","Andrew Felty","Gray Bundy","Joshua Calderon","Jose Morales",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","PJ and Les","2004 Toyota Corolla","Paraj Patel","Leslie Nguyen","Joshua Mollineda","Derek McRea",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Round of 16","PJ and Les","2004 Toyota Corolla","Paraj Patel","Leslie Nguyen","Joshua Mollineda","Derek McRea",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","E10","Net Gains","Daniel Haungs","Bradley Clark","Jack Duffy","Zachery Geist",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","E10","Net Gains","Daniel Haungs","Bradley Clark","Jack Duffy","Zachery Geist",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","Rim Reapers","Sauerkraut","Kyle Fowler","Grant Marshall","Joshua Travis","Timo Lorenzen",19,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","Rim Reapers","Sauerkraut","Kyle Fowler","Grant Marshall","Joshua Travis","Timo Lorenzen",21,17
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","Rim Reapers","Sauerkraut","Kyle Fowler","Grant Marshall","Joshua Travis","Timo Lorenzen",13,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","Terrible Internship Locations","Round 2 #notkayne","Griffin Sisk","Stephen Jones","Alex Cook","Benjamin Goldfarb",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","Terrible Internship Locations","Round 2 #notkayne","Griffin Sisk","Stephen Jones","Alex Cook","Benjamin Goldfarb",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","Y’all spike eh?","Cola Boys","Ian Austin","Nick Wideman","Riley Williamson","Allen Ombougno",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Quarter-final","Y’all spike eh?","Cola Boys","Ian Austin","Nick Wideman","Riley Williamson","Allen Ombougno",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Nate B-Rent","Thoughtless","Nathan Benjamin","Brent Summers","Alex Fox","Patricio Duran",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Nate B-Rent","Thoughtless","Nathan Benjamin","Brent Summers","Alex Fox","Patricio Duran",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Eppes/Randall","Cutting Season","Sam Randall","Bransen Eppes","Chris Loubert","Aquila Lee",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Eppes/Randall","Cutting Season","Sam Randall","Bransen Eppes","Chris Loubert","Aquila Lee",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Eppes/Randall","Cutting Season","Sam Randall","Bransen Eppes","Chris Loubert","Aquila Lee",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Impeccable","Backpackers","Pierre-André Gaumond","Charles Desgens","Brian Perlson","Tim Daudelin",18,21
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Impeccable","Backpackers","Pierre-André Gaumond","Charles Desgens","Brian Perlson","Tim Daudelin",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Farm Boys","Black Lotus","Nathan Montgomery","Ryan Montgomery","Josh DiDonato","Ant Terrigno",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Quarter-final","Farm Boys","Black Lotus","Nathan Montgomery","Ryan Montgomery","Josh DiDonato","Ant Terrigno",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Quarter-final","Big Z is Back","2004 Toyota Corolla","Ryan Baillargeon","Molly Miles","Joshua Mollineda","Derek McRea",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Quarter-final","Big Z is Back","2004 Toyota Corolla","Ryan Baillargeon","Molly Miles","Joshua Mollineda","Derek McRea",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Quarter-final","IPS Spike","Bundy/Felty","Gresham White","Elliot Paul","Andrew Felty","Gray Bundy",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Quarter-final","IPS Spike","Bundy/Felty","Gresham White","Elliot Paul","Andrew Felty","Gray Bundy",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Quarter-final","UT Tractors","The Barber Shop","Sam Buytaert","Tyler Griffin","Jacob Stewart","Wyatt Koth",16,21
-"fl-roundnet-open-23","Contender (Open 4.5)","P17: Quarter-final","UT Tractors","The Barber Shop","Sam Buytaert","Tyler Griffin","Jacob Stewart","Wyatt Koth",5,15
-"fl-roundnet-open-23","Contender (Open 4.5)","P25: Quarter-final","Ace in our Veins","some jitties ","Jaden DeJesus","Kyle Samrajit","Rishab Jain","Jacob Narayan",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P25: Quarter-final","Ace in our Veins","some jitties ","Jaden DeJesus","Kyle Samrajit","Rishab Jain","Jacob Narayan",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P25: Quarter-final","Mash Potatoes","Drink Prime","Nilo Buan","Colin Harrington","Alexander Gonzalez","Ryan Hart",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P25: Quarter-final","Mash Potatoes","Drink Prime","Nilo Buan","Colin Harrington","Alexander Gonzalez","Ryan Hart",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","Semi-final","E10","Y’all spike eh?","Daniel Haungs","Bradley Clark","Ian Austin","Nick Wideman",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","Semi-final","E10","Y’all spike eh?","Daniel Haungs","Bradley Clark","Ian Austin","Nick Wideman",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","Semi-final","Sauerkraut","Round 2 #notkayne","Joshua Travis","Timo Lorenzen","Alex Cook","Benjamin Goldfarb",16,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Semi-final","Sauerkraut","Round 2 #notkayne","Joshua Travis","Timo Lorenzen","Alex Cook","Benjamin Goldfarb",19,21
-"fl-roundnet-open-23","Contender (Open 4.5)","P5: Semi-final","Cola Boys","Net Gains","Riley Williamson","Allen Ombougno","Jack Duffy","Zachery Geist",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P5: Semi-final","Cola Boys","Net Gains","Riley Williamson","Allen Ombougno","Jack Duffy","Zachery Geist",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Semi-final","Thoughtless","Farm Boys","Alex Fox","Patricio Duran","Nathan Montgomery","Ryan Montgomery",21,13
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Semi-final","Thoughtless","Farm Boys","Alex Fox","Patricio Duran","Nathan Montgomery","Ryan Montgomery",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Semi-final","Eppes/Randall","Backpackers","Sam Randall","Bransen Eppes","Brian Perlson","Tim Daudelin",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Semi-final","Eppes/Randall","Backpackers","Sam Randall","Bransen Eppes","Brian Perlson","Tim Daudelin",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","Final","Y’all spike eh?","Round 2 #notkayne","Ian Austin","Nick Wideman","Alex Cook","Benjamin Goldfarb",15,21
-"fl-roundnet-open-23","Contender (Open 4.5)","Final","Y’all spike eh?","Round 2 #notkayne","Ian Austin","Nick Wideman","Alex Cook","Benjamin Goldfarb",0,1
-"fl-roundnet-open-23","Contender (Open 4.5)","P3: Final","Sauerkraut","E10","Joshua Travis","Timo Lorenzen","Daniel Haungs","Bradley Clark",21,11
-"fl-roundnet-open-23","Contender (Open 4.5)","P3: Final","Sauerkraut","E10","Joshua Travis","Timo Lorenzen","Daniel Haungs","Bradley Clark",21,18
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Final","Thoughtless","Backpackers","Alex Fox","Patricio Duran","Brian Perlson","Tim Daudelin",1,0
-"fl-roundnet-open-23","Contender (Open 4.5)","P9: Final","Thoughtless","Backpackers","Alex Fox","Patricio Duran","Brian Perlson","Tim Daudelin",1,0
-"fl-roundnet-open-23","Premier (5.0)","Pool","Clean Combo","Benny Boo & Jare Bear","Rahul Murthy","Ryan Gross","Jared Beaufait","Ben Savage",21,15
-"fl-roundnet-open-23","Premier (5.0)","Pool","Joseph/Rose","a We just wanna be top of the list","Kieran Rose","Dennis Joseph","Jack coolbaugh","Tommy Drake",21,19
-"fl-roundnet-open-23","Premier (5.0)","Pool","Insystem","Hill/Midgett","Blake Bosak","Etienne Cote","Kyle Midgett","Christian Hill",21,11
-"fl-roundnet-open-23","Premier (5.0)","Pool","Chilly Chillies","Kim jong-illest rapper alive ","Sean Brown","Trevor Clements 704trev","Josh Esposo","Luis Orozco",21,15
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Empty Set","SubZero","Max Model","Dan Abrams","Adam Porter","Zach Bender",21,15
-"fl-roundnet-open-23","Premier (5.0)","Pool","Boom Ballin ","Anti-Creamy","Matthew Burrows","Caleb Cummings","Dalton Gilder","Calvin Smith",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","Impulse","Darma","Coleman Epperson's","Dawson Morgan","David Gonzales","Saahil Sharma",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","Marino’s Mistress","CRO Weather Boosted","Brendan Ferreira","Patric Chu","Nicholas Puopolo","Adrian Garcea",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Moms Love Us","BOT Sons of Thunder","Hayden Flood","Kyle Ackermann","Kade Janikula","Brycen Patterson",21,17
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Mermaid Sparkle","CRO Indi Partners","Christian Bennett","Noah Luskus","Austin Ha","Joshua Hachey",21,14
-"fl-roundnet-open-23","Premier (5.0)","Pool","WySpike CrossBearers","Tidal Wave","Nick Noguez","Luke Mowry","Ethan Groover","Ryan Fernandez",21,15
-"fl-roundnet-open-23","Premier (5.0)","Pool","Bot House","Quadzillas","Owen Lippman","West Peterson","Zach Snover","Nate KT",21,11
-"fl-roundnet-open-23","Premier (5.0)","Pool","Lazy","Bunze/Bunze","Cade Larson","Luke Marshall","Benjamin Bunze","Sam Bunze",19,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Clean Combo","a We just wanna be top of the list","Rahul Murthy","Ryan Gross","Jack coolbaugh","Tommy Drake",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","Glizzy Gladiators","Benny Boo & Jare Bear","Jacob Summers","Polk Denmark","Jared Beaufait","Ben Savage",21,14
-"fl-roundnet-open-23","Premier (5.0)","Pool","Insystem","Kim jong-illest rapper alive ","Blake Bosak","Etienne Cote","Josh Esposo","Luis Orozco",21,12
-"fl-roundnet-open-23","Premier (5.0)","Pool","Catalyst","Hill/Midgett","Kurt Lannetti","Liam Sherron","Kyle Midgett","Christian Hill",21,12
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Empty Set","Anti-Creamy","Max Model","Dan Abrams","Dalton Gilder","Calvin Smith",21,11
-"fl-roundnet-open-23","Premier (5.0)","Pool","Requals needed","SubZero","Samuel Corey","Slade Warner","Adam Porter","Zach Bender",21,15
-"fl-roundnet-open-23","Premier (5.0)","Pool","Impulse","CRO Weather Boosted","Coleman Epperson's","Dawson Morgan","Nicholas Puopolo","Adrian Garcea",21,11
-"fl-roundnet-open-23","Premier (5.0)","Pool","Lateral Epicondylitis","Darma","Thomas Maloney","Lucas Pruett","David Gonzales","Saahil Sharma",21,18
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Moms Love Us","CRO Indi Partners","Hayden Flood","Kyle Ackermann","Austin Ha","Joshua Hachey",24,22
-"fl-roundnet-open-23","Premier (5.0)","Pool","Bingu!","BOT Sons of Thunder","Sunny Gu","Jared Bingham","Kade Janikula","Brycen Patterson",18,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","WySpike CrossBearers","Quadzillas","Nick Noguez","Luke Mowry","Zach Snover","Nate KT",18,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Bot House","Lazy","Owen Lippman","West Peterson","Cade Larson","Luke Marshall",21,19
-"fl-roundnet-open-23","Premier (5.0)","Pool","Bunze/Bunze","Tidal Wave","Benjamin Bunze","Sam Bunze","Ethan Groover","Ryan Fernandez",19,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Clean Combo","Glizzy Gladiators","Rahul Murthy","Ryan Gross","Jacob Summers","Polk Denmark",21,14
-"fl-roundnet-open-23","Premier (5.0)","Pool","Joseph/Rose","Benny Boo & Jare Bear","Kieran Rose","Dennis Joseph","Jared Beaufait","Ben Savage",21,17
-"fl-roundnet-open-23","Premier (5.0)","Pool","Insystem","Catalyst","Blake Bosak","Etienne Cote","Kurt Lannetti","Liam Sherron",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","Chilly Chillies","Hill/Midgett","Sean Brown","Trevor Clements 704trev","Kyle Midgett","Christian Hill",21,10
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Empty Set","Requals needed","Max Model","Dan Abrams","Samuel Corey","Slade Warner",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","Boom Ballin ","SubZero","Matthew Burrows","Caleb Cummings","Adam Porter","Zach Bender",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","Impulse","Lateral Epicondylitis","Coleman Epperson's","Dawson Morgan","Thomas Maloney","Lucas Pruett",21,17
-"fl-roundnet-open-23","Premier (5.0)","Pool","Marino’s Mistress","Darma","Brendan Ferreira","Patric Chu","David Gonzales","Saahil Sharma",23,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Moms Love Us","Bingu!","Hayden Flood","Kyle Ackermann","Sunny Gu","Jared Bingham",21,17
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Mermaid Sparkle","BOT Sons of Thunder","Christian Bennett","Noah Luskus","Kade Janikula","Brycen Patterson",21,17
-"fl-roundnet-open-23","Premier (5.0)","Pool","WySpike CrossBearers","Bunze/Bunze","Nick Noguez","Luke Mowry","Benjamin Bunze","Sam Bunze",24,25
-"fl-roundnet-open-23","Premier (5.0)","Pool","Bot House","Tidal Wave","Owen Lippman","West Peterson","Ethan Groover","Ryan Fernandez",21,9
-"fl-roundnet-open-23","Premier (5.0)","Pool","Lazy","Quadzillas","Cade Larson","Luke Marshall","Zach Snover","Nate KT",21,18
-"fl-roundnet-open-23","Premier (5.0)","Pool","Joseph/Rose","Glizzy Gladiators","Kieran Rose","Dennis Joseph","Jacob Summers","Polk Denmark",21,15
-"fl-roundnet-open-23","Premier (5.0)","Pool","a We just wanna be top of the list","Benny Boo & Jare Bear","Jack coolbaugh","Tommy Drake","Jared Beaufait","Ben Savage",10,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Chilly Chillies","Catalyst","Sean Brown","Trevor Clements 704trev","Kurt Lannetti","Liam Sherron",21,19
-"fl-roundnet-open-23","Premier (5.0)","Pool","Kim jong-illest rapper alive ","Hill/Midgett","Josh Esposo","Luis Orozco","Kyle Midgett","Christian Hill",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","Boom Ballin ","Requals needed","Matthew Burrows","Caleb Cummings","Samuel Corey","Slade Warner",21,12
-"fl-roundnet-open-23","Premier (5.0)","Pool","Anti-Creamy","SubZero","Dalton Gilder","Calvin Smith","Adam Porter","Zach Bender",21,19
-"fl-roundnet-open-23","Premier (5.0)","Pool","Marino’s Mistress","Lateral Epicondylitis","Brendan Ferreira","Patric Chu","Thomas Maloney","Lucas Pruett",21,18
-"fl-roundnet-open-23","Premier (5.0)","Pool","CRO Weather Boosted","Darma","Nicholas Puopolo","Adrian Garcea","David Gonzales","Saahil Sharma",22,24
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Mermaid Sparkle","Bingu!","Christian Bennett","Noah Luskus","Sunny Gu","Jared Bingham",21,13
-"fl-roundnet-open-23","Premier (5.0)","Pool","CRO Indi Partners","BOT Sons of Thunder","Austin Ha","Joshua Hachey","Kade Janikula","Brycen Patterson",25,24
-"fl-roundnet-open-23","Premier (5.0)","Pool","WySpike CrossBearers","Lazy","Nick Noguez","Luke Mowry","Cade Larson","Luke Marshall",16,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Bot House","Bunze/Bunze","Owen Lippman","West Peterson","Benjamin Bunze","Sam Bunze",21,13
-"fl-roundnet-open-23","Premier (5.0)","Pool","Quadzillas","Tidal Wave","Zach Snover","Nate KT","Ethan Groover","Ryan Fernandez",21,14
-"fl-roundnet-open-23","Premier (5.0)","Pool","Clean Combo","Joseph/Rose","Rahul Murthy","Ryan Gross","Kieran Rose","Dennis Joseph",19,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Glizzy Gladiators","a We just wanna be top of the list","Jacob Summers","Polk Denmark","Jack coolbaugh","Tommy Drake",21,13
-"fl-roundnet-open-23","Premier (5.0)","Pool","Insystem","Chilly Chillies","Blake Bosak","Etienne Cote","Sean Brown","Trevor Clements 704trev",21,16
-"fl-roundnet-open-23","Premier (5.0)","Pool","Catalyst","Kim jong-illest rapper alive ","Kurt Lannetti","Liam Sherron","Josh Esposo","Luis Orozco",21,19
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Empty Set","Boom Ballin ","Max Model","Dan Abrams","Matthew Burrows","Caleb Cummings",21,19
-"fl-roundnet-open-23","Premier (5.0)","Pool","Requals needed","Anti-Creamy","Samuel Corey","Slade Warner","Dalton Gilder","Calvin Smith",21,19
-"fl-roundnet-open-23","Premier (5.0)","Pool","Impulse","Marino’s Mistress","Coleman Epperson's","Dawson Morgan","Brendan Ferreira","Patric Chu",18,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Lateral Epicondylitis","CRO Weather Boosted","Thomas Maloney","Lucas Pruett","Nicholas Puopolo","Adrian Garcea",21,15
-"fl-roundnet-open-23","Premier (5.0)","Pool","TRP Moms Love Us","TRP Mermaid Sparkle","Hayden Flood","Kyle Ackermann","Christian Bennett","Noah Luskus",19,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Bingu!","CRO Indi Partners","Sunny Gu","Jared Bingham","Austin Ha","Joshua Hachey",21,19
-"fl-roundnet-open-23","Premier (5.0)","Pool","WySpike CrossBearers","Bot House","Nick Noguez","Luke Mowry","Owen Lippman","West Peterson",13,21
-"fl-roundnet-open-23","Premier (5.0)","Pool","Lazy","Tidal Wave","Cade Larson","Luke Marshall","Ethan Groover","Ryan Fernandez",21,10
-"fl-roundnet-open-23","Premier (5.0)","Pool","Bunze/Bunze","Quadzillas","Benjamin Bunze","Sam Bunze","Zach Snover","Nate KT",21,19
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Insystem","Hill/Midgett","Blake Bosak","Etienne Cote","Kyle Midgett","Christian Hill",21,15
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Insystem","Hill/Midgett","Blake Bosak","Etienne Cote","Kyle Midgett","Christian Hill",21,11
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","TRP Empty Set","Tidal Wave","Max Model","Dan Abrams","Ethan Groover","Ryan Fernandez",21,5
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","TRP Empty Set","Tidal Wave","Max Model","Dan Abrams","Ethan Groover","Ryan Fernandez",21,14
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","TRP Mermaid Sparkle","a We just wanna be top of the list","Christian Bennett","Noah Luskus","Jack coolbaugh","Tommy Drake",21,11
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","TRP Mermaid Sparkle","a We just wanna be top of the list","Christian Bennett","Noah Luskus","Jack coolbaugh","Tommy Drake",21,13
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Joseph/Rose","CRO Weather Boosted","Kieran Rose","Dennis Joseph","Nicholas Puopolo","Adrian Garcea",21,17
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Joseph/Rose","CRO Weather Boosted","Kieran Rose","Dennis Joseph","Nicholas Puopolo","Adrian Garcea",21,15
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Marino’s Mistress","SubZero","Brendan Ferreira","Patric Chu","Adam Porter","Zach Bender",21,18
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Marino’s Mistress","SubZero","Brendan Ferreira","Patric Chu","Adam Porter","Zach Bender",21,16
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Boom Ballin ","WySpike CrossBearers","Matthew Burrows","Caleb Cummings","Nick Noguez","Luke Mowry",38,40
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Boom Ballin ","WySpike CrossBearers","Matthew Burrows","Caleb Cummings","Nick Noguez","Luke Mowry",17,21
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Clean Combo","Anti-Creamy","Rahul Murthy","Ryan Gross","Dalton Gilder","Calvin Smith",21,14
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Clean Combo","Anti-Creamy","Rahul Murthy","Ryan Gross","Dalton Gilder","Calvin Smith",21,9
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Impulse","Bingu!","Coleman Epperson's","Dawson Morgan","Sunny Gu","Jared Bingham",21,17
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Impulse","Bingu!","Coleman Epperson's","Dawson Morgan","Sunny Gu","Jared Bingham",21,15
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Chilly Chillies","Kim jong-illest rapper alive ","Sean Brown","Trevor Clements 704trev","Josh Esposo","Luis Orozco",22,20
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Chilly Chillies","Kim jong-illest rapper alive ","Sean Brown","Trevor Clements 704trev","Josh Esposo","Luis Orozco",21,16
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","TRP Moms Love Us","CRO Indi Partners","Hayden Flood","Kyle Ackermann","Austin Ha","Joshua Hachey",21,11
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","TRP Moms Love Us","CRO Indi Partners","Hayden Flood","Kyle Ackermann","Austin Ha","Joshua Hachey",21,16
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Lazy","Darma","Cade Larson","Luke Marshall","David Gonzales","Saahil Sharma",1,0
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Lazy","Darma","Cade Larson","Luke Marshall","David Gonzales","Saahil Sharma",1,0
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Catalyst","BOT Sons of Thunder","Kurt Lannetti","Liam Sherron","Kade Janikula","Brycen Patterson",21,18
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Catalyst","BOT Sons of Thunder","Kurt Lannetti","Liam Sherron","Kade Janikula","Brycen Patterson",30,32
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Catalyst","BOT Sons of Thunder","Kurt Lannetti","Liam Sherron","Kade Janikula","Brycen Patterson",21,18
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Glizzy Gladiators","Benny Boo & Jare Bear","Jacob Summers","Polk Denmark","Jared Beaufait","Ben Savage",21,14
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Glizzy Gladiators","Benny Boo & Jare Bear","Jacob Summers","Polk Denmark","Jared Beaufait","Ben Savage",21,19
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Lateral Epicondylitis","Quadzillas","Thomas Maloney","Lucas Pruett","Zach Snover","Nate KT",19,21
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Lateral Epicondylitis","Quadzillas","Thomas Maloney","Lucas Pruett","Zach Snover","Nate KT",21,17
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Lateral Epicondylitis","Quadzillas","Thomas Maloney","Lucas Pruett","Zach Snover","Nate KT",21,16
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Bunze/Bunze","Requals needed","Benjamin Bunze","Sam Bunze","Samuel Corey","Slade Warner",16,21
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Bunze/Bunze","Requals needed","Benjamin Bunze","Sam Bunze","Samuel Corey","Slade Warner",21,17
-"fl-roundnet-open-23","Premier (5.0)","Round of 32","Bunze/Bunze","Requals needed","Benjamin Bunze","Sam Bunze","Samuel Corey","Slade Warner",20,22
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Bot House","Requals needed","Owen Lippman","West Peterson","Samuel Corey","Slade Warner",21,16
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Bot House","Requals needed","Owen Lippman","West Peterson","Samuel Corey","Slade Warner",21,12
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Insystem","Lateral Epicondylitis","Blake Bosak","Etienne Cote","Thomas Maloney","Lucas Pruett",21,12
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Insystem","Lateral Epicondylitis","Blake Bosak","Etienne Cote","Thomas Maloney","Lucas Pruett",21,10
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","TRP Empty Set","Glizzy Gladiators","Max Model","Dan Abrams","Jacob Summers","Polk Denmark",15,21
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","TRP Empty Set","Glizzy Gladiators","Max Model","Dan Abrams","Jacob Summers","Polk Denmark",21,17
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","TRP Empty Set","Glizzy Gladiators","Max Model","Dan Abrams","Jacob Summers","Polk Denmark",21,16
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","TRP Mermaid Sparkle","Catalyst","Christian Bennett","Noah Luskus","Kurt Lannetti","Liam Sherron",21,13
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","TRP Mermaid Sparkle","Catalyst","Christian Bennett","Noah Luskus","Kurt Lannetti","Liam Sherron",21,10
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Joseph/Rose","Lazy","Kieran Rose","Dennis Joseph","Cade Larson","Luke Marshall",16,21
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Joseph/Rose","Lazy","Kieran Rose","Dennis Joseph","Cade Larson","Luke Marshall",18,21
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Marino’s Mistress","TRP Moms Love Us","Brendan Ferreira","Patric Chu","Hayden Flood","Kyle Ackermann",17,21
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Marino’s Mistress","TRP Moms Love Us","Brendan Ferreira","Patric Chu","Hayden Flood","Kyle Ackermann",21,19
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Marino’s Mistress","TRP Moms Love Us","Brendan Ferreira","Patric Chu","Hayden Flood","Kyle Ackermann",25,23
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","WySpike CrossBearers","Chilly Chillies","Nick Noguez","Luke Mowry","Sean Brown","Trevor Clements 704trev",23,25
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","WySpike CrossBearers","Chilly Chillies","Nick Noguez","Luke Mowry","Sean Brown","Trevor Clements 704trev",21,16
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","WySpike CrossBearers","Chilly Chillies","Nick Noguez","Luke Mowry","Sean Brown","Trevor Clements 704trev",21,19
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Clean Combo","Impulse","Rahul Murthy","Ryan Gross","Coleman Epperson's","Dawson Morgan",19,21
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Clean Combo","Impulse","Rahul Murthy","Ryan Gross","Coleman Epperson's","Dawson Morgan",21,15
-"fl-roundnet-open-23","Premier (5.0)","Round of 16","Clean Combo","Impulse","Rahul Murthy","Ryan Gross","Coleman Epperson's","Dawson Morgan",21,13
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Quadzillas","Hill/Midgett","Zach Snover","Nate KT","Kyle Midgett","Christian Hill",-1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Quadzillas","Hill/Midgett","Zach Snover","Nate KT","Kyle Midgett","Christian Hill",-1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Benny Boo & Jare Bear","Tidal Wave","Jared Beaufait","Ben Savage","Ethan Groover","Ryan Fernandez",21,10
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Benny Boo & Jare Bear","Tidal Wave","Jared Beaufait","Ben Savage","Ethan Groover","Ryan Fernandez",19,21
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Benny Boo & Jare Bear","Tidal Wave","Jared Beaufait","Ben Savage","Ethan Groover","Ryan Fernandez",21,19
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","BOT Sons of Thunder","a We just wanna be top of the list","Kade Janikula","Brycen Patterson","Jack coolbaugh","Tommy Drake",2,21
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","BOT Sons of Thunder","a We just wanna be top of the list","Kade Janikula","Brycen Patterson","Jack coolbaugh","Tommy Drake",1,21
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Darma","CRO Weather Boosted","David Gonzales","Saahil Sharma","Nicholas Puopolo","Adrian Garcea",-1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Darma","CRO Weather Boosted","David Gonzales","Saahil Sharma","Nicholas Puopolo","Adrian Garcea",-1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","CRO Indi Partners","SubZero","Austin Ha","Joshua Hachey","Adam Porter","Zach Bender",1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","CRO Indi Partners","SubZero","Austin Ha","Joshua Hachey","Adam Porter","Zach Bender",1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Kim jong-illest rapper alive ","Boom Ballin ","Josh Esposo","Luis Orozco","Matthew Burrows","Caleb Cummings",1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Kim jong-illest rapper alive ","Boom Ballin ","Josh Esposo","Luis Orozco","Matthew Burrows","Caleb Cummings",1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Bingu!","Anti-Creamy","Sunny Gu","Jared Bingham","Dalton Gilder","Calvin Smith",19,21
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Bingu!","Anti-Creamy","Sunny Gu","Jared Bingham","Dalton Gilder","Calvin Smith",21,19
-"fl-roundnet-open-23","Premier (5.0)","P17: Round of 16","Bingu!","Anti-Creamy","Sunny Gu","Jared Bingham","Dalton Gilder","Calvin Smith",21,14
-"fl-roundnet-open-23","Premier (5.0)","Quarter-final","Bot House","Clean Combo","Owen Lippman","West Peterson","Rahul Murthy","Ryan Gross",16,21
-"fl-roundnet-open-23","Premier (5.0)","Quarter-final","Bot House","Clean Combo","Owen Lippman","West Peterson","Rahul Murthy","Ryan Gross",22,24
-"fl-roundnet-open-23","Premier (5.0)","Quarter-final","Insystem","WySpike CrossBearers","Blake Bosak","Etienne Cote","Nick Noguez","Luke Mowry",21,16
-"fl-roundnet-open-23","Premier (5.0)","Quarter-final","Insystem","WySpike CrossBearers","Blake Bosak","Etienne Cote","Nick Noguez","Luke Mowry",14,11
-"fl-roundnet-open-23","Premier (5.0)","Quarter-final","TRP Empty Set","Marino’s Mistress","Max Model","Dan Abrams","Brendan Ferreira","Patric Chu",38,36
-"fl-roundnet-open-23","Premier (5.0)","Quarter-final","TRP Empty Set","Marino’s Mistress","Max Model","Dan Abrams","Brendan Ferreira","Patric Chu",21,17
-"fl-roundnet-open-23","Premier (5.0)","Quarter-final","TRP Mermaid Sparkle","Lazy","Christian Bennett","Noah Luskus","Cade Larson","Luke Marshall",21,10
-"fl-roundnet-open-23","Premier (5.0)","Quarter-final","TRP Mermaid Sparkle","Lazy","Christian Bennett","Noah Luskus","Cade Larson","Luke Marshall",21,10
-"fl-roundnet-open-23","Premier (5.0)","P9: Quarter-final","Impulse","Requals needed","Coleman Epperson's","Dawson Morgan","Samuel Corey","Slade Warner",1,0
-"fl-roundnet-open-23","Premier (5.0)","P9: Quarter-final","Impulse","Requals needed","Coleman Epperson's","Dawson Morgan","Samuel Corey","Slade Warner",1,0
-"fl-roundnet-open-23","Premier (5.0)","P9: Quarter-final","Chilly Chillies","Lateral Epicondylitis","Sean Brown","Trevor Clements 704trev","Thomas Maloney","Lucas Pruett",1,0
-"fl-roundnet-open-23","Premier (5.0)","P9: Quarter-final","Chilly Chillies","Lateral Epicondylitis","Sean Brown","Trevor Clements 704trev","Thomas Maloney","Lucas Pruett",1,0
-"fl-roundnet-open-23","Premier (5.0)","P9: Quarter-final","TRP Moms Love Us","Glizzy Gladiators","Hayden Flood","Kyle Ackermann","Jacob Summers","Polk Denmark",0,1
-"fl-roundnet-open-23","Premier (5.0)","P9: Quarter-final","TRP Moms Love Us","Glizzy Gladiators","Hayden Flood","Kyle Ackermann","Jacob Summers","Polk Denmark",0,1
-"fl-roundnet-open-23","Premier (5.0)","P9: Quarter-final","Joseph/Rose","Catalyst","Kieran Rose","Dennis Joseph","Kurt Lannetti","Liam Sherron",0,1
-"fl-roundnet-open-23","Premier (5.0)","P9: Quarter-final","Joseph/Rose","Catalyst","Kieran Rose","Dennis Joseph","Kurt Lannetti","Liam Sherron",0,1
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","Bunze/Bunze","Bingu!","Benjamin Bunze","Sam Bunze","Sunny Gu","Jared Bingham",0,-1
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","Bunze/Bunze","Bingu!","Benjamin Bunze","Sam Bunze","Sunny Gu","Jared Bingham",0,-1
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","Hill/Midgett","Kim jong-illest rapper alive ","Kyle Midgett","Christian Hill","Josh Esposo","Luis Orozco",1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","Hill/Midgett","Kim jong-illest rapper alive ","Kyle Midgett","Christian Hill","Josh Esposo","Luis Orozco",1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","Benny Boo & Jare Bear","CRO Indi Partners","Jared Beaufait","Ben Savage","Austin Ha","Joshua Hachey",19,21
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","Benny Boo & Jare Bear","CRO Indi Partners","Jared Beaufait","Ben Savage","Austin Ha","Joshua Hachey",21,16
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","Benny Boo & Jare Bear","CRO Indi Partners","Jared Beaufait","Ben Savage","Austin Ha","Joshua Hachey",21,16
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","a We just wanna be top of the list","CRO Weather Boosted","Jack coolbaugh","Tommy Drake","Nicholas Puopolo","Adrian Garcea",21,12
-"fl-roundnet-open-23","Premier (5.0)","P17: Quarter-final","a We just wanna be top of the list","CRO Weather Boosted","Jack coolbaugh","Tommy Drake","Nicholas Puopolo","Adrian Garcea",21,12
-"fl-roundnet-open-23","Premier (5.0)","Semi-final","Clean Combo","TRP Mermaid Sparkle","Rahul Murthy","Ryan Gross","Christian Bennett","Noah Luskus",24,22
-"fl-roundnet-open-23","Premier (5.0)","Semi-final","Clean Combo","TRP Mermaid Sparkle","Rahul Murthy","Ryan Gross","Christian Bennett","Noah Luskus",16,21
-"fl-roundnet-open-23","Premier (5.0)","Semi-final","Clean Combo","TRP Mermaid Sparkle","Rahul Murthy","Ryan Gross","Christian Bennett","Noah Luskus",20,22
-"fl-roundnet-open-23","Premier (5.0)","Semi-final","Insystem","TRP Empty Set","Blake Bosak","Etienne Cote","Max Model","Dan Abrams",22,20
-"fl-roundnet-open-23","Premier (5.0)","Semi-final","Insystem","TRP Empty Set","Blake Bosak","Etienne Cote","Max Model","Dan Abrams",21,18
-"fl-roundnet-open-23","Premier (5.0)","P5: Semi-final","Marino’s Mistress","WySpike CrossBearers","Brendan Ferreira","Patric Chu","Nick Noguez","Luke Mowry",1,0
-"fl-roundnet-open-23","Premier (5.0)","P5: Semi-final","Marino’s Mistress","WySpike CrossBearers","Brendan Ferreira","Patric Chu","Nick Noguez","Luke Mowry",1,0
-"fl-roundnet-open-23","Premier (5.0)","P9: Semi-final","Impulse","Catalyst","Coleman Epperson's","Dawson Morgan","Kurt Lannetti","Liam Sherron",0,1
-"fl-roundnet-open-23","Premier (5.0)","P9: Semi-final","Impulse","Catalyst","Coleman Epperson's","Dawson Morgan","Kurt Lannetti","Liam Sherron",0,1
-"fl-roundnet-open-23","Premier (5.0)","P9: Semi-final","Chilly Chillies","Glizzy Gladiators","Sean Brown","Trevor Clements 704trev","Jacob Summers","Polk Denmark",0,1
-"fl-roundnet-open-23","Premier (5.0)","P9: Semi-final","Chilly Chillies","Glizzy Gladiators","Sean Brown","Trevor Clements 704trev","Jacob Summers","Polk Denmark",0,1
-"fl-roundnet-open-23","Premier (5.0)","P17: Semi-final","Bunze/Bunze","a We just wanna be top of the list","Benjamin Bunze","Sam Bunze","Jack coolbaugh","Tommy Drake",16,21
-"fl-roundnet-open-23","Premier (5.0)","P17: Semi-final","Bunze/Bunze","a We just wanna be top of the list","Benjamin Bunze","Sam Bunze","Jack coolbaugh","Tommy Drake",17,21
-"fl-roundnet-open-23","Premier (5.0)","P17: Semi-final","Hill/Midgett","Benny Boo & Jare Bear","Kyle Midgett","Christian Hill","Jared Beaufait","Ben Savage",-2,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Semi-final","Hill/Midgett","Benny Boo & Jare Bear","Kyle Midgett","Christian Hill","Jared Beaufait","Ben Savage",-2,0
-"fl-roundnet-open-23","Premier (5.0)","P21: Semi-final","CRO Weather Boosted","Bingu!","Nicholas Puopolo","Adrian Garcea","Sunny Gu","Jared Bingham",0,-1
-"fl-roundnet-open-23","Premier (5.0)","P21: Semi-final","CRO Weather Boosted","Bingu!","Nicholas Puopolo","Adrian Garcea","Sunny Gu","Jared Bingham",0,-1
-"fl-roundnet-open-23","Premier (5.0)","P21: Semi-final","CRO Indi Partners","Kim jong-illest rapper alive ","Austin Ha","Joshua Hachey","Josh Esposo","Luis Orozco",1,0
-"fl-roundnet-open-23","Premier (5.0)","P21: Semi-final","CRO Indi Partners","Kim jong-illest rapper alive ","Austin Ha","Joshua Hachey","Josh Esposo","Luis Orozco",1,0
-"fl-roundnet-open-23","Premier (5.0)","Final","TRP Mermaid Sparkle","Insystem","Christian Bennett","Noah Luskus","Blake Bosak","Etienne Cote",21,19
-"fl-roundnet-open-23","Premier (5.0)","Final","TRP Mermaid Sparkle","Insystem","Christian Bennett","Noah Luskus","Blake Bosak","Etienne Cote",21,13
-"fl-roundnet-open-23","Premier (5.0)","P3: Final","TRP Empty Set","Clean Combo","Max Model","Dan Abrams","Rahul Murthy","Ryan Gross",22,24
-"fl-roundnet-open-23","Premier (5.0)","P3: Final","TRP Empty Set","Clean Combo","Max Model","Dan Abrams","Rahul Murthy","Ryan Gross",25,27
-"fl-roundnet-open-23","Premier (5.0)","P9: Final","Catalyst","Glizzy Gladiators","Kurt Lannetti","Liam Sherron","Jacob Summers","Polk Denmark",0,1
-"fl-roundnet-open-23","Premier (5.0)","P9: Final","Catalyst","Glizzy Gladiators","Kurt Lannetti","Liam Sherron","Jacob Summers","Polk Denmark",0,1
-"fl-roundnet-open-23","Premier (5.0)","P11: Final","Chilly Chillies","Impulse","Sean Brown","Trevor Clements 704trev","Coleman Epperson's","Dawson Morgan",1,0
-"fl-roundnet-open-23","Premier (5.0)","P11: Final","Chilly Chillies","Impulse","Sean Brown","Trevor Clements 704trev","Coleman Epperson's","Dawson Morgan",1,0
-"fl-roundnet-open-23","Premier (5.0)","P17: Final","a We just wanna be top of the list","Benny Boo & Jare Bear","Jack coolbaugh","Tommy Drake","Jared Beaufait","Ben Savage",69,67
-"fl-roundnet-open-23","Premier (5.0)","P17: Final","a We just wanna be top of the list","Benny Boo & Jare Bear","Jack coolbaugh","Tommy Drake","Jared Beaufait","Ben Savage",0,1
-"fl-roundnet-open-23","Premier (5.0)","P17: Final","a We just wanna be top of the list","Benny Boo & Jare Bear","Jack coolbaugh","Tommy Drake","Jared Beaufait","Ben Savage",1,0
-"fl-roundnet-open-23","Premier (5.0)","P19: Final","Hill/Midgett","Bunze/Bunze","Kyle Midgett","Christian Hill","Benjamin Bunze","Sam Bunze",-2,0
-"fl-roundnet-open-23","Premier (5.0)","P19: Final","Hill/Midgett","Bunze/Bunze","Kyle Midgett","Christian Hill","Benjamin Bunze","Sam Bunze",-2,0
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Cat Daddies","cuttin up","Ali Jenki","Sarah Allen","Morgan Bruce","Liz Gormley",21,11
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Florabama","Katrina and Audrey","Meagan Bown","Teddi Lesoine","Katrina Gabriella","Audrey Summers",19,21
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Impulsive","Wilson/DePaolo","Olivia Jenki","Kalin Morgan","Callie Wilson","Elena DePaolo",21,4
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Morehouse/Pierson","OnOr","Maddy Morehouse","Katie Pierson","Kendall Wolfe","Shonda Couroux",21,11
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Cat Daddies","Katrina and Audrey","Ali Jenki","Sarah Allen","Katrina Gabriella","Audrey Summers",21,8
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Space Monkeys 🚀🐒","cuttin up","Stef Ding","Rafaela Bastos","Morgan Bruce","Liz Gormley",21,17
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Impulsive","OnOr","Olivia Jenki","Kalin Morgan","Kendall Wolfe","Shonda Couroux",21,7
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","ding/angeletti","Wilson/DePaolo","Emma Angeletti","Tiff Ding","Callie Wilson","Elena DePaolo",21,4
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Cat Daddies","Space Monkeys 🚀🐒","Ali Jenki","Sarah Allen","Stef Ding","Rafaela Bastos",21,12
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Florabama","cuttin up","Meagan Bown","Teddi Lesoine","Morgan Bruce","Liz Gormley",23,21
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Impulsive","ding/angeletti","Olivia Jenki","Kalin Morgan","Emma Angeletti","Tiff Ding",21,19
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Morehouse/Pierson","Wilson/DePaolo","Maddy Morehouse","Katie Pierson","Callie Wilson","Elena DePaolo",21,1
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Florabama","Space Monkeys 🚀🐒","Meagan Bown","Teddi Lesoine","Stef Ding","Rafaela Bastos",17,21
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Katrina and Audrey","cuttin up","Katrina Gabriella","Audrey Summers","Morgan Bruce","Liz Gormley",10,21
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Morehouse/Pierson","ding/angeletti","Maddy Morehouse","Katie Pierson","Emma Angeletti","Tiff Ding",21,13
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","OnOr","Wilson/DePaolo","Kendall Wolfe","Shonda Couroux","Callie Wilson","Elena DePaolo",21,7
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Cat Daddies","Florabama","Ali Jenki","Sarah Allen","Meagan Bown","Teddi Lesoine",21,11
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Space Monkeys 🚀🐒","Katrina and Audrey","Stef Ding","Rafaela Bastos","Katrina Gabriella","Audrey Summers",21,11
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","Impulsive","Morehouse/Pierson","Olivia Jenki","Kalin Morgan","Maddy Morehouse","Katie Pierson",21,18
-"fl-roundnet-open-23","Women's (3.0-5.0)","Pool","ding/angeletti","OnOr","Emma Angeletti","Tiff Ding","Kendall Wolfe","Shonda Couroux",21,13
-"fl-roundnet-open-23","Women's (3.0-5.0)","Round of 16","Florabama","Wilson/DePaolo","Meagan Bown","Teddi Lesoine","Callie Wilson","Elena DePaolo",21,2
-"fl-roundnet-open-23","Women's (3.0-5.0)","Round of 16","Florabama","Wilson/DePaolo","Meagan Bown","Teddi Lesoine","Callie Wilson","Elena DePaolo",21,6
-"fl-roundnet-open-23","Women's (3.0-5.0)","Round of 16","OnOr","Katrina and Audrey","Kendall Wolfe","Shonda Couroux","Katrina Gabriella","Audrey Summers",17,21
-"fl-roundnet-open-23","Women's (3.0-5.0)","Round of 16","OnOr","Katrina and Audrey","Kendall Wolfe","Shonda Couroux","Katrina Gabriella","Audrey Summers",17,21
-"fl-roundnet-open-23","Women's (3.0-5.0)","Quarter-final","Cat Daddies","Katrina and Audrey","Ali Jenki","Sarah Allen","Katrina Gabriella","Audrey Summers",21,10
-"fl-roundnet-open-23","Women's (3.0-5.0)","Quarter-final","Cat Daddies","Katrina and Audrey","Ali Jenki","Sarah Allen","Katrina Gabriella","Audrey Summers",21,13
-"fl-roundnet-open-23","Women's (3.0-5.0)","Quarter-final","Impulsive","Florabama","Olivia Jenki","Kalin Morgan","Meagan Bown","Teddi Lesoine",21,12
-"fl-roundnet-open-23","Women's (3.0-5.0)","Quarter-final","Impulsive","Florabama","Olivia Jenki","Kalin Morgan","Meagan Bown","Teddi Lesoine",21,15
-"fl-roundnet-open-23","Women's (3.0-5.0)","Quarter-final","Morehouse/Pierson","cuttin up","Maddy Morehouse","Katie Pierson","Morgan Bruce","Liz Gormley",21,12
-"fl-roundnet-open-23","Women's (3.0-5.0)","Quarter-final","Morehouse/Pierson","cuttin up","Maddy Morehouse","Katie Pierson","Morgan Bruce","Liz Gormley",21,13
-"fl-roundnet-open-23","Women's (3.0-5.0)","Quarter-final","Space Monkeys 🚀🐒","ding/angeletti","Stef Ding","Rafaela Bastos","Emma Angeletti","Tiff Ding",21,16
-"fl-roundnet-open-23","Women's (3.0-5.0)","Quarter-final","Space Monkeys 🚀🐒","ding/angeletti","Stef Ding","Rafaela Bastos","Emma Angeletti","Tiff Ding",21,17
-"fl-roundnet-open-23","Women's (3.0-5.0)","Semi-final","Cat Daddies","Space Monkeys 🚀🐒","Ali Jenki","Sarah Allen","Stef Ding","Rafaela Bastos",21,19
-"fl-roundnet-open-23","Women's (3.0-5.0)","Semi-final","Cat Daddies","Space Monkeys 🚀🐒","Ali Jenki","Sarah Allen","Stef Ding","Rafaela Bastos",21,17
-"fl-roundnet-open-23","Women's (3.0-5.0)","Semi-final","Impulsive","Morehouse/Pierson","Olivia Jenki","Kalin Morgan","Maddy Morehouse","Katie Pierson",21,17
-"fl-roundnet-open-23","Women's (3.0-5.0)","Semi-final","Impulsive","Morehouse/Pierson","Olivia Jenki","Kalin Morgan","Maddy Morehouse","Katie Pierson",21,18
-"fl-roundnet-open-23","Women's (3.0-5.0)","P5: Semi-final","ding/angeletti","Katrina and Audrey","Emma Angeletti","Tiff Ding","Katrina Gabriella","Audrey Summers",21,14
-"fl-roundnet-open-23","Women's (3.0-5.0)","P5: Semi-final","ding/angeletti","Katrina and Audrey","Emma Angeletti","Tiff Ding","Katrina Gabriella","Audrey Summers",21,13
-"fl-roundnet-open-23","Women's (3.0-5.0)","P5: Semi-final","cuttin up","Florabama","Morgan Bruce","Liz Gormley","Meagan Bown","Teddi Lesoine",21,17
-"fl-roundnet-open-23","Women's (3.0-5.0)","P5: Semi-final","cuttin up","Florabama","Morgan Bruce","Liz Gormley","Meagan Bown","Teddi Lesoine",15,21
-"fl-roundnet-open-23","Women's (3.0-5.0)","Final","Cat Daddies","Impulsive","Ali Jenki","Sarah Allen","Olivia Jenki","Kalin Morgan",17,21
-"fl-roundnet-open-23","Women's (3.0-5.0)","Final","Cat Daddies","Impulsive","Ali Jenki","Sarah Allen","Olivia Jenki","Kalin Morgan",25,27
-"fl-roundnet-open-23","Women's (3.0-5.0)","P3: Final","Morehouse/Pierson","Space Monkeys 🚀🐒","Maddy Morehouse","Katie Pierson","Stef Ding","Rafaela Bastos",21,13
-"fl-roundnet-open-23","Women's (3.0-5.0)","P3: Final","Morehouse/Pierson","Space Monkeys 🚀🐒","Maddy Morehouse","Katie Pierson","Stef Ding","Rafaela Bastos",21,11
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Better late then never","Wics","Chris Perez","Brayden Einhaus","Jon maano","Laura Castro",22,20
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Twisted T’s ","Lulu Limón","Tim Daudelin","Katrina Gabriella","Luis Orozco","Julie Orozco",21,18
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Better late then never","Lulu Limón","Chris Perez","Brayden Einhaus","Luis Orozco","Julie Orozco",18,21
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Twisted T’s ","Wics","Tim Daudelin","Katrina Gabriella","Jon maano","Laura Castro",21,11
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Better late then never","Twisted T’s ","Chris Perez","Brayden Einhaus","Tim Daudelin","Katrina Gabriella",9,21
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Lulu Limón","Wics","Luis Orozco","Julie Orozco","Jon maano","Laura Castro",21,16
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Better late then never","Wics","Chris Perez","Brayden Einhaus","Jon maano","Laura Castro",10,21
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Twisted T’s ","Lulu Limón","Tim Daudelin","Katrina Gabriella","Luis Orozco","Julie Orozco",22,20
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Better late then never","Lulu Limón","Chris Perez","Brayden Einhaus","Luis Orozco","Julie Orozco",15,21
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Twisted T’s ","Wics","Tim Daudelin","Katrina Gabriella","Jon maano","Laura Castro",21,11
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Better late then never","Twisted T’s ","Chris Perez","Brayden Einhaus","Tim Daudelin","Katrina Gabriella",21,19
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Pool","Lulu Limón","Wics","Luis Orozco","Julie Orozco","Jon maano","Laura Castro",21,12
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Semi-final","Twisted T’s ","Wics","Tim Daudelin","Katrina Gabriella","Jon maano","Laura Castro",21,10
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Semi-final","Twisted T’s ","Wics","Tim Daudelin","Katrina Gabriella","Jon maano","Laura Castro",21,14
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Semi-final","Lulu Limón","Better late then never","Luis Orozco","Julie Orozco","Chris Perez","Brayden Einhaus",22,20
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Semi-final","Lulu Limón","Better late then never","Luis Orozco","Julie Orozco","Chris Perez","Brayden Einhaus",21,19
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Final","Twisted T’s ","Lulu Limón","Tim Daudelin","Katrina Gabriella","Luis Orozco","Julie Orozco",20,21
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","Final","Twisted T’s ","Lulu Limón","Tim Daudelin","Katrina Gabriella","Luis Orozco","Julie Orozco",20,21
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","P3: Final","Better late then never","Wics","Chris Perez","Brayden Einhaus","Jon maano","Laura Castro",16,21
-"fl-roundnet-open-23","Mixed Intermediate (3.0)","P3: Final","Better late then never","Wics","Chris Perez","Brayden Einhaus","Jon maano","Laura Castro",18,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","MAD Jelly","choppa and the stick","Coleman Epperson","Ali Jenki","Jared Beaufait","Liz Gormley",21,10
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Murray Hilltop Spikes","Coup de Tête","Skylar Regan","Max Model","Ben Savage","Emma Angeletti",9,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Mixed Signals","Two Thumbs Up","Etienne Cote","Katie Pierson","Dom Orlando","Nicole Orlando",21,11
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","That was too easy","Flugelhorn","Kyle Ackermann","Teddi Lesoine","Meagan Bown","Tommy Drake",21,14
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","B-Olivia","Beach Bums🌴","Olivia Jenki","David Gonzales","Ethan Groover","Morgan Bruce",21,16
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Jawdroppers","stizzy","Sarah Allen","Christian Bennett","Stef Ding","Sean Brown",21,17
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","MAD Jelly","Coup de Tête","Coleman Epperson","Ali Jenki","Ben Savage","Emma Angeletti",23,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Ding around the Rosie","choppa and the stick","Tiff Ding","Kieran Rose","Jared Beaufait","Liz Gormley",21,16
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Mixed Signals","Flugelhorn","Etienne Cote","Katie Pierson","Meagan Bown","Tommy Drake",21,10
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Demon time","Two Thumbs Up","Shonda Couroux","Adrian Garcea","Dom Orlando","Nicole Orlando",21,15
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","B-Olivia","stizzy","Olivia Jenki","David Gonzales","Stef Ding","Sean Brown",22,20
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Scott/Rafa","Beach Bums🌴","Rafaela Bastos","Scott Beeks","Ethan Groover","Morgan Bruce",21,18
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","MAD Jelly","Ding around the Rosie","Coleman Epperson","Ali Jenki","Tiff Ding","Kieran Rose",19,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Murray Hilltop Spikes","choppa and the stick","Skylar Regan","Max Model","Jared Beaufait","Liz Gormley",24,22
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Mixed Signals","Demon time","Etienne Cote","Katie Pierson","Shonda Couroux","Adrian Garcea",21,12
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","That was too easy","Two Thumbs Up","Kyle Ackermann","Teddi Lesoine","Dom Orlando","Nicole Orlando",21,8
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","B-Olivia","Scott/Rafa","Olivia Jenki","David Gonzales","Rafaela Bastos","Scott Beeks",21,23
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Jawdroppers","Beach Bums🌴","Sarah Allen","Christian Bennett","Ethan Groover","Morgan Bruce",21,15
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Murray Hilltop Spikes","Ding around the Rosie","Skylar Regan","Max Model","Tiff Ding","Kieran Rose",16,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Coup de Tête","choppa and the stick","Ben Savage","Emma Angeletti","Jared Beaufait","Liz Gormley",21,13
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","That was too easy","Demon time","Kyle Ackermann","Teddi Lesoine","Shonda Couroux","Adrian Garcea",21,8
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Flugelhorn","Two Thumbs Up","Meagan Bown","Tommy Drake","Dom Orlando","Nicole Orlando",21,17
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Jawdroppers","Scott/Rafa","Sarah Allen","Christian Bennett","Rafaela Bastos","Scott Beeks",21,19
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","stizzy","Beach Bums🌴","Stef Ding","Sean Brown","Ethan Groover","Morgan Bruce",21,13
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","MAD Jelly","Murray Hilltop Spikes","Coleman Epperson","Ali Jenki","Skylar Regan","Max Model",21,19
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Ding around the Rosie","Coup de Tête","Tiff Ding","Kieran Rose","Ben Savage","Emma Angeletti",14,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Mixed Signals","That was too easy","Etienne Cote","Katie Pierson","Kyle Ackermann","Teddi Lesoine",21,16
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Demon time","Flugelhorn","Shonda Couroux","Adrian Garcea","Meagan Bown","Tommy Drake",12,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","B-Olivia","Jawdroppers","Olivia Jenki","David Gonzales","Sarah Allen","Christian Bennett",14,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Pool","Scott/Rafa","stizzy","Rafaela Bastos","Scott Beeks","Stef Ding","Sean Brown",19,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Jawdroppers","Two Thumbs Up","Sarah Allen","Christian Bennett","Dom Orlando","Nicole Orlando",21,10
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Jawdroppers","Two Thumbs Up","Sarah Allen","Christian Bennett","Dom Orlando","Nicole Orlando",21,17
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","That was too easy","choppa and the stick","Kyle Ackermann","Teddi Lesoine","Jared Beaufait","Liz Gormley",18,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","That was too easy","choppa and the stick","Kyle Ackermann","Teddi Lesoine","Jared Beaufait","Liz Gormley",21,13
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","That was too easy","choppa and the stick","Kyle Ackermann","Teddi Lesoine","Jared Beaufait","Liz Gormley",21,17
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Coup de Tête","Beach Bums🌴","Ben Savage","Emma Angeletti","Ethan Groover","Morgan Bruce",21,11
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Coup de Tête","Beach Bums🌴","Ben Savage","Emma Angeletti","Ethan Groover","Morgan Bruce",22,20
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","MAD Jelly","Demon time","Coleman Epperson","Ali Jenki","Shonda Couroux","Adrian Garcea",1,0
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","MAD Jelly","Demon time","Coleman Epperson","Ali Jenki","Shonda Couroux","Adrian Garcea",1,0
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Ding around the Rosie","Murray Hilltop Spikes","Tiff Ding","Kieran Rose","Skylar Regan","Max Model",21,10
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Ding around the Rosie","Murray Hilltop Spikes","Tiff Ding","Kieran Rose","Skylar Regan","Max Model",24,22
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","stizzy","Flugelhorn","Stef Ding","Sean Brown","Meagan Bown","Tommy Drake",23,25
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","stizzy","Flugelhorn","Stef Ding","Sean Brown","Meagan Bown","Tommy Drake",17,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Scott/Rafa","B-Olivia","Rafaela Bastos","Scott Beeks","Olivia Jenki","David Gonzales",21,19
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Scott/Rafa","B-Olivia","Rafaela Bastos","Scott Beeks","Olivia Jenki","David Gonzales",17,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Round of 16","Scott/Rafa","B-Olivia","Rafaela Bastos","Scott Beeks","Olivia Jenki","David Gonzales",17,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","Mixed Signals","B-Olivia","Etienne Cote","Katie Pierson","Olivia Jenki","David Gonzales",18,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","Mixed Signals","B-Olivia","Etienne Cote","Katie Pierson","Olivia Jenki","David Gonzales",21,17
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","Mixed Signals","B-Olivia","Etienne Cote","Katie Pierson","Olivia Jenki","David Gonzales",21,17
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","Jawdroppers","Flugelhorn","Sarah Allen","Christian Bennett","Meagan Bown","Tommy Drake",21,14
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","Jawdroppers","Flugelhorn","Sarah Allen","Christian Bennett","Meagan Bown","Tommy Drake",18,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","Jawdroppers","Flugelhorn","Sarah Allen","Christian Bennett","Meagan Bown","Tommy Drake",21,11
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","That was too easy","Ding around the Rosie","Kyle Ackermann","Teddi Lesoine","Tiff Ding","Kieran Rose",21,19
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","That was too easy","Ding around the Rosie","Kyle Ackermann","Teddi Lesoine","Tiff Ding","Kieran Rose",21,15
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","Coup de Tête","MAD Jelly","Ben Savage","Emma Angeletti","Coleman Epperson","Ali Jenki",15,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Quarter-final","Coup de Tête","MAD Jelly","Ben Savage","Emma Angeletti","Coleman Epperson","Ali Jenki",19,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Quarter-final","stizzy","Two Thumbs Up","Stef Ding","Sean Brown","Dom Orlando","Nicole Orlando",0,1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Quarter-final","stizzy","Two Thumbs Up","Stef Ding","Sean Brown","Dom Orlando","Nicole Orlando",0,1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Quarter-final","Murray Hilltop Spikes","choppa and the stick","Skylar Regan","Max Model","Jared Beaufait","Liz Gormley",20,22
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Quarter-final","Murray Hilltop Spikes","choppa and the stick","Skylar Regan","Max Model","Jared Beaufait","Liz Gormley",0,1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Quarter-final","Demon time","Beach Bums🌴","Shonda Couroux","Adrian Garcea","Ethan Groover","Morgan Bruce",0,1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Quarter-final","Demon time","Beach Bums🌴","Shonda Couroux","Adrian Garcea","Ethan Groover","Morgan Bruce",0,1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Semi-final","Mixed Signals","MAD Jelly","Etienne Cote","Katie Pierson","Coleman Epperson","Ali Jenki",21,18
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Semi-final","Mixed Signals","MAD Jelly","Etienne Cote","Katie Pierson","Coleman Epperson","Ali Jenki",21,16
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Semi-final","Jawdroppers","That was too easy","Sarah Allen","Christian Bennett","Kyle Ackermann","Teddi Lesoine",21,18
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Semi-final","Jawdroppers","That was too easy","Sarah Allen","Christian Bennett","Kyle Ackermann","Teddi Lesoine",21,17
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Semi-final","Scott/Rafa","Beach Bums🌴","Rafaela Bastos","Scott Beeks","Ethan Groover","Morgan Bruce",21,17
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Semi-final","Scott/Rafa","Beach Bums🌴","Rafaela Bastos","Scott Beeks","Ethan Groover","Morgan Bruce",21,15
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Semi-final","Two Thumbs Up","choppa and the stick","Dom Orlando","Nicole Orlando","Jared Beaufait","Liz Gormley",0,1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Semi-final","Two Thumbs Up","choppa and the stick","Dom Orlando","Nicole Orlando","Jared Beaufait","Liz Gormley",0,1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Final","Mixed Signals","Jawdroppers","Etienne Cote","Katie Pierson","Sarah Allen","Christian Bennett",21,19
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Final","Mixed Signals","Jawdroppers","Etienne Cote","Katie Pierson","Sarah Allen","Christian Bennett",18,21
-"fl-roundnet-open-23","Mixed Advanced (4.5)","Final","Mixed Signals","Jawdroppers","Etienne Cote","Katie Pierson","Sarah Allen","Christian Bennett",21,16
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P3: Final","That was too easy","MAD Jelly","Kyle Ackermann","Teddi Lesoine","Coleman Epperson","Ali Jenki",0,-1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P3: Final","That was too easy","MAD Jelly","Kyle Ackermann","Teddi Lesoine","Coleman Epperson","Ali Jenki",0,-1
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Final","Scott/Rafa","choppa and the stick","Rafaela Bastos","Scott Beeks","Jared Beaufait","Liz Gormley",21,19
-"fl-roundnet-open-23","Mixed Advanced (4.5)","P9: Final","Scott/Rafa","choppa and the stick","Rafaela Bastos","Scott Beeks","Jared Beaufait","Liz Gormley",21,17
+tourney,Division,Round,Team1,Team2,T1P1,T1P2,T2P1,T2P2,t1score,t2score
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Net Ninjas,Blue Bulls,Max Wagner,Daniel Gonzalez,Aidan Hilson,Maximilian Fido,21.0,10.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,[HRN] Shenanigans,Primal Instinct ,Kelvin Xiao,Cesar Escalante,Eddie Moquete,Patrick Fazzio,21.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,visor bois,[HRN] Cricket Wireless,Paul Smith,James Lightner,Nicole Hernandez,Alejandro Sosa,21.0,12.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Mello Yello,Mirinda,John Gomez,Brandon Depara,Evan Karcher,Frederik Hardervig,17.0,19.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,2GAS Spikeball,Thicky Spike Boys,Jacob Carver,Blaine Roberts,Benjamin Disse,Samuel Salazar,13.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Spilled Milk,BangBros,Michael Mondestin,Owen Polewitch,Chris Perez,Gary Balderas,15.0,5.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Net Ninjas,Primal Instinct ,Max Wagner,Daniel Gonzalez,Eddie Moquete,Patrick Fazzio,21.0,16.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,[HRN] Shenanigans,visor bois,Kelvin Xiao,Cesar Escalante,Paul Smith,James Lightner,18.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,[HRN] Cricket Wireless,Blue Bulls,Nicole Hernandez,Alejandro Sosa,Aidan Hilson,Maximilian Fido,21.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Mello Yello,Thicky Spike Boys,John Gomez,Brandon Depara,Benjamin Disse,Samuel Salazar,15.0,7.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,2GAS Spikeball,Spiked U thought,Jacob Carver,Blaine Roberts,Gabe Ramundo,Grace Yount,15.0,10.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,BangBros,Mirinda,Chris Perez,Gary Balderas,Evan Karcher,Frederik Hardervig,12.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Net Ninjas,[HRN] Cricket Wireless,Max Wagner,Daniel Gonzalez,Nicole Hernandez,Alejandro Sosa,21.0,14.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,[HRN] Shenanigans,Blue Bulls,Kelvin Xiao,Cesar Escalante,Aidan Hilson,Maximilian Fido,21.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,visor bois,Primal Instinct ,Paul Smith,James Lightner,Eddie Moquete,Patrick Fazzio,21.0,7.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Mello Yello,BangBros,John Gomez,Brandon Depara,Chris Perez,Gary Balderas,15.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,2GAS Spikeball,Spilled Milk,Jacob Carver,Blaine Roberts,Michael Mondestin,Owen Polewitch,15.0,9.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Spiked U thought,Thicky Spike Boys,Gabe Ramundo,Grace Yount,Benjamin Disse,Samuel Salazar,12.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Net Ninjas,visor bois,Max Wagner,Daniel Gonzalez,Paul Smith,James Lightner,10.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,[HRN] Shenanigans,[HRN] Cricket Wireless,Kelvin Xiao,Cesar Escalante,Nicole Hernandez,Alejandro Sosa,21.0,18.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Primal Instinct ,Blue Bulls,Eddie Moquete,Patrick Fazzio,Aidan Hilson,Maximilian Fido,19.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Mello Yello,Spiked U thought,John Gomez,Brandon Depara,Gabe Ramundo,Grace Yount,15.0,6.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,2GAS Spikeball,Mirinda,Jacob Carver,Blaine Roberts,Evan Karcher,Frederik Hardervig,13.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Spilled Milk,Thicky Spike Boys,Michael Mondestin,Owen Polewitch,Benjamin Disse,Samuel Salazar,15.0,8.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Net Ninjas,[HRN] Shenanigans,Max Wagner,Daniel Gonzalez,Kelvin Xiao,Cesar Escalante,14.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,visor bois,Blue Bulls,Paul Smith,James Lightner,Aidan Hilson,Maximilian Fido,21.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,[HRN] Cricket Wireless,Primal Instinct ,Nicole Hernandez,Alejandro Sosa,Eddie Moquete,Patrick Fazzio,21.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,2GAS Spikeball,BangBros,Jacob Carver,Blaine Roberts,Chris Perez,Gary Balderas,12.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Spilled Milk,Spiked U thought,Michael Mondestin,Owen Polewitch,Gabe Ramundo,Grace Yount,15.0,9.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Thicky Spike Boys,Mirinda,Benjamin Disse,Samuel Salazar,Evan Karcher,Frederik Hardervig,8.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Mello Yello,Spilled Milk,John Gomez,Brandon Depara,Michael Mondestin,Owen Polewitch,15.0,13.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Spiked U thought,Mirinda,Gabe Ramundo,Grace Yount,Evan Karcher,Frederik Hardervig,13.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,BangBros,Thicky Spike Boys,Chris Perez,Gary Balderas,Benjamin Disse,Samuel Salazar,15.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Mello Yello,2GAS Spikeball,John Gomez,Brandon Depara,Jacob Carver,Blaine Roberts,15.0,7.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Spilled Milk,Mirinda,Michael Mondestin,Owen Polewitch,Evan Karcher,Frederik Hardervig,15.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Pool,Spiked U thought,BangBros,Gabe Ramundo,Grace Yount,Chris Perez,Gary Balderas,12.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,Mirinda,Spiked U thought,Evan Karcher,Frederik Hardervig,Gabe Ramundo,Grace Yount,21.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,Mirinda,Spiked U thought,Evan Karcher,Frederik Hardervig,Gabe Ramundo,Grace Yount,21.0,8.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,Spilled Milk,Primal Instinct ,Michael Mondestin,Owen Polewitch,Eddie Moquete,Patrick Fazzio,16.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,Spilled Milk,Primal Instinct ,Michael Mondestin,Owen Polewitch,Eddie Moquete,Patrick Fazzio,12.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,Net Ninjas,Blue Bulls,Max Wagner,Daniel Gonzalez,Aidan Hilson,Maximilian Fido,21.0,17.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,Net Ninjas,Blue Bulls,Max Wagner,Daniel Gonzalez,Aidan Hilson,Maximilian Fido,21.0,19.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,[HRN] Cricket Wireless,Thicky Spike Boys,Nicole Hernandez,Alejandro Sosa,Benjamin Disse,Samuel Salazar,21.0,12.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,[HRN] Cricket Wireless,Thicky Spike Boys,Nicole Hernandez,Alejandro Sosa,Benjamin Disse,Samuel Salazar,21.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,BangBros,2GAS Spikeball,Chris Perez,Gary Balderas,Jacob Carver,Blaine Roberts,21.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Round of 16,BangBros,2GAS Spikeball,Chris Perez,Gary Balderas,Jacob Carver,Blaine Roberts,21.0,19.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Quarter-final,visor bois,BangBros,Paul Smith,James Lightner,Chris Perez,Gary Balderas,21.0,11.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Quarter-final,visor bois,BangBros,Paul Smith,James Lightner,Chris Perez,Gary Balderas,21.0,12.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Quarter-final,Mello Yello,[HRN] Cricket Wireless,John Gomez,Brandon Depara,Nicole Hernandez,Alejandro Sosa,21.0,18.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Quarter-final,Mello Yello,[HRN] Cricket Wireless,John Gomez,Brandon Depara,Nicole Hernandez,Alejandro Sosa,24.0,22.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Quarter-final,[HRN] Shenanigans,Net Ninjas,Kelvin Xiao,Cesar Escalante,Max Wagner,Daniel Gonzalez,22.0,20.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Quarter-final,[HRN] Shenanigans,Net Ninjas,Kelvin Xiao,Cesar Escalante,Max Wagner,Daniel Gonzalez,21.0,18.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Quarter-final,Mirinda,Primal Instinct ,Evan Karcher,Frederik Hardervig,Eddie Moquete,Patrick Fazzio,21.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Quarter-final,Mirinda,Primal Instinct ,Evan Karcher,Frederik Hardervig,Eddie Moquete,Patrick Fazzio,21.0,17.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Quarter-final,Spilled Milk,Spiked U thought,Michael Mondestin,Owen Polewitch,Gabe Ramundo,Grace Yount,21.0,6.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Quarter-final,Spilled Milk,Spiked U thought,Michael Mondestin,Owen Polewitch,Gabe Ramundo,Grace Yount,21.0,16.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Semi-final,visor bois,Mirinda,Paul Smith,James Lightner,Evan Karcher,Frederik Hardervig,21.0,9.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Semi-final,visor bois,Mirinda,Paul Smith,James Lightner,Evan Karcher,Frederik Hardervig,21.0,16.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Semi-final,Mello Yello,[HRN] Shenanigans,John Gomez,Brandon Depara,Kelvin Xiao,Cesar Escalante,21.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Semi-final,Mello Yello,[HRN] Shenanigans,John Gomez,Brandon Depara,Kelvin Xiao,Cesar Escalante,22.0,20.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P5: Semi-final,Primal Instinct ,BangBros,Eddie Moquete,Patrick Fazzio,Chris Perez,Gary Balderas,0.0,1.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P5: Semi-final,Primal Instinct ,BangBros,Eddie Moquete,Patrick Fazzio,Chris Perez,Gary Balderas,0.0,1.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P5: Semi-final,Net Ninjas,[HRN] Cricket Wireless,Max Wagner,Daniel Gonzalez,Nicole Hernandez,Alejandro Sosa,23.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P5: Semi-final,Net Ninjas,[HRN] Cricket Wireless,Max Wagner,Daniel Gonzalez,Nicole Hernandez,Alejandro Sosa,21.0,19.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P5: Semi-final,Net Ninjas,[HRN] Cricket Wireless,Max Wagner,Daniel Gonzalez,Nicole Hernandez,Alejandro Sosa,18.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Semi-final,2GAS Spikeball,Spilled Milk,Jacob Carver,Blaine Roberts,Michael Mondestin,Owen Polewitch,0.0,1.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Semi-final,2GAS Spikeball,Spilled Milk,Jacob Carver,Blaine Roberts,Michael Mondestin,Owen Polewitch,0.0,1.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Semi-final,Thicky Spike Boys,Blue Bulls,Benjamin Disse,Samuel Salazar,Aidan Hilson,Maximilian Fido,15.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Semi-final,Thicky Spike Boys,Blue Bulls,Benjamin Disse,Samuel Salazar,Aidan Hilson,Maximilian Fido,17.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Final,visor bois,Mello Yello,Paul Smith,James Lightner,John Gomez,Brandon Depara,0.0,1.0
+fl-roundnet-open-23,Intermediate (Open 3.0),Final,visor bois,Mello Yello,Paul Smith,James Lightner,John Gomez,Brandon Depara,0.0,1.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P3: Final,[HRN] Shenanigans,Mirinda,Kelvin Xiao,Cesar Escalante,Evan Karcher,Frederik Hardervig,21.0,23.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P3: Final,[HRN] Shenanigans,Mirinda,Kelvin Xiao,Cesar Escalante,Evan Karcher,Frederik Hardervig,21.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P3: Final,[HRN] Shenanigans,Mirinda,Kelvin Xiao,Cesar Escalante,Evan Karcher,Frederik Hardervig,19.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P5: Final,BangBros,Net Ninjas,Chris Perez,Gary Balderas,Max Wagner,Daniel Gonzalez,10.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P5: Final,BangBros,Net Ninjas,Chris Perez,Gary Balderas,Max Wagner,Daniel Gonzalez,10.0,15.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P7: Final,[HRN] Cricket Wireless,Primal Instinct ,Nicole Hernandez,Alejandro Sosa,Eddie Moquete,Patrick Fazzio,1.0,0.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P7: Final,[HRN] Cricket Wireless,Primal Instinct ,Nicole Hernandez,Alejandro Sosa,Eddie Moquete,Patrick Fazzio,1.0,0.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Final,Spilled Milk,Blue Bulls,Michael Mondestin,Owen Polewitch,Aidan Hilson,Maximilian Fido,18.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Final,Spilled Milk,Blue Bulls,Michael Mondestin,Owen Polewitch,Aidan Hilson,Maximilian Fido,16.0,21.0
+fl-roundnet-open-23,Intermediate (Open 3.0),P9: Final,Spilled Milk,Blue Bulls,Michael Mondestin,Owen Polewitch,Aidan Hilson,Maximilian Fido,22.0,20.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Round 2 #notkayne,Cutting Season,Alex Cook,Benjamin Goldfarb,Chris Loubert,Aquila Lee,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Black Lotus,S.O.S,Josh DiDonato,Ant Terrigno,Christien Ward,Willie Rowland,21.0,11.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Rim Reapers,Impeccable,Kyle Fowler,Grant Marshall,Pierre-André Gaumond,Charles Desgens,22.0,20.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Big Z is Back,Mash Potatoes,Ryan Baillargeon,Molly Miles,Nilo Buan,Colin Harrington,23.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Terrible Internship Locations,The Barber Shop,Griffin Sisk,Stephen Jones,Jacob Stewart,Wyatt Koth,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Backpackers,some jitties ,Brian Perlson,Tim Daudelin,Rishab Jain,Jacob Narayan,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Y’all spike eh?,Sauerkraut,Ian Austin,Nick Wideman,Joshua Travis,Timo Lorenzen,21.0,16.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Thoughtless,Bundy/Felty,Alex Fox,Patricio Duran,Andrew Felty,Gray Bundy,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,2004 Toyota Corolla,Nic Sick 💨,Joshua Mollineda,Derek McRea,Guidzag Kassabian,spencer Katepalli,21.0,9.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,E10,Ace in our Veins,Daniel Haungs,Bradley Clark,Jaden DeJesus,Kyle Samrajit,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Cola Boys,IPS Spike,Riley Williamson,Allen Ombougno,Gresham White,Elliot Paul,21.0,15.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Eppes/Randall,Juicy J's,Sam Randall,Bransen Eppes,Joshua Calderon,Jose Morales,21.0,6.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,PJ and Les,Drink Prime,Paraj Patel,Leslie Nguyen,Alexander Gonzalez,Ryan Hart,12.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Round 2 #notkayne,S.O.S,Alex Cook,Benjamin Goldfarb,Christien Ward,Willie Rowland,21.0,14.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Nate B-Rent,Cutting Season,Nathan Benjamin,Brent Summers,Chris Loubert,Aquila Lee,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Rim Reapers,Mash Potatoes,Kyle Fowler,Grant Marshall,Nilo Buan,Colin Harrington,21.0,7.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Farm Boys,Impeccable,Nathan Montgomery,Ryan Montgomery,Pierre-André Gaumond,Charles Desgens,15.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Terrible Internship Locations,some jitties ,Griffin Sisk,Stephen Jones,Rishab Jain,Jacob Narayan,21.0,14.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,[HRN] Jammin',The Barber Shop,Larkin Sharpe,Daniel Sánchez,Jacob Stewart,Wyatt Koth,21.0,17.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Y’all spike eh?,Bundy/Felty,Ian Austin,Nick Wideman,Andrew Felty,Gray Bundy,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Net Gains,Sauerkraut,Jack Duffy,Zachery Geist,Joshua Travis,Timo Lorenzen,12.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,2004 Toyota Corolla,Ace in our Veins,Joshua Mollineda,Derek McRea,Jaden DeJesus,Kyle Samrajit,21.0,11.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,UT Tractors,Nic Sick 💨,Sam Buytaert,Tyler Griffin,Guidzag Kassabian,spencer Katepalli,13.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Cola Boys,Juicy J's,Riley Williamson,Allen Ombougno,Joshua Calderon,Jose Morales,21.0,16.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Eppes/Randall,PJ and Les,Sam Randall,Bransen Eppes,Paraj Patel,Leslie Nguyen,21.0,10.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Drink Prime,IPS Spike,Alexander Gonzalez,Ryan Hart,Gresham White,Elliot Paul,21.0,11.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Round 2 #notkayne,Nate B-Rent,Alex Cook,Benjamin Goldfarb,Nathan Benjamin,Brent Summers,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Black Lotus,Cutting Season,Josh DiDonato,Ant Terrigno,Chris Loubert,Aquila Lee,22.0,24.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Rim Reapers,Farm Boys,Kyle Fowler,Grant Marshall,Nathan Montgomery,Ryan Montgomery,21.0,13.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Big Z is Back,Impeccable,Ryan Baillargeon,Molly Miles,Pierre-André Gaumond,Charles Desgens,15.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Terrible Internship Locations,[HRN] Jammin',Griffin Sisk,Stephen Jones,Larkin Sharpe,Daniel Sánchez,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Backpackers,The Barber Shop,Brian Perlson,Tim Daudelin,Jacob Stewart,Wyatt Koth,21.0,11.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Y’all spike eh?,Net Gains,Ian Austin,Nick Wideman,Jack Duffy,Zachery Geist,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Thoughtless,Sauerkraut,Alex Fox,Patricio Duran,Joshua Travis,Timo Lorenzen,17.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,2004 Toyota Corolla,UT Tractors,Joshua Mollineda,Derek McRea,Sam Buytaert,Tyler Griffin,21.0,9.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,E10,Nic Sick 💨,Daniel Haungs,Bradley Clark,Guidzag Kassabian,spencer Katepalli,21.0,11.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Cola Boys,Drink Prime,Riley Williamson,Allen Ombougno,Alexander Gonzalez,Ryan Hart,25.0,24.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Eppes/Randall,IPS Spike,Sam Randall,Bransen Eppes,Gresham White,Elliot Paul,21.0,6.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,PJ and Les,Juicy J's,Paraj Patel,Leslie Nguyen,Joshua Calderon,Jose Morales,21.0,16.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Black Lotus,Nate B-Rent,Josh DiDonato,Ant Terrigno,Nathan Benjamin,Brent Summers,13.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,S.O.S,Cutting Season,Christien Ward,Willie Rowland,Chris Loubert,Aquila Lee,13.0,22.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Big Z is Back,Farm Boys,Ryan Baillargeon,Molly Miles,Nathan Montgomery,Ryan Montgomery,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Mash Potatoes,Impeccable,Nilo Buan,Colin Harrington,Pierre-André Gaumond,Charles Desgens,16.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Backpackers,[HRN] Jammin',Brian Perlson,Tim Daudelin,Larkin Sharpe,Daniel Sánchez,18.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,some jitties ,The Barber Shop,Rishab Jain,Jacob Narayan,Jacob Stewart,Wyatt Koth,21.0,11.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Thoughtless,Net Gains,Alex Fox,Patricio Duran,Jack Duffy,Zachery Geist,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Bundy/Felty,Sauerkraut,Andrew Felty,Gray Bundy,Joshua Travis,Timo Lorenzen,12.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,E10,UT Tractors,Daniel Haungs,Bradley Clark,Sam Buytaert,Tyler Griffin,21.0,9.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Ace in our Veins,Nic Sick 💨,Jaden DeJesus,Kyle Samrajit,Guidzag Kassabian,spencer Katepalli,18.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Cola Boys,PJ and Les,Riley Williamson,Allen Ombougno,Paraj Patel,Leslie Nguyen,21.0,9.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Eppes/Randall,Drink Prime,Sam Randall,Bransen Eppes,Alexander Gonzalez,Ryan Hart,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Juicy J's,IPS Spike,Joshua Calderon,Jose Morales,Gresham White,Elliot Paul,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Round 2 #notkayne,Black Lotus,Alex Cook,Benjamin Goldfarb,Josh DiDonato,Ant Terrigno,21.0,14.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Nate B-Rent,S.O.S,Nathan Benjamin,Brent Summers,Christien Ward,Willie Rowland,21.0,13.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Rim Reapers,Big Z is Back,Kyle Fowler,Grant Marshall,Ryan Baillargeon,Molly Miles,21.0,16.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Farm Boys,Mash Potatoes,Nathan Montgomery,Ryan Montgomery,Nilo Buan,Colin Harrington,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Terrible Internship Locations,Backpackers,Griffin Sisk,Stephen Jones,Brian Perlson,Tim Daudelin,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,[HRN] Jammin',some jitties ,Larkin Sharpe,Daniel Sánchez,Rishab Jain,Jacob Narayan,24.0,22.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Y’all spike eh?,Thoughtless,Ian Austin,Nick Wideman,Alex Fox,Patricio Duran,21.0,15.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Net Gains,Bundy/Felty,Jack Duffy,Zachery Geist,Andrew Felty,Gray Bundy,18.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,2004 Toyota Corolla,E10,Joshua Mollineda,Derek McRea,Daniel Haungs,Bradley Clark,16.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,UT Tractors,Ace in our Veins,Sam Buytaert,Tyler Griffin,Jaden DeJesus,Kyle Samrajit,17.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Cola Boys,Eppes/Randall,Riley Williamson,Allen Ombougno,Sam Randall,Bransen Eppes,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,PJ and Les,IPS Spike,Paraj Patel,Leslie Nguyen,Gresham White,Elliot Paul,21.0,17.0
+fl-roundnet-open-23,Contender (Open 4.5),Pool,Drink Prime,Juicy J's,Alexander Gonzalez,Ryan Hart,Joshua Calderon,Jose Morales,21.0,14.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Rim Reapers,IPS Spike,Kyle Fowler,Grant Marshall,Gresham White,Elliot Paul,21.0,15.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Rim Reapers,IPS Spike,Kyle Fowler,Grant Marshall,Gresham White,Elliot Paul,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Terrible Internship Locations,UT Tractors,Griffin Sisk,Stephen Jones,Sam Buytaert,Tyler Griffin,21.0,8.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Terrible Internship Locations,UT Tractors,Griffin Sisk,Stephen Jones,Sam Buytaert,Tyler Griffin,21.0,15.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Y’all spike eh?,S.O.S,Ian Austin,Nick Wideman,Christien Ward,Willie Rowland,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Y’all spike eh?,S.O.S,Ian Austin,Nick Wideman,Christien Ward,Willie Rowland,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Cola Boys,Mash Potatoes,Riley Williamson,Allen Ombougno,Nilo Buan,Colin Harrington,17.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Cola Boys,Mash Potatoes,Riley Williamson,Allen Ombougno,Nilo Buan,Colin Harrington,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Cola Boys,Mash Potatoes,Riley Williamson,Allen Ombougno,Nilo Buan,Colin Harrington,21.0,17.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Round 2 #notkayne,The Barber Shop,Alex Cook,Benjamin Goldfarb,Jacob Stewart,Wyatt Koth,21.0,3.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Round 2 #notkayne,The Barber Shop,Alex Cook,Benjamin Goldfarb,Jacob Stewart,Wyatt Koth,1000.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Eppes/Randall,Juicy J's,Sam Randall,Bransen Eppes,Joshua Calderon,Jose Morales,21.0,9.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Eppes/Randall,Juicy J's,Sam Randall,Bransen Eppes,Joshua Calderon,Jose Morales,21.0,13.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,2004 Toyota Corolla,Net Gains,Joshua Mollineda,Derek McRea,Jack Duffy,Zachery Geist,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,2004 Toyota Corolla,Net Gains,Joshua Mollineda,Derek McRea,Jack Duffy,Zachery Geist,17.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,2004 Toyota Corolla,Net Gains,Joshua Mollineda,Derek McRea,Jack Duffy,Zachery Geist,19.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Nate B-Rent,PJ and Les,Nathan Benjamin,Brent Summers,Paraj Patel,Leslie Nguyen,21.0,16.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Nate B-Rent,PJ and Les,Nathan Benjamin,Brent Summers,Paraj Patel,Leslie Nguyen,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Sauerkraut,Bundy/Felty,Joshua Travis,Timo Lorenzen,Andrew Felty,Gray Bundy,21.0,9.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Sauerkraut,Bundy/Felty,Joshua Travis,Timo Lorenzen,Andrew Felty,Gray Bundy,21.0,15.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Impeccable,Ace in our Veins,Pierre-André Gaumond,Charles Desgens,Jaden DeJesus,Kyle Samrajit,21.0,14.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Impeccable,Ace in our Veins,Pierre-André Gaumond,Charles Desgens,Jaden DeJesus,Kyle Samrajit,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,[HRN] Jammin',Farm Boys,Larkin Sharpe,Daniel Sánchez,Nathan Montgomery,Ryan Montgomery,17.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,[HRN] Jammin',Farm Boys,Larkin Sharpe,Daniel Sánchez,Nathan Montgomery,Ryan Montgomery,19.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Drink Prime,Black Lotus,Alexander Gonzalez,Ryan Hart,Josh DiDonato,Ant Terrigno,13.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Drink Prime,Black Lotus,Alexander Gonzalez,Ryan Hart,Josh DiDonato,Ant Terrigno,15.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Backpackers,some jitties ,Brian Perlson,Tim Daudelin,Rishab Jain,Jacob Narayan,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Backpackers,some jitties ,Brian Perlson,Tim Daudelin,Rishab Jain,Jacob Narayan,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Cutting Season,Nic Sick 💨,Chris Loubert,Aquila Lee,Guidzag Kassabian,spencer Katepalli,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Cutting Season,Nic Sick 💨,Chris Loubert,Aquila Lee,Guidzag Kassabian,spencer Katepalli,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Thoughtless,Big Z is Back,Alex Fox,Patricio Duran,Ryan Baillargeon,Molly Miles,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Thoughtless,Big Z is Back,Alex Fox,Patricio Duran,Ryan Baillargeon,Molly Miles,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 32,Thoughtless,Big Z is Back,Alex Fox,Patricio Duran,Ryan Baillargeon,Molly Miles,16.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,E10,Thoughtless,Daniel Haungs,Bradley Clark,Alex Fox,Patricio Duran,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,E10,Thoughtless,Daniel Haungs,Bradley Clark,Alex Fox,Patricio Duran,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,E10,Thoughtless,Daniel Haungs,Bradley Clark,Alex Fox,Patricio Duran,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Rim Reapers,Cutting Season,Kyle Fowler,Grant Marshall,Chris Loubert,Aquila Lee,21.0,16.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Rim Reapers,Cutting Season,Kyle Fowler,Grant Marshall,Chris Loubert,Aquila Lee,21.0,12.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Rim Reapers,Cutting Season,Kyle Fowler,Grant Marshall,Chris Loubert,Aquila Lee,19.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Terrible Internship Locations,Backpackers,Griffin Sisk,Stephen Jones,Brian Perlson,Tim Daudelin,21.0,16.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Terrible Internship Locations,Backpackers,Griffin Sisk,Stephen Jones,Brian Perlson,Tim Daudelin,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Y’all spike eh?,Black Lotus,Ian Austin,Nick Wideman,Josh DiDonato,Ant Terrigno,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Y’all spike eh?,Black Lotus,Ian Austin,Nick Wideman,Josh DiDonato,Ant Terrigno,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Cola Boys,Farm Boys,Riley Williamson,Allen Ombougno,Nathan Montgomery,Ryan Montgomery,21.0,19.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Cola Boys,Farm Boys,Riley Williamson,Allen Ombougno,Nathan Montgomery,Ryan Montgomery,19.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Cola Boys,Farm Boys,Riley Williamson,Allen Ombougno,Nathan Montgomery,Ryan Montgomery,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Round 2 #notkayne,Impeccable,Alex Cook,Benjamin Goldfarb,Pierre-André Gaumond,Charles Desgens,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Round 2 #notkayne,Impeccable,Alex Cook,Benjamin Goldfarb,Pierre-André Gaumond,Charles Desgens,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Eppes/Randall,Sauerkraut,Sam Randall,Bransen Eppes,Joshua Travis,Timo Lorenzen,16.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Eppes/Randall,Sauerkraut,Sam Randall,Bransen Eppes,Joshua Travis,Timo Lorenzen,18.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Net Gains,Nate B-Rent,Jack Duffy,Zachery Geist,Nathan Benjamin,Brent Summers,24.0,22.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Net Gains,Nate B-Rent,Jack Duffy,Zachery Geist,Nathan Benjamin,Brent Summers,18.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Round of 16,Net Gains,Nate B-Rent,Jack Duffy,Zachery Geist,Nathan Benjamin,Brent Summers,21.0,14.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,Nic Sick 💨,IPS Spike,Guidzag Kassabian,spencer Katepalli,Gresham White,Elliot Paul,13.0,15.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,Nic Sick 💨,IPS Spike,Guidzag Kassabian,spencer Katepalli,Gresham White,Elliot Paul,10.0,15.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,some jitties ,UT Tractors,Rishab Jain,Jacob Narayan,Sam Buytaert,Tyler Griffin,0.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,some jitties ,UT Tractors,Rishab Jain,Jacob Narayan,Sam Buytaert,Tyler Griffin,0.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,Drink Prime,S.O.S,Alexander Gonzalez,Ryan Hart,Christien Ward,Willie Rowland,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,Drink Prime,S.O.S,Alexander Gonzalez,Ryan Hart,Christien Ward,Willie Rowland,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,[HRN] Jammin',Mash Potatoes,Larkin Sharpe,Daniel Sánchez,Nilo Buan,Colin Harrington,24.0,22.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,[HRN] Jammin',Mash Potatoes,Larkin Sharpe,Daniel Sánchez,Nilo Buan,Colin Harrington,21.0,13.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,Ace in our Veins,The Barber Shop,Jaden DeJesus,Kyle Samrajit,Jacob Stewart,Wyatt Koth,9.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,Ace in our Veins,The Barber Shop,Jaden DeJesus,Kyle Samrajit,Jacob Stewart,Wyatt Koth,14.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,Bundy/Felty,Juicy J's,Andrew Felty,Gray Bundy,Joshua Calderon,Jose Morales,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,Bundy/Felty,Juicy J's,Andrew Felty,Gray Bundy,Joshua Calderon,Jose Morales,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,PJ and Les,2004 Toyota Corolla,Paraj Patel,Leslie Nguyen,Joshua Mollineda,Derek McRea,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Round of 16,PJ and Les,2004 Toyota Corolla,Paraj Patel,Leslie Nguyen,Joshua Mollineda,Derek McRea,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,E10,Net Gains,Daniel Haungs,Bradley Clark,Jack Duffy,Zachery Geist,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,E10,Net Gains,Daniel Haungs,Bradley Clark,Jack Duffy,Zachery Geist,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,Rim Reapers,Sauerkraut,Kyle Fowler,Grant Marshall,Joshua Travis,Timo Lorenzen,13.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,Rim Reapers,Sauerkraut,Kyle Fowler,Grant Marshall,Joshua Travis,Timo Lorenzen,21.0,17.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,Rim Reapers,Sauerkraut,Kyle Fowler,Grant Marshall,Joshua Travis,Timo Lorenzen,19.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,Terrible Internship Locations,Round 2 #notkayne,Griffin Sisk,Stephen Jones,Alex Cook,Benjamin Goldfarb,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,Terrible Internship Locations,Round 2 #notkayne,Griffin Sisk,Stephen Jones,Alex Cook,Benjamin Goldfarb,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,Y’all spike eh?,Cola Boys,Ian Austin,Nick Wideman,Riley Williamson,Allen Ombougno,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Quarter-final,Y’all spike eh?,Cola Boys,Ian Austin,Nick Wideman,Riley Williamson,Allen Ombougno,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Nate B-Rent,Thoughtless,Nathan Benjamin,Brent Summers,Alex Fox,Patricio Duran,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Nate B-Rent,Thoughtless,Nathan Benjamin,Brent Summers,Alex Fox,Patricio Duran,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Eppes/Randall,Cutting Season,Sam Randall,Bransen Eppes,Chris Loubert,Aquila Lee,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Eppes/Randall,Cutting Season,Sam Randall,Bransen Eppes,Chris Loubert,Aquila Lee,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Eppes/Randall,Cutting Season,Sam Randall,Bransen Eppes,Chris Loubert,Aquila Lee,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Impeccable,Backpackers,Pierre-André Gaumond,Charles Desgens,Brian Perlson,Tim Daudelin,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Impeccable,Backpackers,Pierre-André Gaumond,Charles Desgens,Brian Perlson,Tim Daudelin,18.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Farm Boys,Black Lotus,Nathan Montgomery,Ryan Montgomery,Josh DiDonato,Ant Terrigno,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Quarter-final,Farm Boys,Black Lotus,Nathan Montgomery,Ryan Montgomery,Josh DiDonato,Ant Terrigno,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Quarter-final,Big Z is Back,2004 Toyota Corolla,Ryan Baillargeon,Molly Miles,Joshua Mollineda,Derek McRea,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Quarter-final,Big Z is Back,2004 Toyota Corolla,Ryan Baillargeon,Molly Miles,Joshua Mollineda,Derek McRea,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Quarter-final,IPS Spike,Bundy/Felty,Gresham White,Elliot Paul,Andrew Felty,Gray Bundy,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Quarter-final,IPS Spike,Bundy/Felty,Gresham White,Elliot Paul,Andrew Felty,Gray Bundy,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Quarter-final,UT Tractors,The Barber Shop,Sam Buytaert,Tyler Griffin,Jacob Stewart,Wyatt Koth,16.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),P17: Quarter-final,UT Tractors,The Barber Shop,Sam Buytaert,Tyler Griffin,Jacob Stewart,Wyatt Koth,5.0,15.0
+fl-roundnet-open-23,Contender (Open 4.5),P25: Quarter-final,Ace in our Veins,some jitties ,Jaden DeJesus,Kyle Samrajit,Rishab Jain,Jacob Narayan,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P25: Quarter-final,Ace in our Veins,some jitties ,Jaden DeJesus,Kyle Samrajit,Rishab Jain,Jacob Narayan,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P25: Quarter-final,Mash Potatoes,Drink Prime,Nilo Buan,Colin Harrington,Alexander Gonzalez,Ryan Hart,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P25: Quarter-final,Mash Potatoes,Drink Prime,Nilo Buan,Colin Harrington,Alexander Gonzalez,Ryan Hart,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),Semi-final,E10,Y’all spike eh?,Daniel Haungs,Bradley Clark,Ian Austin,Nick Wideman,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),Semi-final,E10,Y’all spike eh?,Daniel Haungs,Bradley Clark,Ian Austin,Nick Wideman,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),Semi-final,Sauerkraut,Round 2 #notkayne,Joshua Travis,Timo Lorenzen,Alex Cook,Benjamin Goldfarb,16.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),Semi-final,Sauerkraut,Round 2 #notkayne,Joshua Travis,Timo Lorenzen,Alex Cook,Benjamin Goldfarb,19.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),P5: Semi-final,Cola Boys,Net Gains,Riley Williamson,Allen Ombougno,Jack Duffy,Zachery Geist,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P5: Semi-final,Cola Boys,Net Gains,Riley Williamson,Allen Ombougno,Jack Duffy,Zachery Geist,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Semi-final,Thoughtless,Farm Boys,Alex Fox,Patricio Duran,Nathan Montgomery,Ryan Montgomery,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Semi-final,Thoughtless,Farm Boys,Alex Fox,Patricio Duran,Nathan Montgomery,Ryan Montgomery,21.0,13.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Semi-final,Eppes/Randall,Backpackers,Sam Randall,Bransen Eppes,Brian Perlson,Tim Daudelin,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Semi-final,Eppes/Randall,Backpackers,Sam Randall,Bransen Eppes,Brian Perlson,Tim Daudelin,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),Final,Y’all spike eh?,Round 2 #notkayne,Ian Austin,Nick Wideman,Alex Cook,Benjamin Goldfarb,0.0,1.0
+fl-roundnet-open-23,Contender (Open 4.5),Final,Y’all spike eh?,Round 2 #notkayne,Ian Austin,Nick Wideman,Alex Cook,Benjamin Goldfarb,15.0,21.0
+fl-roundnet-open-23,Contender (Open 4.5),P3: Final,Sauerkraut,E10,Joshua Travis,Timo Lorenzen,Daniel Haungs,Bradley Clark,21.0,18.0
+fl-roundnet-open-23,Contender (Open 4.5),P3: Final,Sauerkraut,E10,Joshua Travis,Timo Lorenzen,Daniel Haungs,Bradley Clark,21.0,11.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Final,Thoughtless,Backpackers,Alex Fox,Patricio Duran,Brian Perlson,Tim Daudelin,1.0,0.0
+fl-roundnet-open-23,Contender (Open 4.5),P9: Final,Thoughtless,Backpackers,Alex Fox,Patricio Duran,Brian Perlson,Tim Daudelin,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),Pool,Clean Combo,Benny Boo & Jare Bear,Rahul Murthy,Ryan Gross,Jared Beaufait,Ben Savage,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Pool,Joseph/Rose,a We just wanna be top of the list,Kieran Rose,Dennis Joseph,Jack coolbaugh,Tommy Drake,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Pool,Insystem,Hill/Midgett,Blake Bosak,Etienne Cote,Kyle Midgett,Christian Hill,21.0,11.0
+fl-roundnet-open-23,Premier (5.0),Pool,Chilly Chillies,Kim jong-illest rapper alive ,Sean Brown,Trevor Clements 704trev,Josh Esposo,Luis Orozco,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Empty Set,SubZero,Max Model,Dan Abrams,Adam Porter,Zach Bender,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Pool,Boom Ballin ,Anti-Creamy,Matthew Burrows,Caleb Cummings,Dalton Gilder,Calvin Smith,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,Impulse,Darma,Coleman Epperson's,Dawson Morgan,David Gonzales,Saahil Sharma,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,Marino’s Mistress,CRO Weather Boosted,Brendan Ferreira,Patric Chu,Nicholas Puopolo,Adrian Garcea,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Moms Love Us,BOT Sons of Thunder,Hayden Flood,Kyle Ackermann,Kade Janikula,Brycen Patterson,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Mermaid Sparkle,CRO Indi Partners,Christian Bennett,Noah Luskus,Austin Ha,Joshua Hachey,21.0,14.0
+fl-roundnet-open-23,Premier (5.0),Pool,WySpike CrossBearers,Tidal Wave,Nick Noguez,Luke Mowry,Ethan Groover,Ryan Fernandez,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Pool,Bot House,Quadzillas,Owen Lippman,West Peterson,Zach Snover,Nate KT,21.0,11.0
+fl-roundnet-open-23,Premier (5.0),Pool,Lazy,Bunze/Bunze,Cade Larson,Luke Marshall,Benjamin Bunze,Sam Bunze,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Clean Combo,a We just wanna be top of the list,Rahul Murthy,Ryan Gross,Jack coolbaugh,Tommy Drake,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,Glizzy Gladiators,Benny Boo & Jare Bear,Jacob Summers,Polk Denmark,Jared Beaufait,Ben Savage,21.0,14.0
+fl-roundnet-open-23,Premier (5.0),Pool,Insystem,Kim jong-illest rapper alive ,Blake Bosak,Etienne Cote,Josh Esposo,Luis Orozco,21.0,12.0
+fl-roundnet-open-23,Premier (5.0),Pool,Catalyst,Hill/Midgett,Kurt Lannetti,Liam Sherron,Kyle Midgett,Christian Hill,21.0,12.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Empty Set,Anti-Creamy,Max Model,Dan Abrams,Dalton Gilder,Calvin Smith,21.0,11.0
+fl-roundnet-open-23,Premier (5.0),Pool,Requals needed,SubZero,Samuel Corey,Slade Warner,Adam Porter,Zach Bender,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Pool,Impulse,CRO Weather Boosted,Coleman Epperson's,Dawson Morgan,Nicholas Puopolo,Adrian Garcea,21.0,11.0
+fl-roundnet-open-23,Premier (5.0),Pool,Lateral Epicondylitis,Darma,Thomas Maloney,Lucas Pruett,David Gonzales,Saahil Sharma,21.0,18.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Moms Love Us,CRO Indi Partners,Hayden Flood,Kyle Ackermann,Austin Ha,Joshua Hachey,24.0,22.0
+fl-roundnet-open-23,Premier (5.0),Pool,Bingu!,BOT Sons of Thunder,Sunny Gu,Jared Bingham,Kade Janikula,Brycen Patterson,18.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,WySpike CrossBearers,Quadzillas,Nick Noguez,Luke Mowry,Zach Snover,Nate KT,18.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Bot House,Lazy,Owen Lippman,West Peterson,Cade Larson,Luke Marshall,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Pool,Bunze/Bunze,Tidal Wave,Benjamin Bunze,Sam Bunze,Ethan Groover,Ryan Fernandez,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Clean Combo,Glizzy Gladiators,Rahul Murthy,Ryan Gross,Jacob Summers,Polk Denmark,21.0,14.0
+fl-roundnet-open-23,Premier (5.0),Pool,Joseph/Rose,Benny Boo & Jare Bear,Kieran Rose,Dennis Joseph,Jared Beaufait,Ben Savage,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Pool,Insystem,Catalyst,Blake Bosak,Etienne Cote,Kurt Lannetti,Liam Sherron,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,Chilly Chillies,Hill/Midgett,Sean Brown,Trevor Clements 704trev,Kyle Midgett,Christian Hill,21.0,10.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Empty Set,Requals needed,Max Model,Dan Abrams,Samuel Corey,Slade Warner,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,Boom Ballin ,SubZero,Matthew Burrows,Caleb Cummings,Adam Porter,Zach Bender,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,Impulse,Lateral Epicondylitis,Coleman Epperson's,Dawson Morgan,Thomas Maloney,Lucas Pruett,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Pool,Marino’s Mistress,Darma,Brendan Ferreira,Patric Chu,David Gonzales,Saahil Sharma,23.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Moms Love Us,Bingu!,Hayden Flood,Kyle Ackermann,Sunny Gu,Jared Bingham,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Mermaid Sparkle,BOT Sons of Thunder,Christian Bennett,Noah Luskus,Kade Janikula,Brycen Patterson,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Pool,WySpike CrossBearers,Bunze/Bunze,Nick Noguez,Luke Mowry,Benjamin Bunze,Sam Bunze,24.0,25.0
+fl-roundnet-open-23,Premier (5.0),Pool,Bot House,Tidal Wave,Owen Lippman,West Peterson,Ethan Groover,Ryan Fernandez,21.0,9.0
+fl-roundnet-open-23,Premier (5.0),Pool,Lazy,Quadzillas,Cade Larson,Luke Marshall,Zach Snover,Nate KT,21.0,18.0
+fl-roundnet-open-23,Premier (5.0),Pool,Joseph/Rose,Glizzy Gladiators,Kieran Rose,Dennis Joseph,Jacob Summers,Polk Denmark,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Pool,a We just wanna be top of the list,Benny Boo & Jare Bear,Jack coolbaugh,Tommy Drake,Jared Beaufait,Ben Savage,10.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Chilly Chillies,Catalyst,Sean Brown,Trevor Clements 704trev,Kurt Lannetti,Liam Sherron,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Pool,Kim jong-illest rapper alive ,Hill/Midgett,Josh Esposo,Luis Orozco,Kyle Midgett,Christian Hill,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,Boom Ballin ,Requals needed,Matthew Burrows,Caleb Cummings,Samuel Corey,Slade Warner,21.0,12.0
+fl-roundnet-open-23,Premier (5.0),Pool,Anti-Creamy,SubZero,Dalton Gilder,Calvin Smith,Adam Porter,Zach Bender,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Pool,Marino’s Mistress,Lateral Epicondylitis,Brendan Ferreira,Patric Chu,Thomas Maloney,Lucas Pruett,21.0,18.0
+fl-roundnet-open-23,Premier (5.0),Pool,CRO Weather Boosted,Darma,Nicholas Puopolo,Adrian Garcea,David Gonzales,Saahil Sharma,22.0,24.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Mermaid Sparkle,Bingu!,Christian Bennett,Noah Luskus,Sunny Gu,Jared Bingham,21.0,13.0
+fl-roundnet-open-23,Premier (5.0),Pool,CRO Indi Partners,BOT Sons of Thunder,Austin Ha,Joshua Hachey,Kade Janikula,Brycen Patterson,25.0,24.0
+fl-roundnet-open-23,Premier (5.0),Pool,WySpike CrossBearers,Lazy,Nick Noguez,Luke Mowry,Cade Larson,Luke Marshall,16.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Bot House,Bunze/Bunze,Owen Lippman,West Peterson,Benjamin Bunze,Sam Bunze,21.0,13.0
+fl-roundnet-open-23,Premier (5.0),Pool,Quadzillas,Tidal Wave,Zach Snover,Nate KT,Ethan Groover,Ryan Fernandez,21.0,14.0
+fl-roundnet-open-23,Premier (5.0),Pool,Clean Combo,Joseph/Rose,Rahul Murthy,Ryan Gross,Kieran Rose,Dennis Joseph,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Glizzy Gladiators,a We just wanna be top of the list,Jacob Summers,Polk Denmark,Jack coolbaugh,Tommy Drake,21.0,13.0
+fl-roundnet-open-23,Premier (5.0),Pool,Insystem,Chilly Chillies,Blake Bosak,Etienne Cote,Sean Brown,Trevor Clements 704trev,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Pool,Catalyst,Kim jong-illest rapper alive ,Kurt Lannetti,Liam Sherron,Josh Esposo,Luis Orozco,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Empty Set,Boom Ballin ,Max Model,Dan Abrams,Matthew Burrows,Caleb Cummings,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Pool,Requals needed,Anti-Creamy,Samuel Corey,Slade Warner,Dalton Gilder,Calvin Smith,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Pool,Impulse,Marino’s Mistress,Coleman Epperson's,Dawson Morgan,Brendan Ferreira,Patric Chu,18.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Lateral Epicondylitis,CRO Weather Boosted,Thomas Maloney,Lucas Pruett,Nicholas Puopolo,Adrian Garcea,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Pool,TRP Moms Love Us,TRP Mermaid Sparkle,Hayden Flood,Kyle Ackermann,Christian Bennett,Noah Luskus,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Bingu!,CRO Indi Partners,Sunny Gu,Jared Bingham,Austin Ha,Joshua Hachey,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Pool,WySpike CrossBearers,Bot House,Nick Noguez,Luke Mowry,Owen Lippman,West Peterson,13.0,21.0
+fl-roundnet-open-23,Premier (5.0),Pool,Lazy,Tidal Wave,Cade Larson,Luke Marshall,Ethan Groover,Ryan Fernandez,21.0,10.0
+fl-roundnet-open-23,Premier (5.0),Pool,Bunze/Bunze,Quadzillas,Benjamin Bunze,Sam Bunze,Zach Snover,Nate KT,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Insystem,Hill/Midgett,Blake Bosak,Etienne Cote,Kyle Midgett,Christian Hill,21.0,11.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Insystem,Hill/Midgett,Blake Bosak,Etienne Cote,Kyle Midgett,Christian Hill,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,TRP Empty Set,Tidal Wave,Max Model,Dan Abrams,Ethan Groover,Ryan Fernandez,21.0,14.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,TRP Empty Set,Tidal Wave,Max Model,Dan Abrams,Ethan Groover,Ryan Fernandez,21.0,5.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,TRP Mermaid Sparkle,a We just wanna be top of the list,Christian Bennett,Noah Luskus,Jack coolbaugh,Tommy Drake,21.0,13.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,TRP Mermaid Sparkle,a We just wanna be top of the list,Christian Bennett,Noah Luskus,Jack coolbaugh,Tommy Drake,21.0,11.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Joseph/Rose,CRO Weather Boosted,Kieran Rose,Dennis Joseph,Nicholas Puopolo,Adrian Garcea,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Joseph/Rose,CRO Weather Boosted,Kieran Rose,Dennis Joseph,Nicholas Puopolo,Adrian Garcea,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Marino’s Mistress,SubZero,Brendan Ferreira,Patric Chu,Adam Porter,Zach Bender,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Marino’s Mistress,SubZero,Brendan Ferreira,Patric Chu,Adam Porter,Zach Bender,21.0,18.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Boom Ballin ,WySpike CrossBearers,Matthew Burrows,Caleb Cummings,Nick Noguez,Luke Mowry,38.0,40.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Boom Ballin ,WySpike CrossBearers,Matthew Burrows,Caleb Cummings,Nick Noguez,Luke Mowry,17.0,21.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Clean Combo,Anti-Creamy,Rahul Murthy,Ryan Gross,Dalton Gilder,Calvin Smith,21.0,9.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Clean Combo,Anti-Creamy,Rahul Murthy,Ryan Gross,Dalton Gilder,Calvin Smith,21.0,14.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Impulse,Bingu!,Coleman Epperson's,Dawson Morgan,Sunny Gu,Jared Bingham,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Impulse,Bingu!,Coleman Epperson's,Dawson Morgan,Sunny Gu,Jared Bingham,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Chilly Chillies,Kim jong-illest rapper alive ,Sean Brown,Trevor Clements 704trev,Josh Esposo,Luis Orozco,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Chilly Chillies,Kim jong-illest rapper alive ,Sean Brown,Trevor Clements 704trev,Josh Esposo,Luis Orozco,22.0,20.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,TRP Moms Love Us,CRO Indi Partners,Hayden Flood,Kyle Ackermann,Austin Ha,Joshua Hachey,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,TRP Moms Love Us,CRO Indi Partners,Hayden Flood,Kyle Ackermann,Austin Ha,Joshua Hachey,21.0,11.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Lazy,Darma,Cade Larson,Luke Marshall,David Gonzales,Saahil Sharma,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Lazy,Darma,Cade Larson,Luke Marshall,David Gonzales,Saahil Sharma,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Catalyst,BOT Sons of Thunder,Kurt Lannetti,Liam Sherron,Kade Janikula,Brycen Patterson,30.0,32.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Catalyst,BOT Sons of Thunder,Kurt Lannetti,Liam Sherron,Kade Janikula,Brycen Patterson,21.0,18.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Catalyst,BOT Sons of Thunder,Kurt Lannetti,Liam Sherron,Kade Janikula,Brycen Patterson,21.0,18.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Glizzy Gladiators,Benny Boo & Jare Bear,Jacob Summers,Polk Denmark,Jared Beaufait,Ben Savage,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Glizzy Gladiators,Benny Boo & Jare Bear,Jacob Summers,Polk Denmark,Jared Beaufait,Ben Savage,21.0,14.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Lateral Epicondylitis,Quadzillas,Thomas Maloney,Lucas Pruett,Zach Snover,Nate KT,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Lateral Epicondylitis,Quadzillas,Thomas Maloney,Lucas Pruett,Zach Snover,Nate KT,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Lateral Epicondylitis,Quadzillas,Thomas Maloney,Lucas Pruett,Zach Snover,Nate KT,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Bunze/Bunze,Requals needed,Benjamin Bunze,Sam Bunze,Samuel Corey,Slade Warner,20.0,22.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Bunze/Bunze,Requals needed,Benjamin Bunze,Sam Bunze,Samuel Corey,Slade Warner,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Round of 32,Bunze/Bunze,Requals needed,Benjamin Bunze,Sam Bunze,Samuel Corey,Slade Warner,16.0,21.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Bot House,Requals needed,Owen Lippman,West Peterson,Samuel Corey,Slade Warner,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Bot House,Requals needed,Owen Lippman,West Peterson,Samuel Corey,Slade Warner,21.0,12.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Insystem,Lateral Epicondylitis,Blake Bosak,Etienne Cote,Thomas Maloney,Lucas Pruett,21.0,10.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Insystem,Lateral Epicondylitis,Blake Bosak,Etienne Cote,Thomas Maloney,Lucas Pruett,21.0,12.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,TRP Empty Set,Glizzy Gladiators,Max Model,Dan Abrams,Jacob Summers,Polk Denmark,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,TRP Empty Set,Glizzy Gladiators,Max Model,Dan Abrams,Jacob Summers,Polk Denmark,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,TRP Empty Set,Glizzy Gladiators,Max Model,Dan Abrams,Jacob Summers,Polk Denmark,15.0,21.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,TRP Mermaid Sparkle,Catalyst,Christian Bennett,Noah Luskus,Kurt Lannetti,Liam Sherron,21.0,10.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,TRP Mermaid Sparkle,Catalyst,Christian Bennett,Noah Luskus,Kurt Lannetti,Liam Sherron,21.0,13.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Joseph/Rose,Lazy,Kieran Rose,Dennis Joseph,Cade Larson,Luke Marshall,18.0,21.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Joseph/Rose,Lazy,Kieran Rose,Dennis Joseph,Cade Larson,Luke Marshall,16.0,21.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Marino’s Mistress,TRP Moms Love Us,Brendan Ferreira,Patric Chu,Hayden Flood,Kyle Ackermann,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Marino’s Mistress,TRP Moms Love Us,Brendan Ferreira,Patric Chu,Hayden Flood,Kyle Ackermann,25.0,23.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Marino’s Mistress,TRP Moms Love Us,Brendan Ferreira,Patric Chu,Hayden Flood,Kyle Ackermann,17.0,21.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,WySpike CrossBearers,Chilly Chillies,Nick Noguez,Luke Mowry,Sean Brown,Trevor Clements 704trev,23.0,25.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,WySpike CrossBearers,Chilly Chillies,Nick Noguez,Luke Mowry,Sean Brown,Trevor Clements 704trev,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,WySpike CrossBearers,Chilly Chillies,Nick Noguez,Luke Mowry,Sean Brown,Trevor Clements 704trev,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Clean Combo,Impulse,Rahul Murthy,Ryan Gross,Coleman Epperson's,Dawson Morgan,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Clean Combo,Impulse,Rahul Murthy,Ryan Gross,Coleman Epperson's,Dawson Morgan,21.0,13.0
+fl-roundnet-open-23,Premier (5.0),Round of 16,Clean Combo,Impulse,Rahul Murthy,Ryan Gross,Coleman Epperson's,Dawson Morgan,21.0,15.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Quadzillas,Hill/Midgett,Zach Snover,Nate KT,Kyle Midgett,Christian Hill,-1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Quadzillas,Hill/Midgett,Zach Snover,Nate KT,Kyle Midgett,Christian Hill,-1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Benny Boo & Jare Bear,Tidal Wave,Jared Beaufait,Ben Savage,Ethan Groover,Ryan Fernandez,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Benny Boo & Jare Bear,Tidal Wave,Jared Beaufait,Ben Savage,Ethan Groover,Ryan Fernandez,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Benny Boo & Jare Bear,Tidal Wave,Jared Beaufait,Ben Savage,Ethan Groover,Ryan Fernandez,21.0,10.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,BOT Sons of Thunder,a We just wanna be top of the list,Kade Janikula,Brycen Patterson,Jack coolbaugh,Tommy Drake,1.0,21.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,BOT Sons of Thunder,a We just wanna be top of the list,Kade Janikula,Brycen Patterson,Jack coolbaugh,Tommy Drake,2.0,21.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Darma,CRO Weather Boosted,David Gonzales,Saahil Sharma,Nicholas Puopolo,Adrian Garcea,-1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Darma,CRO Weather Boosted,David Gonzales,Saahil Sharma,Nicholas Puopolo,Adrian Garcea,-1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,CRO Indi Partners,SubZero,Austin Ha,Joshua Hachey,Adam Porter,Zach Bender,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,CRO Indi Partners,SubZero,Austin Ha,Joshua Hachey,Adam Porter,Zach Bender,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Kim jong-illest rapper alive ,Boom Ballin ,Josh Esposo,Luis Orozco,Matthew Burrows,Caleb Cummings,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Kim jong-illest rapper alive ,Boom Ballin ,Josh Esposo,Luis Orozco,Matthew Burrows,Caleb Cummings,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Bingu!,Anti-Creamy,Sunny Gu,Jared Bingham,Dalton Gilder,Calvin Smith,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Bingu!,Anti-Creamy,Sunny Gu,Jared Bingham,Dalton Gilder,Calvin Smith,21.0,14.0
+fl-roundnet-open-23,Premier (5.0),P17: Round of 16,Bingu!,Anti-Creamy,Sunny Gu,Jared Bingham,Dalton Gilder,Calvin Smith,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Quarter-final,Bot House,Clean Combo,Owen Lippman,West Peterson,Rahul Murthy,Ryan Gross,16.0,21.0
+fl-roundnet-open-23,Premier (5.0),Quarter-final,Bot House,Clean Combo,Owen Lippman,West Peterson,Rahul Murthy,Ryan Gross,22.0,24.0
+fl-roundnet-open-23,Premier (5.0),Quarter-final,Insystem,WySpike CrossBearers,Blake Bosak,Etienne Cote,Nick Noguez,Luke Mowry,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),Quarter-final,Insystem,WySpike CrossBearers,Blake Bosak,Etienne Cote,Nick Noguez,Luke Mowry,14.0,11.0
+fl-roundnet-open-23,Premier (5.0),Quarter-final,TRP Empty Set,Marino’s Mistress,Max Model,Dan Abrams,Brendan Ferreira,Patric Chu,21.0,17.0
+fl-roundnet-open-23,Premier (5.0),Quarter-final,TRP Empty Set,Marino’s Mistress,Max Model,Dan Abrams,Brendan Ferreira,Patric Chu,38.0,36.0
+fl-roundnet-open-23,Premier (5.0),Quarter-final,TRP Mermaid Sparkle,Lazy,Christian Bennett,Noah Luskus,Cade Larson,Luke Marshall,21.0,10.0
+fl-roundnet-open-23,Premier (5.0),Quarter-final,TRP Mermaid Sparkle,Lazy,Christian Bennett,Noah Luskus,Cade Larson,Luke Marshall,21.0,10.0
+fl-roundnet-open-23,Premier (5.0),P9: Quarter-final,Impulse,Requals needed,Coleman Epperson's,Dawson Morgan,Samuel Corey,Slade Warner,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P9: Quarter-final,Impulse,Requals needed,Coleman Epperson's,Dawson Morgan,Samuel Corey,Slade Warner,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P9: Quarter-final,Chilly Chillies,Lateral Epicondylitis,Sean Brown,Trevor Clements 704trev,Thomas Maloney,Lucas Pruett,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P9: Quarter-final,Chilly Chillies,Lateral Epicondylitis,Sean Brown,Trevor Clements 704trev,Thomas Maloney,Lucas Pruett,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P9: Quarter-final,TRP Moms Love Us,Glizzy Gladiators,Hayden Flood,Kyle Ackermann,Jacob Summers,Polk Denmark,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P9: Quarter-final,TRP Moms Love Us,Glizzy Gladiators,Hayden Flood,Kyle Ackermann,Jacob Summers,Polk Denmark,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P9: Quarter-final,Joseph/Rose,Catalyst,Kieran Rose,Dennis Joseph,Kurt Lannetti,Liam Sherron,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P9: Quarter-final,Joseph/Rose,Catalyst,Kieran Rose,Dennis Joseph,Kurt Lannetti,Liam Sherron,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,Bunze/Bunze,Bingu!,Benjamin Bunze,Sam Bunze,Sunny Gu,Jared Bingham,0.0,-1.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,Bunze/Bunze,Bingu!,Benjamin Bunze,Sam Bunze,Sunny Gu,Jared Bingham,0.0,-1.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,Hill/Midgett,Kim jong-illest rapper alive ,Kyle Midgett,Christian Hill,Josh Esposo,Luis Orozco,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,Hill/Midgett,Kim jong-illest rapper alive ,Kyle Midgett,Christian Hill,Josh Esposo,Luis Orozco,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,Benny Boo & Jare Bear,CRO Indi Partners,Jared Beaufait,Ben Savage,Austin Ha,Joshua Hachey,19.0,21.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,Benny Boo & Jare Bear,CRO Indi Partners,Jared Beaufait,Ben Savage,Austin Ha,Joshua Hachey,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,Benny Boo & Jare Bear,CRO Indi Partners,Jared Beaufait,Ben Savage,Austin Ha,Joshua Hachey,21.0,16.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,a We just wanna be top of the list,CRO Weather Boosted,Jack coolbaugh,Tommy Drake,Nicholas Puopolo,Adrian Garcea,21.0,12.0
+fl-roundnet-open-23,Premier (5.0),P17: Quarter-final,a We just wanna be top of the list,CRO Weather Boosted,Jack coolbaugh,Tommy Drake,Nicholas Puopolo,Adrian Garcea,21.0,12.0
+fl-roundnet-open-23,Premier (5.0),Semi-final,Clean Combo,TRP Mermaid Sparkle,Rahul Murthy,Ryan Gross,Christian Bennett,Noah Luskus,24.0,22.0
+fl-roundnet-open-23,Premier (5.0),Semi-final,Clean Combo,TRP Mermaid Sparkle,Rahul Murthy,Ryan Gross,Christian Bennett,Noah Luskus,20.0,22.0
+fl-roundnet-open-23,Premier (5.0),Semi-final,Clean Combo,TRP Mermaid Sparkle,Rahul Murthy,Ryan Gross,Christian Bennett,Noah Luskus,16.0,21.0
+fl-roundnet-open-23,Premier (5.0),Semi-final,Insystem,TRP Empty Set,Blake Bosak,Etienne Cote,Max Model,Dan Abrams,21.0,18.0
+fl-roundnet-open-23,Premier (5.0),Semi-final,Insystem,TRP Empty Set,Blake Bosak,Etienne Cote,Max Model,Dan Abrams,22.0,20.0
+fl-roundnet-open-23,Premier (5.0),P5: Semi-final,Marino’s Mistress,WySpike CrossBearers,Brendan Ferreira,Patric Chu,Nick Noguez,Luke Mowry,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P5: Semi-final,Marino’s Mistress,WySpike CrossBearers,Brendan Ferreira,Patric Chu,Nick Noguez,Luke Mowry,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P9: Semi-final,Impulse,Catalyst,Coleman Epperson's,Dawson Morgan,Kurt Lannetti,Liam Sherron,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P9: Semi-final,Impulse,Catalyst,Coleman Epperson's,Dawson Morgan,Kurt Lannetti,Liam Sherron,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P9: Semi-final,Chilly Chillies,Glizzy Gladiators,Sean Brown,Trevor Clements 704trev,Jacob Summers,Polk Denmark,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P9: Semi-final,Chilly Chillies,Glizzy Gladiators,Sean Brown,Trevor Clements 704trev,Jacob Summers,Polk Denmark,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P17: Semi-final,Bunze/Bunze,a We just wanna be top of the list,Benjamin Bunze,Sam Bunze,Jack coolbaugh,Tommy Drake,17.0,21.0
+fl-roundnet-open-23,Premier (5.0),P17: Semi-final,Bunze/Bunze,a We just wanna be top of the list,Benjamin Bunze,Sam Bunze,Jack coolbaugh,Tommy Drake,16.0,21.0
+fl-roundnet-open-23,Premier (5.0),P17: Semi-final,Hill/Midgett,Benny Boo & Jare Bear,Kyle Midgett,Christian Hill,Jared Beaufait,Ben Savage,-2.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Semi-final,Hill/Midgett,Benny Boo & Jare Bear,Kyle Midgett,Christian Hill,Jared Beaufait,Ben Savage,-2.0,0.0
+fl-roundnet-open-23,Premier (5.0),P21: Semi-final,CRO Weather Boosted,Bingu!,Nicholas Puopolo,Adrian Garcea,Sunny Gu,Jared Bingham,0.0,-1.0
+fl-roundnet-open-23,Premier (5.0),P21: Semi-final,CRO Weather Boosted,Bingu!,Nicholas Puopolo,Adrian Garcea,Sunny Gu,Jared Bingham,0.0,-1.0
+fl-roundnet-open-23,Premier (5.0),P21: Semi-final,CRO Indi Partners,Kim jong-illest rapper alive ,Austin Ha,Joshua Hachey,Josh Esposo,Luis Orozco,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P21: Semi-final,CRO Indi Partners,Kim jong-illest rapper alive ,Austin Ha,Joshua Hachey,Josh Esposo,Luis Orozco,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),Final,TRP Mermaid Sparkle,Insystem,Christian Bennett,Noah Luskus,Blake Bosak,Etienne Cote,21.0,19.0
+fl-roundnet-open-23,Premier (5.0),Final,TRP Mermaid Sparkle,Insystem,Christian Bennett,Noah Luskus,Blake Bosak,Etienne Cote,21.0,13.0
+fl-roundnet-open-23,Premier (5.0),P3: Final,TRP Empty Set,Clean Combo,Max Model,Dan Abrams,Rahul Murthy,Ryan Gross,22.0,24.0
+fl-roundnet-open-23,Premier (5.0),P3: Final,TRP Empty Set,Clean Combo,Max Model,Dan Abrams,Rahul Murthy,Ryan Gross,25.0,27.0
+fl-roundnet-open-23,Premier (5.0),P9: Final,Catalyst,Glizzy Gladiators,Kurt Lannetti,Liam Sherron,Jacob Summers,Polk Denmark,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P9: Final,Catalyst,Glizzy Gladiators,Kurt Lannetti,Liam Sherron,Jacob Summers,Polk Denmark,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P11: Final,Chilly Chillies,Impulse,Sean Brown,Trevor Clements 704trev,Coleman Epperson's,Dawson Morgan,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P11: Final,Chilly Chillies,Impulse,Sean Brown,Trevor Clements 704trev,Coleman Epperson's,Dawson Morgan,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Final,a We just wanna be top of the list,Benny Boo & Jare Bear,Jack coolbaugh,Tommy Drake,Jared Beaufait,Ben Savage,1.0,0.0
+fl-roundnet-open-23,Premier (5.0),P17: Final,a We just wanna be top of the list,Benny Boo & Jare Bear,Jack coolbaugh,Tommy Drake,Jared Beaufait,Ben Savage,0.0,1.0
+fl-roundnet-open-23,Premier (5.0),P17: Final,a We just wanna be top of the list,Benny Boo & Jare Bear,Jack coolbaugh,Tommy Drake,Jared Beaufait,Ben Savage,69.0,67.0
+fl-roundnet-open-23,Premier (5.0),P19: Final,Hill/Midgett,Bunze/Bunze,Kyle Midgett,Christian Hill,Benjamin Bunze,Sam Bunze,-2.0,0.0
+fl-roundnet-open-23,Premier (5.0),P19: Final,Hill/Midgett,Bunze/Bunze,Kyle Midgett,Christian Hill,Benjamin Bunze,Sam Bunze,-2.0,0.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Cat Daddies,cuttin up,Ali Jenki,Sarah Allen,Morgan Bruce,Liz Gormley,21.0,11.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Florabama,Katrina and Audrey,Meagan Bown,Teddi Lesoine,Katrina Gabriella,Audrey Summers,19.0,21.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Impulsive,Wilson/DePaolo,Olivia Jenki,Kalin Morgan,Callie Wilson,Elena DePaolo,21.0,4.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Morehouse/Pierson,OnOr,Maddy Morehouse,Katie Pierson,Kendall Wolfe,Shonda Couroux,21.0,11.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Cat Daddies,Katrina and Audrey,Ali Jenki,Sarah Allen,Katrina Gabriella,Audrey Summers,21.0,8.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Space Monkeys 🚀🐒,cuttin up,Stef Ding,Rafaela Bastos,Morgan Bruce,Liz Gormley,21.0,17.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Impulsive,OnOr,Olivia Jenki,Kalin Morgan,Kendall Wolfe,Shonda Couroux,21.0,7.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,ding/angeletti,Wilson/DePaolo,Emma Angeletti,Tiff Ding,Callie Wilson,Elena DePaolo,21.0,4.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Cat Daddies,Space Monkeys 🚀🐒,Ali Jenki,Sarah Allen,Stef Ding,Rafaela Bastos,21.0,12.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Florabama,cuttin up,Meagan Bown,Teddi Lesoine,Morgan Bruce,Liz Gormley,23.0,21.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Impulsive,ding/angeletti,Olivia Jenki,Kalin Morgan,Emma Angeletti,Tiff Ding,21.0,19.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Morehouse/Pierson,Wilson/DePaolo,Maddy Morehouse,Katie Pierson,Callie Wilson,Elena DePaolo,21.0,1.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Florabama,Space Monkeys 🚀🐒,Meagan Bown,Teddi Lesoine,Stef Ding,Rafaela Bastos,17.0,21.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Katrina and Audrey,cuttin up,Katrina Gabriella,Audrey Summers,Morgan Bruce,Liz Gormley,10.0,21.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Morehouse/Pierson,ding/angeletti,Maddy Morehouse,Katie Pierson,Emma Angeletti,Tiff Ding,21.0,13.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,OnOr,Wilson/DePaolo,Kendall Wolfe,Shonda Couroux,Callie Wilson,Elena DePaolo,21.0,7.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Cat Daddies,Florabama,Ali Jenki,Sarah Allen,Meagan Bown,Teddi Lesoine,21.0,11.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Space Monkeys 🚀🐒,Katrina and Audrey,Stef Ding,Rafaela Bastos,Katrina Gabriella,Audrey Summers,21.0,11.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,Impulsive,Morehouse/Pierson,Olivia Jenki,Kalin Morgan,Maddy Morehouse,Katie Pierson,21.0,18.0
+fl-roundnet-open-23,Women's (3.0-5.0),Pool,ding/angeletti,OnOr,Emma Angeletti,Tiff Ding,Kendall Wolfe,Shonda Couroux,21.0,13.0
+fl-roundnet-open-23,Women's (3.0-5.0),Round of 16,Florabama,Wilson/DePaolo,Meagan Bown,Teddi Lesoine,Callie Wilson,Elena DePaolo,21.0,6.0
+fl-roundnet-open-23,Women's (3.0-5.0),Round of 16,Florabama,Wilson/DePaolo,Meagan Bown,Teddi Lesoine,Callie Wilson,Elena DePaolo,21.0,2.0
+fl-roundnet-open-23,Women's (3.0-5.0),Round of 16,OnOr,Katrina and Audrey,Kendall Wolfe,Shonda Couroux,Katrina Gabriella,Audrey Summers,17.0,21.0
+fl-roundnet-open-23,Women's (3.0-5.0),Round of 16,OnOr,Katrina and Audrey,Kendall Wolfe,Shonda Couroux,Katrina Gabriella,Audrey Summers,17.0,21.0
+fl-roundnet-open-23,Women's (3.0-5.0),Quarter-final,Cat Daddies,Katrina and Audrey,Ali Jenki,Sarah Allen,Katrina Gabriella,Audrey Summers,21.0,10.0
+fl-roundnet-open-23,Women's (3.0-5.0),Quarter-final,Cat Daddies,Katrina and Audrey,Ali Jenki,Sarah Allen,Katrina Gabriella,Audrey Summers,21.0,13.0
+fl-roundnet-open-23,Women's (3.0-5.0),Quarter-final,Impulsive,Florabama,Olivia Jenki,Kalin Morgan,Meagan Bown,Teddi Lesoine,21.0,15.0
+fl-roundnet-open-23,Women's (3.0-5.0),Quarter-final,Impulsive,Florabama,Olivia Jenki,Kalin Morgan,Meagan Bown,Teddi Lesoine,21.0,12.0
+fl-roundnet-open-23,Women's (3.0-5.0),Quarter-final,Morehouse/Pierson,cuttin up,Maddy Morehouse,Katie Pierson,Morgan Bruce,Liz Gormley,21.0,13.0
+fl-roundnet-open-23,Women's (3.0-5.0),Quarter-final,Morehouse/Pierson,cuttin up,Maddy Morehouse,Katie Pierson,Morgan Bruce,Liz Gormley,21.0,12.0
+fl-roundnet-open-23,Women's (3.0-5.0),Quarter-final,Space Monkeys 🚀🐒,ding/angeletti,Stef Ding,Rafaela Bastos,Emma Angeletti,Tiff Ding,21.0,17.0
+fl-roundnet-open-23,Women's (3.0-5.0),Quarter-final,Space Monkeys 🚀🐒,ding/angeletti,Stef Ding,Rafaela Bastos,Emma Angeletti,Tiff Ding,21.0,16.0
+fl-roundnet-open-23,Women's (3.0-5.0),Semi-final,Cat Daddies,Space Monkeys 🚀🐒,Ali Jenki,Sarah Allen,Stef Ding,Rafaela Bastos,21.0,19.0
+fl-roundnet-open-23,Women's (3.0-5.0),Semi-final,Cat Daddies,Space Monkeys 🚀🐒,Ali Jenki,Sarah Allen,Stef Ding,Rafaela Bastos,21.0,17.0
+fl-roundnet-open-23,Women's (3.0-5.0),Semi-final,Impulsive,Morehouse/Pierson,Olivia Jenki,Kalin Morgan,Maddy Morehouse,Katie Pierson,21.0,18.0
+fl-roundnet-open-23,Women's (3.0-5.0),Semi-final,Impulsive,Morehouse/Pierson,Olivia Jenki,Kalin Morgan,Maddy Morehouse,Katie Pierson,21.0,17.0
+fl-roundnet-open-23,Women's (3.0-5.0),P5: Semi-final,ding/angeletti,Katrina and Audrey,Emma Angeletti,Tiff Ding,Katrina Gabriella,Audrey Summers,21.0,13.0
+fl-roundnet-open-23,Women's (3.0-5.0),P5: Semi-final,ding/angeletti,Katrina and Audrey,Emma Angeletti,Tiff Ding,Katrina Gabriella,Audrey Summers,21.0,14.0
+fl-roundnet-open-23,Women's (3.0-5.0),P5: Semi-final,cuttin up,Florabama,Morgan Bruce,Liz Gormley,Meagan Bown,Teddi Lesoine,15.0,21.0
+fl-roundnet-open-23,Women's (3.0-5.0),P5: Semi-final,cuttin up,Florabama,Morgan Bruce,Liz Gormley,Meagan Bown,Teddi Lesoine,21.0,17.0
+fl-roundnet-open-23,Women's (3.0-5.0),Final,Cat Daddies,Impulsive,Ali Jenki,Sarah Allen,Olivia Jenki,Kalin Morgan,25.0,27.0
+fl-roundnet-open-23,Women's (3.0-5.0),Final,Cat Daddies,Impulsive,Ali Jenki,Sarah Allen,Olivia Jenki,Kalin Morgan,17.0,21.0
+fl-roundnet-open-23,Women's (3.0-5.0),P3: Final,Morehouse/Pierson,Space Monkeys 🚀🐒,Maddy Morehouse,Katie Pierson,Stef Ding,Rafaela Bastos,21.0,11.0
+fl-roundnet-open-23,Women's (3.0-5.0),P3: Final,Morehouse/Pierson,Space Monkeys 🚀🐒,Maddy Morehouse,Katie Pierson,Stef Ding,Rafaela Bastos,21.0,13.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Better late then never,Wics,Chris Perez,Brayden Einhaus,Jon maano,Laura Castro,22.0,20.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Twisted T’s ,Lulu Limón,Tim Daudelin,Katrina Gabriella,Luis Orozco,Julie Orozco,21.0,18.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Better late then never,Lulu Limón,Chris Perez,Brayden Einhaus,Luis Orozco,Julie Orozco,18.0,21.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Twisted T’s ,Wics,Tim Daudelin,Katrina Gabriella,Jon maano,Laura Castro,21.0,11.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Better late then never,Twisted T’s ,Chris Perez,Brayden Einhaus,Tim Daudelin,Katrina Gabriella,9.0,21.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Lulu Limón,Wics,Luis Orozco,Julie Orozco,Jon maano,Laura Castro,21.0,16.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Better late then never,Wics,Chris Perez,Brayden Einhaus,Jon maano,Laura Castro,10.0,21.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Twisted T’s ,Lulu Limón,Tim Daudelin,Katrina Gabriella,Luis Orozco,Julie Orozco,22.0,20.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Better late then never,Lulu Limón,Chris Perez,Brayden Einhaus,Luis Orozco,Julie Orozco,15.0,21.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Twisted T’s ,Wics,Tim Daudelin,Katrina Gabriella,Jon maano,Laura Castro,21.0,11.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Better late then never,Twisted T’s ,Chris Perez,Brayden Einhaus,Tim Daudelin,Katrina Gabriella,21.0,19.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Pool,Lulu Limón,Wics,Luis Orozco,Julie Orozco,Jon maano,Laura Castro,21.0,12.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Semi-final,Twisted T’s ,Wics,Tim Daudelin,Katrina Gabriella,Jon maano,Laura Castro,21.0,14.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Semi-final,Twisted T’s ,Wics,Tim Daudelin,Katrina Gabriella,Jon maano,Laura Castro,21.0,10.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Semi-final,Lulu Limón,Better late then never,Luis Orozco,Julie Orozco,Chris Perez,Brayden Einhaus,22.0,20.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Semi-final,Lulu Limón,Better late then never,Luis Orozco,Julie Orozco,Chris Perez,Brayden Einhaus,21.0,19.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Final,Twisted T’s ,Lulu Limón,Tim Daudelin,Katrina Gabriella,Luis Orozco,Julie Orozco,20.0,21.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),Final,Twisted T’s ,Lulu Limón,Tim Daudelin,Katrina Gabriella,Luis Orozco,Julie Orozco,20.0,21.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),P3: Final,Better late then never,Wics,Chris Perez,Brayden Einhaus,Jon maano,Laura Castro,16.0,21.0
+fl-roundnet-open-23,Mixed Intermediate (3.0),P3: Final,Better late then never,Wics,Chris Perez,Brayden Einhaus,Jon maano,Laura Castro,18.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,MAD Jelly,choppa and the stick,Coleman Epperson,Ali Jenki,Jared Beaufait,Liz Gormley,21.0,10.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Murray Hilltop Spikes,Coup de Tête,Skylar Regan,Max Model,Ben Savage,Emma Angeletti,9.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Mixed Signals,Two Thumbs Up,Etienne Cote,Katie Pierson,Dom Orlando,Nicole Orlando,21.0,11.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,That was too easy,Flugelhorn,Kyle Ackermann,Teddi Lesoine,Meagan Bown,Tommy Drake,21.0,14.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,B-Olivia,Beach Bums🌴,Olivia Jenki,David Gonzales,Ethan Groover,Morgan Bruce,21.0,16.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Jawdroppers,stizzy,Sarah Allen,Christian Bennett,Stef Ding,Sean Brown,21.0,17.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,MAD Jelly,Coup de Tête,Coleman Epperson,Ali Jenki,Ben Savage,Emma Angeletti,23.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Ding around the Rosie,choppa and the stick,Tiff Ding,Kieran Rose,Jared Beaufait,Liz Gormley,21.0,16.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Mixed Signals,Flugelhorn,Etienne Cote,Katie Pierson,Meagan Bown,Tommy Drake,21.0,10.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Demon time,Two Thumbs Up,Shonda Couroux,Adrian Garcea,Dom Orlando,Nicole Orlando,21.0,15.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,B-Olivia,stizzy,Olivia Jenki,David Gonzales,Stef Ding,Sean Brown,22.0,20.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Scott/Rafa,Beach Bums🌴,Rafaela Bastos,Scott Beeks,Ethan Groover,Morgan Bruce,21.0,18.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,MAD Jelly,Ding around the Rosie,Coleman Epperson,Ali Jenki,Tiff Ding,Kieran Rose,19.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Murray Hilltop Spikes,choppa and the stick,Skylar Regan,Max Model,Jared Beaufait,Liz Gormley,24.0,22.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Mixed Signals,Demon time,Etienne Cote,Katie Pierson,Shonda Couroux,Adrian Garcea,21.0,12.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,That was too easy,Two Thumbs Up,Kyle Ackermann,Teddi Lesoine,Dom Orlando,Nicole Orlando,21.0,8.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,B-Olivia,Scott/Rafa,Olivia Jenki,David Gonzales,Rafaela Bastos,Scott Beeks,21.0,23.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Jawdroppers,Beach Bums🌴,Sarah Allen,Christian Bennett,Ethan Groover,Morgan Bruce,21.0,15.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Murray Hilltop Spikes,Ding around the Rosie,Skylar Regan,Max Model,Tiff Ding,Kieran Rose,16.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Coup de Tête,choppa and the stick,Ben Savage,Emma Angeletti,Jared Beaufait,Liz Gormley,21.0,13.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,That was too easy,Demon time,Kyle Ackermann,Teddi Lesoine,Shonda Couroux,Adrian Garcea,21.0,8.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Flugelhorn,Two Thumbs Up,Meagan Bown,Tommy Drake,Dom Orlando,Nicole Orlando,21.0,17.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Jawdroppers,Scott/Rafa,Sarah Allen,Christian Bennett,Rafaela Bastos,Scott Beeks,21.0,19.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,stizzy,Beach Bums🌴,Stef Ding,Sean Brown,Ethan Groover,Morgan Bruce,21.0,13.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,MAD Jelly,Murray Hilltop Spikes,Coleman Epperson,Ali Jenki,Skylar Regan,Max Model,21.0,19.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Ding around the Rosie,Coup de Tête,Tiff Ding,Kieran Rose,Ben Savage,Emma Angeletti,14.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Mixed Signals,That was too easy,Etienne Cote,Katie Pierson,Kyle Ackermann,Teddi Lesoine,21.0,16.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Demon time,Flugelhorn,Shonda Couroux,Adrian Garcea,Meagan Bown,Tommy Drake,12.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,B-Olivia,Jawdroppers,Olivia Jenki,David Gonzales,Sarah Allen,Christian Bennett,14.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Pool,Scott/Rafa,stizzy,Rafaela Bastos,Scott Beeks,Stef Ding,Sean Brown,19.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Jawdroppers,Two Thumbs Up,Sarah Allen,Christian Bennett,Dom Orlando,Nicole Orlando,21.0,17.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Jawdroppers,Two Thumbs Up,Sarah Allen,Christian Bennett,Dom Orlando,Nicole Orlando,21.0,10.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,That was too easy,choppa and the stick,Kyle Ackermann,Teddi Lesoine,Jared Beaufait,Liz Gormley,18.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,That was too easy,choppa and the stick,Kyle Ackermann,Teddi Lesoine,Jared Beaufait,Liz Gormley,21.0,13.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,That was too easy,choppa and the stick,Kyle Ackermann,Teddi Lesoine,Jared Beaufait,Liz Gormley,21.0,17.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Coup de Tête,Beach Bums🌴,Ben Savage,Emma Angeletti,Ethan Groover,Morgan Bruce,21.0,11.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Coup de Tête,Beach Bums🌴,Ben Savage,Emma Angeletti,Ethan Groover,Morgan Bruce,22.0,20.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,MAD Jelly,Demon time,Coleman Epperson,Ali Jenki,Shonda Couroux,Adrian Garcea,1.0,0.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,MAD Jelly,Demon time,Coleman Epperson,Ali Jenki,Shonda Couroux,Adrian Garcea,1.0,0.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Ding around the Rosie,Murray Hilltop Spikes,Tiff Ding,Kieran Rose,Skylar Regan,Max Model,21.0,10.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Ding around the Rosie,Murray Hilltop Spikes,Tiff Ding,Kieran Rose,Skylar Regan,Max Model,24.0,22.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,stizzy,Flugelhorn,Stef Ding,Sean Brown,Meagan Bown,Tommy Drake,23.0,25.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,stizzy,Flugelhorn,Stef Ding,Sean Brown,Meagan Bown,Tommy Drake,17.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Scott/Rafa,B-Olivia,Rafaela Bastos,Scott Beeks,Olivia Jenki,David Gonzales,21.0,19.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Scott/Rafa,B-Olivia,Rafaela Bastos,Scott Beeks,Olivia Jenki,David Gonzales,17.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Round of 16,Scott/Rafa,B-Olivia,Rafaela Bastos,Scott Beeks,Olivia Jenki,David Gonzales,17.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,Mixed Signals,B-Olivia,Etienne Cote,Katie Pierson,Olivia Jenki,David Gonzales,21.0,17.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,Mixed Signals,B-Olivia,Etienne Cote,Katie Pierson,Olivia Jenki,David Gonzales,18.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,Mixed Signals,B-Olivia,Etienne Cote,Katie Pierson,Olivia Jenki,David Gonzales,21.0,17.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,Jawdroppers,Flugelhorn,Sarah Allen,Christian Bennett,Meagan Bown,Tommy Drake,21.0,14.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,Jawdroppers,Flugelhorn,Sarah Allen,Christian Bennett,Meagan Bown,Tommy Drake,21.0,11.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,Jawdroppers,Flugelhorn,Sarah Allen,Christian Bennett,Meagan Bown,Tommy Drake,18.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,That was too easy,Ding around the Rosie,Kyle Ackermann,Teddi Lesoine,Tiff Ding,Kieran Rose,21.0,19.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,That was too easy,Ding around the Rosie,Kyle Ackermann,Teddi Lesoine,Tiff Ding,Kieran Rose,21.0,15.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,Coup de Tête,MAD Jelly,Ben Savage,Emma Angeletti,Coleman Epperson,Ali Jenki,15.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Quarter-final,Coup de Tête,MAD Jelly,Ben Savage,Emma Angeletti,Coleman Epperson,Ali Jenki,19.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Quarter-final,stizzy,Two Thumbs Up,Stef Ding,Sean Brown,Dom Orlando,Nicole Orlando,0.0,1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Quarter-final,stizzy,Two Thumbs Up,Stef Ding,Sean Brown,Dom Orlando,Nicole Orlando,0.0,1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Quarter-final,Murray Hilltop Spikes,choppa and the stick,Skylar Regan,Max Model,Jared Beaufait,Liz Gormley,0.0,1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Quarter-final,Murray Hilltop Spikes,choppa and the stick,Skylar Regan,Max Model,Jared Beaufait,Liz Gormley,20.0,22.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Quarter-final,Demon time,Beach Bums🌴,Shonda Couroux,Adrian Garcea,Ethan Groover,Morgan Bruce,0.0,1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Quarter-final,Demon time,Beach Bums🌴,Shonda Couroux,Adrian Garcea,Ethan Groover,Morgan Bruce,0.0,1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Semi-final,Mixed Signals,MAD Jelly,Etienne Cote,Katie Pierson,Coleman Epperson,Ali Jenki,21.0,16.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Semi-final,Mixed Signals,MAD Jelly,Etienne Cote,Katie Pierson,Coleman Epperson,Ali Jenki,21.0,18.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Semi-final,Jawdroppers,That was too easy,Sarah Allen,Christian Bennett,Kyle Ackermann,Teddi Lesoine,21.0,18.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Semi-final,Jawdroppers,That was too easy,Sarah Allen,Christian Bennett,Kyle Ackermann,Teddi Lesoine,21.0,17.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Semi-final,Scott/Rafa,Beach Bums🌴,Rafaela Bastos,Scott Beeks,Ethan Groover,Morgan Bruce,21.0,17.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Semi-final,Scott/Rafa,Beach Bums🌴,Rafaela Bastos,Scott Beeks,Ethan Groover,Morgan Bruce,21.0,15.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Semi-final,Two Thumbs Up,choppa and the stick,Dom Orlando,Nicole Orlando,Jared Beaufait,Liz Gormley,0.0,1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Semi-final,Two Thumbs Up,choppa and the stick,Dom Orlando,Nicole Orlando,Jared Beaufait,Liz Gormley,0.0,1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Final,Mixed Signals,Jawdroppers,Etienne Cote,Katie Pierson,Sarah Allen,Christian Bennett,21.0,16.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Final,Mixed Signals,Jawdroppers,Etienne Cote,Katie Pierson,Sarah Allen,Christian Bennett,18.0,21.0
+fl-roundnet-open-23,Mixed Advanced (4.5),Final,Mixed Signals,Jawdroppers,Etienne Cote,Katie Pierson,Sarah Allen,Christian Bennett,21.0,19.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P3: Final,That was too easy,MAD Jelly,Kyle Ackermann,Teddi Lesoine,Coleman Epperson,Ali Jenki,0.0,-1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P3: Final,That was too easy,MAD Jelly,Kyle Ackermann,Teddi Lesoine,Coleman Epperson,Ali Jenki,0.0,-1.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Final,Scott/Rafa,choppa and the stick,Rafaela Bastos,Scott Beeks,Jared Beaufait,Liz Gormley,21.0,19.0
+fl-roundnet-open-23,Mixed Advanced (4.5),P9: Final,Scott/Rafa,choppa and the stick,Rafaela Bastos,Scott Beeks,Jared Beaufait,Liz Gormley,21.0,17.0

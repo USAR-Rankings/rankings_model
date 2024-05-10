@@ -1,320 +1,320 @@
-"tourney","Division","Round","Team1","Team2","T1P1","T1P2","T2P1","T2P2","t1score","t2score"
-"ers23md","4.0+ Women's Advanced","Pool","Stef and Abby ","Liquid Wrench","Abby Piedmont","Stef Ding","Abigail Lannetti","Courtney Coppage",15,4
-"ers23md","4.0+ Women's Advanced","Pool","whiff & tiff?","Women in STEM","Tiff Ding","Meagan Bown","Bel Belvedere","Lauren Viado",15,13
-"ers23md","4.0+ Women's Advanced","Pool","Scrambled Legs","Sets and the City","Lourna Szabanos","Amanda Jamieson","Katrina Gabriella","Elizabeth Wiecek",16,14
-"ers23md","4.0+ Women's Advanced","Pool","Stef and Abby ","Women in STEM","Abby Piedmont","Stef Ding","Bel Belvedere","Lauren Viado",15,10
-"ers23md","4.0+ Women's Advanced","Pool","whiff & tiff?","Goofy Goobers","Tiff Ding","Meagan Bown","Alyssa Drain","Katheleen Phan",18,20
-"ers23md","4.0+ Women's Advanced","Pool","Sets and the City","Liquid Wrench","Katrina Gabriella","Elizabeth Wiecek","Abigail Lannetti","Courtney Coppage",10,15
-"ers23md","4.0+ Women's Advanced","Pool","Stef and Abby ","Sets and the City","Abby Piedmont","Stef Ding","Katrina Gabriella","Elizabeth Wiecek",15,10
-"ers23md","4.0+ Women's Advanced","Pool","whiff & tiff?","Scrambled Legs","Tiff Ding","Meagan Bown","Lourna Szabanos","Amanda Jamieson",15,11
-"ers23md","4.0+ Women's Advanced","Pool","Goofy Goobers","Women in STEM","Alyssa Drain","Katheleen Phan","Bel Belvedere","Lauren Viado",15,9
-"ers23md","4.0+ Women's Advanced","Pool","Stef and Abby ","Goofy Goobers","Abby Piedmont","Stef Ding","Alyssa Drain","Katheleen Phan",16,14
-"ers23md","4.0+ Women's Advanced","Pool","whiff & tiff?","Liquid Wrench","Tiff Ding","Meagan Bown","Abigail Lannetti","Courtney Coppage",15,8
-"ers23md","4.0+ Women's Advanced","Pool","Scrambled Legs","Women in STEM","Lourna Szabanos","Amanda Jamieson","Bel Belvedere","Lauren Viado",15,12
-"ers23md","4.0+ Women's Advanced","Pool","whiff & tiff?","Sets and the City","Tiff Ding","Meagan Bown","Katrina Gabriella","Elizabeth Wiecek",15,9
-"ers23md","4.0+ Women's Advanced","Pool","Scrambled Legs","Goofy Goobers","Lourna Szabanos","Amanda Jamieson","Alyssa Drain","Katheleen Phan",12,15
-"ers23md","4.0+ Women's Advanced","Pool","Women in STEM","Liquid Wrench","Bel Belvedere","Lauren Viado","Abigail Lannetti","Courtney Coppage",14,16
-"ers23md","4.0+ Women's Advanced","Pool","Stef and Abby ","Scrambled Legs","Abby Piedmont","Stef Ding","Lourna Szabanos","Amanda Jamieson",15,11
-"ers23md","4.0+ Women's Advanced","Pool","Goofy Goobers","Liquid Wrench","Alyssa Drain","Katheleen Phan","Abigail Lannetti","Courtney Coppage",15,8
-"ers23md","4.0+ Women's Advanced","Pool","Sets and the City","Women in STEM","Katrina Gabriella","Elizabeth Wiecek","Bel Belvedere","Lauren Viado",15,13
-"ers23md","4.0+ Women's Advanced","Pool","Stef and Abby ","whiff & tiff?","Abby Piedmont","Stef Ding","Tiff Ding","Meagan Bown",15,13
-"ers23md","4.0+ Women's Advanced","Pool","Scrambled Legs","Liquid Wrench","Lourna Szabanos","Amanda Jamieson","Abigail Lannetti","Courtney Coppage",14,16
-"ers23md","4.0+ Women's Advanced","Pool","Goofy Goobers","Sets and the City","Alyssa Drain","Katheleen Phan","Katrina Gabriella","Elizabeth Wiecek",15,8
-"ers23md","4.0+ Women's Advanced","Quarter-final","Goofy Goobers","Women in STEM","Alyssa Drain","Katheleen Phan","Bel Belvedere","Lauren Viado",21,14
-"ers23md","4.0+ Women's Advanced","Quarter-final","Goofy Goobers","Women in STEM","Alyssa Drain","Katheleen Phan","Bel Belvedere","Lauren Viado",21,16
-"ers23md","4.0+ Women's Advanced","Quarter-final","whiff & tiff?","Sets and the City","Tiff Ding","Meagan Bown","Katrina Gabriella","Elizabeth Wiecek",21,12
-"ers23md","4.0+ Women's Advanced","Quarter-final","whiff & tiff?","Sets and the City","Tiff Ding","Meagan Bown","Katrina Gabriella","Elizabeth Wiecek",21,12
-"ers23md","4.0+ Women's Advanced","Quarter-final","Liquid Wrench","Scrambled Legs","Abigail Lannetti","Courtney Coppage","Lourna Szabanos","Amanda Jamieson",15,21
-"ers23md","4.0+ Women's Advanced","Quarter-final","Liquid Wrench","Scrambled Legs","Abigail Lannetti","Courtney Coppage","Lourna Szabanos","Amanda Jamieson",10,21
-"ers23md","4.0+ Women's Advanced","Semi-final","Stef and Abby ","Scrambled Legs","Abby Piedmont","Stef Ding","Lourna Szabanos","Amanda Jamieson",21,15
-"ers23md","4.0+ Women's Advanced","Semi-final","Stef and Abby ","Scrambled Legs","Abby Piedmont","Stef Ding","Lourna Szabanos","Amanda Jamieson",21,16
-"ers23md","4.0+ Women's Advanced","Semi-final","Goofy Goobers","whiff & tiff?","Alyssa Drain","Katheleen Phan","Tiff Ding","Meagan Bown",19,21
-"ers23md","4.0+ Women's Advanced","Semi-final","Goofy Goobers","whiff & tiff?","Alyssa Drain","Katheleen Phan","Tiff Ding","Meagan Bown",10,21
-"ers23md","4.0+ Women's Advanced","Final","Stef and Abby ","whiff & tiff?","Abby Piedmont","Stef Ding","Tiff Ding","Meagan Bown",17,21
-"ers23md","4.0+ Women's Advanced","Final","Stef and Abby ","whiff & tiff?","Abby Piedmont","Stef Ding","Tiff Ding","Meagan Bown",13,21
-"ers23md","4.0+ Women's Advanced","P3: Final","Goofy Goobers","Scrambled Legs","Alyssa Drain","Katheleen Phan","Lourna Szabanos","Amanda Jamieson",21,15
-"ers23md","4.0+ Women's Advanced","P3: Final","Goofy Goobers","Scrambled Legs","Alyssa Drain","Katheleen Phan","Lourna Szabanos","Amanda Jamieson",21,10
-"ers23md","4.0+ Women's Advanced","Pool","Liquid Wrench","Sets and the City","Abigail Lannetti","Courtney Coppage","Katrina Gabriella","Elizabeth Wiecek",21,8
-"ers23md","4.0+ Women's Advanced","Pool","Liquid Wrench","Women in STEM","Abigail Lannetti","Courtney Coppage","Bel Belvedere","Lauren Viado",21,8
-"ers23md","5.0+ Premier (Open)","Pool","Bags are Packed","Sufficiently Sauced","Ryan Gross","Ryan Marino","Sam Mccune","Isaac Staats",15,4
-"ers23md","5.0+ Premier (Open)","Pool","Eternal Atake","AZR Rice Babes","Reid Lampert","Kurt Lannetti","Tayt Rogers","Aidan Mackey",15,12
-"ers23md","5.0+ Premier (Open)","Pool","TRP palate cleanser ","Quick Draw","Joe Bondi","Clark Marshall","Pat Marinich","Caleb White",15,8
-"ers23md","5.0+ Premier (Open)","Pool","Glizzy Gladiators","PBR You gotta give ","Jacob Summers","Polk Denmark","James Richmond","Brian Perlson",15,9
-"ers23md","5.0+ Premier (Open)","Pool","Porkroll, Egg, & Cheesesteak","PBR Dap & Snap","Matt Spolarich","Jake Mottershead","A.j. Martin","Jacob Arzaga",18,16
-"ers23md","5.0+ Premier (Open)","Pool","Model/Finocchi","Nic & Kevin","Cole Model","Gabe Finocchi","Nicolas Yabar","Kevin Chen",15,6
-"ers23md","5.0+ Premier (Open)","Pool","Profit Boost","RNW Shutter Speed","Justin Shaytar","Kieran Rose","Noah Vasington","Brody Ulrich",15,4
-"ers23md","5.0+ Premier (Open)","Pool","Khaki Shorts","PBR: Lesser Washington Roundnet","Dan Bonowski","Demitri Forand","Ezra Dantowitz","Michael Capobianco",15,11
-"ers23md","5.0+ Premier (Open)","Pool","TRPee Golden Shower","High Def","Will Picone","Dan Abrams","Lucas Hope","Josh DiDonato",15,11
-"ers23md","5.0+ Premier (Open)","Pool","Bot House","Nittany Nation","Owen Lippman","West Peterson","Tyler Keener","Henry Pleszkoch",15,10
-"ers23md","5.0+ Premier (Open)","Pool","Handsome Man Fans","Dirty soda spike lee","Calvin Smith","Liam Sherron","Sean Brown","Thomas Hoffman",13,15
-"ers23md","5.0+ Premier (Open)","Pool","Bags are Packed","AZR Rice Babes","Ryan Gross","Ryan Marino","Tayt Rogers","Aidan Mackey",15,11
-"ers23md","5.0+ Premier (Open)","Pool","VBR Stingray","Sufficiently Sauced","Josh Esposo","Andrew Gunter","Sam Mccune","Isaac Staats",16,14
-"ers23md","5.0+ Premier (Open)","Pool","TRP palate cleanser ","PBR You gotta give ","Joe Bondi","Clark Marshall","James Richmond","Brian Perlson",17,15
-"ers23md","5.0+ Premier (Open)","Pool","Glizzy Gladiators","Porkroll, Egg, & Cheesesteak","Jacob Summers","Polk Denmark","Matt Spolarich","Jake Mottershead",15,12
-"ers23md","5.0+ Premier (Open)","Pool","PBR Dap & Snap","Quick Draw","A.j. Martin","Jacob Arzaga","Pat Marinich","Caleb White",16,14
-"ers23md","5.0+ Premier (Open)","Pool","Model/Finocchi","RNW Shutter Speed","Cole Model","Gabe Finocchi","Noah Vasington","Brody Ulrich",15,8
-"ers23md","5.0+ Premier (Open)","Pool","Profit Boost","Khaki Shorts","Justin Shaytar","Kieran Rose","Dan Bonowski","Demitri Forand",15,11
-"ers23md","5.0+ Premier (Open)","Pool","PBR: Lesser Washington Roundnet","Nic & Kevin","Ezra Dantowitz","Michael Capobianco","Nicolas Yabar","Kevin Chen",15,6
-"ers23md","5.0+ Premier (Open)","Pool","TRPee Golden Shower","Nittany Nation","Will Picone","Dan Abrams","Tyler Keener","Henry Pleszkoch",15,7
-"ers23md","5.0+ Premier (Open)","Pool","Bot House","Handsome Man Fans","Owen Lippman","West Peterson","Calvin Smith","Liam Sherron",15,7
-"ers23md","5.0+ Premier (Open)","Pool","Dirty soda spike lee","High Def","Sean Brown","Thomas Hoffman","Lucas Hope","Josh DiDonato",15,13
-"ers23md","5.0+ Premier (Open)","Pool","Bags are Packed","VBR Stingray","Ryan Gross","Ryan Marino","Josh Esposo","Andrew Gunter",15,5
-"ers23md","5.0+ Premier (Open)","Pool","Eternal Atake","Sufficiently Sauced","Reid Lampert","Kurt Lannetti","Sam Mccune","Isaac Staats",15,12
-"ers23md","5.0+ Premier (Open)","Pool","TRP palate cleanser ","PBR Dap & Snap","Joe Bondi","Clark Marshall","A.j. Martin","Jacob Arzaga",15,8
-"ers23md","5.0+ Premier (Open)","Pool","Glizzy Gladiators","Quick Draw","Jacob Summers","Polk Denmark","Pat Marinich","Caleb White",15,12
-"ers23md","5.0+ Premier (Open)","Pool","Porkroll, Egg, & Cheesesteak","PBR You gotta give ","Matt Spolarich","Jake Mottershead","James Richmond","Brian Perlson",15,11
-"ers23md","5.0+ Premier (Open)","Pool","Model/Finocchi","PBR: Lesser Washington Roundnet","Cole Model","Gabe Finocchi","Ezra Dantowitz","Michael Capobianco",15,7
-"ers23md","5.0+ Premier (Open)","Pool","Profit Boost","Nic & Kevin","Justin Shaytar","Kieran Rose","Nicolas Yabar","Kevin Chen",15,4
-"ers23md","5.0+ Premier (Open)","Pool","Khaki Shorts","RNW Shutter Speed","Dan Bonowski","Demitri Forand","Noah Vasington","Brody Ulrich",15,7
-"ers23md","5.0+ Premier (Open)","Pool","TRPee Golden Shower","Dirty soda spike lee","Will Picone","Dan Abrams","Sean Brown","Thomas Hoffman",15,11
-"ers23md","5.0+ Premier (Open)","Pool","Bot House","High Def","Owen Lippman","West Peterson","Lucas Hope","Josh DiDonato",15,9
-"ers23md","5.0+ Premier (Open)","Pool","Handsome Man Fans","Nittany Nation","Calvin Smith","Liam Sherron","Tyler Keener","Henry Pleszkoch",15,13
-"ers23md","5.0+ Premier (Open)","Pool","Eternal Atake","VBR Stingray","Reid Lampert","Kurt Lannetti","Josh Esposo","Andrew Gunter",15,10
-"ers23md","5.0+ Premier (Open)","Pool","AZR Rice Babes","Sufficiently Sauced","Tayt Rogers","Aidan Mackey","Sam Mccune","Isaac Staats",15,13
-"ers23md","5.0+ Premier (Open)","Pool","TRP palate cleanser ","Porkroll, Egg, & Cheesesteak","Joe Bondi","Clark Marshall","Matt Spolarich","Jake Mottershead",20,21
-"ers23md","5.0+ Premier (Open)","Pool","Glizzy Gladiators","PBR Dap & Snap","Jacob Summers","Polk Denmark","A.j. Martin","Jacob Arzaga",15,17
-"ers23md","5.0+ Premier (Open)","Pool","PBR You gotta give ","Quick Draw","James Richmond","Brian Perlson","Pat Marinich","Caleb White",15,11
-"ers23md","5.0+ Premier (Open)","Pool","Model/Finocchi","Khaki Shorts","Cole Model","Gabe Finocchi","Dan Bonowski","Demitri Forand",15,10
-"ers23md","5.0+ Premier (Open)","Pool","Profit Boost","PBR: Lesser Washington Roundnet","Justin Shaytar","Kieran Rose","Ezra Dantowitz","Michael Capobianco",15,9
-"ers23md","5.0+ Premier (Open)","Pool","RNW Shutter Speed","Nic & Kevin","Noah Vasington","Brody Ulrich","Nicolas Yabar","Kevin Chen",13,15
-"ers23md","5.0+ Premier (Open)","Pool","TRPee Golden Shower","Handsome Man Fans","Will Picone","Dan Abrams","Calvin Smith","Liam Sherron",15,10
-"ers23md","5.0+ Premier (Open)","Pool","Bot House","Dirty soda spike lee","Owen Lippman","West Peterson","Sean Brown","Thomas Hoffman",15,10
-"ers23md","5.0+ Premier (Open)","Pool","Nittany Nation","High Def","Tyler Keener","Henry Pleszkoch","Lucas Hope","Josh DiDonato",20,21
-"ers23md","5.0+ Premier (Open)","Pool","Bags are Packed","Eternal Atake","Ryan Gross","Ryan Marino","Reid Lampert","Kurt Lannetti",15,9
-"ers23md","5.0+ Premier (Open)","Pool","VBR Stingray","AZR Rice Babes","Josh Esposo","Andrew Gunter","Tayt Rogers","Aidan Mackey",15,8
-"ers23md","5.0+ Premier (Open)","Pool","TRP palate cleanser ","Glizzy Gladiators","Joe Bondi","Clark Marshall","Jacob Summers","Polk Denmark",15,13
-"ers23md","5.0+ Premier (Open)","Pool","Porkroll, Egg, & Cheesesteak","Quick Draw","Matt Spolarich","Jake Mottershead","Pat Marinich","Caleb White",15,13
-"ers23md","5.0+ Premier (Open)","Pool","PBR Dap & Snap","PBR You gotta give ","A.j. Martin","Jacob Arzaga","James Richmond","Brian Perlson",16,18
-"ers23md","5.0+ Premier (Open)","Pool","Model/Finocchi","Profit Boost","Cole Model","Gabe Finocchi","Justin Shaytar","Kieran Rose",15,10
-"ers23md","5.0+ Premier (Open)","Pool","Khaki Shorts","Nic & Kevin","Dan Bonowski","Demitri Forand","Nicolas Yabar","Kevin Chen",15,10
-"ers23md","5.0+ Premier (Open)","Pool","PBR: Lesser Washington Roundnet","RNW Shutter Speed","Ezra Dantowitz","Michael Capobianco","Noah Vasington","Brody Ulrich",15,7
-"ers23md","5.0+ Premier (Open)","Pool","TRPee Golden Shower","Bot House","Will Picone","Dan Abrams","Owen Lippman","West Peterson",11,15
-"ers23md","5.0+ Premier (Open)","Pool","Handsome Man Fans","High Def","Calvin Smith","Liam Sherron","Lucas Hope","Josh DiDonato",12,15
-"ers23md","5.0+ Premier (Open)","Pool","Dirty soda spike lee","Nittany Nation","Sean Brown","Thomas Hoffman","Tyler Keener","Henry Pleszkoch",12,15
-"ers23md","5.0+ Premier (Open)","Round of 32","Glizzy Gladiators","RNW Shutter Speed","Jacob Summers","Polk Denmark","Noah Vasington","Brody Ulrich",21,14
-"ers23md","5.0+ Premier (Open)","Round of 32","VBR Stingray","Quick Draw","Josh Esposo","Andrew Gunter","Pat Marinich","Caleb White",23,21
-"ers23md","5.0+ Premier (Open)","Round of 32","PBR: Lesser Washington Roundnet","Nic & Kevin","Ezra Dantowitz","Michael Capobianco","Nicolas Yabar","Kevin Chen",21,17
-"ers23md","5.0+ Premier (Open)","Round of 32","PBR You gotta give ","Sufficiently Sauced","James Richmond","Brian Perlson","Sam Mccune","Isaac Staats",21,19
-"ers23md","5.0+ Premier (Open)","Round of 32","PBR Dap & Snap","Handsome Man Fans","A.j. Martin","Jacob Arzaga","Calvin Smith","Liam Sherron",21,13
-"ers23md","5.0+ Premier (Open)","Round of 32","Dirty soda spike lee","Nittany Nation","Sean Brown","Thomas Hoffman","Tyler Keener","Henry Pleszkoch",21,19
-"ers23md","5.0+ Premier (Open)","Round of 32","High Def","AZR Rice Babes","Lucas Hope","Josh DiDonato","Tayt Rogers","Aidan Mackey",19,21
-"ers23md","5.0+ Premier (Open)","Round of 16","Bags are Packed","AZR Rice Babes","Ryan Gross","Ryan Marino","Tayt Rogers","Aidan Mackey",21,9
-"ers23md","5.0+ Premier (Open)","Round of 16","Bags are Packed","AZR Rice Babes","Ryan Gross","Ryan Marino","Tayt Rogers","Aidan Mackey",21,15
-"ers23md","5.0+ Premier (Open)","Round of 16","Model/Finocchi","Dirty soda spike lee","Cole Model","Gabe Finocchi","Sean Brown","Thomas Hoffman",21,15
-"ers23md","5.0+ Premier (Open)","Round of 16","Model/Finocchi","Dirty soda spike lee","Cole Model","Gabe Finocchi","Sean Brown","Thomas Hoffman",21,14
-"ers23md","5.0+ Premier (Open)","Round of 16","Bot House","PBR Dap & Snap","Owen Lippman","West Peterson","A.j. Martin","Jacob Arzaga",21,16
-"ers23md","5.0+ Premier (Open)","Round of 16","Bot House","PBR Dap & Snap","Owen Lippman","West Peterson","A.j. Martin","Jacob Arzaga",21,14
-"ers23md","5.0+ Premier (Open)","Round of 16","Profit Boost","PBR You gotta give ","Justin Shaytar","Kieran Rose","James Richmond","Brian Perlson",21,15
-"ers23md","5.0+ Premier (Open)","Round of 16","Profit Boost","PBR You gotta give ","Justin Shaytar","Kieran Rose","James Richmond","Brian Perlson",21,9
-"ers23md","5.0+ Premier (Open)","Round of 16","TRP palate cleanser ","PBR: Lesser Washington Roundnet","Joe Bondi","Clark Marshall","Ezra Dantowitz","Michael Capobianco",21,12
-"ers23md","5.0+ Premier (Open)","Round of 16","TRP palate cleanser ","PBR: Lesser Washington Roundnet","Joe Bondi","Clark Marshall","Ezra Dantowitz","Michael Capobianco",21,16
-"ers23md","5.0+ Premier (Open)","Round of 16","TRPee Golden Shower","VBR Stingray","Will Picone","Dan Abrams","Josh Esposo","Andrew Gunter",21,16
-"ers23md","5.0+ Premier (Open)","Round of 16","TRPee Golden Shower","VBR Stingray","Will Picone","Dan Abrams","Josh Esposo","Andrew Gunter",21,18
-"ers23md","5.0+ Premier (Open)","Round of 16","Eternal Atake","Glizzy Gladiators","Reid Lampert","Kurt Lannetti","Jacob Summers","Polk Denmark",18,21
-"ers23md","5.0+ Premier (Open)","Round of 16","Eternal Atake","Glizzy Gladiators","Reid Lampert","Kurt Lannetti","Jacob Summers","Polk Denmark",18,21
-"ers23md","5.0+ Premier (Open)","Round of 16","Porkroll, Egg, & Cheesesteak","Khaki Shorts","Matt Spolarich","Jake Mottershead","Dan Bonowski","Demitri Forand",12,21
-"ers23md","5.0+ Premier (Open)","Round of 16","Porkroll, Egg, & Cheesesteak","Khaki Shorts","Matt Spolarich","Jake Mottershead","Dan Bonowski","Demitri Forand",18,21
-"ers23md","5.0+ Premier (Open)","Quarter-final","Bags are Packed","Khaki Shorts","Ryan Gross","Ryan Marino","Dan Bonowski","Demitri Forand",16,21
-"ers23md","5.0+ Premier (Open)","Quarter-final","Bags are Packed","Khaki Shorts","Ryan Gross","Ryan Marino","Dan Bonowski","Demitri Forand",21,16
-"ers23md","5.0+ Premier (Open)","Quarter-final","Bags are Packed","Khaki Shorts","Ryan Gross","Ryan Marino","Dan Bonowski","Demitri Forand",21,11
-"ers23md","5.0+ Premier (Open)","Quarter-final","Model/Finocchi","Glizzy Gladiators","Cole Model","Gabe Finocchi","Jacob Summers","Polk Denmark",21,19
-"ers23md","5.0+ Premier (Open)","Quarter-final","Model/Finocchi","Glizzy Gladiators","Cole Model","Gabe Finocchi","Jacob Summers","Polk Denmark",21,15
-"ers23md","5.0+ Premier (Open)","Quarter-final","Bot House","TRPee Golden Shower","Owen Lippman","West Peterson","Will Picone","Dan Abrams",30,32
-"ers23md","5.0+ Premier (Open)","Quarter-final","Bot House","TRPee Golden Shower","Owen Lippman","West Peterson","Will Picone","Dan Abrams",21,23
-"ers23md","5.0+ Premier (Open)","Quarter-final","Profit Boost","TRP palate cleanser ","Justin Shaytar","Kieran Rose","Joe Bondi","Clark Marshall",20,22
-"ers23md","5.0+ Premier (Open)","Quarter-final","Profit Boost","TRP palate cleanser ","Justin Shaytar","Kieran Rose","Joe Bondi","Clark Marshall",13,21
-"ers23md","5.0+ Premier (Open)","P9: Quarter-final","Porkroll, Egg, & Cheesesteak","AZR Rice Babes","Matt Spolarich","Jake Mottershead","Tayt Rogers","Aidan Mackey",24,22
-"ers23md","5.0+ Premier (Open)","P9: Quarter-final","Eternal Atake","Dirty soda spike lee","Reid Lampert","Kurt Lannetti","Sean Brown","Thomas Hoffman",19,21
-"ers23md","5.0+ Premier (Open)","P9: Quarter-final","VBR Stingray","PBR Dap & Snap","Josh Esposo","Andrew Gunter","A.j. Martin","Jacob Arzaga",21,19
-"ers23md","5.0+ Premier (Open)","P9: Quarter-final","PBR: Lesser Washington Roundnet","PBR You gotta give ","Ezra Dantowitz","Michael Capobianco","James Richmond","Brian Perlson",22,20
-"ers23md","5.0+ Premier (Open)","P17: Quarter-final","Nittany Nation","RNW Shutter Speed","Tyler Keener","Henry Pleszkoch","Noah Vasington","Brody Ulrich",21,15
-"ers23md","5.0+ Premier (Open)","P17: Quarter-final","Handsome Man Fans","Quick Draw","Calvin Smith","Liam Sherron","Pat Marinich","Caleb White",0,1
-"ers23md","5.0+ Premier (Open)","P17: Quarter-final","Sufficiently Sauced","Nic & Kevin","Sam Mccune","Isaac Staats","Nicolas Yabar","Kevin Chen",21,18
-"ers23md","5.0+ Premier (Open)","Semi-final","Bags are Packed","TRP palate cleanser ","Ryan Gross","Ryan Marino","Joe Bondi","Clark Marshall",19,21
-"ers23md","5.0+ Premier (Open)","Semi-final","Bags are Packed","TRP palate cleanser ","Ryan Gross","Ryan Marino","Joe Bondi","Clark Marshall",14,21
-"ers23md","5.0+ Premier (Open)","Semi-final","Model/Finocchi","TRPee Golden Shower","Cole Model","Gabe Finocchi","Will Picone","Dan Abrams",16,21
-"ers23md","5.0+ Premier (Open)","Semi-final","Model/Finocchi","TRPee Golden Shower","Cole Model","Gabe Finocchi","Will Picone","Dan Abrams",21,19
-"ers23md","5.0+ Premier (Open)","Semi-final","Model/Finocchi","TRPee Golden Shower","Cole Model","Gabe Finocchi","Will Picone","Dan Abrams",21,14
-"ers23md","5.0+ Premier (Open)","P5: Semi-final","Profit Boost","Khaki Shorts","Justin Shaytar","Kieran Rose","Dan Bonowski","Demitri Forand",-1,0
-"ers23md","5.0+ Premier (Open)","P5: Semi-final","Bot House","Glizzy Gladiators","Owen Lippman","West Peterson","Jacob Summers","Polk Denmark",-1,0
-"ers23md","5.0+ Premier (Open)","P9: Semi-final","Porkroll, Egg, & Cheesesteak","PBR: Lesser Washington Roundnet","Matt Spolarich","Jake Mottershead","Ezra Dantowitz","Michael Capobianco",21,19
-"ers23md","5.0+ Premier (Open)","P9: Semi-final","Dirty soda spike lee","VBR Stingray","Sean Brown","Thomas Hoffman","Josh Esposo","Andrew Gunter",0,-1
-"ers23md","5.0+ Premier (Open)","P17: Semi-final","High Def","Sufficiently Sauced","Lucas Hope","Josh DiDonato","Sam Mccune","Isaac Staats",-1,0
-"ers23md","5.0+ Premier (Open)","P17: Semi-final","Nittany Nation","Quick Draw","Tyler Keener","Henry Pleszkoch","Pat Marinich","Caleb White",21,12
-"ers23md","5.0+ Premier (Open)","Final","TRP palate cleanser ","Model/Finocchi","Joe Bondi","Clark Marshall","Cole Model","Gabe Finocchi",16,21
-"ers23md","5.0+ Premier (Open)","Final","TRP palate cleanser ","Model/Finocchi","Joe Bondi","Clark Marshall","Cole Model","Gabe Finocchi",21,8
-"ers23md","5.0+ Premier (Open)","Final","TRP palate cleanser ","Model/Finocchi","Joe Bondi","Clark Marshall","Cole Model","Gabe Finocchi",21,15
-"ers23md","5.0+ Premier (Open)","P3: Final","TRPee Golden Shower","Bags are Packed","Will Picone","Dan Abrams","Ryan Gross","Ryan Marino",11,21
-"ers23md","5.0+ Premier (Open)","P3: Final","TRPee Golden Shower","Bags are Packed","Will Picone","Dan Abrams","Ryan Gross","Ryan Marino",21,23
-"ers23md","5.0+ Premier (Open)","P5: Final","Khaki Shorts","Glizzy Gladiators","Dan Bonowski","Demitri Forand","Jacob Summers","Polk Denmark",-1,0
-"ers23md","5.0+ Premier (Open)","P17: Final","Sufficiently Sauced","Nittany Nation","Sam Mccune","Isaac Staats","Tyler Keener","Henry Pleszkoch",1,0
-"ers23md","4.5+ Contender (Open)","Pool","an embarrassing number of points","Baby Cuts","Garrett Blanchard","Jared Dean Katz","Daniel Kim","Caleb Schilling",15,10
-"ers23md","4.5+ Contender (Open)","Pool","LL Ludus","Short Kings","Jason Davis","Ant Terrigno","Ben Celestino","Nick McDonough",15,5
-"ers23md","4.5+ Contender (Open)","Pool","Gasaway/Narayan","Keenan is key LL","Jacob Narayan","Andrew Gasaway","Kyle Keenan","Joby O’Brien",10,15
-"ers23md","4.5+ Contender (Open)","Pool","TRP VT B3","Pinocchio’s Pistachios","Drew Keely","ian macdonald","Liam Calhoun","William Rowe",13,15
-"ers23md","4.5+ Contender (Open)","Pool","Falck - Drew","TBB Bungalow Boys","Felipe Larroza","Drew Ryder","Bryan Covell","Joel Yang",15,13
-"ers23md","4.5+ Contender (Open)","Pool","D1 A Squad","Bros on Their Toes","Michael Moniz","Jake Hurst","Matthew Manfredi","Andrew Manfredi",16,14
-"ers23md","4.5+ Contender (Open)","Pool","Ballbarians","Buckets","Brent Summers","Isaiah Hillman","Colin Nelson","JP Mitchell",7,15
-"ers23md","4.5+ Contender (Open)","Pool","Williamsburg Roundnet","Lodato/Liberczuk","Elijah Katz","Noah Katz","Eric Liberczuk","Brock Lodato",15,5
-"ers23md","4.5+ Contender (Open)","Pool","Premerekats","Definitely Brothers","Riley Savastano","Justin Wang","Zane Moussa","Tristan Laundree",15,6
-"ers23md","4.5+ Contender (Open)","Pool","Izayah and Dan","Quarter Pounder with Cheese","Izayah Gibson","dan savage","Vince Vo","David Nara",9,15
-"ers23md","4.5+ Contender (Open)","Pool","an embarrassing number of points","Short Kings","Garrett Blanchard","Jared Dean Katz","Ben Celestino","Nick McDonough",15,5
-"ers23md","4.5+ Contender (Open)","Pool","GWR Setting Practice","Baby Cuts","Jonah Zwillinger","Tim Daudelin","Daniel Kim","Caleb Schilling",15,13
-"ers23md","4.5+ Contender (Open)","Pool","Gasaway/Narayan","Pinocchio’s Pistachios","Jacob Narayan","Andrew Gasaway","Liam Calhoun","William Rowe",15,11
-"ers23md","4.5+ Contender (Open)","Pool","Double Ds","Keenan is key LL","Dan Burkert","Dustin Grant","Kyle Keenan","Joby O’Brien",16,14
-"ers23md","4.5+ Contender (Open)","Pool","Falck - Drew","Bros on Their Toes","Felipe Larroza","Drew Ryder","Matthew Manfredi","Andrew Manfredi",15,11
-"ers23md","4.5+ Contender (Open)","Pool","D1 A Squad","Ballbarians","Michael Moniz","Jake Hurst","Brent Summers","Isaiah Hillman",15,10
-"ers23md","4.5+ Contender (Open)","Pool","Buckets","TBB Bungalow Boys","Colin Nelson","JP Mitchell","Bryan Covell","Joel Yang",15,7
-"ers23md","4.5+ Contender (Open)","Pool","Williamsburg Roundnet","Definitely Brothers","Elijah Katz","Noah Katz","Zane Moussa","Tristan Laundree",15,5
-"ers23md","4.5+ Contender (Open)","Pool","Premerekats","Izayah and Dan","Riley Savastano","Justin Wang","Izayah Gibson","dan savage",15,12
-"ers23md","4.5+ Contender (Open)","Pool","Quarter Pounder with Cheese","Lodato/Liberczuk","Vince Vo","David Nara","Eric Liberczuk","Brock Lodato",15,10
-"ers23md","4.5+ Contender (Open)","Pool","an embarrassing number of points","GWR Setting Practice","Garrett Blanchard","Jared Dean Katz","Jonah Zwillinger","Tim Daudelin",15,10
-"ers23md","4.5+ Contender (Open)","Pool","LL Ludus","Baby Cuts","Jason Davis","Ant Terrigno","Daniel Kim","Caleb Schilling",12,15
-"ers23md","4.5+ Contender (Open)","Pool","Gasaway/Narayan","Double Ds","Jacob Narayan","Andrew Gasaway","Dan Burkert","Dustin Grant",13,15
-"ers23md","4.5+ Contender (Open)","Pool","TRP VT B3","Keenan is key LL","Drew Keely","ian macdonald","Kyle Keenan","Joby O’Brien",15,11
-"ers23md","4.5+ Contender (Open)","Pool","Falck - Drew","Buckets","Felipe Larroza","Drew Ryder","Colin Nelson","JP Mitchell",15,13
-"ers23md","4.5+ Contender (Open)","Pool","D1 A Squad","TBB Bungalow Boys","Michael Moniz","Jake Hurst","Bryan Covell","Joel Yang",15,12
-"ers23md","4.5+ Contender (Open)","Pool","Ballbarians","Bros on Their Toes","Brent Summers","Isaiah Hillman","Matthew Manfredi","Andrew Manfredi",10,15
-"ers23md","4.5+ Contender (Open)","Pool","Williamsburg Roundnet","Quarter Pounder with Cheese","Elijah Katz","Noah Katz","Vince Vo","David Nara",15,12
-"ers23md","4.5+ Contender (Open)","Pool","Premerekats","Lodato/Liberczuk","Riley Savastano","Justin Wang","Eric Liberczuk","Brock Lodato",15,5
-"ers23md","4.5+ Contender (Open)","Pool","Izayah and Dan","Definitely Brothers","Izayah Gibson","dan savage","Zane Moussa","Tristan Laundree",15,8
-"ers23md","4.5+ Contender (Open)","Pool","LL Ludus","GWR Setting Practice","Jason Davis","Ant Terrigno","Jonah Zwillinger","Tim Daudelin",7,15
-"ers23md","4.5+ Contender (Open)","Pool","Short Kings","Baby Cuts","Ben Celestino","Nick McDonough","Daniel Kim","Caleb Schilling",15,12
-"ers23md","4.5+ Contender (Open)","Pool","TRP VT B3","Double Ds","Drew Keely","ian macdonald","Dan Burkert","Dustin Grant",11,15
-"ers23md","4.5+ Contender (Open)","Pool","Pinocchio’s Pistachios","Keenan is key LL","Liam Calhoun","William Rowe","Kyle Keenan","Joby O’Brien",12,15
-"ers23md","4.5+ Contender (Open)","Pool","Falck - Drew","Ballbarians","Felipe Larroza","Drew Ryder","Brent Summers","Isaiah Hillman",15,4
-"ers23md","4.5+ Contender (Open)","Pool","D1 A Squad","Buckets","Michael Moniz","Jake Hurst","Colin Nelson","JP Mitchell",15,13
-"ers23md","4.5+ Contender (Open)","Pool","Bros on Their Toes","TBB Bungalow Boys","Matthew Manfredi","Andrew Manfredi","Bryan Covell","Joel Yang",15,7
-"ers23md","4.5+ Contender (Open)","Pool","Williamsburg Roundnet","Izayah and Dan","Elijah Katz","Noah Katz","Izayah Gibson","dan savage",15,8
-"ers23md","4.5+ Contender (Open)","Pool","Premerekats","Quarter Pounder with Cheese","Riley Savastano","Justin Wang","Vince Vo","David Nara",15,10
-"ers23md","4.5+ Contender (Open)","Pool","Definitely Brothers","Lodato/Liberczuk","Zane Moussa","Tristan Laundree","Eric Liberczuk","Brock Lodato",11,15
-"ers23md","4.5+ Contender (Open)","Pool","an embarrassing number of points","LL Ludus","Garrett Blanchard","Jared Dean Katz","Jason Davis","Ant Terrigno",15,9
-"ers23md","4.5+ Contender (Open)","Pool","GWR Setting Practice","Short Kings","Jonah Zwillinger","Tim Daudelin","Ben Celestino","Nick McDonough",15,5
-"ers23md","4.5+ Contender (Open)","Pool","Gasaway/Narayan","TRP VT B3","Jacob Narayan","Andrew Gasaway","Drew Keely","ian macdonald",10,15
-"ers23md","4.5+ Contender (Open)","Pool","Double Ds","Pinocchio’s Pistachios","Dan Burkert","Dustin Grant","Liam Calhoun","William Rowe",15,13
-"ers23md","4.5+ Contender (Open)","Pool","Falck - Drew","D1 A Squad","Felipe Larroza","Drew Ryder","Michael Moniz","Jake Hurst",15,13
-"ers23md","4.5+ Contender (Open)","Pool","Ballbarians","TBB Bungalow Boys","Brent Summers","Isaiah Hillman","Bryan Covell","Joel Yang",14,16
-"ers23md","4.5+ Contender (Open)","Pool","Buckets","Bros on Their Toes","Colin Nelson","JP Mitchell","Matthew Manfredi","Andrew Manfredi",15,8
-"ers23md","4.5+ Contender (Open)","Pool","Williamsburg Roundnet","Premerekats","Elijah Katz","Noah Katz","Riley Savastano","Justin Wang",14,16
-"ers23md","4.5+ Contender (Open)","Pool","Izayah and Dan","Lodato/Liberczuk","Izayah Gibson","dan savage","Eric Liberczuk","Brock Lodato",15,12
-"ers23md","4.5+ Contender (Open)","Pool","Quarter Pounder with Cheese","Definitely Brothers","Vince Vo","David Nara","Zane Moussa","Tristan Laundree",15,10
-"ers23md","4.5+ Contender (Open)","Round of 32","Keenan is key LL","Definitely Brothers","Kyle Keenan","Joby O’Brien","Zane Moussa","Tristan Laundree",21,11
-"ers23md","4.5+ Contender (Open)","Round of 32","Bros on Their Toes","Ballbarians","Matthew Manfredi","Andrew Manfredi","Brent Summers","Isaiah Hillman",21,18
-"ers23md","4.5+ Contender (Open)","Round of 32","Izayah and Dan","Lodato/Liberczuk","Izayah Gibson","dan savage","Eric Liberczuk","Brock Lodato",21,13
-"ers23md","4.5+ Contender (Open)","Round of 32","LL Ludus","TBB Bungalow Boys","Jason Davis","Ant Terrigno","Bryan Covell","Joel Yang",21,18
-"ers23md","4.5+ Contender (Open)","Round of 32","Pinocchio’s Pistachios","Short Kings","Liam Calhoun","William Rowe","Ben Celestino","Nick McDonough",21,10
-"ers23md","4.5+ Contender (Open)","Round of 32","Baby Cuts","Gasaway/Narayan","Daniel Kim","Caleb Schilling","Jacob Narayan","Andrew Gasaway",12,21
-"ers23md","4.5+ Contender (Open)","Round of 16","an embarrassing number of points","Gasaway/Narayan","Garrett Blanchard","Jared Dean Katz","Jacob Narayan","Andrew Gasaway",21,15
-"ers23md","4.5+ Contender (Open)","Round of 16","an embarrassing number of points","Gasaway/Narayan","Garrett Blanchard","Jared Dean Katz","Jacob Narayan","Andrew Gasaway",21,17
-"ers23md","4.5+ Contender (Open)","Round of 16","Premerekats","Pinocchio’s Pistachios","Riley Savastano","Justin Wang","Liam Calhoun","William Rowe",21,15
-"ers23md","4.5+ Contender (Open)","Round of 16","Premerekats","Pinocchio’s Pistachios","Riley Savastano","Justin Wang","Liam Calhoun","William Rowe",21,16
-"ers23md","4.5+ Contender (Open)","Round of 16","Falck - Drew","LL Ludus","Felipe Larroza","Drew Ryder","Jason Davis","Ant Terrigno",21,11
-"ers23md","4.5+ Contender (Open)","Round of 16","Falck - Drew","LL Ludus","Felipe Larroza","Drew Ryder","Jason Davis","Ant Terrigno",18,21
-"ers23md","4.5+ Contender (Open)","Round of 16","Falck - Drew","LL Ludus","Felipe Larroza","Drew Ryder","Jason Davis","Ant Terrigno",21,17
-"ers23md","4.5+ Contender (Open)","Round of 16","Double Ds","Izayah and Dan","Dan Burkert","Dustin Grant","Izayah Gibson","dan savage",21,17
-"ers23md","4.5+ Contender (Open)","Round of 16","Double Ds","Izayah and Dan","Dan Burkert","Dustin Grant","Izayah Gibson","dan savage",19,21
-"ers23md","4.5+ Contender (Open)","Round of 16","Double Ds","Izayah and Dan","Dan Burkert","Dustin Grant","Izayah Gibson","dan savage",1,0
-"ers23md","4.5+ Contender (Open)","Round of 16","Williamsburg Roundnet","Bros on Their Toes","Elijah Katz","Noah Katz","Matthew Manfredi","Andrew Manfredi",21,17
-"ers23md","4.5+ Contender (Open)","Round of 16","Williamsburg Roundnet","Bros on Their Toes","Elijah Katz","Noah Katz","Matthew Manfredi","Andrew Manfredi",21,17
-"ers23md","4.5+ Contender (Open)","Round of 16","GWR Setting Practice","Keenan is key LL","Jonah Zwillinger","Tim Daudelin","Kyle Keenan","Joby O’Brien",21,15
-"ers23md","4.5+ Contender (Open)","Round of 16","GWR Setting Practice","Keenan is key LL","Jonah Zwillinger","Tim Daudelin","Kyle Keenan","Joby O’Brien",21,8
-"ers23md","4.5+ Contender (Open)","Round of 16","D1 A Squad","TRP VT B3","Michael Moniz","Jake Hurst","Drew Keely","ian macdonald",16,21
-"ers23md","4.5+ Contender (Open)","Round of 16","D1 A Squad","TRP VT B3","Michael Moniz","Jake Hurst","Drew Keely","ian macdonald",21,18
-"ers23md","4.5+ Contender (Open)","Round of 16","D1 A Squad","TRP VT B3","Michael Moniz","Jake Hurst","Drew Keely","ian macdonald",21,19
-"ers23md","4.5+ Contender (Open)","Round of 16","Buckets","Quarter Pounder with Cheese","Colin Nelson","JP Mitchell","Vince Vo","David Nara",21,11
-"ers23md","4.5+ Contender (Open)","Round of 16","Buckets","Quarter Pounder with Cheese","Colin Nelson","JP Mitchell","Vince Vo","David Nara",21,15
-"ers23md","4.5+ Contender (Open)","Quarter-final","an embarrassing number of points","Buckets","Garrett Blanchard","Jared Dean Katz","Colin Nelson","JP Mitchell",18,21
-"ers23md","4.5+ Contender (Open)","Quarter-final","an embarrassing number of points","Buckets","Garrett Blanchard","Jared Dean Katz","Colin Nelson","JP Mitchell",21,15
-"ers23md","4.5+ Contender (Open)","Quarter-final","an embarrassing number of points","Buckets","Garrett Blanchard","Jared Dean Katz","Colin Nelson","JP Mitchell",21,15
-"ers23md","4.5+ Contender (Open)","Quarter-final","Premerekats","D1 A Squad","Riley Savastano","Justin Wang","Michael Moniz","Jake Hurst",23,21
-"ers23md","4.5+ Contender (Open)","Quarter-final","Premerekats","D1 A Squad","Riley Savastano","Justin Wang","Michael Moniz","Jake Hurst",23,21
-"ers23md","4.5+ Contender (Open)","Quarter-final","Falck - Drew","GWR Setting Practice","Felipe Larroza","Drew Ryder","Jonah Zwillinger","Tim Daudelin",19,21
-"ers23md","4.5+ Contender (Open)","Quarter-final","Falck - Drew","GWR Setting Practice","Felipe Larroza","Drew Ryder","Jonah Zwillinger","Tim Daudelin",21,17
-"ers23md","4.5+ Contender (Open)","Quarter-final","Falck - Drew","GWR Setting Practice","Felipe Larroza","Drew Ryder","Jonah Zwillinger","Tim Daudelin",21,19
-"ers23md","4.5+ Contender (Open)","Quarter-final","Double Ds","Williamsburg Roundnet","Dan Burkert","Dustin Grant","Elijah Katz","Noah Katz",12,21
-"ers23md","4.5+ Contender (Open)","Quarter-final","Double Ds","Williamsburg Roundnet","Dan Burkert","Dustin Grant","Elijah Katz","Noah Katz",21,17
-"ers23md","4.5+ Contender (Open)","Quarter-final","Double Ds","Williamsburg Roundnet","Dan Burkert","Dustin Grant","Elijah Katz","Noah Katz",15,21
-"ers23md","4.5+ Contender (Open)","P9: Quarter-final","TRP VT B3","Pinocchio’s Pistachios","Drew Keely","ian macdonald","Liam Calhoun","William Rowe",0,1
-"ers23md","4.5+ Contender (Open)","P9: Quarter-final","Keenan is key LL","LL Ludus","Kyle Keenan","Joby O’Brien","Jason Davis","Ant Terrigno",0,1
-"ers23md","4.5+ Contender (Open)","P9: Quarter-final","Bros on Their Toes","Izayah and Dan","Matthew Manfredi","Andrew Manfredi","Izayah Gibson","dan savage",1,0
-"ers23md","4.5+ Contender (Open)","P17: Quarter-final","TBB Bungalow Boys","Definitely Brothers","Bryan Covell","Joel Yang","Zane Moussa","Tristan Laundree",21,12
-"ers23md","4.5+ Contender (Open)","P17: Quarter-final","Lodato/Liberczuk","Ballbarians","Eric Liberczuk","Brock Lodato","Brent Summers","Isaiah Hillman",-1,0
-"ers23md","4.5+ Contender (Open)","Semi-final","an embarrassing number of points","Williamsburg Roundnet","Garrett Blanchard","Jared Dean Katz","Elijah Katz","Noah Katz",21,16
-"ers23md","4.5+ Contender (Open)","Semi-final","an embarrassing number of points","Williamsburg Roundnet","Garrett Blanchard","Jared Dean Katz","Elijah Katz","Noah Katz",21,15
-"ers23md","4.5+ Contender (Open)","Semi-final","Premerekats","Falck - Drew","Riley Savastano","Justin Wang","Felipe Larroza","Drew Ryder",19,21
-"ers23md","4.5+ Contender (Open)","Semi-final","Premerekats","Falck - Drew","Riley Savastano","Justin Wang","Felipe Larroza","Drew Ryder",18,21
-"ers23md","4.5+ Contender (Open)","P17: Semi-final","Baby Cuts","Ballbarians","Daniel Kim","Caleb Schilling","Brent Summers","Isaiah Hillman",22,20
-"ers23md","4.5+ Contender (Open)","P17: Semi-final","Short Kings","TBB Bungalow Boys","Ben Celestino","Nick McDonough","Bryan Covell","Joel Yang",22,24
-"ers23md","4.5+ Contender (Open)","Final","an embarrassing number of points","Falck - Drew","Garrett Blanchard","Jared Dean Katz","Felipe Larroza","Drew Ryder",18,21
-"ers23md","4.5+ Contender (Open)","Final","an embarrassing number of points","Falck - Drew","Garrett Blanchard","Jared Dean Katz","Felipe Larroza","Drew Ryder",17,21
-"ers23md","4.5+ Contender (Open)","P3: Final","Premerekats","Williamsburg Roundnet","Riley Savastano","Justin Wang","Elijah Katz","Noah Katz",21,16
-"ers23md","4.5+ Contender (Open)","P3: Final","Premerekats","Williamsburg Roundnet","Riley Savastano","Justin Wang","Elijah Katz","Noah Katz",1,0
-"ers23md","4.5+ Contender (Open)","P17: Final","Baby Cuts","TBB Bungalow Boys","Daniel Kim","Caleb Schilling","Bryan Covell","Joel Yang",21,12
-"ers23md","4.0 Advanced","Pool","1-800-NICE","Jack John(son)","Andrew Nee","James Mills","Jack Domark","John Silva",15,13
-"ers23md","4.0 Advanced","Pool","Set it and Forget It","Stick Bugs","Mike Callan","Kyle McNulty","Mark Kozub","Tucker MacDougal",15,11
-"ers23md","4.0 Advanced","Pool","Dodge","It’s Not Over Till It’s Ogre","Logan Brinkman","Jesse Petrie","Christian Moore","Shane Moore",3,15
-"ers23md","4.0 Advanced","Pool","FCA Beevs for Jeevs","Wet Fleece","Aiden Hathaway","Micah Foster","Sam Pasti","Zak Ramsis",15,9
-"ers23md","4.0 Advanced","Pool","1-800-NICE","Stick Bugs","Andrew Nee","James Mills","Mark Kozub","Tucker MacDougal",17,15
-"ers23md","4.0 Advanced","Pool","Check, Mate","Jack John(son)","Rick Thomas","Cameron Ford","Jack Domark","John Silva",6,15
-"ers23md","4.0 Advanced","Pool","Dodge","Wet Fleece","Logan Brinkman","Jesse Petrie","Sam Pasti","Zak Ramsis",5,15
-"ers23md","4.0 Advanced","Pool","BANANA BOYS","It’s Not Over Till It’s Ogre","Eric Guan","John Bullock","Christian Moore","Shane Moore",10,15
-"ers23md","4.0 Advanced","Pool","1-800-NICE","Check, Mate","Andrew Nee","James Mills","Rick Thomas","Cameron Ford",15,5
-"ers23md","4.0 Advanced","Pool","Set it and Forget It","Jack John(son)","Mike Callan","Kyle McNulty","Jack Domark","John Silva",9,15
-"ers23md","4.0 Advanced","Pool","Dodge","BANANA BOYS","Logan Brinkman","Jesse Petrie","Eric Guan","John Bullock",7,15
-"ers23md","4.0 Advanced","Pool","FCA Beevs for Jeevs","It’s Not Over Till It’s Ogre","Aiden Hathaway","Micah Foster","Christian Moore","Shane Moore",11,15
-"ers23md","4.0 Advanced","Pool","Set it and Forget It","Check, Mate","Mike Callan","Kyle McNulty","Rick Thomas","Cameron Ford",15,10
-"ers23md","4.0 Advanced","Pool","Stick Bugs","Jack John(son)","Mark Kozub","Tucker MacDougal","Jack Domark","John Silva",9,15
-"ers23md","4.0 Advanced","Pool","FCA Beevs for Jeevs","BANANA BOYS","Aiden Hathaway","Micah Foster","Eric Guan","John Bullock",15,6
-"ers23md","4.0 Advanced","Pool","Wet Fleece","It’s Not Over Till It’s Ogre","Sam Pasti","Zak Ramsis","Christian Moore","Shane Moore",14,16
-"ers23md","4.0 Advanced","Pool","1-800-NICE","Set it and Forget It","Andrew Nee","James Mills","Mike Callan","Kyle McNulty",8,15
-"ers23md","4.0 Advanced","Pool","Check, Mate","Stick Bugs","Rick Thomas","Cameron Ford","Mark Kozub","Tucker MacDougal",15,13
-"ers23md","4.0 Advanced","Pool","Dodge","FCA Beevs for Jeevs","Logan Brinkman","Jesse Petrie","Aiden Hathaway","Micah Foster",9,15
-"ers23md","4.0 Advanced","Pool","BANANA BOYS","Wet Fleece","Eric Guan","John Bullock","Sam Pasti","Zak Ramsis",15,9
-"ers23md","4.0 Advanced","Round of 16","Wet Fleece","Stick Bugs","Sam Pasti","Zak Ramsis","Mark Kozub","Tucker MacDougal",21,15
-"ers23md","4.0 Advanced","Round of 16","Wet Fleece","Stick Bugs","Sam Pasti","Zak Ramsis","Mark Kozub","Tucker MacDougal",17,21
-"ers23md","4.0 Advanced","Round of 16","Wet Fleece","Stick Bugs","Sam Pasti","Zak Ramsis","Mark Kozub","Tucker MacDougal",0,21
-"ers23md","4.0 Advanced","Round of 16","Check, Mate","Dodge","Rick Thomas","Cameron Ford","Logan Brinkman","Jesse Petrie",21,14
-"ers23md","4.0 Advanced","Round of 16","Check, Mate","Dodge","Rick Thomas","Cameron Ford","Logan Brinkman","Jesse Petrie",21,12
-"ers23md","4.0 Advanced","Quarter-final","It’s Not Over Till It’s Ogre","Check, Mate","Christian Moore","Shane Moore","Rick Thomas","Cameron Ford",21,15
-"ers23md","4.0 Advanced","Quarter-final","It’s Not Over Till It’s Ogre","Check, Mate","Christian Moore","Shane Moore","Rick Thomas","Cameron Ford",21,13
-"ers23md","4.0 Advanced","Quarter-final","Jack John(son)","Stick Bugs","Jack Domark","John Silva","Mark Kozub","Tucker MacDougal",21,17
-"ers23md","4.0 Advanced","Quarter-final","Jack John(son)","Stick Bugs","Jack Domark","John Silva","Mark Kozub","Tucker MacDougal",21,11
-"ers23md","4.0 Advanced","Quarter-final","FCA Beevs for Jeevs","BANANA BOYS","Aiden Hathaway","Micah Foster","Eric Guan","John Bullock",15,21
-"ers23md","4.0 Advanced","Quarter-final","FCA Beevs for Jeevs","BANANA BOYS","Aiden Hathaway","Micah Foster","Eric Guan","John Bullock",16,21
-"ers23md","4.0 Advanced","Quarter-final","Set it and Forget It","1-800-NICE","Mike Callan","Kyle McNulty","Andrew Nee","James Mills",24,26
-"ers23md","4.0 Advanced","Quarter-final","Set it and Forget It","1-800-NICE","Mike Callan","Kyle McNulty","Andrew Nee","James Mills",21,10
-"ers23md","4.0 Advanced","Quarter-final","Set it and Forget It","1-800-NICE","Mike Callan","Kyle McNulty","Andrew Nee","James Mills",21,15
-"ers23md","4.0 Advanced","Semi-final","It’s Not Over Till It’s Ogre","Set it and Forget It","Christian Moore","Shane Moore","Mike Callan","Kyle McNulty",21,19
-"ers23md","4.0 Advanced","Semi-final","It’s Not Over Till It’s Ogre","Set it and Forget It","Christian Moore","Shane Moore","Mike Callan","Kyle McNulty",21,19
-"ers23md","4.0 Advanced","Semi-final","Jack John(son)","BANANA BOYS","Jack Domark","John Silva","Eric Guan","John Bullock",21,15
-"ers23md","4.0 Advanced","Semi-final","Jack John(son)","BANANA BOYS","Jack Domark","John Silva","Eric Guan","John Bullock",15,21
-"ers23md","4.0 Advanced","Semi-final","Jack John(son)","BANANA BOYS","Jack Domark","John Silva","Eric Guan","John Bullock",21,16
-"ers23md","4.0 Advanced","P5: Semi-final","1-800-NICE","Check, Mate","Andrew Nee","James Mills","Rick Thomas","Cameron Ford",18,21
-"ers23md","4.0 Advanced","Final","It’s Not Over Till It’s Ogre","Jack John(son)","Christian Moore","Shane Moore","Jack Domark","John Silva",14,21
-"ers23md","4.0 Advanced","Final","It’s Not Over Till It’s Ogre","Jack John(son)","Christian Moore","Shane Moore","Jack Domark","John Silva",21,15
-"ers23md","4.0 Advanced","Final","It’s Not Over Till It’s Ogre","Jack John(son)","Christian Moore","Shane Moore","Jack Domark","John Silva",18,21
-"ers23md","4.0 Advanced","P3: Final","BANANA BOYS","Set it and Forget It","Eric Guan","John Bullock","Mike Callan","Kyle McNulty",16,21
-"ers23md","4.0 Advanced","P3: Final","BANANA BOYS","Set it and Forget It","Eric Guan","John Bullock","Mike Callan","Kyle McNulty",13,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Sons of Six Mile","Wombo Combo","Neal Smith","Ryan Hays","Justin Woffinden","Josh Woffinden",6,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Le Pass Down","Ballin on a Budget","Aaron Witkin","Baillie Olin","Justin Desai","Anders Benson",21,17
-"ers23md","2.0-3.0 Open Intermediate","Pool","Sons of Six Mile","Ballin on a Budget","Neal Smith","Ryan Hays","Justin Desai","Anders Benson",16,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Hot Pockets","Wombo Combo","Hannah Covell","Christina Benson","Justin Woffinden","Josh Woffinden",10,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Sons of Six Mile","Hot Pockets","Neal Smith","Ryan Hays","Hannah Covell","Christina Benson",14,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Le Pass Down","Wombo Combo","Aaron Witkin","Baillie Olin","Justin Woffinden","Josh Woffinden",14,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Le Pass Down","Hot Pockets","Aaron Witkin","Baillie Olin","Hannah Covell","Christina Benson",21,13
-"ers23md","2.0-3.0 Open Intermediate","Pool","Ballin on a Budget","Wombo Combo","Justin Desai","Anders Benson","Justin Woffinden","Josh Woffinden",19,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Sons of Six Mile","Le Pass Down","Neal Smith","Ryan Hays","Aaron Witkin","Baillie Olin",10,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Hot Pockets","Ballin on a Budget","Hannah Covell","Christina Benson","Justin Desai","Anders Benson",16,21
-"ers23md","2.0-3.0 Open Intermediate","Quarter-final","Hot Pockets","Sons of Six Mile","Hannah Covell","Christina Benson","Neal Smith","Ryan Hays",21,10
-"ers23md","2.0-3.0 Open Intermediate","Quarter-final","Hot Pockets","Sons of Six Mile","Hannah Covell","Christina Benson","Neal Smith","Ryan Hays",21,15
-"ers23md","2.0-3.0 Open Intermediate","Semi-final","Wombo Combo","Hot Pockets","Justin Woffinden","Josh Woffinden","Hannah Covell","Christina Benson",21,13
-"ers23md","2.0-3.0 Open Intermediate","Semi-final","Wombo Combo","Hot Pockets","Justin Woffinden","Josh Woffinden","Hannah Covell","Christina Benson",21,11
-"ers23md","2.0-3.0 Open Intermediate","Semi-final","Le Pass Down","Ballin on a Budget","Aaron Witkin","Baillie Olin","Justin Desai","Anders Benson",17,21
-"ers23md","2.0-3.0 Open Intermediate","Semi-final","Le Pass Down","Ballin on a Budget","Aaron Witkin","Baillie Olin","Justin Desai","Anders Benson",19,21
-"ers23md","2.0-3.0 Open Intermediate","Final","Wombo Combo","Ballin on a Budget","Justin Woffinden","Josh Woffinden","Justin Desai","Anders Benson",21,17
-"ers23md","2.0-3.0 Open Intermediate","Final","Wombo Combo","Ballin on a Budget","Justin Woffinden","Josh Woffinden","Justin Desai","Anders Benson",17,21
-"ers23md","2.0-3.0 Open Intermediate","Final","Wombo Combo","Ballin on a Budget","Justin Woffinden","Josh Woffinden","Justin Desai","Anders Benson",21,18
-"ers23md","2.0-3.0 Open Intermediate","P3: Final","Le Pass Down","Hot Pockets","Aaron Witkin","Baillie Olin","Hannah Covell","Christina Benson",21,13
-"ers23md","2.0-3.0 Open Intermediate","Pool","Sons of Six Mile","Le Pass Down","Neal Smith","Ryan Hays","Aaron Witkin","Baillie Olin",9,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Sons of Six Mile","Hot Pockets","Neal Smith","Ryan Hays","Hannah Covell","Christina Benson",10,21
-"ers23md","2.0-3.0 Open Intermediate","Pool","Hot Pockets","Le Pass Down","Hannah Covell","Christina Benson","Aaron Witkin","Baillie Olin",13,21
+tourney,Division,Round,Team1,Team2,T1P1,T1P2,T2P1,T2P2,t1score,t2score
+ers23md,4.0+ Women's Advanced,Pool,Stef and Abby ,Liquid Wrench,Abby Piedmont,Stef Ding,Abigail Lannetti,Courtney Coppage,15.0,4.0
+ers23md,4.0+ Women's Advanced,Pool,whiff & tiff?,Women in STEM,Tiff Ding,Meagan Bown,Bel Belvedere,Lauren Viado,15.0,13.0
+ers23md,4.0+ Women's Advanced,Pool,Scrambled Legs,Sets and the City,Lourna Szabanos,Amanda Jamieson,Katrina Gabriella,Elizabeth Wiecek,16.0,14.0
+ers23md,4.0+ Women's Advanced,Pool,Stef and Abby ,Women in STEM,Abby Piedmont,Stef Ding,Bel Belvedere,Lauren Viado,15.0,10.0
+ers23md,4.0+ Women's Advanced,Pool,whiff & tiff?,Goofy Goobers,Tiff Ding,Meagan Bown,Alyssa Drain,Katheleen Phan,18.0,20.0
+ers23md,4.0+ Women's Advanced,Pool,Sets and the City,Liquid Wrench,Katrina Gabriella,Elizabeth Wiecek,Abigail Lannetti,Courtney Coppage,10.0,15.0
+ers23md,4.0+ Women's Advanced,Pool,Stef and Abby ,Sets and the City,Abby Piedmont,Stef Ding,Katrina Gabriella,Elizabeth Wiecek,15.0,10.0
+ers23md,4.0+ Women's Advanced,Pool,whiff & tiff?,Scrambled Legs,Tiff Ding,Meagan Bown,Lourna Szabanos,Amanda Jamieson,15.0,11.0
+ers23md,4.0+ Women's Advanced,Pool,Goofy Goobers,Women in STEM,Alyssa Drain,Katheleen Phan,Bel Belvedere,Lauren Viado,15.0,9.0
+ers23md,4.0+ Women's Advanced,Pool,Stef and Abby ,Goofy Goobers,Abby Piedmont,Stef Ding,Alyssa Drain,Katheleen Phan,16.0,14.0
+ers23md,4.0+ Women's Advanced,Pool,whiff & tiff?,Liquid Wrench,Tiff Ding,Meagan Bown,Abigail Lannetti,Courtney Coppage,15.0,8.0
+ers23md,4.0+ Women's Advanced,Pool,Scrambled Legs,Women in STEM,Lourna Szabanos,Amanda Jamieson,Bel Belvedere,Lauren Viado,15.0,12.0
+ers23md,4.0+ Women's Advanced,Pool,whiff & tiff?,Sets and the City,Tiff Ding,Meagan Bown,Katrina Gabriella,Elizabeth Wiecek,15.0,9.0
+ers23md,4.0+ Women's Advanced,Pool,Scrambled Legs,Goofy Goobers,Lourna Szabanos,Amanda Jamieson,Alyssa Drain,Katheleen Phan,12.0,15.0
+ers23md,4.0+ Women's Advanced,Pool,Women in STEM,Liquid Wrench,Bel Belvedere,Lauren Viado,Abigail Lannetti,Courtney Coppage,14.0,16.0
+ers23md,4.0+ Women's Advanced,Pool,Stef and Abby ,Scrambled Legs,Abby Piedmont,Stef Ding,Lourna Szabanos,Amanda Jamieson,15.0,11.0
+ers23md,4.0+ Women's Advanced,Pool,Goofy Goobers,Liquid Wrench,Alyssa Drain,Katheleen Phan,Abigail Lannetti,Courtney Coppage,15.0,8.0
+ers23md,4.0+ Women's Advanced,Pool,Sets and the City,Women in STEM,Katrina Gabriella,Elizabeth Wiecek,Bel Belvedere,Lauren Viado,15.0,13.0
+ers23md,4.0+ Women's Advanced,Pool,Stef and Abby ,whiff & tiff?,Abby Piedmont,Stef Ding,Tiff Ding,Meagan Bown,15.0,13.0
+ers23md,4.0+ Women's Advanced,Pool,Scrambled Legs,Liquid Wrench,Lourna Szabanos,Amanda Jamieson,Abigail Lannetti,Courtney Coppage,14.0,16.0
+ers23md,4.0+ Women's Advanced,Pool,Goofy Goobers,Sets and the City,Alyssa Drain,Katheleen Phan,Katrina Gabriella,Elizabeth Wiecek,15.0,8.0
+ers23md,4.0+ Women's Advanced,Quarter-final,Goofy Goobers,Women in STEM,Alyssa Drain,Katheleen Phan,Bel Belvedere,Lauren Viado,21.0,16.0
+ers23md,4.0+ Women's Advanced,Quarter-final,Goofy Goobers,Women in STEM,Alyssa Drain,Katheleen Phan,Bel Belvedere,Lauren Viado,21.0,14.0
+ers23md,4.0+ Women's Advanced,Quarter-final,whiff & tiff?,Sets and the City,Tiff Ding,Meagan Bown,Katrina Gabriella,Elizabeth Wiecek,21.0,12.0
+ers23md,4.0+ Women's Advanced,Quarter-final,whiff & tiff?,Sets and the City,Tiff Ding,Meagan Bown,Katrina Gabriella,Elizabeth Wiecek,21.0,12.0
+ers23md,4.0+ Women's Advanced,Quarter-final,Liquid Wrench,Scrambled Legs,Abigail Lannetti,Courtney Coppage,Lourna Szabanos,Amanda Jamieson,15.0,21.0
+ers23md,4.0+ Women's Advanced,Quarter-final,Liquid Wrench,Scrambled Legs,Abigail Lannetti,Courtney Coppage,Lourna Szabanos,Amanda Jamieson,10.0,21.0
+ers23md,4.0+ Women's Advanced,Semi-final,Stef and Abby ,Scrambled Legs,Abby Piedmont,Stef Ding,Lourna Szabanos,Amanda Jamieson,21.0,16.0
+ers23md,4.0+ Women's Advanced,Semi-final,Stef and Abby ,Scrambled Legs,Abby Piedmont,Stef Ding,Lourna Szabanos,Amanda Jamieson,21.0,15.0
+ers23md,4.0+ Women's Advanced,Semi-final,Goofy Goobers,whiff & tiff?,Alyssa Drain,Katheleen Phan,Tiff Ding,Meagan Bown,10.0,21.0
+ers23md,4.0+ Women's Advanced,Semi-final,Goofy Goobers,whiff & tiff?,Alyssa Drain,Katheleen Phan,Tiff Ding,Meagan Bown,19.0,21.0
+ers23md,4.0+ Women's Advanced,Final,Stef and Abby ,whiff & tiff?,Abby Piedmont,Stef Ding,Tiff Ding,Meagan Bown,17.0,21.0
+ers23md,4.0+ Women's Advanced,Final,Stef and Abby ,whiff & tiff?,Abby Piedmont,Stef Ding,Tiff Ding,Meagan Bown,13.0,21.0
+ers23md,4.0+ Women's Advanced,P3: Final,Goofy Goobers,Scrambled Legs,Alyssa Drain,Katheleen Phan,Lourna Szabanos,Amanda Jamieson,21.0,10.0
+ers23md,4.0+ Women's Advanced,P3: Final,Goofy Goobers,Scrambled Legs,Alyssa Drain,Katheleen Phan,Lourna Szabanos,Amanda Jamieson,21.0,15.0
+ers23md,4.0+ Women's Advanced,Pool,Liquid Wrench,Sets and the City,Abigail Lannetti,Courtney Coppage,Katrina Gabriella,Elizabeth Wiecek,21.0,8.0
+ers23md,4.0+ Women's Advanced,Pool,Liquid Wrench,Women in STEM,Abigail Lannetti,Courtney Coppage,Bel Belvedere,Lauren Viado,21.0,8.0
+ers23md,5.0+ Premier (Open),Pool,Bags are Packed,Sufficiently Sauced,Ryan Gross,Ryan Marino,Sam Mccune,Isaac Staats,15.0,4.0
+ers23md,5.0+ Premier (Open),Pool,Eternal Atake,AZR Rice Babes,Reid Lampert,Kurt Lannetti,Tayt Rogers,Aidan Mackey,15.0,12.0
+ers23md,5.0+ Premier (Open),Pool,TRP palate cleanser ,Quick Draw,Joe Bondi,Clark Marshall,Pat Marinich,Caleb White,15.0,8.0
+ers23md,5.0+ Premier (Open),Pool,Glizzy Gladiators,PBR You gotta give ,Jacob Summers,Polk Denmark,James Richmond,Brian Perlson,15.0,9.0
+ers23md,5.0+ Premier (Open),Pool,"Porkroll, Egg, & Cheesesteak",PBR Dap & Snap,Matt Spolarich,Jake Mottershead,A.j. Martin,Jacob Arzaga,18.0,16.0
+ers23md,5.0+ Premier (Open),Pool,Model/Finocchi,Nic & Kevin,Cole Model,Gabe Finocchi,Nicolas Yabar,Kevin Chen,15.0,6.0
+ers23md,5.0+ Premier (Open),Pool,Profit Boost,RNW Shutter Speed,Justin Shaytar,Kieran Rose,Noah Vasington,Brody Ulrich,15.0,4.0
+ers23md,5.0+ Premier (Open),Pool,Khaki Shorts,PBR: Lesser Washington Roundnet,Dan Bonowski,Demitri Forand,Ezra Dantowitz,Michael Capobianco,15.0,11.0
+ers23md,5.0+ Premier (Open),Pool,TRPee Golden Shower,High Def,Will Picone,Dan Abrams,Lucas Hope,Josh DiDonato,15.0,11.0
+ers23md,5.0+ Premier (Open),Pool,Bot House,Nittany Nation,Owen Lippman,West Peterson,Tyler Keener,Henry Pleszkoch,15.0,10.0
+ers23md,5.0+ Premier (Open),Pool,Handsome Man Fans,Dirty soda spike lee,Calvin Smith,Liam Sherron,Sean Brown,Thomas Hoffman,13.0,15.0
+ers23md,5.0+ Premier (Open),Pool,Bags are Packed,AZR Rice Babes,Ryan Gross,Ryan Marino,Tayt Rogers,Aidan Mackey,15.0,11.0
+ers23md,5.0+ Premier (Open),Pool,VBR Stingray,Sufficiently Sauced,Josh Esposo,Andrew Gunter,Sam Mccune,Isaac Staats,16.0,14.0
+ers23md,5.0+ Premier (Open),Pool,TRP palate cleanser ,PBR You gotta give ,Joe Bondi,Clark Marshall,James Richmond,Brian Perlson,17.0,15.0
+ers23md,5.0+ Premier (Open),Pool,Glizzy Gladiators,"Porkroll, Egg, & Cheesesteak",Jacob Summers,Polk Denmark,Matt Spolarich,Jake Mottershead,15.0,12.0
+ers23md,5.0+ Premier (Open),Pool,PBR Dap & Snap,Quick Draw,A.j. Martin,Jacob Arzaga,Pat Marinich,Caleb White,16.0,14.0
+ers23md,5.0+ Premier (Open),Pool,Model/Finocchi,RNW Shutter Speed,Cole Model,Gabe Finocchi,Noah Vasington,Brody Ulrich,15.0,8.0
+ers23md,5.0+ Premier (Open),Pool,Profit Boost,Khaki Shorts,Justin Shaytar,Kieran Rose,Dan Bonowski,Demitri Forand,15.0,11.0
+ers23md,5.0+ Premier (Open),Pool,PBR: Lesser Washington Roundnet,Nic & Kevin,Ezra Dantowitz,Michael Capobianco,Nicolas Yabar,Kevin Chen,15.0,6.0
+ers23md,5.0+ Premier (Open),Pool,TRPee Golden Shower,Nittany Nation,Will Picone,Dan Abrams,Tyler Keener,Henry Pleszkoch,15.0,7.0
+ers23md,5.0+ Premier (Open),Pool,Bot House,Handsome Man Fans,Owen Lippman,West Peterson,Calvin Smith,Liam Sherron,15.0,7.0
+ers23md,5.0+ Premier (Open),Pool,Dirty soda spike lee,High Def,Sean Brown,Thomas Hoffman,Lucas Hope,Josh DiDonato,15.0,13.0
+ers23md,5.0+ Premier (Open),Pool,Bags are Packed,VBR Stingray,Ryan Gross,Ryan Marino,Josh Esposo,Andrew Gunter,15.0,5.0
+ers23md,5.0+ Premier (Open),Pool,Eternal Atake,Sufficiently Sauced,Reid Lampert,Kurt Lannetti,Sam Mccune,Isaac Staats,15.0,12.0
+ers23md,5.0+ Premier (Open),Pool,TRP palate cleanser ,PBR Dap & Snap,Joe Bondi,Clark Marshall,A.j. Martin,Jacob Arzaga,15.0,8.0
+ers23md,5.0+ Premier (Open),Pool,Glizzy Gladiators,Quick Draw,Jacob Summers,Polk Denmark,Pat Marinich,Caleb White,15.0,12.0
+ers23md,5.0+ Premier (Open),Pool,"Porkroll, Egg, & Cheesesteak",PBR You gotta give ,Matt Spolarich,Jake Mottershead,James Richmond,Brian Perlson,15.0,11.0
+ers23md,5.0+ Premier (Open),Pool,Model/Finocchi,PBR: Lesser Washington Roundnet,Cole Model,Gabe Finocchi,Ezra Dantowitz,Michael Capobianco,15.0,7.0
+ers23md,5.0+ Premier (Open),Pool,Profit Boost,Nic & Kevin,Justin Shaytar,Kieran Rose,Nicolas Yabar,Kevin Chen,15.0,4.0
+ers23md,5.0+ Premier (Open),Pool,Khaki Shorts,RNW Shutter Speed,Dan Bonowski,Demitri Forand,Noah Vasington,Brody Ulrich,15.0,7.0
+ers23md,5.0+ Premier (Open),Pool,TRPee Golden Shower,Dirty soda spike lee,Will Picone,Dan Abrams,Sean Brown,Thomas Hoffman,15.0,11.0
+ers23md,5.0+ Premier (Open),Pool,Bot House,High Def,Owen Lippman,West Peterson,Lucas Hope,Josh DiDonato,15.0,9.0
+ers23md,5.0+ Premier (Open),Pool,Handsome Man Fans,Nittany Nation,Calvin Smith,Liam Sherron,Tyler Keener,Henry Pleszkoch,15.0,13.0
+ers23md,5.0+ Premier (Open),Pool,Eternal Atake,VBR Stingray,Reid Lampert,Kurt Lannetti,Josh Esposo,Andrew Gunter,15.0,10.0
+ers23md,5.0+ Premier (Open),Pool,AZR Rice Babes,Sufficiently Sauced,Tayt Rogers,Aidan Mackey,Sam Mccune,Isaac Staats,15.0,13.0
+ers23md,5.0+ Premier (Open),Pool,TRP palate cleanser ,"Porkroll, Egg, & Cheesesteak",Joe Bondi,Clark Marshall,Matt Spolarich,Jake Mottershead,20.0,21.0
+ers23md,5.0+ Premier (Open),Pool,Glizzy Gladiators,PBR Dap & Snap,Jacob Summers,Polk Denmark,A.j. Martin,Jacob Arzaga,15.0,17.0
+ers23md,5.0+ Premier (Open),Pool,PBR You gotta give ,Quick Draw,James Richmond,Brian Perlson,Pat Marinich,Caleb White,15.0,11.0
+ers23md,5.0+ Premier (Open),Pool,Model/Finocchi,Khaki Shorts,Cole Model,Gabe Finocchi,Dan Bonowski,Demitri Forand,15.0,10.0
+ers23md,5.0+ Premier (Open),Pool,Profit Boost,PBR: Lesser Washington Roundnet,Justin Shaytar,Kieran Rose,Ezra Dantowitz,Michael Capobianco,15.0,9.0
+ers23md,5.0+ Premier (Open),Pool,RNW Shutter Speed,Nic & Kevin,Noah Vasington,Brody Ulrich,Nicolas Yabar,Kevin Chen,13.0,15.0
+ers23md,5.0+ Premier (Open),Pool,TRPee Golden Shower,Handsome Man Fans,Will Picone,Dan Abrams,Calvin Smith,Liam Sherron,15.0,10.0
+ers23md,5.0+ Premier (Open),Pool,Bot House,Dirty soda spike lee,Owen Lippman,West Peterson,Sean Brown,Thomas Hoffman,15.0,10.0
+ers23md,5.0+ Premier (Open),Pool,Nittany Nation,High Def,Tyler Keener,Henry Pleszkoch,Lucas Hope,Josh DiDonato,20.0,21.0
+ers23md,5.0+ Premier (Open),Pool,Bags are Packed,Eternal Atake,Ryan Gross,Ryan Marino,Reid Lampert,Kurt Lannetti,15.0,9.0
+ers23md,5.0+ Premier (Open),Pool,VBR Stingray,AZR Rice Babes,Josh Esposo,Andrew Gunter,Tayt Rogers,Aidan Mackey,15.0,8.0
+ers23md,5.0+ Premier (Open),Pool,TRP palate cleanser ,Glizzy Gladiators,Joe Bondi,Clark Marshall,Jacob Summers,Polk Denmark,15.0,13.0
+ers23md,5.0+ Premier (Open),Pool,"Porkroll, Egg, & Cheesesteak",Quick Draw,Matt Spolarich,Jake Mottershead,Pat Marinich,Caleb White,15.0,13.0
+ers23md,5.0+ Premier (Open),Pool,PBR Dap & Snap,PBR You gotta give ,A.j. Martin,Jacob Arzaga,James Richmond,Brian Perlson,16.0,18.0
+ers23md,5.0+ Premier (Open),Pool,Model/Finocchi,Profit Boost,Cole Model,Gabe Finocchi,Justin Shaytar,Kieran Rose,15.0,10.0
+ers23md,5.0+ Premier (Open),Pool,Khaki Shorts,Nic & Kevin,Dan Bonowski,Demitri Forand,Nicolas Yabar,Kevin Chen,15.0,10.0
+ers23md,5.0+ Premier (Open),Pool,PBR: Lesser Washington Roundnet,RNW Shutter Speed,Ezra Dantowitz,Michael Capobianco,Noah Vasington,Brody Ulrich,15.0,7.0
+ers23md,5.0+ Premier (Open),Pool,TRPee Golden Shower,Bot House,Will Picone,Dan Abrams,Owen Lippman,West Peterson,11.0,15.0
+ers23md,5.0+ Premier (Open),Pool,Handsome Man Fans,High Def,Calvin Smith,Liam Sherron,Lucas Hope,Josh DiDonato,12.0,15.0
+ers23md,5.0+ Premier (Open),Pool,Dirty soda spike lee,Nittany Nation,Sean Brown,Thomas Hoffman,Tyler Keener,Henry Pleszkoch,12.0,15.0
+ers23md,5.0+ Premier (Open),Round of 32,Glizzy Gladiators,RNW Shutter Speed,Jacob Summers,Polk Denmark,Noah Vasington,Brody Ulrich,21.0,14.0
+ers23md,5.0+ Premier (Open),Round of 32,VBR Stingray,Quick Draw,Josh Esposo,Andrew Gunter,Pat Marinich,Caleb White,23.0,21.0
+ers23md,5.0+ Premier (Open),Round of 32,PBR: Lesser Washington Roundnet,Nic & Kevin,Ezra Dantowitz,Michael Capobianco,Nicolas Yabar,Kevin Chen,21.0,17.0
+ers23md,5.0+ Premier (Open),Round of 32,PBR You gotta give ,Sufficiently Sauced,James Richmond,Brian Perlson,Sam Mccune,Isaac Staats,21.0,19.0
+ers23md,5.0+ Premier (Open),Round of 32,PBR Dap & Snap,Handsome Man Fans,A.j. Martin,Jacob Arzaga,Calvin Smith,Liam Sherron,21.0,13.0
+ers23md,5.0+ Premier (Open),Round of 32,Dirty soda spike lee,Nittany Nation,Sean Brown,Thomas Hoffman,Tyler Keener,Henry Pleszkoch,21.0,19.0
+ers23md,5.0+ Premier (Open),Round of 32,High Def,AZR Rice Babes,Lucas Hope,Josh DiDonato,Tayt Rogers,Aidan Mackey,19.0,21.0
+ers23md,5.0+ Premier (Open),Round of 16,Bags are Packed,AZR Rice Babes,Ryan Gross,Ryan Marino,Tayt Rogers,Aidan Mackey,21.0,15.0
+ers23md,5.0+ Premier (Open),Round of 16,Bags are Packed,AZR Rice Babes,Ryan Gross,Ryan Marino,Tayt Rogers,Aidan Mackey,21.0,9.0
+ers23md,5.0+ Premier (Open),Round of 16,Model/Finocchi,Dirty soda spike lee,Cole Model,Gabe Finocchi,Sean Brown,Thomas Hoffman,21.0,15.0
+ers23md,5.0+ Premier (Open),Round of 16,Model/Finocchi,Dirty soda spike lee,Cole Model,Gabe Finocchi,Sean Brown,Thomas Hoffman,21.0,14.0
+ers23md,5.0+ Premier (Open),Round of 16,Bot House,PBR Dap & Snap,Owen Lippman,West Peterson,A.j. Martin,Jacob Arzaga,21.0,14.0
+ers23md,5.0+ Premier (Open),Round of 16,Bot House,PBR Dap & Snap,Owen Lippman,West Peterson,A.j. Martin,Jacob Arzaga,21.0,16.0
+ers23md,5.0+ Premier (Open),Round of 16,Profit Boost,PBR You gotta give ,Justin Shaytar,Kieran Rose,James Richmond,Brian Perlson,21.0,15.0
+ers23md,5.0+ Premier (Open),Round of 16,Profit Boost,PBR You gotta give ,Justin Shaytar,Kieran Rose,James Richmond,Brian Perlson,21.0,9.0
+ers23md,5.0+ Premier (Open),Round of 16,TRP palate cleanser ,PBR: Lesser Washington Roundnet,Joe Bondi,Clark Marshall,Ezra Dantowitz,Michael Capobianco,21.0,12.0
+ers23md,5.0+ Premier (Open),Round of 16,TRP palate cleanser ,PBR: Lesser Washington Roundnet,Joe Bondi,Clark Marshall,Ezra Dantowitz,Michael Capobianco,21.0,16.0
+ers23md,5.0+ Premier (Open),Round of 16,TRPee Golden Shower,VBR Stingray,Will Picone,Dan Abrams,Josh Esposo,Andrew Gunter,21.0,16.0
+ers23md,5.0+ Premier (Open),Round of 16,TRPee Golden Shower,VBR Stingray,Will Picone,Dan Abrams,Josh Esposo,Andrew Gunter,21.0,18.0
+ers23md,5.0+ Premier (Open),Round of 16,Eternal Atake,Glizzy Gladiators,Reid Lampert,Kurt Lannetti,Jacob Summers,Polk Denmark,18.0,21.0
+ers23md,5.0+ Premier (Open),Round of 16,Eternal Atake,Glizzy Gladiators,Reid Lampert,Kurt Lannetti,Jacob Summers,Polk Denmark,18.0,21.0
+ers23md,5.0+ Premier (Open),Round of 16,"Porkroll, Egg, & Cheesesteak",Khaki Shorts,Matt Spolarich,Jake Mottershead,Dan Bonowski,Demitri Forand,12.0,21.0
+ers23md,5.0+ Premier (Open),Round of 16,"Porkroll, Egg, & Cheesesteak",Khaki Shorts,Matt Spolarich,Jake Mottershead,Dan Bonowski,Demitri Forand,18.0,21.0
+ers23md,5.0+ Premier (Open),Quarter-final,Bags are Packed,Khaki Shorts,Ryan Gross,Ryan Marino,Dan Bonowski,Demitri Forand,21.0,16.0
+ers23md,5.0+ Premier (Open),Quarter-final,Bags are Packed,Khaki Shorts,Ryan Gross,Ryan Marino,Dan Bonowski,Demitri Forand,16.0,21.0
+ers23md,5.0+ Premier (Open),Quarter-final,Bags are Packed,Khaki Shorts,Ryan Gross,Ryan Marino,Dan Bonowski,Demitri Forand,21.0,11.0
+ers23md,5.0+ Premier (Open),Quarter-final,Model/Finocchi,Glizzy Gladiators,Cole Model,Gabe Finocchi,Jacob Summers,Polk Denmark,21.0,15.0
+ers23md,5.0+ Premier (Open),Quarter-final,Model/Finocchi,Glizzy Gladiators,Cole Model,Gabe Finocchi,Jacob Summers,Polk Denmark,21.0,19.0
+ers23md,5.0+ Premier (Open),Quarter-final,Bot House,TRPee Golden Shower,Owen Lippman,West Peterson,Will Picone,Dan Abrams,30.0,32.0
+ers23md,5.0+ Premier (Open),Quarter-final,Bot House,TRPee Golden Shower,Owen Lippman,West Peterson,Will Picone,Dan Abrams,21.0,23.0
+ers23md,5.0+ Premier (Open),Quarter-final,Profit Boost,TRP palate cleanser ,Justin Shaytar,Kieran Rose,Joe Bondi,Clark Marshall,13.0,21.0
+ers23md,5.0+ Premier (Open),Quarter-final,Profit Boost,TRP palate cleanser ,Justin Shaytar,Kieran Rose,Joe Bondi,Clark Marshall,20.0,22.0
+ers23md,5.0+ Premier (Open),P9: Quarter-final,"Porkroll, Egg, & Cheesesteak",AZR Rice Babes,Matt Spolarich,Jake Mottershead,Tayt Rogers,Aidan Mackey,24.0,22.0
+ers23md,5.0+ Premier (Open),P9: Quarter-final,Eternal Atake,Dirty soda spike lee,Reid Lampert,Kurt Lannetti,Sean Brown,Thomas Hoffman,19.0,21.0
+ers23md,5.0+ Premier (Open),P9: Quarter-final,VBR Stingray,PBR Dap & Snap,Josh Esposo,Andrew Gunter,A.j. Martin,Jacob Arzaga,21.0,19.0
+ers23md,5.0+ Premier (Open),P9: Quarter-final,PBR: Lesser Washington Roundnet,PBR You gotta give ,Ezra Dantowitz,Michael Capobianco,James Richmond,Brian Perlson,22.0,20.0
+ers23md,5.0+ Premier (Open),P17: Quarter-final,Nittany Nation,RNW Shutter Speed,Tyler Keener,Henry Pleszkoch,Noah Vasington,Brody Ulrich,21.0,15.0
+ers23md,5.0+ Premier (Open),P17: Quarter-final,Handsome Man Fans,Quick Draw,Calvin Smith,Liam Sherron,Pat Marinich,Caleb White,0.0,1.0
+ers23md,5.0+ Premier (Open),P17: Quarter-final,Sufficiently Sauced,Nic & Kevin,Sam Mccune,Isaac Staats,Nicolas Yabar,Kevin Chen,21.0,18.0
+ers23md,5.0+ Premier (Open),Semi-final,Bags are Packed,TRP palate cleanser ,Ryan Gross,Ryan Marino,Joe Bondi,Clark Marshall,14.0,21.0
+ers23md,5.0+ Premier (Open),Semi-final,Bags are Packed,TRP palate cleanser ,Ryan Gross,Ryan Marino,Joe Bondi,Clark Marshall,19.0,21.0
+ers23md,5.0+ Premier (Open),Semi-final,Model/Finocchi,TRPee Golden Shower,Cole Model,Gabe Finocchi,Will Picone,Dan Abrams,21.0,14.0
+ers23md,5.0+ Premier (Open),Semi-final,Model/Finocchi,TRPee Golden Shower,Cole Model,Gabe Finocchi,Will Picone,Dan Abrams,21.0,19.0
+ers23md,5.0+ Premier (Open),Semi-final,Model/Finocchi,TRPee Golden Shower,Cole Model,Gabe Finocchi,Will Picone,Dan Abrams,16.0,21.0
+ers23md,5.0+ Premier (Open),P5: Semi-final,Profit Boost,Khaki Shorts,Justin Shaytar,Kieran Rose,Dan Bonowski,Demitri Forand,-1.0,0.0
+ers23md,5.0+ Premier (Open),P5: Semi-final,Bot House,Glizzy Gladiators,Owen Lippman,West Peterson,Jacob Summers,Polk Denmark,-1.0,0.0
+ers23md,5.0+ Premier (Open),P9: Semi-final,"Porkroll, Egg, & Cheesesteak",PBR: Lesser Washington Roundnet,Matt Spolarich,Jake Mottershead,Ezra Dantowitz,Michael Capobianco,21.0,19.0
+ers23md,5.0+ Premier (Open),P9: Semi-final,Dirty soda spike lee,VBR Stingray,Sean Brown,Thomas Hoffman,Josh Esposo,Andrew Gunter,0.0,-1.0
+ers23md,5.0+ Premier (Open),P17: Semi-final,High Def,Sufficiently Sauced,Lucas Hope,Josh DiDonato,Sam Mccune,Isaac Staats,-1.0,0.0
+ers23md,5.0+ Premier (Open),P17: Semi-final,Nittany Nation,Quick Draw,Tyler Keener,Henry Pleszkoch,Pat Marinich,Caleb White,21.0,12.0
+ers23md,5.0+ Premier (Open),Final,TRP palate cleanser ,Model/Finocchi,Joe Bondi,Clark Marshall,Cole Model,Gabe Finocchi,21.0,15.0
+ers23md,5.0+ Premier (Open),Final,TRP palate cleanser ,Model/Finocchi,Joe Bondi,Clark Marshall,Cole Model,Gabe Finocchi,21.0,8.0
+ers23md,5.0+ Premier (Open),Final,TRP palate cleanser ,Model/Finocchi,Joe Bondi,Clark Marshall,Cole Model,Gabe Finocchi,16.0,21.0
+ers23md,5.0+ Premier (Open),P3: Final,TRPee Golden Shower,Bags are Packed,Will Picone,Dan Abrams,Ryan Gross,Ryan Marino,11.0,21.0
+ers23md,5.0+ Premier (Open),P3: Final,TRPee Golden Shower,Bags are Packed,Will Picone,Dan Abrams,Ryan Gross,Ryan Marino,21.0,23.0
+ers23md,5.0+ Premier (Open),P5: Final,Khaki Shorts,Glizzy Gladiators,Dan Bonowski,Demitri Forand,Jacob Summers,Polk Denmark,-1.0,0.0
+ers23md,5.0+ Premier (Open),P17: Final,Sufficiently Sauced,Nittany Nation,Sam Mccune,Isaac Staats,Tyler Keener,Henry Pleszkoch,1.0,0.0
+ers23md,4.5+ Contender (Open),Pool,an embarrassing number of points,Baby Cuts,Garrett Blanchard,Jared Dean Katz,Daniel Kim,Caleb Schilling,15.0,10.0
+ers23md,4.5+ Contender (Open),Pool,LL Ludus,Short Kings,Jason Davis,Ant Terrigno,Ben Celestino,Nick McDonough,15.0,5.0
+ers23md,4.5+ Contender (Open),Pool,Gasaway/Narayan,Keenan is key LL,Jacob Narayan,Andrew Gasaway,Kyle Keenan,Joby O’Brien,10.0,15.0
+ers23md,4.5+ Contender (Open),Pool,TRP VT B3,Pinocchio’s Pistachios,Drew Keely,ian macdonald,Liam Calhoun,William Rowe,13.0,15.0
+ers23md,4.5+ Contender (Open),Pool,Falck - Drew,TBB Bungalow Boys,Felipe Larroza,Drew Ryder,Bryan Covell,Joel Yang,15.0,13.0
+ers23md,4.5+ Contender (Open),Pool,D1 A Squad,Bros on Their Toes,Michael Moniz,Jake Hurst,Matthew Manfredi,Andrew Manfredi,16.0,14.0
+ers23md,4.5+ Contender (Open),Pool,Ballbarians,Buckets,Brent Summers,Isaiah Hillman,Colin Nelson,JP Mitchell,7.0,15.0
+ers23md,4.5+ Contender (Open),Pool,Williamsburg Roundnet,Lodato/Liberczuk,Elijah Katz,Noah Katz,Eric Liberczuk,Brock Lodato,15.0,5.0
+ers23md,4.5+ Contender (Open),Pool,Premerekats,Definitely Brothers,Riley Savastano,Justin Wang,Zane Moussa,Tristan Laundree,15.0,6.0
+ers23md,4.5+ Contender (Open),Pool,Izayah and Dan,Quarter Pounder with Cheese,Izayah Gibson,dan savage,Vince Vo,David Nara,9.0,15.0
+ers23md,4.5+ Contender (Open),Pool,an embarrassing number of points,Short Kings,Garrett Blanchard,Jared Dean Katz,Ben Celestino,Nick McDonough,15.0,5.0
+ers23md,4.5+ Contender (Open),Pool,GWR Setting Practice,Baby Cuts,Jonah Zwillinger,Tim Daudelin,Daniel Kim,Caleb Schilling,15.0,13.0
+ers23md,4.5+ Contender (Open),Pool,Gasaway/Narayan,Pinocchio’s Pistachios,Jacob Narayan,Andrew Gasaway,Liam Calhoun,William Rowe,15.0,11.0
+ers23md,4.5+ Contender (Open),Pool,Double Ds,Keenan is key LL,Dan Burkert,Dustin Grant,Kyle Keenan,Joby O’Brien,16.0,14.0
+ers23md,4.5+ Contender (Open),Pool,Falck - Drew,Bros on Their Toes,Felipe Larroza,Drew Ryder,Matthew Manfredi,Andrew Manfredi,15.0,11.0
+ers23md,4.5+ Contender (Open),Pool,D1 A Squad,Ballbarians,Michael Moniz,Jake Hurst,Brent Summers,Isaiah Hillman,15.0,10.0
+ers23md,4.5+ Contender (Open),Pool,Buckets,TBB Bungalow Boys,Colin Nelson,JP Mitchell,Bryan Covell,Joel Yang,15.0,7.0
+ers23md,4.5+ Contender (Open),Pool,Williamsburg Roundnet,Definitely Brothers,Elijah Katz,Noah Katz,Zane Moussa,Tristan Laundree,15.0,5.0
+ers23md,4.5+ Contender (Open),Pool,Premerekats,Izayah and Dan,Riley Savastano,Justin Wang,Izayah Gibson,dan savage,15.0,12.0
+ers23md,4.5+ Contender (Open),Pool,Quarter Pounder with Cheese,Lodato/Liberczuk,Vince Vo,David Nara,Eric Liberczuk,Brock Lodato,15.0,10.0
+ers23md,4.5+ Contender (Open),Pool,an embarrassing number of points,GWR Setting Practice,Garrett Blanchard,Jared Dean Katz,Jonah Zwillinger,Tim Daudelin,15.0,10.0
+ers23md,4.5+ Contender (Open),Pool,LL Ludus,Baby Cuts,Jason Davis,Ant Terrigno,Daniel Kim,Caleb Schilling,12.0,15.0
+ers23md,4.5+ Contender (Open),Pool,Gasaway/Narayan,Double Ds,Jacob Narayan,Andrew Gasaway,Dan Burkert,Dustin Grant,13.0,15.0
+ers23md,4.5+ Contender (Open),Pool,TRP VT B3,Keenan is key LL,Drew Keely,ian macdonald,Kyle Keenan,Joby O’Brien,15.0,11.0
+ers23md,4.5+ Contender (Open),Pool,Falck - Drew,Buckets,Felipe Larroza,Drew Ryder,Colin Nelson,JP Mitchell,15.0,13.0
+ers23md,4.5+ Contender (Open),Pool,D1 A Squad,TBB Bungalow Boys,Michael Moniz,Jake Hurst,Bryan Covell,Joel Yang,15.0,12.0
+ers23md,4.5+ Contender (Open),Pool,Ballbarians,Bros on Their Toes,Brent Summers,Isaiah Hillman,Matthew Manfredi,Andrew Manfredi,10.0,15.0
+ers23md,4.5+ Contender (Open),Pool,Williamsburg Roundnet,Quarter Pounder with Cheese,Elijah Katz,Noah Katz,Vince Vo,David Nara,15.0,12.0
+ers23md,4.5+ Contender (Open),Pool,Premerekats,Lodato/Liberczuk,Riley Savastano,Justin Wang,Eric Liberczuk,Brock Lodato,15.0,5.0
+ers23md,4.5+ Contender (Open),Pool,Izayah and Dan,Definitely Brothers,Izayah Gibson,dan savage,Zane Moussa,Tristan Laundree,15.0,8.0
+ers23md,4.5+ Contender (Open),Pool,LL Ludus,GWR Setting Practice,Jason Davis,Ant Terrigno,Jonah Zwillinger,Tim Daudelin,7.0,15.0
+ers23md,4.5+ Contender (Open),Pool,Short Kings,Baby Cuts,Ben Celestino,Nick McDonough,Daniel Kim,Caleb Schilling,15.0,12.0
+ers23md,4.5+ Contender (Open),Pool,TRP VT B3,Double Ds,Drew Keely,ian macdonald,Dan Burkert,Dustin Grant,11.0,15.0
+ers23md,4.5+ Contender (Open),Pool,Pinocchio’s Pistachios,Keenan is key LL,Liam Calhoun,William Rowe,Kyle Keenan,Joby O’Brien,12.0,15.0
+ers23md,4.5+ Contender (Open),Pool,Falck - Drew,Ballbarians,Felipe Larroza,Drew Ryder,Brent Summers,Isaiah Hillman,15.0,4.0
+ers23md,4.5+ Contender (Open),Pool,D1 A Squad,Buckets,Michael Moniz,Jake Hurst,Colin Nelson,JP Mitchell,15.0,13.0
+ers23md,4.5+ Contender (Open),Pool,Bros on Their Toes,TBB Bungalow Boys,Matthew Manfredi,Andrew Manfredi,Bryan Covell,Joel Yang,15.0,7.0
+ers23md,4.5+ Contender (Open),Pool,Williamsburg Roundnet,Izayah and Dan,Elijah Katz,Noah Katz,Izayah Gibson,dan savage,15.0,8.0
+ers23md,4.5+ Contender (Open),Pool,Premerekats,Quarter Pounder with Cheese,Riley Savastano,Justin Wang,Vince Vo,David Nara,15.0,10.0
+ers23md,4.5+ Contender (Open),Pool,Definitely Brothers,Lodato/Liberczuk,Zane Moussa,Tristan Laundree,Eric Liberczuk,Brock Lodato,11.0,15.0
+ers23md,4.5+ Contender (Open),Pool,an embarrassing number of points,LL Ludus,Garrett Blanchard,Jared Dean Katz,Jason Davis,Ant Terrigno,15.0,9.0
+ers23md,4.5+ Contender (Open),Pool,GWR Setting Practice,Short Kings,Jonah Zwillinger,Tim Daudelin,Ben Celestino,Nick McDonough,15.0,5.0
+ers23md,4.5+ Contender (Open),Pool,Gasaway/Narayan,TRP VT B3,Jacob Narayan,Andrew Gasaway,Drew Keely,ian macdonald,10.0,15.0
+ers23md,4.5+ Contender (Open),Pool,Double Ds,Pinocchio’s Pistachios,Dan Burkert,Dustin Grant,Liam Calhoun,William Rowe,15.0,13.0
+ers23md,4.5+ Contender (Open),Pool,Falck - Drew,D1 A Squad,Felipe Larroza,Drew Ryder,Michael Moniz,Jake Hurst,15.0,13.0
+ers23md,4.5+ Contender (Open),Pool,Ballbarians,TBB Bungalow Boys,Brent Summers,Isaiah Hillman,Bryan Covell,Joel Yang,14.0,16.0
+ers23md,4.5+ Contender (Open),Pool,Buckets,Bros on Their Toes,Colin Nelson,JP Mitchell,Matthew Manfredi,Andrew Manfredi,15.0,8.0
+ers23md,4.5+ Contender (Open),Pool,Williamsburg Roundnet,Premerekats,Elijah Katz,Noah Katz,Riley Savastano,Justin Wang,14.0,16.0
+ers23md,4.5+ Contender (Open),Pool,Izayah and Dan,Lodato/Liberczuk,Izayah Gibson,dan savage,Eric Liberczuk,Brock Lodato,15.0,12.0
+ers23md,4.5+ Contender (Open),Pool,Quarter Pounder with Cheese,Definitely Brothers,Vince Vo,David Nara,Zane Moussa,Tristan Laundree,15.0,10.0
+ers23md,4.5+ Contender (Open),Round of 32,Keenan is key LL,Definitely Brothers,Kyle Keenan,Joby O’Brien,Zane Moussa,Tristan Laundree,21.0,11.0
+ers23md,4.5+ Contender (Open),Round of 32,Bros on Their Toes,Ballbarians,Matthew Manfredi,Andrew Manfredi,Brent Summers,Isaiah Hillman,21.0,18.0
+ers23md,4.5+ Contender (Open),Round of 32,Izayah and Dan,Lodato/Liberczuk,Izayah Gibson,dan savage,Eric Liberczuk,Brock Lodato,21.0,13.0
+ers23md,4.5+ Contender (Open),Round of 32,LL Ludus,TBB Bungalow Boys,Jason Davis,Ant Terrigno,Bryan Covell,Joel Yang,21.0,18.0
+ers23md,4.5+ Contender (Open),Round of 32,Pinocchio’s Pistachios,Short Kings,Liam Calhoun,William Rowe,Ben Celestino,Nick McDonough,21.0,10.0
+ers23md,4.5+ Contender (Open),Round of 32,Baby Cuts,Gasaway/Narayan,Daniel Kim,Caleb Schilling,Jacob Narayan,Andrew Gasaway,12.0,21.0
+ers23md,4.5+ Contender (Open),Round of 16,an embarrassing number of points,Gasaway/Narayan,Garrett Blanchard,Jared Dean Katz,Jacob Narayan,Andrew Gasaway,21.0,15.0
+ers23md,4.5+ Contender (Open),Round of 16,an embarrassing number of points,Gasaway/Narayan,Garrett Blanchard,Jared Dean Katz,Jacob Narayan,Andrew Gasaway,21.0,17.0
+ers23md,4.5+ Contender (Open),Round of 16,Premerekats,Pinocchio’s Pistachios,Riley Savastano,Justin Wang,Liam Calhoun,William Rowe,21.0,15.0
+ers23md,4.5+ Contender (Open),Round of 16,Premerekats,Pinocchio’s Pistachios,Riley Savastano,Justin Wang,Liam Calhoun,William Rowe,21.0,16.0
+ers23md,4.5+ Contender (Open),Round of 16,Falck - Drew,LL Ludus,Felipe Larroza,Drew Ryder,Jason Davis,Ant Terrigno,21.0,17.0
+ers23md,4.5+ Contender (Open),Round of 16,Falck - Drew,LL Ludus,Felipe Larroza,Drew Ryder,Jason Davis,Ant Terrigno,18.0,21.0
+ers23md,4.5+ Contender (Open),Round of 16,Falck - Drew,LL Ludus,Felipe Larroza,Drew Ryder,Jason Davis,Ant Terrigno,21.0,11.0
+ers23md,4.5+ Contender (Open),Round of 16,Double Ds,Izayah and Dan,Dan Burkert,Dustin Grant,Izayah Gibson,dan savage,21.0,17.0
+ers23md,4.5+ Contender (Open),Round of 16,Double Ds,Izayah and Dan,Dan Burkert,Dustin Grant,Izayah Gibson,dan savage,1.0,0.0
+ers23md,4.5+ Contender (Open),Round of 16,Double Ds,Izayah and Dan,Dan Burkert,Dustin Grant,Izayah Gibson,dan savage,19.0,21.0
+ers23md,4.5+ Contender (Open),Round of 16,Williamsburg Roundnet,Bros on Their Toes,Elijah Katz,Noah Katz,Matthew Manfredi,Andrew Manfredi,21.0,17.0
+ers23md,4.5+ Contender (Open),Round of 16,Williamsburg Roundnet,Bros on Their Toes,Elijah Katz,Noah Katz,Matthew Manfredi,Andrew Manfredi,21.0,17.0
+ers23md,4.5+ Contender (Open),Round of 16,GWR Setting Practice,Keenan is key LL,Jonah Zwillinger,Tim Daudelin,Kyle Keenan,Joby O’Brien,21.0,15.0
+ers23md,4.5+ Contender (Open),Round of 16,GWR Setting Practice,Keenan is key LL,Jonah Zwillinger,Tim Daudelin,Kyle Keenan,Joby O’Brien,21.0,8.0
+ers23md,4.5+ Contender (Open),Round of 16,D1 A Squad,TRP VT B3,Michael Moniz,Jake Hurst,Drew Keely,ian macdonald,21.0,18.0
+ers23md,4.5+ Contender (Open),Round of 16,D1 A Squad,TRP VT B3,Michael Moniz,Jake Hurst,Drew Keely,ian macdonald,21.0,19.0
+ers23md,4.5+ Contender (Open),Round of 16,D1 A Squad,TRP VT B3,Michael Moniz,Jake Hurst,Drew Keely,ian macdonald,16.0,21.0
+ers23md,4.5+ Contender (Open),Round of 16,Buckets,Quarter Pounder with Cheese,Colin Nelson,JP Mitchell,Vince Vo,David Nara,21.0,15.0
+ers23md,4.5+ Contender (Open),Round of 16,Buckets,Quarter Pounder with Cheese,Colin Nelson,JP Mitchell,Vince Vo,David Nara,21.0,11.0
+ers23md,4.5+ Contender (Open),Quarter-final,an embarrassing number of points,Buckets,Garrett Blanchard,Jared Dean Katz,Colin Nelson,JP Mitchell,21.0,15.0
+ers23md,4.5+ Contender (Open),Quarter-final,an embarrassing number of points,Buckets,Garrett Blanchard,Jared Dean Katz,Colin Nelson,JP Mitchell,21.0,15.0
+ers23md,4.5+ Contender (Open),Quarter-final,an embarrassing number of points,Buckets,Garrett Blanchard,Jared Dean Katz,Colin Nelson,JP Mitchell,18.0,21.0
+ers23md,4.5+ Contender (Open),Quarter-final,Premerekats,D1 A Squad,Riley Savastano,Justin Wang,Michael Moniz,Jake Hurst,23.0,21.0
+ers23md,4.5+ Contender (Open),Quarter-final,Premerekats,D1 A Squad,Riley Savastano,Justin Wang,Michael Moniz,Jake Hurst,23.0,21.0
+ers23md,4.5+ Contender (Open),Quarter-final,Falck - Drew,GWR Setting Practice,Felipe Larroza,Drew Ryder,Jonah Zwillinger,Tim Daudelin,21.0,17.0
+ers23md,4.5+ Contender (Open),Quarter-final,Falck - Drew,GWR Setting Practice,Felipe Larroza,Drew Ryder,Jonah Zwillinger,Tim Daudelin,21.0,19.0
+ers23md,4.5+ Contender (Open),Quarter-final,Falck - Drew,GWR Setting Practice,Felipe Larroza,Drew Ryder,Jonah Zwillinger,Tim Daudelin,19.0,21.0
+ers23md,4.5+ Contender (Open),Quarter-final,Double Ds,Williamsburg Roundnet,Dan Burkert,Dustin Grant,Elijah Katz,Noah Katz,12.0,21.0
+ers23md,4.5+ Contender (Open),Quarter-final,Double Ds,Williamsburg Roundnet,Dan Burkert,Dustin Grant,Elijah Katz,Noah Katz,15.0,21.0
+ers23md,4.5+ Contender (Open),Quarter-final,Double Ds,Williamsburg Roundnet,Dan Burkert,Dustin Grant,Elijah Katz,Noah Katz,21.0,17.0
+ers23md,4.5+ Contender (Open),P9: Quarter-final,TRP VT B3,Pinocchio’s Pistachios,Drew Keely,ian macdonald,Liam Calhoun,William Rowe,0.0,1.0
+ers23md,4.5+ Contender (Open),P9: Quarter-final,Keenan is key LL,LL Ludus,Kyle Keenan,Joby O’Brien,Jason Davis,Ant Terrigno,0.0,1.0
+ers23md,4.5+ Contender (Open),P9: Quarter-final,Bros on Their Toes,Izayah and Dan,Matthew Manfredi,Andrew Manfredi,Izayah Gibson,dan savage,1.0,0.0
+ers23md,4.5+ Contender (Open),P17: Quarter-final,TBB Bungalow Boys,Definitely Brothers,Bryan Covell,Joel Yang,Zane Moussa,Tristan Laundree,21.0,12.0
+ers23md,4.5+ Contender (Open),P17: Quarter-final,Lodato/Liberczuk,Ballbarians,Eric Liberczuk,Brock Lodato,Brent Summers,Isaiah Hillman,-1.0,0.0
+ers23md,4.5+ Contender (Open),Semi-final,an embarrassing number of points,Williamsburg Roundnet,Garrett Blanchard,Jared Dean Katz,Elijah Katz,Noah Katz,21.0,16.0
+ers23md,4.5+ Contender (Open),Semi-final,an embarrassing number of points,Williamsburg Roundnet,Garrett Blanchard,Jared Dean Katz,Elijah Katz,Noah Katz,21.0,15.0
+ers23md,4.5+ Contender (Open),Semi-final,Premerekats,Falck - Drew,Riley Savastano,Justin Wang,Felipe Larroza,Drew Ryder,19.0,21.0
+ers23md,4.5+ Contender (Open),Semi-final,Premerekats,Falck - Drew,Riley Savastano,Justin Wang,Felipe Larroza,Drew Ryder,18.0,21.0
+ers23md,4.5+ Contender (Open),P17: Semi-final,Baby Cuts,Ballbarians,Daniel Kim,Caleb Schilling,Brent Summers,Isaiah Hillman,22.0,20.0
+ers23md,4.5+ Contender (Open),P17: Semi-final,Short Kings,TBB Bungalow Boys,Ben Celestino,Nick McDonough,Bryan Covell,Joel Yang,22.0,24.0
+ers23md,4.5+ Contender (Open),Final,an embarrassing number of points,Falck - Drew,Garrett Blanchard,Jared Dean Katz,Felipe Larroza,Drew Ryder,18.0,21.0
+ers23md,4.5+ Contender (Open),Final,an embarrassing number of points,Falck - Drew,Garrett Blanchard,Jared Dean Katz,Felipe Larroza,Drew Ryder,17.0,21.0
+ers23md,4.5+ Contender (Open),P3: Final,Premerekats,Williamsburg Roundnet,Riley Savastano,Justin Wang,Elijah Katz,Noah Katz,1.0,0.0
+ers23md,4.5+ Contender (Open),P3: Final,Premerekats,Williamsburg Roundnet,Riley Savastano,Justin Wang,Elijah Katz,Noah Katz,21.0,16.0
+ers23md,4.5+ Contender (Open),P17: Final,Baby Cuts,TBB Bungalow Boys,Daniel Kim,Caleb Schilling,Bryan Covell,Joel Yang,21.0,12.0
+ers23md,4.0 Advanced,Pool,1-800-NICE,Jack John(son),Andrew Nee,James Mills,Jack Domark,John Silva,15.0,13.0
+ers23md,4.0 Advanced,Pool,Set it and Forget It,Stick Bugs,Mike Callan,Kyle McNulty,Mark Kozub,Tucker MacDougal,15.0,11.0
+ers23md,4.0 Advanced,Pool,Dodge,It’s Not Over Till It’s Ogre,Logan Brinkman,Jesse Petrie,Christian Moore,Shane Moore,3.0,15.0
+ers23md,4.0 Advanced,Pool,FCA Beevs for Jeevs,Wet Fleece,Aiden Hathaway,Micah Foster,Sam Pasti,Zak Ramsis,15.0,9.0
+ers23md,4.0 Advanced,Pool,1-800-NICE,Stick Bugs,Andrew Nee,James Mills,Mark Kozub,Tucker MacDougal,17.0,15.0
+ers23md,4.0 Advanced,Pool,"Check, Mate",Jack John(son),Rick Thomas,Cameron Ford,Jack Domark,John Silva,6.0,15.0
+ers23md,4.0 Advanced,Pool,Dodge,Wet Fleece,Logan Brinkman,Jesse Petrie,Sam Pasti,Zak Ramsis,5.0,15.0
+ers23md,4.0 Advanced,Pool,BANANA BOYS,It’s Not Over Till It’s Ogre,Eric Guan,John Bullock,Christian Moore,Shane Moore,10.0,15.0
+ers23md,4.0 Advanced,Pool,1-800-NICE,"Check, Mate",Andrew Nee,James Mills,Rick Thomas,Cameron Ford,15.0,5.0
+ers23md,4.0 Advanced,Pool,Set it and Forget It,Jack John(son),Mike Callan,Kyle McNulty,Jack Domark,John Silva,9.0,15.0
+ers23md,4.0 Advanced,Pool,Dodge,BANANA BOYS,Logan Brinkman,Jesse Petrie,Eric Guan,John Bullock,7.0,15.0
+ers23md,4.0 Advanced,Pool,FCA Beevs for Jeevs,It’s Not Over Till It’s Ogre,Aiden Hathaway,Micah Foster,Christian Moore,Shane Moore,11.0,15.0
+ers23md,4.0 Advanced,Pool,Set it and Forget It,"Check, Mate",Mike Callan,Kyle McNulty,Rick Thomas,Cameron Ford,15.0,10.0
+ers23md,4.0 Advanced,Pool,Stick Bugs,Jack John(son),Mark Kozub,Tucker MacDougal,Jack Domark,John Silva,9.0,15.0
+ers23md,4.0 Advanced,Pool,FCA Beevs for Jeevs,BANANA BOYS,Aiden Hathaway,Micah Foster,Eric Guan,John Bullock,15.0,6.0
+ers23md,4.0 Advanced,Pool,Wet Fleece,It’s Not Over Till It’s Ogre,Sam Pasti,Zak Ramsis,Christian Moore,Shane Moore,14.0,16.0
+ers23md,4.0 Advanced,Pool,1-800-NICE,Set it and Forget It,Andrew Nee,James Mills,Mike Callan,Kyle McNulty,8.0,15.0
+ers23md,4.0 Advanced,Pool,"Check, Mate",Stick Bugs,Rick Thomas,Cameron Ford,Mark Kozub,Tucker MacDougal,15.0,13.0
+ers23md,4.0 Advanced,Pool,Dodge,FCA Beevs for Jeevs,Logan Brinkman,Jesse Petrie,Aiden Hathaway,Micah Foster,9.0,15.0
+ers23md,4.0 Advanced,Pool,BANANA BOYS,Wet Fleece,Eric Guan,John Bullock,Sam Pasti,Zak Ramsis,15.0,9.0
+ers23md,4.0 Advanced,Round of 16,Wet Fleece,Stick Bugs,Sam Pasti,Zak Ramsis,Mark Kozub,Tucker MacDougal,0.0,21.0
+ers23md,4.0 Advanced,Round of 16,Wet Fleece,Stick Bugs,Sam Pasti,Zak Ramsis,Mark Kozub,Tucker MacDougal,21.0,15.0
+ers23md,4.0 Advanced,Round of 16,Wet Fleece,Stick Bugs,Sam Pasti,Zak Ramsis,Mark Kozub,Tucker MacDougal,17.0,21.0
+ers23md,4.0 Advanced,Round of 16,"Check, Mate",Dodge,Rick Thomas,Cameron Ford,Logan Brinkman,Jesse Petrie,21.0,12.0
+ers23md,4.0 Advanced,Round of 16,"Check, Mate",Dodge,Rick Thomas,Cameron Ford,Logan Brinkman,Jesse Petrie,21.0,14.0
+ers23md,4.0 Advanced,Quarter-final,It’s Not Over Till It’s Ogre,"Check, Mate",Christian Moore,Shane Moore,Rick Thomas,Cameron Ford,21.0,13.0
+ers23md,4.0 Advanced,Quarter-final,It’s Not Over Till It’s Ogre,"Check, Mate",Christian Moore,Shane Moore,Rick Thomas,Cameron Ford,21.0,15.0
+ers23md,4.0 Advanced,Quarter-final,Jack John(son),Stick Bugs,Jack Domark,John Silva,Mark Kozub,Tucker MacDougal,21.0,17.0
+ers23md,4.0 Advanced,Quarter-final,Jack John(son),Stick Bugs,Jack Domark,John Silva,Mark Kozub,Tucker MacDougal,21.0,11.0
+ers23md,4.0 Advanced,Quarter-final,FCA Beevs for Jeevs,BANANA BOYS,Aiden Hathaway,Micah Foster,Eric Guan,John Bullock,15.0,21.0
+ers23md,4.0 Advanced,Quarter-final,FCA Beevs for Jeevs,BANANA BOYS,Aiden Hathaway,Micah Foster,Eric Guan,John Bullock,16.0,21.0
+ers23md,4.0 Advanced,Quarter-final,Set it and Forget It,1-800-NICE,Mike Callan,Kyle McNulty,Andrew Nee,James Mills,21.0,10.0
+ers23md,4.0 Advanced,Quarter-final,Set it and Forget It,1-800-NICE,Mike Callan,Kyle McNulty,Andrew Nee,James Mills,24.0,26.0
+ers23md,4.0 Advanced,Quarter-final,Set it and Forget It,1-800-NICE,Mike Callan,Kyle McNulty,Andrew Nee,James Mills,21.0,15.0
+ers23md,4.0 Advanced,Semi-final,It’s Not Over Till It’s Ogre,Set it and Forget It,Christian Moore,Shane Moore,Mike Callan,Kyle McNulty,21.0,19.0
+ers23md,4.0 Advanced,Semi-final,It’s Not Over Till It’s Ogre,Set it and Forget It,Christian Moore,Shane Moore,Mike Callan,Kyle McNulty,21.0,19.0
+ers23md,4.0 Advanced,Semi-final,Jack John(son),BANANA BOYS,Jack Domark,John Silva,Eric Guan,John Bullock,21.0,15.0
+ers23md,4.0 Advanced,Semi-final,Jack John(son),BANANA BOYS,Jack Domark,John Silva,Eric Guan,John Bullock,15.0,21.0
+ers23md,4.0 Advanced,Semi-final,Jack John(son),BANANA BOYS,Jack Domark,John Silva,Eric Guan,John Bullock,21.0,16.0
+ers23md,4.0 Advanced,P5: Semi-final,1-800-NICE,"Check, Mate",Andrew Nee,James Mills,Rick Thomas,Cameron Ford,18.0,21.0
+ers23md,4.0 Advanced,Final,It’s Not Over Till It’s Ogre,Jack John(son),Christian Moore,Shane Moore,Jack Domark,John Silva,21.0,15.0
+ers23md,4.0 Advanced,Final,It’s Not Over Till It’s Ogre,Jack John(son),Christian Moore,Shane Moore,Jack Domark,John Silva,18.0,21.0
+ers23md,4.0 Advanced,Final,It’s Not Over Till It’s Ogre,Jack John(son),Christian Moore,Shane Moore,Jack Domark,John Silva,14.0,21.0
+ers23md,4.0 Advanced,P3: Final,BANANA BOYS,Set it and Forget It,Eric Guan,John Bullock,Mike Callan,Kyle McNulty,16.0,21.0
+ers23md,4.0 Advanced,P3: Final,BANANA BOYS,Set it and Forget It,Eric Guan,John Bullock,Mike Callan,Kyle McNulty,13.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Sons of Six Mile,Wombo Combo,Neal Smith,Ryan Hays,Justin Woffinden,Josh Woffinden,6.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Le Pass Down,Ballin on a Budget,Aaron Witkin,Baillie Olin,Justin Desai,Anders Benson,21.0,17.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Sons of Six Mile,Ballin on a Budget,Neal Smith,Ryan Hays,Justin Desai,Anders Benson,16.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Hot Pockets,Wombo Combo,Hannah Covell,Christina Benson,Justin Woffinden,Josh Woffinden,10.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Sons of Six Mile,Hot Pockets,Neal Smith,Ryan Hays,Hannah Covell,Christina Benson,14.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Le Pass Down,Wombo Combo,Aaron Witkin,Baillie Olin,Justin Woffinden,Josh Woffinden,14.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Le Pass Down,Hot Pockets,Aaron Witkin,Baillie Olin,Hannah Covell,Christina Benson,21.0,13.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Ballin on a Budget,Wombo Combo,Justin Desai,Anders Benson,Justin Woffinden,Josh Woffinden,19.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Sons of Six Mile,Le Pass Down,Neal Smith,Ryan Hays,Aaron Witkin,Baillie Olin,10.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Hot Pockets,Ballin on a Budget,Hannah Covell,Christina Benson,Justin Desai,Anders Benson,16.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Quarter-final,Hot Pockets,Sons of Six Mile,Hannah Covell,Christina Benson,Neal Smith,Ryan Hays,21.0,10.0
+ers23md,2.0-3.0 Open Intermediate,Quarter-final,Hot Pockets,Sons of Six Mile,Hannah Covell,Christina Benson,Neal Smith,Ryan Hays,21.0,15.0
+ers23md,2.0-3.0 Open Intermediate,Semi-final,Wombo Combo,Hot Pockets,Justin Woffinden,Josh Woffinden,Hannah Covell,Christina Benson,21.0,11.0
+ers23md,2.0-3.0 Open Intermediate,Semi-final,Wombo Combo,Hot Pockets,Justin Woffinden,Josh Woffinden,Hannah Covell,Christina Benson,21.0,13.0
+ers23md,2.0-3.0 Open Intermediate,Semi-final,Le Pass Down,Ballin on a Budget,Aaron Witkin,Baillie Olin,Justin Desai,Anders Benson,19.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Semi-final,Le Pass Down,Ballin on a Budget,Aaron Witkin,Baillie Olin,Justin Desai,Anders Benson,17.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Final,Wombo Combo,Ballin on a Budget,Justin Woffinden,Josh Woffinden,Justin Desai,Anders Benson,21.0,18.0
+ers23md,2.0-3.0 Open Intermediate,Final,Wombo Combo,Ballin on a Budget,Justin Woffinden,Josh Woffinden,Justin Desai,Anders Benson,21.0,17.0
+ers23md,2.0-3.0 Open Intermediate,Final,Wombo Combo,Ballin on a Budget,Justin Woffinden,Josh Woffinden,Justin Desai,Anders Benson,17.0,21.0
+ers23md,2.0-3.0 Open Intermediate,P3: Final,Le Pass Down,Hot Pockets,Aaron Witkin,Baillie Olin,Hannah Covell,Christina Benson,21.0,13.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Sons of Six Mile,Le Pass Down,Neal Smith,Ryan Hays,Aaron Witkin,Baillie Olin,9.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Sons of Six Mile,Hot Pockets,Neal Smith,Ryan Hays,Hannah Covell,Christina Benson,10.0,21.0
+ers23md,2.0-3.0 Open Intermediate,Pool,Hot Pockets,Le Pass Down,Hannah Covell,Christina Benson,Aaron Witkin,Baillie Olin,13.0,21.0

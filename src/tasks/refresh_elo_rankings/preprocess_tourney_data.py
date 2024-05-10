@@ -68,7 +68,7 @@ def run():
 
     # Filter to-do list
     to_do_list = tourney_status[(tourney_status['downloaded'] == True) &
-                                (tourney_status['complete'].isna())]
+                                ~(tourney_status['complete'].isna())]
 
     # Process each tournament file
     for index, row in to_do_list.iterrows():
@@ -129,6 +129,7 @@ def run():
         Step 4: Saving the output
         """
         output_file_path = os.path.join(CFGS['tourney_results_dir'], row['tourney'].lower() + ".csv")
+        print(f"Saving preprocessed: {output_file_path}")
         full_df.to_csv(output_file_path, index=False)
 
     print(f"Completed Task: {TASK_ID}")
