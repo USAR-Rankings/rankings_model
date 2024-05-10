@@ -68,7 +68,7 @@ def run():
 
     # Filter to-do list
     to_do_list = tourney_status[(tourney_status['downloaded'] == True) &
-                                ~(tourney_status['complete'].isna())]
+                                (tourney_status['complete'].isna())]
 
     # Process each tournament file
     for index, row in to_do_list.iterrows():
