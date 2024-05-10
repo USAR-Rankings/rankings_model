@@ -69,3 +69,4 @@ for(td in 1:nrow(to_do_list)){
   
   write.csv(temp, file.path('Tourney Results', tolower(paste0(to_do_list$tourney[td], ".csv"))), row.names = F)
 }
+
