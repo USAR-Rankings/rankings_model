@@ -15,10 +15,10 @@ CFGS = {
     "data_output_path": "Tourney Results/Preprocessed/",
     "spelling_output_path": "Players/",
     "minimum_misspelling_confidence": 80,
-    "interactive_spelling_correction": False,
+    "interactive_spelling_correction": True,
     "str_cols_to_check": [
-        CONSTANTS['division'],  # This means division names
-        # CONSTANTS['first_team'],  # This means team names
-        CONSTANTS['first_team_first_player'],  # This means player names
+        'division',  # This means division names
+        # 'team_names',  # This means team names
+        'player_names',  # This means player names
     ],
 }

@@ -2,16 +2,14 @@
 import pandas as pd
 import numpy as np
 import os
-import glob
 from fuzzywuzzy import process, fuzz
 from copy import deepcopy
 from src.configs.find_name_corrections import (CFGS, CONSTANTS)
 
-
 TASK_ID = "generate_corrections"
 
 
-# functinon to read in all the data to memory
+# function to read in all the data to memory
 def read_data():
     # loop over the list of csv files
     all_dfs = []
@@ -36,7 +34,6 @@ def read_csv_if_exists(filename):
     Read a CSV file into a pandas DataFrame from a specific directory and file name if it exists.
 
     Parameters:
-        directory (str): The directory path where the CSV file is located.
         filename (str): The name of the CSV file.
 
     Returns:
@@ -58,23 +55,24 @@ def read_csv_if_exists(filename):
         return None
 
 
-
 # function to fix any misspellings detected in the dataset
 def fix_misspelled_columns(df, cur_auto_name_corrections):
     auto_typo_dicts = []
     # fixing all text columns
-    for cur_column_name in CFGS['str_cols_to_check']:
+    for i, cur_column_name in enumerate(CFGS['str_cols_to_check']):
 
-        if cur_column_name in [CONSTANTS['first_team'], CONSTANTS['second_team']]:
+        # Saving the original col name and then updating to whatever the user actually wants
+        orig_cfg_col_name = deepcopy(cur_column_name)
+        if cur_column_name == "team_names":
             cur_column_name = [CONSTANTS['first_team'], CONSTANTS['second_team']]
-        elif cur_column_name in [CONSTANTS['first_team_first_player'],
-                                 CONSTANTS['first_team_second_player'],
-                                 CONSTANTS['second_team_first_player'],
-                                 CONSTANTS['second_team_second_player']]:
+        elif cur_column_name == "player_names":
             cur_column_name = [CONSTANTS['first_team_first_player'],
                                CONSTANTS['first_team_second_player'],
                                CONSTANTS['second_team_first_player'],
-                               CONSTANTS['second_team_second_player'],]
+                               CONSTANTS['second_team_second_player'],
+                               ]
+        elif cur_column_name == "division":
+            cur_column_name = CONSTANTS["division"]
 
         print(f"\n\nChecking {cur_column_name} for spelling errors")
 
@@ -98,11 +96,12 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
         # Removing anything that was already in the previous version
         if cur_auto_name_corrections is not None:
             if isinstance(cur_column_name, list):
-                old_auto_df = cur_auto_name_corrections.loc[cur_auto_name_corrections["Column"].isin(cur_column_name), :]
+                old_auto_df = cur_auto_name_corrections.loc[cur_auto_name_corrections["Column"].isin(cur_column_name),
+                                                            :]
             else:
                 old_auto_df = cur_auto_name_corrections.loc[cur_auto_name_corrections["Column"] == cur_column_name, :]
             all_names = list(set(old_auto_df["OldName"].unique().tolist()).union(
-                             set(old_auto_df["NewName"].unique().tolist())))
+                set(old_auto_df["NewName"].unique().tolist())))
             similarity_sort = similarity_sort.loc[~(similarity_sort["original_name"].isin(all_names)), :]
 
         # adding counts of how many times each name appears originally
@@ -110,20 +109,20 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
         name_appearance.columns = ["name", "count"]
 
         # left joining this into our similarity dataframe
-        similarity_sort = pd.merge(similarity_sort, name_appearance.rename({"count": "orig_count"}, axis=1), \
+        similarity_sort = pd.merge(similarity_sort, name_appearance.rename({"count": "orig_count"}, axis=1),
                                    left_on="original_name", right_on="name", how="left")
-        similarity_sort = pd.merge(similarity_sort, name_appearance.rename({"count": "matched_count"}, axis=1), \
+        similarity_sort = pd.merge(similarity_sort, name_appearance.rename({"count": "matched_count"}, axis=1),
                                    left_on="close_name", right_on="name", how="left").drop(columns=["name_x", "name_y"])
 
         # setting the default name to that which occurs more often, and the misspelling to the less often name
-        similarity_sort["most_frequent_name"] = similarity_sort.apply(lambda x: \
-                                                                          x["original_name"] if x["orig_count"] >= x[
-                                                                              "matched_count"] else \
-                                                                              x["close_name"], axis=1)
-        similarity_sort["matched_name"] = similarity_sort.apply(lambda x: \
-                                                                    x["original_name"] if x["most_frequent_name"] == x[
-                                                                        "close_name"] else \
-                                                                        x["close_name"], axis=1)
+        similarity_sort["most_frequent_name"] = similarity_sort.apply(lambda x:
+                                                                      x["original_name"] if x["orig_count"] >= x[
+                                                                          "matched_count"] else
+                                                                      x["close_name"], axis=1)
+        similarity_sort["matched_name"] = similarity_sort.apply(lambda x:
+                                                                x["original_name"] if x["most_frequent_name"] == x[
+                                                                    "close_name"] else
+                                                                x["close_name"], axis=1)
         similarity_sort = similarity_sort[["most_frequent_name", "matched_name", "score"]]
 
         # keeping the values above a minimum match threshold and removing rows that are the same two names
@@ -138,12 +137,12 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
 
         # removing duplicate rows that have reversed names
         high_score_sort['check_string'] = high_score_sort.apply(
-            lambda row: ''.join(sorted([row['most_frequent_name'], row['matched_name']])), axis=1)
+            lambda x: ''.join(sorted([x['most_frequent_name'], x['matched_name']])), axis=1)
         high_score_sort = high_score_sort.drop_duplicates('check_string')
 
         # printing the results
-        print("Original Name\tProposed Mispelling\tConfidence Score")
-        for i, row in high_score_sort.iterrows():
+        print("Original Name\tProposed Misspelling\tConfidence Score")
+        for _, row in high_score_sort.iterrows():
             print(row["most_frequent_name"], "\t", row["matched_name"], "\t", row["score"])
 
         # getting user input on what confidence level to cut this off at
@@ -153,7 +152,7 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
         while True:
             try:
                 confidence_thresh = int(confidence_thresh)
-                if confidence_thresh >= 0 and confidence_thresh <= 100:
+                if (confidence_thresh >= 0) and (confidence_thresh <= 100):
                     break
                 else:
                     confidence_thresh = input(
@@ -167,7 +166,7 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
 
         # converting the dataframe to a dictionary to use to clean the data
         spell_check_mapping = dict()
-        for i, row in high_score_sort.iterrows():
+        for _, row in high_score_sort.iterrows():
             if row["most_frequent_name"] in spell_check_mapping:
                 spell_check_mapping[row["most_frequent_name"]].append(row["matched_name"])
             else:
@@ -184,7 +183,8 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
                         print("\nThe correctly spelled name is:\t", key)
                         print("The proposed misspellings are:\t", value)
                         correct_map = input(
-                            "Is this correct? (y/n) Or is it partially correct with one element needing to be removed? (remove):\t")
+                            "Is this correct? (y/n) Or is it partially correct with one element needing to be "
+                            "removed? (remove):\t")
                         # if its already correct, save it
                         if correct_map == "y":
                             if key in final_spell_mapping:
@@ -193,7 +193,7 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
                                 final_spell_mapping[key] = value
                             break
                         elif correct_map == "n":
-                            # fix the issues if it isnt correct
+                            # fix the issues if it isn't correct
                             potential_spellings = deepcopy(value)
                             potential_spellings.append(key)
                             # allow the user to specify which is the correct spelling and which are typos
@@ -202,16 +202,16 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
                                                       f":\n{potential_spellings}\n\n\t"))
                             while True:
                                 if correct_spelling in potential_spellings:
-                                    all_mispellings = deepcopy(potential_spellings)
-                                    all_mispellings.remove(correct_spelling)
+                                    all_misspellings = deepcopy(potential_spellings)
+                                    all_misspellings.remove(correct_spelling)
                                     if correct_spelling in final_spell_mapping:
                                         print("Found previous entry of this name. Appended new misspellings to it")
-                                        for x in all_mispellings:
-                                            # making sure this misspelling isnt already there
+                                        for x in all_misspellings:
+                                            # making sure this misspelling isn't already there
                                             if x not in final_spell_mapping[correct_spelling]:
-                                                final_spell_mapping[correct_spelling].extend(all_mispellings)
+                                                final_spell_mapping[correct_spelling].extend(all_misspellings)
                                     else:
-                                        final_spell_mapping[correct_spelling] = all_mispellings
+                                        final_spell_mapping[correct_spelling] = all_misspellings
                                     break
                                 elif correct_spelling == "different names":
                                     # not saving to correction dictionary
@@ -228,12 +228,14 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
                             else:
                                 print("Entry not found in list; check your spelling")
                         else:
-                            correct_map = input("Please provide either 'y', 'n', or 'remove' to indicate if this is correct\t")
+                            correct_map = input(
+                                "Please provide either 'y', 'n', or 'remove' to indicate if this is correct\t")
 
                 # stopping interactive mode if user approves of the mapping
                 # redoing it otherwise
                 print(
-                    f"Finished interactive mode with the following correct names and their misspellings:\n{final_spell_mapping}")
+                    "Finished interactive mode with the following correct names and their misspellings:"
+                    f"\n{final_spell_mapping}")
                 finished_loop = input("Are these spelling mistakes correct (y/n)?:\t")
                 while True:
                     if finished_loop == "y" or finished_loop == "n":
@@ -247,36 +249,41 @@ def fix_misspelled_columns(df, cur_auto_name_corrections):
             final_spell_mapping = spell_check_mapping
 
         # fixing the spelling mistakes in the dataframe
-        # inverting the dictionary so we can look up typos to find correct spellings
+        # inverting the dictionary, so we can look up typos to find correct spellings
         typo_dict = {}
         for k, v in final_spell_mapping.items():
             for x in v:
                 # typo_dict.setdefault(x, []).append(k)
                 # The current typo x is mapped to the current correct spelling k
                 typo_dict[x] = k
+        # Appending this dict
+        auto_typo_dicts.append((orig_cfg_col_name, typo_dict))
 
-        # using the typo dict to fix our dataframe
-        if isinstance(cur_column_name, list):
-            for col in cur_column_name:
-                df.replace({col: typo_dict}, inplace=True)
-        else:
-            df.replace({cur_column_name: typo_dict}, inplace=True)
-
-        auto_typo_dicts.append((cur_column_name, typo_dict))
-
-    return df, auto_typo_dicts
+    # return df, auto_typo_dicts
+    return auto_typo_dicts
 
 
 # creating a function to do some initial data preprocessing
 def run():
     print(f"Starting Task: {TASK_ID}")
 
+    """
+    Step 1: Reading in the data
+    """
     # start by reading in the data from the input directory specified in the yaml config file
     print("Reading in data")
     df, parent_dir = read_data()
-    # Reading in the previous auto name corrections
+
+    # Reading in the previous auto name corrections and the manual ones
     cur_auto_name_corrections = read_csv_if_exists("auto_name_corrections.csv")
     cur_name_corrections = read_csv_if_exists("name_corrections.csv")
+
+    """
+    Step 2: Preprocessing
+    """
+    # Preprocessing the cur name corrections DF
+    cur_name_corrections["Column"] = "player_names"
+    cur_name_corrections = cur_name_corrections.drop(columns="Tourney")
 
     # cleaning up the string columns
     # removing trailing and leading whitespace from string columns, setting to all lowercase
@@ -284,15 +291,16 @@ def run():
     for col in str_cols:
         df[col] = df[col].str.strip().str.lower()
 
+    """
+    Step 3: Finding the spelling mistakes
+    """
     # correcting any spelling mistakes
     print("Detecting any spelling errors")
-    df, auto_typo_dicts = fix_misspelled_columns(df, cur_auto_name_corrections)
+    auto_typo_dicts = fix_misspelled_columns(df, cur_auto_name_corrections)
 
-    # saving the preprocessed dataframe
-    abs_path = os.path.join(parent_dir, CFGS["data_output_path"])
-    output_path = os.path.join(abs_path, "preprocessed_tourney_results.csv")
-    df.to_csv(output_path, header=True, index=False)
-
+    """
+    Step 4: Saving the output
+    """
     # saving the typo dicts
     all_dicts = []
     for cur_column_name, typo_dict in auto_typo_dicts:
@@ -320,4 +328,4 @@ def run():
         typos_for_end_use.to_csv(output_path, header=True, index=False)
 
     print(f"Completed Task: {TASK_ID}")
-    return df
+    return
