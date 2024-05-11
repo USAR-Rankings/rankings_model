@@ -102,7 +102,6 @@ def click_pool_play(driver, wait):
     
     # Find buttons on nav bar
     buttons = driver.find_elements(By.CLASS_NAME, "BaseButton-sc-1f7jfq6-0")
-    print("There are ", len(buttons), " buttons")
     
     # Find Pool Play button
     found = False
@@ -180,9 +179,7 @@ wait = WebDriverWait(driver, 5) # Setting up the driver to wait until elements l
 try:
     try_logging_in_w_cookies(driver)
 except:
-    # Logging into fwango manually
-    # email = "events@usaroundnet.org"
-    # password = "3v3nt5upport"
+    # Logging into fwango manually (email & password)
     login(driver)
 
 # Save cookies
