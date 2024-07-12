@@ -5,7 +5,7 @@ import warnings
 warnings.filterwarnings(action='once')
 from datetime import date,datetime
 from ..tasks.run_elo import *
-from ..configs.run_elo import (DATA_PATH,
+from ..configs.run_elo_open import (DATA_PATH,
                                        NUMB_INITAL,
                                        K1,
                                        K2,
@@ -14,13 +14,12 @@ from ..configs.run_elo import (DATA_PATH,
                                        DE,
                                        SEP,
                                        DECAY,
-                                       DECAY_ARRAY)
+                                       DECAY_ARRAY,EXPORT_FILENAME)
 
 def main():
     # Read in game data
     west_r=pd.read_csv(DATA_PATH,encoding= 'unicode_escape').dropna(subset = ['mT1P1', 'mT1P2', 'mT2P1',"mT2P2"]).reset_index(drop=True)
-    #Fix formatting issue
-    west_r=west_r.rename(columns = {'ï»¿"game_id"':'game_id'})
+    
     
     # Create tournemtnand dvisions combinations to play and teh order they occur in
     west_r_c=west_r[['tourney','Division',"Date"]].drop_duplicates().reset_index(drop=True)
@@ -29,7 +28,7 @@ def main():
     
 
     # Add date data
-    date_format = '%Y-%m-%d'
+    date_format = '%y-%m-%d'
     west_r_c["Date"]=[datetime.strptime(x, date_format)for x in west_r_c["Date"]]
    
     # Touranments to avereg elo for starting elo
@@ -40,7 +39,7 @@ def main():
     test.record_season(west_r,west_r_c)
     
     # Export player results at all stages
-    test.give_players_all().to_csv("../../data/test_final_players_all.csv")
+    test.give_players_all().to_csv("../../data/test_final_players_"+EXPORT_FILENAME+".csv")
 
-    # Export player results at final stage
-    test.give_players_df().to_csv("../../data/test_final_players_current.csv")
+    # Export games
+    test.played_games.to_csv("../../data/test_final_games_"+EXPORT_FILENAME+".csv")

@@ -191,6 +191,7 @@ class Player:
         elif self.days_since_played > 91:
             self.decay_rating(decay_array[0])
     
+    
 class ELO_Model:
     """
     A class that has is able to fun a elo calucuations and store results.
@@ -288,7 +289,7 @@ class ELO_Model:
                 div=0
             else: 
                 div=1
-        elif (("EXPERT" in division) or ("ELITE" in division) or ("ADVANCED" in division)or ("GOLD" in division)or ("WOMEN" in division)):
+        elif (("EXPERT" in division) or ("ELITE" in division) or ("ADVANCED" in division)or ("GOLD" in division) or ("WOMEN" in division)):
             starting_elo=self.sep-self.de
             starting_elo=self.sep-self.de
             div=2
@@ -334,9 +335,10 @@ class ELO_Model:
             # Checks if player already exists, if not creates a new object for them
             for player in player_array:
                 if player in self.p_dict:
+                    if self.decay==True:
+                        self.p_dict[player].update_time(date,self.decay_array)
                     self.p_dict[player].add_tounrey(tourney)
                     self.p_dict[player].add_division(div)
-                    self.p_dict[player].update_time(date,self.decay_array)
                     self.p_dict[player].update_last_played(date)
                     
                 else:
@@ -496,13 +498,15 @@ class ELO_Model:
                     self.record_tourney(data,combos_t.loc[i,"tourney"],combos_t.loc[i,"Division"],combos_t.loc[i,"Date"],avg_elo=combos_t.loc[i,"AVG_ELO"])
                 else:
                     self.record_tourney(data,combos_t.loc[i,"tourney"],combos_t.loc[i,"Division"],combos_t.loc[i,"Date"])
-            # Update tourney level results
-            self.players_total=self.players_total._append(self.give_players_df(combos_t.loc[i,"tourney"],combos_t.loc[i,"Date"]))
             
             #Update days since played and decay ratings
             if self.decay==True:
                 for player in self.p_dict.values():
                     player.update_time(combos_t.loc[i,"Date"],self.decay_array)
+            # Update tourney level results
+            self.players_total=self.players_total._append(self.give_players_df(combos_t.loc[i,"tourney"],combos_t.loc[i,"Date"]))
+            
+            
             
             
     def brier_score(self,mg):
@@ -675,3 +679,6 @@ class ELO_Model:
         for i in range(0,len(combos)):
             self.predict_tourney(data,combos.loc[i,"tourney"],combos.loc[i,"Division"])
         self.predicted_games=self.predicted_games.dropna(subset = ['Predict_win']).reset_index()    
+    
+
+    

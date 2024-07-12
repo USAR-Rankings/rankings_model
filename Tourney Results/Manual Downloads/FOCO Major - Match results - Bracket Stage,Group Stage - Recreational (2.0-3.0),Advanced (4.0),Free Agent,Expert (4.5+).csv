@@ -1,0 +1,82 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Recreational (2.0-3.0),Group A,1,Single game,Bennie and The Nets,The spikeheim,The spikeheim,14,21,,,,,Ben Porter,Crispin Hilliard,Tanner Strausheim,Kennedy Strausheim
+Group Stage,Recreational (2.0-3.0),Group A,1,Single game,Friz,POSTed Up,Friz,23,21,,,,,James Smith,Elizabeth Smith,Gabriel Hyde,Noah Larchick
+Group Stage,Recreational (2.0-3.0),Group B,1,Single game,Dogs Out,We’re BA,We’re BA,10,21,,,,,Helena Lee,Faith Lee,Abby Lans,Brayden Lans
+Group Stage,Recreational (2.0-3.0),Group B,1,Single game,Fascial whhhip,twin towerz,Fascial whhhip,21,9,,,,,Matt Cardell,Bradley Byrne,Jillian Kuizenga,Sam snyder
+Group Stage,Recreational (2.0-3.0),Group A,2,Single game,Bennie and The Nets,POSTed Up,POSTed Up,19,21,,,,,Ben Porter,Crispin Hilliard,Gabriel Hyde,Noah Larchick
+Group Stage,Recreational (2.0-3.0),Group A,2,Single game,Shugas Spikers,The spikeheim,Shugas Spikers,21,19,,,,,Caleb Caulk,Tyler Brown,Tanner Strausheim,Kennedy Strausheim
+Group Stage,Recreational (2.0-3.0),Group B,2,Single game,Dogs Out,twin towerz,Dogs Out,21,19,,,,,Helena Lee,Faith Lee,Jillian Kuizenga,Sam snyder
+Group Stage,Recreational (2.0-3.0),Group B,2,Single game,Hard Rockers,We’re BA,Hard Rockers,21,6,,,,,Noah Dwyer,Caleb Huxford,Abby Lans,Brayden Lans
+Group Stage,Recreational (2.0-3.0),Group A,3,Single game,Bennie and The Nets,Shugas Spikers,Shugas Spikers,13,21,,,,,Ben Porter,Crispin Hilliard,Caleb Caulk,Tyler Brown
+Group Stage,Recreational (2.0-3.0),Group A,3,Single game,Friz,The spikeheim,Friz,21,18,,,,,James Smith,Elizabeth Smith,Tanner Strausheim,Kennedy Strausheim
+Group Stage,Recreational (2.0-3.0),Group B,3,Single game,Dogs Out,Hard Rockers,Hard Rockers,3,21,,,,,Helena Lee,Faith Lee,Noah Dwyer,Caleb Huxford
+Group Stage,Recreational (2.0-3.0),Group B,3,Single game,Fascial whhhip,We’re BA,Fascial whhhip,21,12,,,,,Matt Cardell,Bradley Byrne,Abby Lans,Brayden Lans
+Group Stage,Recreational (2.0-3.0),Group A,4,Single game,Friz,Shugas Spikers,Shugas Spikers,15,21,,,,,James Smith,Elizabeth Smith,Caleb Caulk,Tyler Brown
+Group Stage,Recreational (2.0-3.0),Group A,4,Single game,POSTed Up,The spikeheim,POSTed Up,21,15,,,,,Gabriel Hyde,Noah Larchick,Tanner Strausheim,Kennedy Strausheim
+Group Stage,Recreational (2.0-3.0),Group B,4,Single game,Fascial whhhip,Hard Rockers,Fascial whhhip,21,16,,,,,Matt Cardell,Bradley Byrne,Noah Dwyer,Caleb Huxford
+Group Stage,Recreational (2.0-3.0),Group B,4,Single game,twin towerz,We’re BA,We’re BA,8,21,,,,,Jillian Kuizenga,Sam snyder,Abby Lans,Brayden Lans
+Group Stage,Recreational (2.0-3.0),Group A,5,Single game,Bennie and The Nets,Friz,Friz,20,22,,,,,Ben Porter,Crispin Hilliard,James Smith,Elizabeth Smith
+Group Stage,Recreational (2.0-3.0),Group A,5,Single game,Shugas Spikers,POSTed Up,Shugas Spikers,21,11,,,,,Caleb Caulk,Tyler Brown,Gabriel Hyde,Noah Larchick
+Group Stage,Recreational (2.0-3.0),Group B,5,Single game,Dogs Out,Fascial whhhip,Fascial whhhip,14,21,,,,,Helena Lee,Faith Lee,Matt Cardell,Bradley Byrne
+Group Stage,Recreational (2.0-3.0),Group B,5,Single game,Hard Rockers,twin towerz,Hard Rockers,21,4,,,,,Noah Dwyer,Caleb Huxford,Jillian Kuizenga,Sam snyder
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Round of 16,Best of 3,The spikeheim,twin towerz,The spikeheim,21,6,21,9,,,Tanner Strausheim,Kennedy Strausheim,Jillian Kuizenga,Sam snyder
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Round of 16,Best of 3,Dogs Out,Bennie and The Nets,Bennie and The Nets,15,21,10,21,,,Helena Lee,Faith Lee,Ben Porter,Crispin Hilliard
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Quarter-final,Best of 3,Fascial whhhip,Bennie and The Nets,Fascial whhhip,21,15,21,18,,,Matt Cardell,Bradley Byrne,Ben Porter,Crispin Hilliard
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Quarter-final,Best of 3,Shugas Spikers,The spikeheim,Shugas Spikers,21,17,21,14,,,Caleb Caulk,Tyler Brown,Tanner Strausheim,Kennedy Strausheim
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Quarter-final,Best of 3,Hard Rockers,POSTed Up,Hard Rockers,21,14,21,13,,,Noah Dwyer,Caleb Huxford,Gabriel Hyde,Noah Larchick
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Quarter-final,Best of 3,Friz,We’re BA,Friz,21,19,25,24,,,James Smith,Elizabeth Smith,Abby Lans,Brayden Lans
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Semi-final,Best of 3,Fascial whhhip,Friz,Fascial whhhip,21,12,21,14,,,Matt Cardell,Bradley Byrne,James Smith,Elizabeth Smith
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Semi-final,Best of 3,Shugas Spikers,Hard Rockers,Hard Rockers,15,21,21,17,15,21,Caleb Caulk,Tyler Brown,Noah Dwyer,Caleb Huxford
+Bracket Stage,Recreational (2.0-3.0),Bracket A,P5: Semi-final,Best of 3,We’re BA,Bennie and The Nets,We’re BA,23,21,20,22,21,18,Abby Lans,Brayden Lans,Ben Porter,Crispin Hilliard
+Bracket Stage,Recreational (2.0-3.0),Bracket A,P5: Semi-final,Best of 3,POSTed Up,The spikeheim,The spikeheim,11,21,21,15,22,24,Gabriel Hyde,Noah Larchick,Tanner Strausheim,Kennedy Strausheim
+Bracket Stage,Recreational (2.0-3.0),Bracket A,Final,Best of 3,Fascial whhhip,Hard Rockers,Fascial whhhip,21,19,24,25,21,13,Matt Cardell,Bradley Byrne,Noah Dwyer,Caleb Huxford
+Bracket Stage,Recreational (2.0-3.0),Bracket A,P3: Final,Best of 3,Shugas Spikers,Friz,Shugas Spikers,21,17,21,19,,,Caleb Caulk,Tyler Brown,James Smith,Elizabeth Smith
+Bracket Stage,Recreational (2.0-3.0),Bracket A,P5: Final,Best of 3,We’re BA,The spikeheim,We’re BA,21,18,19,21,21,16,Abby Lans,Brayden Lans,Tanner Strausheim,Kennedy Strausheim
+Bracket Stage,Recreational (2.0-3.0),Bracket A,P7: Final,Best of 3,POSTed Up,Bennie and The Nets,POSTed Up,18,21,21,13,21,16,Gabriel Hyde,Noah Larchick,Ben Porter,Crispin Hilliard
+Bracket Stage,Recreational (2.0-3.0),Bracket A,P9: Final,Best of 3,Dogs Out,twin towerz,twin towerz,0,21,0,21,,,Helena Lee,Faith Lee,Jillian Kuizenga,Sam snyder
+Group Stage,Advanced (4.0),Group A,1,Single game,Empire Spikes Back,My Brother Is Adopted,Empire Spikes Back,21,12,,,,,Ryan Dovel,Zach Miles,Tyler johnson,Zach Johnson
+Group Stage,Advanced (4.0),Group A,1,Single game,Salt and Pepper,Hinder Date,Hinder Date,18,21,,,,,Pranav Palakurthy,Ian Scott,Sammy Potter,Derrick Odom
+Group Stage,Advanced (4.0),Group A,1,Single game,Electric J's,Team Brook and Mason,Electric J's,21,13,,,,,Jessica Borgers,Jack Wallace,Brooklynn Becker,Mason Phillips
+Group Stage,Advanced (4.0),Group A,2,Single game,Empire Spikes Back,Hinder Date,Empire Spikes Back,21,12,,,,,Ryan Dovel,Zach Miles,Sammy Potter,Derrick Odom
+Group Stage,Advanced (4.0),Group A,2,Single game,Salt and Pepper,Electric J's,Electric J's,12,21,,,,,Pranav Palakurthy,Ian Scott,Jessica Borgers,Jack Wallace
+Group Stage,Advanced (4.0),Group A,2,Single game,Team Brook and Mason,My Brother Is Adopted,Team Brook and Mason,21,19,,,,,Brooklynn Becker,Mason Phillips,Tyler johnson,Zach Johnson
+Group Stage,Advanced (4.0),Group A,3,Single game,Empire Spikes Back,Team Brook and Mason,Empire Spikes Back,21,16,,,,,Ryan Dovel,Zach Miles,Brooklynn Becker,Mason Phillips
+Group Stage,Advanced (4.0),Group A,3,Single game,Salt and Pepper,My Brother Is Adopted,My Brother Is Adopted,18,21,,,,,Pranav Palakurthy,Ian Scott,Tyler johnson,Zach Johnson
+Group Stage,Advanced (4.0),Group A,3,Single game,Electric J's,Hinder Date,Electric J's,21,16,,,,,Jessica Borgers,Jack Wallace,Sammy Potter,Derrick Odom
+Group Stage,Advanced (4.0),Group A,4,Single game,Empire Spikes Back,Electric J's,Electric J's,18,21,,,,,Ryan Dovel,Zach Miles,Jessica Borgers,Jack Wallace
+Group Stage,Advanced (4.0),Group A,4,Single game,Salt and Pepper,Team Brook and Mason,Team Brook and Mason,12,21,,,,,Pranav Palakurthy,Ian Scott,Brooklynn Becker,Mason Phillips
+Group Stage,Advanced (4.0),Group A,4,Single game,Hinder Date,My Brother Is Adopted,My Brother Is Adopted,18,21,,,,,Sammy Potter,Derrick Odom,Tyler johnson,Zach Johnson
+Group Stage,Advanced (4.0),Group A,5,Single game,Empire Spikes Back,Salt and Pepper,Empire Spikes Back,21,11,,,,,Ryan Dovel,Zach Miles,Pranav Palakurthy,Ian Scott
+Group Stage,Advanced (4.0),Group A,5,Single game,Electric J's,My Brother Is Adopted,Electric J's,21,19,,,,,Jessica Borgers,Jack Wallace,Tyler johnson,Zach Johnson
+Group Stage,Advanced (4.0),Group A,5,Single game,Team Brook and Mason,Hinder Date,Hinder Date,20,22,,,,,Brooklynn Becker,Mason Phillips,Sammy Potter,Derrick Odom
+Bracket Stage,Advanced (4.0),Bracket A,Quarter-final,Best of 3,Team Brook and Mason,Salt and Pepper,Team Brook and Mason,21,5,21,16,,,Brooklynn Becker,Mason Phillips,Pranav Palakurthy,Ian Scott
+Bracket Stage,Advanced (4.0),Bracket A,Quarter-final,Best of 3,My Brother Is Adopted,Hinder Date,Hinder Date,11,21,14,21,,,Tyler johnson,Zach Johnson,Sammy Potter,Derrick Odom
+Bracket Stage,Advanced (4.0),Bracket A,Semi-final,Best of 3,Electric J's,Hinder Date,Electric J's,26,24,21,15,,,Jessica Borgers,Jack Wallace,Sammy Potter,Derrick Odom
+Bracket Stage,Advanced (4.0),Bracket A,Semi-final,Best of 3,Empire Spikes Back,Team Brook and Mason,Empire Spikes Back,21,18,24,22,,,Ryan Dovel,Zach Miles,Brooklynn Becker,Mason Phillips
+Bracket Stage,Advanced (4.0),Bracket A,Winners final,Best of 3,Electric J's,Empire Spikes Back,Empire Spikes Back,21,19,20,22,16,21,Jessica Borgers,Jack Wallace,Ryan Dovel,Zach Miles
+Bracket Stage,Advanced (4.0),Bracket A,Final,Best of 3,Empire Spikes Back,Electric J's,Electric J's,16,21,0,1,,,Ryan Dovel,Zach Miles,Jessica Borgers,Jack Wallace
+Bracket Stage,Advanced (4.0),Bracket A,Final,Best of 3,Empire Spikes Back,Electric J's,Electric J's,0,1,0,1,,,Ryan Dovel,Zach Miles,Jessica Borgers,Jack Wallace
+Bracket Stage,Advanced (4.0),Bracket A,Losers SF,Single game,Team Brook and Mason,My Brother Is Adopted,Team Brook and Mason,21,15,,,,,Brooklynn Becker,Mason Phillips,Tyler johnson,Zach Johnson
+Bracket Stage,Advanced (4.0),Bracket A,Losers SF,Single game,Hinder Date,Salt and Pepper,Hinder Date,21,19,,,,,Sammy Potter,Derrick Odom,Pranav Palakurthy,Ian Scott
+Bracket Stage,Advanced (4.0),Bracket A,Losers Minor Final,Single game,Team Brook and Mason,Hinder Date,Hinder Date,13,21,,,,,Brooklynn Becker,Mason Phillips,Sammy Potter,Derrick Odom
+Bracket Stage,Advanced (4.0),Bracket A,Losers Final,Single game,Electric J's,Hinder Date,Electric J's,21,13,,,,,Jessica Borgers,Jack Wallace,Sammy Potter,Derrick Odom
+Group Stage,Expert (4.5+),Group A,1,Single game,Jackson Blonde,Spring Boys,Jackson Blonde,21,18,,,,,Josiah Murphy,Jackson Bond,Nick Bradley,Adam Prudhomme
+Group Stage,Expert (4.5+),Group A,1,Single game,Field Trip,Noco Roundnet,Field Trip,22,20,,,,,Connor Larsen,Trey Thompson,Jared Hamilton,Jalen Butkus
+Group Stage,Expert (4.5+),Group A,1,Single game,Delulu,Lanky and Clanky,Delulu,21,19,,,,,Zack Duffy,Lucas Banks,Grant Gouger,Jesse Lehn
+Group Stage,Expert (4.5+),Group A,2,Single game,Jackson Blonde,Noco Roundnet,Jackson Blonde,21,17,,,,,Josiah Murphy,Jackson Bond,Jared Hamilton,Jalen Butkus
+Group Stage,Expert (4.5+),Group A,2,Single game,Field Trip,Delulu,Delulu,24,25,,,,,Connor Larsen,Trey Thompson,Zack Duffy,Lucas Banks
+Group Stage,Expert (4.5+),Group A,2,Single game,Lanky and Clanky,Spring Boys,Lanky and Clanky,21,15,,,,,Grant Gouger,Jesse Lehn,Nick Bradley,Adam Prudhomme
+Group Stage,Expert (4.5+),Group A,3,Single game,Jackson Blonde,Lanky and Clanky,Lanky and Clanky,16,21,,,,,Josiah Murphy,Jackson Bond,Grant Gouger,Jesse Lehn
+Group Stage,Expert (4.5+),Group A,3,Single game,Field Trip,Spring Boys,Field Trip,21,9,,,,,Connor Larsen,Trey Thompson,Nick Bradley,Adam Prudhomme
+Group Stage,Expert (4.5+),Group A,3,Single game,Delulu,Noco Roundnet,Delulu,21,8,,,,,Zack Duffy,Lucas Banks,Jared Hamilton,Jalen Butkus
+Group Stage,Expert (4.5+),Group A,4,Single game,Jackson Blonde,Delulu,Jackson Blonde,21,19,,,,,Josiah Murphy,Jackson Bond,Zack Duffy,Lucas Banks
+Group Stage,Expert (4.5+),Group A,4,Single game,Field Trip,Lanky and Clanky,Lanky and Clanky,15,21,,,,,Connor Larsen,Trey Thompson,Grant Gouger,Jesse Lehn
+Group Stage,Expert (4.5+),Group A,5,Single game,Jackson Blonde,Field Trip,Field Trip,24,25,,,,,Josiah Murphy,Jackson Bond,Connor Larsen,Trey Thompson
+Group Stage,Expert (4.5+),Group A,5,Single game,Delulu,Spring Boys,Delulu,21,18,,,,,Zack Duffy,Lucas Banks,Nick Bradley,Adam Prudhomme
+Group Stage,Expert (4.5+),Group A,5,Single game,Lanky and Clanky,Noco Roundnet,Lanky and Clanky,21,18,,,,,Grant Gouger,Jesse Lehn,Jared Hamilton,Jalen Butkus
+Bracket Stage,Expert (4.5+),Bracket A,Quarter-final,Best of 3,Field Trip,Spring Boys,Field Trip,21,9,21,11,,,Connor Larsen,Trey Thompson,Nick Bradley,Adam Prudhomme
+Bracket Stage,Expert (4.5+),Bracket A,Quarter-final,Best of 3,Jackson Blonde,Noco Roundnet,Jackson Blonde,21,17,16,21,21,15,Josiah Murphy,Jackson Bond,Jared Hamilton,Jalen Butkus
+Bracket Stage,Expert (4.5+),Bracket A,Semi-final,Best of 3,Lanky and Clanky,Jackson Blonde,Lanky and Clanky,21,10,21,14,,,Grant Gouger,Jesse Lehn,Josiah Murphy,Jackson Bond
+Bracket Stage,Expert (4.5+),Bracket A,Semi-final,Best of 3,Delulu,Field Trip,Delulu,21,17,17,21,21,19,Zack Duffy,Lucas Banks,Connor Larsen,Trey Thompson
+Bracket Stage,Expert (4.5+),Bracket A,Winners final,Best of 3,Lanky and Clanky,Delulu,Lanky and Clanky,21,19,21,19,,,Grant Gouger,Jesse Lehn,Zack Duffy,Lucas Banks
+Bracket Stage,Expert (4.5+),Bracket A,Losers SF,Best of 3,Field Trip,Noco Roundnet,Field Trip,1,0,1,0,,,Connor Larsen,Trey Thompson,Jared Hamilton,Jalen Butkus

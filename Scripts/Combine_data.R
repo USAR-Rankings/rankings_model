@@ -1,4 +1,4 @@
-
+library(tidyverse)
 write_csvs = T
 
 # Preload----------------------
@@ -10,9 +10,10 @@ sheet_scrape2 = read.csv('Tourney List.csv', as.is = T)
 
 #Perform Player Corrections
 all_cors = read.csv('Players/name_corrections.csv', as.is = T) %>%
-  filter(is.na(Tourney)) %>%
   select(-Tourney) %>%
   mutate_all(toupper)
+
+
 
 for(d in 1:2){
   gender = c('women', 'open')[d]
@@ -77,5 +78,38 @@ pp = dat %>%
   mutate(game_id = row_number()) %>%
   filter(!(game_id %in% c(193, 194)))
 
-write.csv(pp,paste("data/",gender,"_full_tournaments.csv"))
+final<- pp %>% mutate(T1_result = sign(t1score - t2score)/2 + .5,
+                        Weight = case_when(Round == 'Pool' ~ 1,
+                                           TRUE ~ 1)) %>%
+  left_join(all_cors, by = c('T1P1' = 'OldName')) %>%
+  mutate(T1P1 = case_when(!is.na(NewName) ~ NewName,
+                          TRUE ~ T1P1)) %>%
+  select(-NewName) %>%
+  left_join(all_cors, by = c('T1P2' = 'OldName')) %>%
+  mutate(T1P2 = case_when(!is.na(NewName) ~ NewName,
+                          TRUE ~ T1P2)) %>%
+  select(-NewName) %>%
+  left_join(all_cors, by = c('T2P1' = 'OldName')) %>%
+  mutate(T2P1 = case_when(!is.na(NewName) ~ NewName,
+                          TRUE ~ T2P1)) %>%
+  select(-NewName) %>%
+  left_join(all_cors, by = c('T2P2' = 'OldName')) %>%
+  mutate(T2P2 = case_when(!is.na(NewName) ~ NewName,
+                          TRUE ~ T2P2)) %>%
+  select(-NewName) %>%
+  add_row(data.frame(tourney = 'END OF SEASON', Date = (as.Date(max(.$Date))+1))) %>%
+  arrange(Date) %>%
+  mutate(game_id = row_number()) %>%
+  filter(!(game_id %in% c(193, 194)))%>% mutate(mT1P1 = T1P1,
+                                                mT1P2 = T1P2,
+                                                mT2P1 = T2P2,
+                                                mT2P2 = T2P1,
+                                                mT1_result = T1_result,
+                                                mT1_score = t1score,
+                                                mT2_score = t2score
+                              
+  )%>% select(-c(Team1,Team2,valid,Weight,T1P1,T1P2,T2P1,T2P2,T1_result,t1score,t2score))
+
+write.csv(final,paste("data/",gender,"_full_tournaments.csv",sep = ""),row.names=FALSE)
 }
+

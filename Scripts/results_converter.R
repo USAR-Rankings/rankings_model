@@ -12,6 +12,7 @@ manual_downloads = data.frame(`Fwango File Title` = gsub(".csv", "", dir('Tourne
 # sheet_scrape2 = read_sheet(sheet_scrape$id,
 #                            col_types = 'c') %>%
 #   as.data.frame()%>%
+
 #   mutate(tourney = toupper(`URL identifier`),
 #          Date = as.Date(Date, format = '%m/%d/%Y'))
 # 
@@ -67,6 +68,8 @@ for(td in 1:nrow(to_do_list)){
     arrange(og_order) %>% 
     select(-og_order)
   
+  
   write.csv(temp, file.path('Tourney Results', tolower(paste0(to_do_list$tourney[td], ".csv"))), row.names = F)
 }
+
 
