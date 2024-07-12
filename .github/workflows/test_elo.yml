@@ -1,4 +1,4 @@
-name: Update ELO
+name: Test ELO
 
 on:
   workflow_dispatch:
@@ -11,26 +11,6 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-
-      - name: Set up R
-        uses: r-lib/actions/setup-r@v2
-
-      - name: Setup R dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          cache-version: 2
-
-      - name: Cache R packages
-        uses: actions/cache@v2
-        with:
-          path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-R-${{ hashFiles('**/DESCRIPTION') }}
-
-      - name: Convert Results into Correct Format
-        run: Rscript Scripts/results_converter.R
-        
-      - name: Combine all Results into one file
-        run: Rscript Scripts/Combine_data.R
 
       - name: Install Python 3
         uses: actions/setup-python@v2
@@ -52,7 +32,7 @@ jobs:
         run: |
           git config --local user.email '${{ github.actor }}@users.noreply.github.com'
           git config --local user.name '${{ github.actor }}'
-          commit_message="Rankings refresh on $(date +"%Y-%m-%d")"
+          commit_message="ELO Correct   on $(date +"%Y-%m-%d")"
           git commit -m "$commit_message" || echo "No changes to commit"
           git push origin || echo "No changes to commit"
 
