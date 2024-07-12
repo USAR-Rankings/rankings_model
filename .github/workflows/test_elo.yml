@@ -7,8 +7,6 @@ on:
           - Jake_ELO
     workflow_dispatch:
 
-
-
 jobs:
   refresh_rankings:
     runs-on: ubuntu-latest
