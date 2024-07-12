@@ -1,7 +1,13 @@
 name: Test ELO
 
 on:
-  workflow_dispatch:
+    push:
+        branches:
+          - main
+          - Jake_ELO
+    workflow_dispatch:
+
+
 
 jobs:
   refresh_rankings:
