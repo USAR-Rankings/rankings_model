@@ -10,7 +10,7 @@ import warnings
 warnings.filterwarnings(action='once')
 import random
 from datetime import date,datetime
-from helpers import *
+from src.tasks.run_elo.helpers import * 
 
 
 class Player:
