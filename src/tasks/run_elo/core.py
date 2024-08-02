@@ -6,7 +6,6 @@ import copy
 import random as random
 import itertools
 from itertools import chain
-import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings(action='once')
 import random
