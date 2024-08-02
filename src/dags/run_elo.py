@@ -50,3 +50,5 @@ def main():
 
     # Export games
     test.played_games.to_csv("../../data/test_final_games_"+EXPORT_FILENAME+".csv")
+
+main()
