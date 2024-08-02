@@ -29,16 +29,22 @@ jobs:
       - name: Update ELO 
         run: python src/dags/run_elo.py
 
+      - name: Verify Changes
+        run: |
+          ls -la data
+          git status
+
       - name: Stage Changes
         run: git add data/*
 
       - name: Commit and Push results
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email '${{ github.actor }}@users.noreply.github.com'
           git config --local user.name '${{ github.actor }}'
           commit_message="ELO Correct   on $(date +"%Y-%m-%d")"
           git commit -m "$commit_message" || echo "No changes to commit"
           git push origin || echo "No changes to commit"
-
 
 
