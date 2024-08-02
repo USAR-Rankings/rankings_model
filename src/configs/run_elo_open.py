@@ -1,5 +1,5 @@
 # Filepath to where the data is
-DATA_PATH = "../../data/Open_with_west.csv"
+DATA_PATH = "../../data/open_full_tournaments.csv"
 
 # Set number of events to use to use intial sperateion for (25 is what was used for final model)
 NUMB_INITAL = 25
@@ -16,4 +16,4 @@ DECAY_ARRAY=[5,8,18,40]
 
 
 # Export results filename
-EXPORT_FILENAME = "test_west_regionals"
+EXPORT_FILENAME = "test_elo_open"
