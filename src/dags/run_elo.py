@@ -39,9 +39,9 @@ def main():
         test.record_season(west_r,west_r_c)
         
         # Export player results at all stages
-        test.give_players_all().to_csv("data/test_final_players_"+param["EXPORT_FILENAME"]+datetime.today().strftime('%Y-%m-%d')+".csv")
+        test.give_players_all().to_csv("data/test_final_players_"+param["EXPORT_FILENAME"]+"_"+datetime.today().strftime('%Y-%m-%d')+".csv")
 
         # Export games
-        test.played_games.to_csv("data/test_all_games_"+param["EXPORT_FILENAME"]+ datetime.today().strftime('%Y-%m-%d')+".csv")
+        test.played_games.to_csv("data/test_all_games_"+param["EXPORT_FILENAME"]+"_"+ datetime.today().strftime('%Y-%m-%d')+".csv")
 
 main()

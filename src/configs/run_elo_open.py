@@ -18,7 +18,7 @@ OPEN_P= {
 
 
 # Export results filename
-"EXPORT_FILENAME" : "_open"}
+"EXPORT_FILENAME" : "open"}
 
 WOMENS_P= {
 # Filepath to where the data is
@@ -39,4 +39,4 @@ WOMENS_P= {
 
 
 # Export results filename
-"EXPORT_FILENAME" : "_woomens"}
+"EXPORT_FILENAME" : "womens"}
