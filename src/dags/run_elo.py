@@ -4,6 +4,8 @@ from itertools import chain
 import warnings
 warnings.filterwarnings(action='once')
 from datetime import date,datetime
+import os
+print(os.getcwd())  # Check the current working directory
 from src.tasks.run_elo.core import *
 #from ..tasks.run_elo.core import *
 #from ..tasks.run_elo.helpers import *
