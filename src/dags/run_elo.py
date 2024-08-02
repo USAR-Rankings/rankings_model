@@ -4,10 +4,10 @@ from itertools import chain
 import warnings
 warnings.filterwarnings(action='once')
 from datetime import date,datetime
-from tasks.run_elo.core import *
+from src.tasks.run_elo.core import *
 #from ..tasks.run_elo.core import *
 #from ..tasks.run_elo.helpers import *
-from ..configs.run_elo_open import (DATA_PATH,
+from src.configs.run_elo_open import (DATA_PATH,
                                        NUMB_INITAL,
                                        K1,
                                        K2,
