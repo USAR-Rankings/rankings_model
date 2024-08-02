@@ -4,7 +4,10 @@ from itertools import chain
 import warnings
 warnings.filterwarnings(action='once')
 from datetime import date,datetime
+import sys
 import os
+
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 print(os.getcwd())  # Check the current working directory
 from src.tasks.run_elo.core import *
 #from ..tasks.run_elo.core import *
