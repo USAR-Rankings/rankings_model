@@ -1,5 +1,5 @@
 # Filepath to where the data is
-DATA_PATH = "../../data/open_full_tournaments.csv"
+DATA_PATH = "data/open_full_tournaments.csv"
 
 # Set number of events to use to use intial sperateion for (25 is what was used for final model)
 NUMB_INITAL = 25
