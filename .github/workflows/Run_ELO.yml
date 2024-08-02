@@ -1,4 +1,4 @@
-name: Update ELO
+name: Format Tournaments and Run ELO
 
 on:
   push:

@@ -1,11 +1,7 @@
-name: Test ELO
+name: Only update ELO
 
 on:
-    push:
-        branches:
-          - main
-          - Jake_ELO
-    workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   refresh_rankings:
