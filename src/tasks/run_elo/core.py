@@ -363,9 +363,9 @@ class ELO_Model:
         """
         #Filter for data and rename columns
         data=data[(data["tourney"]==tourney)&(data["Division"]==division)].dropna(subset=["mT1_result"]).reset_index(drop=True)
-        #Add winners
-        
-        #Filter for columns of interest
+        # Filter out ties
+        data=data[(data["mT1_result"]!=0.5)].reset_index(drop=True)
+        # Save to object
         self.temp_games=data
         
         
