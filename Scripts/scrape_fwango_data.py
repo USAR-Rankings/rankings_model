@@ -1,6 +1,6 @@
-!pip install selenium
-!pip install numpy>=1.20.3
-!pip install pandas
+# pip install selenium
+# pip install numpy>=1.20.3
+# pip install pandas
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -149,7 +149,7 @@ def click_download_button_match_results(driver, wait):
 # Getting all tournament URLs from Tourney List csv
 
 urls = []
-df = pd.read_csv('Tourney List.csv')
+df = pd.read_csv('../Tourney List.csv')
 for tourney in df.iterrows():
     # print(tourney)
     # print("HERE: ", tourney[1]["Year"])
@@ -210,3 +210,5 @@ for url in urls:
     click_download_button_match_results(driver, wait)
 
     time.sleep(2)
+
+    shutil.move(downloads_folder + "/")
