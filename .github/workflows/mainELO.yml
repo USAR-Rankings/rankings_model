@@ -1,6 +1,9 @@
 name: Refresh ELO Rankings
 
 on:
+  push:
+    branches:
+      - Liam_Webscraper
   workflow_dispatch:
 
 jobs:
