@@ -1,0 +1,53 @@
+name: Refresh ELO Rankings
+
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh_rankings:
+    runs-on: ubuntu-latest
+    name: "Rankings refresh triggered by ${{ github.event.inputs.user }} on ${{ github.event.inputs.date }}"
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Setup dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 2
+
+      - name: Cache R packages
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-R-${{ hashFiles('**/DESCRIPTION') }}
+
+      - name: Install Python Packages
+        run: |
+          pip install selenium
+          pip install numpy>=1.20.3
+          pip install pandas
+
+      - name: Scrape Data from Fwango
+        run: python scrape_fwango_data.py
+
+      - name: Convert Results into Correct Format
+        run: Rscript Scripts/results_converter.R
+
+      - name: Run Rankings Model & Generate New Rankings
+        run: Rscript "Scripts/fit_models_1v2.R"
+
+      - name: Stage Changes
+        run: git add Predictions/*
+
+      - name: Commit and Push results
+        run: |
+          git config --local user.email '${{ github.actor }}@users.noreply.github.com'
+          git config --local user.name '${{ github.actor }}'
+          commit_message="Rankings refresh on $(date +"%Y-%m-%d")"
+          git commit -m "$commit_message" || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
