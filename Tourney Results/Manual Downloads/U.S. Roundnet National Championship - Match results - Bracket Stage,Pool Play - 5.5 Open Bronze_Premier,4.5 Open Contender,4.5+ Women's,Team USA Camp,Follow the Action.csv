@@ -1,0 +1,156 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,5.5 Open Bronze/Premier,Group A,1,Single game,J.A.R.V.I.S.,Picone/Rose,Picone/Rose,12,15,,,,,Connor Nelson,Josh Fragiacomo,Kieran Rose,Will Picone
+Pool Play,5.5 Open Bronze/Premier,Group A,1,Single game,Cole/Hamilton,Gnocchi,Cole/Hamilton,15,13,,,,,Thomas Hamilton,Matthew Cole,Sunny Gu,Gabriel Finocchi
+Pool Play,5.5 Open Bronze/Premier,Group B,1,Single game,Glizzy Gladiators,Extreme Point Diff,Glizzy Gladiators,15,4,,,,,Jacob Summers,Polk Denmark,Brooks Weeks,Gabe Packevicz
+Pool Play,5.5 Open Bronze/Premier,Group B,1,Single game,Thrifty,Shockwave,Shockwave,11,15,,,,,Brendan Ferreira,Bradley Clark,Sam Bunze,John Buchanan
+Pool Play,5.5 Open Bronze/Premier,Group A,2,Single game,J.A.R.V.I.S.,Gnocchi,Gnocchi,20,21,,,,,Connor Nelson,Josh Fragiacomo,Sunny Gu,Gabriel Finocchi
+Pool Play,5.5 Open Bronze/Premier,Group A,2,Single game,TRP Spotless,Picone/Rose,TRP Spotless,21,20,,,,,Ryan Gross,Joe Bondi,Kieran Rose,Will Picone
+Pool Play,5.5 Open Bronze/Premier,Group B,2,Single game,Glizzy Gladiators,Shockwave,Glizzy Gladiators,15,9,,,,,Jacob Summers,Polk Denmark,Sam Bunze,John Buchanan
+Pool Play,5.5 Open Bronze/Premier,Group B,2,Single game,Eureka,Extreme Point Diff,Extreme Point Diff,12,15,,,,,Wyatt Semke,Nathan Montgomery,Brooks Weeks,Gabe Packevicz
+Pool Play,5.5 Open Bronze/Premier,Group A,3,Single game,J.A.R.V.I.S.,TRP Spotless,TRP Spotless,12,15,,,,,Connor Nelson,Josh Fragiacomo,Ryan Gross,Joe Bondi
+Pool Play,5.5 Open Bronze/Premier,Group A,3,Single game,Cole/Hamilton,Picone/Rose,Picone/Rose,14,16,,,,,Thomas Hamilton,Matthew Cole,Kieran Rose,Will Picone
+Pool Play,5.5 Open Bronze/Premier,Group B,3,Single game,Glizzy Gladiators,Eureka,Glizzy Gladiators,15,10,,,,,Jacob Summers,Polk Denmark,Wyatt Semke,Nathan Montgomery
+Pool Play,5.5 Open Bronze/Premier,Group B,3,Single game,Thrifty,Extreme Point Diff,Thrifty,15,6,,,,,Brendan Ferreira,Bradley Clark,Brooks Weeks,Gabe Packevicz
+Pool Play,5.5 Open Bronze/Premier,Group A,4,Single game,Cole/Hamilton,TRP Spotless,Cole/Hamilton,15,13,,,,,Thomas Hamilton,Matthew Cole,Ryan Gross,Joe Bondi
+Pool Play,5.5 Open Bronze/Premier,Group A,4,Single game,Gnocchi,Picone/Rose,Picone/Rose,13,15,,,,,Sunny Gu,Gabriel Finocchi,Kieran Rose,Will Picone
+Pool Play,5.5 Open Bronze/Premier,Group B,4,Single game,Thrifty,Eureka,Thrifty,15,13,,,,,Brendan Ferreira,Bradley Clark,Wyatt Semke,Nathan Montgomery
+Pool Play,5.5 Open Bronze/Premier,Group B,4,Single game,Shockwave,Extreme Point Diff,Shockwave,15,13,,,,,Sam Bunze,John Buchanan,Brooks Weeks,Gabe Packevicz
+Pool Play,5.5 Open Bronze/Premier,Group A,5,Single game,J.A.R.V.I.S.,Cole/Hamilton,J.A.R.V.I.S.,15,12,,,,,Connor Nelson,Josh Fragiacomo,Thomas Hamilton,Matthew Cole
+Pool Play,5.5 Open Bronze/Premier,Group A,5,Single game,TRP Spotless,Gnocchi,Gnocchi,16,18,,,,,Ryan Gross,Joe Bondi,Sunny Gu,Gabriel Finocchi
+Pool Play,5.5 Open Bronze/Premier,Group B,5,Single game,Glizzy Gladiators,Thrifty,Glizzy Gladiators,15,11,,,,,Jacob Summers,Polk Denmark,Brendan Ferreira,Bradley Clark
+Pool Play,5.5 Open Bronze/Premier,Group B,5,Single game,Eureka,Shockwave,Shockwave,12,15,,,,,Wyatt Semke,Nathan Montgomery,Sam Bunze,John Buchanan
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Round of 16,Best of 3,Shockwave,Eureka,Shockwave,17,21,21,10,21,17,Sam Bunze,John Buchanan,Wyatt Semke,Nathan Montgomery
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Round of 16,Best of 3,Thrifty,Extreme Point Diff,Thrifty,21,11,21,13,,,Brendan Ferreira,Bradley Clark,Brooks Weeks,Gabe Packevicz
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Quarter-final,Best of 3,Picone/Rose,Thrifty,Picone/Rose,21,10,21,8,,,Kieran Rose,Will Picone,Brendan Ferreira,Bradley Clark
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Quarter-final,Best of 3,Cole/Hamilton,Shockwave,Cole/Hamilton,21,9,21,7,,,Thomas Hamilton,Matthew Cole,Sam Bunze,John Buchanan
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Quarter-final,Best of 3,Gnocchi,Glizzy Gladiators,Gnocchi,21,9,21,17,,,Sunny Gu,Gabriel Finocchi,Jacob Summers,Polk Denmark
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Quarter-final,Best of 3,TRP Spotless,J.A.R.V.I.S.,J.A.R.V.I.S.,17,21,13,21,,,Ryan Gross,Joe Bondi,Connor Nelson,Josh Fragiacomo
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Semi-final,Best of 3,Picone/Rose,J.A.R.V.I.S.,Picone/Rose,21,18,21,19,,,Kieran Rose,Will Picone,Connor Nelson,Josh Fragiacomo
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Semi-final,Best of 3,Cole/Hamilton,Gnocchi,Gnocchi,19,21,21,16,16,21,Thomas Hamilton,Matthew Cole,Sunny Gu,Gabriel Finocchi
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,P5: Semi-final,Single game,TRP Spotless,Thrifty,Thrifty,-27,25,,,,,Ryan Gross,Joe Bondi,Brendan Ferreira,Bradley Clark
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,P5: Semi-final,Single game,Glizzy Gladiators,Shockwave,Shockwave,-1,0,,,,,Jacob Summers,Polk Denmark,Sam Bunze,John Buchanan
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,Final,Best of 3,Picone/Rose,Gnocchi,Gnocchi,19,21,19,21,,,Kieran Rose,Will Picone,Sunny Gu,Gabriel Finocchi
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,P3: Final,Best of 3,Cole/Hamilton,J.A.R.V.I.S.,Cole/Hamilton,21,11,17,21,21,18,Thomas Hamilton,Matthew Cole,Connor Nelson,Josh Fragiacomo
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,P5: Final,Single game,Thrifty,Shockwave,Shockwave,17,21,,,,,Brendan Ferreira,Bradley Clark,Sam Bunze,John Buchanan
+Bracket Stage,5.5 Open Bronze/Premier,Bracket A,P9: Final,Best of 3,Extreme Point Diff,Eureka,Extreme Point Diff,17,21,21,12,21,17,Brooks Weeks,Gabe Packevicz,Wyatt Semke,Nathan Montgomery
+Pool Play,4.5+ Women's,Group A,1,Single game,Pierson/Phan,Brain Freeze!!,Pierson/Phan,15,6,,,,,Katheleen Phan,Katie Pierson,Hannah Covell,Samiah Malta
+Pool Play,4.5+ Women's,Group A,1,Single game,jackpot,Summers / Viado,jackpot,15,8,,,,,Sarah Allen,Olivia Jenki,Audrey Summers,lauren viado
+Pool Play,4.5+ Women's,Group A,1,Single game,Jenki / Morgan,"flat tire 🛞 ",Jenki / Morgan,15,9,,,,,Ali Jenki,Kalin Morgan,Samantha Barklow,Stef Ding
+Pool Play,4.5+ Women's,Group A,1,Single game,Overdue,Tea Time,Overdue,15,12,,,,,Karah Hui,Julia Brochu,Lou Washburn,Joelle Nguyen
+Pool Play,4.5+ Women's,Group A,2,Single game,Pierson/Phan,Summers / Viado,Pierson/Phan,15,9,,,,,Katheleen Phan,Katie Pierson,Audrey Summers,lauren viado
+Pool Play,4.5+ Women's,Group A,2,Single game,jackpot,Tea Time,jackpot,15,9,,,,,Sarah Allen,Olivia Jenki,Lou Washburn,Joelle Nguyen
+Pool Play,4.5+ Women's,Group A,2,Single game,Jenki / Morgan,Overdue,Jenki / Morgan,15,12,,,,,Ali Jenki,Kalin Morgan,Karah Hui,Julia Brochu
+Pool Play,4.5+ Women's,Group A,2,Single game,"flat tire 🛞 ",Brain Freeze!!,"flat tire 🛞 ",15,11,,,,,Samantha Barklow,Stef Ding,Hannah Covell,Samiah Malta
+Pool Play,4.5+ Women's,Group A,3,Single game,Pierson/Phan,"flat tire 🛞 ",Pierson/Phan,15,6,,,,,Katheleen Phan,Katie Pierson,Samantha Barklow,Stef Ding
+Pool Play,4.5+ Women's,Group A,3,Single game,jackpot,Jenki / Morgan,jackpot,15,12,,,,,Sarah Allen,Olivia Jenki,Ali Jenki,Kalin Morgan
+Pool Play,4.5+ Women's,Group A,3,Single game,Overdue,Brain Freeze!!,Overdue,15,9,,,,,Karah Hui,Julia Brochu,Hannah Covell,Samiah Malta
+Pool Play,4.5+ Women's,Group A,3,Single game,Tea Time,Summers / Viado,Tea Time,15,2,,,,,Lou Washburn,Joelle Nguyen,Audrey Summers,lauren viado
+Pool Play,4.5+ Women's,Group A,4,Single game,Pierson/Phan,Tea Time,Pierson/Phan,15,13,,,,,Katheleen Phan,Katie Pierson,Lou Washburn,Joelle Nguyen
+Pool Play,4.5+ Women's,Group A,4,Single game,jackpot,Brain Freeze!!,jackpot,15,11,,,,,Sarah Allen,Olivia Jenki,Hannah Covell,Samiah Malta
+Pool Play,4.5+ Women's,Group A,4,Single game,Jenki / Morgan,Summers / Viado,Jenki / Morgan,15,10,,,,,Ali Jenki,Kalin Morgan,Audrey Summers,lauren viado
+Pool Play,4.5+ Women's,Group A,4,Single game,Overdue,"flat tire 🛞 ",Overdue,15,8,,,,,Karah Hui,Julia Brochu,Samantha Barklow,Stef Ding
+Pool Play,4.5+ Women's,Group A,5,Single game,Pierson/Phan,Overdue,Overdue,13,15,,,,,Katheleen Phan,Katie Pierson,Karah Hui,Julia Brochu
+Pool Play,4.5+ Women's,Group A,5,Single game,jackpot,"flat tire 🛞 ",jackpot,15,10,,,,,Sarah Allen,Olivia Jenki,Samantha Barklow,Stef Ding
+Pool Play,4.5+ Women's,Group A,5,Single game,Jenki / Morgan,Tea Time,Jenki / Morgan,16,14,,,,,Ali Jenki,Kalin Morgan,Lou Washburn,Joelle Nguyen
+Pool Play,4.5+ Women's,Group A,5,Single game,Summers / Viado,Brain Freeze!!,Brain Freeze!!,10,15,,,,,Audrey Summers,lauren viado,Hannah Covell,Samiah Malta
+Pool Play,4.5+ Women's,Group A,6,Single game,Pierson/Phan,Jenki / Morgan,Jenki / Morgan,13,15,,,,,Katheleen Phan,Katie Pierson,Ali Jenki,Kalin Morgan
+Pool Play,4.5+ Women's,Group A,6,Single game,jackpot,Overdue,Overdue,13,15,,,,,Sarah Allen,Olivia Jenki,Karah Hui,Julia Brochu
+Pool Play,4.5+ Women's,Group A,6,Single game,Tea Time,Brain Freeze!!,Tea Time,15,2,,,,,Lou Washburn,Joelle Nguyen,Hannah Covell,Samiah Malta
+Pool Play,4.5+ Women's,Group A,6,Single game,"flat tire 🛞 ",Summers / Viado,"flat tire 🛞 ",15,13,,,,,Samantha Barklow,Stef Ding,Audrey Summers,lauren viado
+Pool Play,4.5+ Women's,Group A,7,Single game,Pierson/Phan,jackpot,Pierson/Phan,21,20,,,,,Katheleen Phan,Katie Pierson,Sarah Allen,Olivia Jenki
+Pool Play,4.5+ Women's,Group A,7,Single game,Jenki / Morgan,Brain Freeze!!,Jenki / Morgan,15,11,,,,,Ali Jenki,Kalin Morgan,Hannah Covell,Samiah Malta
+Pool Play,4.5+ Women's,Group A,7,Single game,Overdue,Summers / Viado,Overdue,15,7,,,,,Karah Hui,Julia Brochu,Audrey Summers,lauren viado
+Pool Play,4.5+ Women's,Group A,7,Single game,Tea Time,"flat tire 🛞 ",Tea Time,15,9,,,,,Lou Washburn,Joelle Nguyen,Samantha Barklow,Stef Ding
+Bracket Stage,4.5+ Women's,Bracket A,Quarter-final,Best of 3,Jenki / Morgan,Summers / Viado,Jenki / Morgan,21,9,21,14,,,Ali Jenki,Kalin Morgan,Audrey Summers,lauren viado
+Bracket Stage,4.5+ Women's,Bracket A,Quarter-final,Best of 3,Overdue,Brain Freeze!!,Overdue,21,13,21,11,,,Karah Hui,Julia Brochu,Hannah Covell,Samiah Malta
+Bracket Stage,4.5+ Women's,Bracket A,Quarter-final,Best of 3,Pierson/Phan,"flat tire 🛞 ",Pierson/Phan,21,10,21,15,,,Katheleen Phan,Katie Pierson,Samantha Barklow,Stef Ding
+Bracket Stage,4.5+ Women's,Bracket A,Quarter-final,Best of 3,jackpot,Tea Time,Tea Time,19,21,20,22,,,Sarah Allen,Olivia Jenki,Lou Washburn,Joelle Nguyen
+Bracket Stage,4.5+ Women's,Bracket A,Semi-final,Best of 3,Jenki / Morgan,Tea Time,Jenki / Morgan,21,19,21,17,,,Ali Jenki,Kalin Morgan,Lou Washburn,Joelle Nguyen
+Bracket Stage,4.5+ Women's,Bracket A,Semi-final,Best of 3,Overdue,Pierson/Phan,Overdue,21,16,21,16,,,Karah Hui,Julia Brochu,Katheleen Phan,Katie Pierson
+Bracket Stage,4.5+ Women's,Bracket A,P5: Semi-final,Single game,jackpot,Summers / Viado,jackpot,0,-1,,,,,Sarah Allen,Olivia Jenki,Audrey Summers,lauren viado
+Bracket Stage,4.5+ Women's,Bracket A,P5: Semi-final,Single game,"flat tire 🛞 ",Brain Freeze!!,Brain Freeze!!,-1,0,,,,,Samantha Barklow,Stef Ding,Hannah Covell,Samiah Malta
+Bracket Stage,4.5+ Women's,Bracket A,Final,Best of 3,Jenki / Morgan,Overdue,Overdue,16,21,19,21,,,Ali Jenki,Kalin Morgan,Karah Hui,Julia Brochu
+Bracket Stage,4.5+ Women's,Bracket A,P3: Final,Best of 3,Pierson/Phan,Tea Time,Pierson/Phan,21,17,17,21,21,17,Katheleen Phan,Katie Pierson,Lou Washburn,Joelle Nguyen
+Pool Play,4.5 Open Contender,Group A,1,Single game,Billy pockets,Fields of Summer,Billy pockets,15,12,,,,,Joel Hoffler,Andrey Andriyevskiy,Ryan Field,Brent Summers
+Pool Play,4.5 Open Contender,Group A,1,Single game,Pipeline,Mosley/Dancausse,Pipeline,15,10,,,,,Zack Glew,Sam Weber,Mason Dancausse,Eli Mosley
+Pool Play,4.5 Open Contender,Group B,1,Single game,Blitzkrieg,Barry / Leach,Blitzkrieg,15,4,,,,,Luke Little,Connor Harte,Keegan Barry,Olivia Leach
+Pool Play,4.5 Open Contender,Group B,1,Single game,Special Teams,Not Core,Special Teams,15,5,,,,,Liam Keegan,Matthew Rodriguez,Ryland Holdren,Julian Penn
+Pool Play,4.5 Open Contender,Group B,1,Single game,Mierchuk / Wortman,Double Faulters,Mierchuk / Wortman,15,6,,,,,Eli Wortman,CJ Mierchuk,Connor Neugebauer,Wesley Shelton
+Pool Play,4.5 Open Contender,Group C,1,Single game,Tuffy's Tyrants,MBR Hope,Tuffy's Tyrants,15,4,,,,,Jack Walker,James Brock,Christopher Montgomery,Jason Montgomery
+Pool Play,4.5 Open Contender,Group C,1,Single game,Berries n’ Cream,Black ice,Berries n’ Cream,15,5,,,,,Henrik Hoeldtke,Charlie Cavallaro,"Chase  Gunter ",Jamie Martinez
+Pool Play,4.5 Open Contender,Group C,1,Single game,Globo Gym Dodgeball,Goofy Goobers,Globo Gym Dodgeball,15,13,,,,,Drew VanDenburg,Brock Lodato,Kevin Lane,Azeem Uraizee
+Pool Play,4.5 Open Contender,Group D,1,Single game,Coppage / Corey,Tequila Amigos	,Coppage / Corey,15,11,,,,,Samuel Corey,Courtney Coppage,Sebastian Diaz,Ben Celestino
+Pool Play,4.5 Open Contender,Group D,1,Single game,Centros,MBR Byeson,Centros,15,7,,,,,Jon Esposo,Jaxon Gonzalez,Ryan Montgomery,Caleb Montgomery
+Pool Play,4.5 Open Contender,Group D,1,Single game,Shrey and Shrey’s teammate,Real Wannabees Wolfpack,Real Wannabees Wolfpack,13,15,,,,,Shrey Parikh,Anthony Schenk,Leslie Nguyen,Connor Shupe
+Pool Play,4.5 Open Contender,Group A,2,Single game,Billy pockets,Mosley/Dancausse,Billy pockets,15,9,,,,,Joel Hoffler,Andrey Andriyevskiy,Mason Dancausse,Eli Mosley
+Pool Play,4.5 Open Contender,Group A,2,Single game,"Keep your distance (500 ft) ",Fields of Summer,Fields of Summer,11,15,,,,,Tahseen Robbani,Jason Inumerable,Ryan Field,Brent Summers
+Pool Play,4.5 Open Contender,Group B,2,Single game,Blitzkrieg,Not Core,Blitzkrieg,17,15,,,,,Luke Little,Connor Harte,Ryland Holdren,Julian Penn
+Pool Play,4.5 Open Contender,Group B,2,Single game,Special Teams,Mierchuk / Wortman,Special Teams,15,5,,,,,Liam Keegan,Matthew Rodriguez,Eli Wortman,CJ Mierchuk
+Pool Play,4.5 Open Contender,Group B,2,Single game,Double Faulters,Barry / Leach,Double Faulters,15,11,,,,,Connor Neugebauer,Wesley Shelton,Keegan Barry,Olivia Leach
+Pool Play,4.5 Open Contender,Group C,2,Single game,Tuffy's Tyrants,Black ice,Tuffy's Tyrants,15,11,,,,,Jack Walker,James Brock,"Chase  Gunter ",Jamie Martinez
+Pool Play,4.5 Open Contender,Group C,2,Single game,Berries n’ Cream,Globo Gym Dodgeball,Berries n’ Cream,21,19,,,,,Henrik Hoeldtke,Charlie Cavallaro,Drew VanDenburg,Brock Lodato
+Pool Play,4.5 Open Contender,Group C,2,Single game,Goofy Goobers,MBR Hope,Goofy Goobers,15,10,,,,,Kevin Lane,Azeem Uraizee,Christopher Montgomery,Jason Montgomery
+Pool Play,4.5 Open Contender,Group D,2,Single game,Coppage / Corey,MBR Byeson,Coppage / Corey,15,2,,,,,Samuel Corey,Courtney Coppage,Ryan Montgomery,Caleb Montgomery
+Pool Play,4.5 Open Contender,Group D,2,Single game,Centros,Shrey and Shrey’s teammate,Centros,17,15,,,,,Jon Esposo,Jaxon Gonzalez,Shrey Parikh,Anthony Schenk
+Pool Play,4.5 Open Contender,Group D,2,Single game,Real Wannabees Wolfpack,Tequila Amigos	,Real Wannabees Wolfpack,15,13,,,,,Leslie Nguyen,Connor Shupe,Sebastian Diaz,Ben Celestino
+Pool Play,4.5 Open Contender,Group A,3,Single game,Billy pockets,"Keep your distance (500 ft) ",Billy pockets,15,12,,,,,Joel Hoffler,Andrey Andriyevskiy,Tahseen Robbani,Jason Inumerable
+Pool Play,4.5 Open Contender,Group A,3,Single game,Pipeline,Fields of Summer,Pipeline,15,11,,,,,Zack Glew,Sam Weber,Ryan Field,Brent Summers
+Pool Play,4.5 Open Contender,Group B,3,Single game,Blitzkrieg,Double Faulters,Blitzkrieg,15,9,,,,,Luke Little,Connor Harte,Connor Neugebauer,Wesley Shelton
+Pool Play,4.5 Open Contender,Group B,3,Single game,Special Teams,Barry / Leach,Special Teams,15,6,,,,,Liam Keegan,Matthew Rodriguez,Keegan Barry,Olivia Leach
+Pool Play,4.5 Open Contender,Group B,3,Single game,Mierchuk / Wortman,Not Core,Mierchuk / Wortman,15,12,,,,,Eli Wortman,CJ Mierchuk,Ryland Holdren,Julian Penn
+Pool Play,4.5 Open Contender,Group C,3,Single game,Tuffy's Tyrants,Goofy Goobers,Tuffy's Tyrants,15,6,,,,,Jack Walker,James Brock,Kevin Lane,Azeem Uraizee
+Pool Play,4.5 Open Contender,Group C,3,Single game,Berries n’ Cream,MBR Hope,Berries n’ Cream,15,6,,,,,Henrik Hoeldtke,Charlie Cavallaro,Christopher Montgomery,Jason Montgomery
+Pool Play,4.5 Open Contender,Group C,3,Single game,Globo Gym Dodgeball,Black ice,Globo Gym Dodgeball,15,9,,,,,Drew VanDenburg,Brock Lodato,"Chase  Gunter ",Jamie Martinez
+Pool Play,4.5 Open Contender,Group D,3,Single game,Coppage / Corey,Real Wannabees Wolfpack,Real Wannabees Wolfpack,11,15,,,,,Samuel Corey,Courtney Coppage,Leslie Nguyen,Connor Shupe
+Pool Play,4.5 Open Contender,Group D,3,Single game,Centros,Tequila Amigos	,Centros,15,8,,,,,Jon Esposo,Jaxon Gonzalez,Sebastian Diaz,Ben Celestino
+Pool Play,4.5 Open Contender,Group D,3,Single game,Shrey and Shrey’s teammate,MBR Byeson,Shrey and Shrey’s teammate,15,9,,,,,Shrey Parikh,Anthony Schenk,Ryan Montgomery,Caleb Montgomery
+Pool Play,4.5 Open Contender,Group A,4,Single game,Pipeline,"Keep your distance (500 ft) ",Pipeline,15,12,,,,,Zack Glew,Sam Weber,Tahseen Robbani,Jason Inumerable
+Pool Play,4.5 Open Contender,Group A,4,Single game,Mosley/Dancausse,Fields of Summer,Fields of Summer,8,15,,,,,Mason Dancausse,Eli Mosley,Ryan Field,Brent Summers
+Pool Play,4.5 Open Contender,Group B,4,Single game,Blitzkrieg,Mierchuk / Wortman,Mierchuk / Wortman,13,15,,,,,Luke Little,Connor Harte,Eli Wortman,CJ Mierchuk
+Pool Play,4.5 Open Contender,Group B,4,Single game,Special Teams,Double Faulters,Special Teams,15,3,,,,,Liam Keegan,Matthew Rodriguez,Connor Neugebauer,Wesley Shelton
+Pool Play,4.5 Open Contender,Group B,4,Single game,Not Core,Barry / Leach,Not Core,15,1,,,,,Ryland Holdren,Julian Penn,Keegan Barry,Olivia Leach
+Pool Play,4.5 Open Contender,Group C,4,Single game,Tuffy's Tyrants,Globo Gym Dodgeball,Tuffy's Tyrants,15,10,,,,,Jack Walker,James Brock,Drew VanDenburg,Brock Lodato
+Pool Play,4.5 Open Contender,Group C,4,Single game,Berries n’ Cream,Goofy Goobers,Berries n’ Cream,15,6,,,,,Henrik Hoeldtke,Charlie Cavallaro,Kevin Lane,Azeem Uraizee
+Pool Play,4.5 Open Contender,Group C,4,Single game,Black ice,MBR Hope,MBR Hope,7,15,,,,,"Chase  Gunter ",Jamie Martinez,Christopher Montgomery,Jason Montgomery
+Pool Play,4.5 Open Contender,Group D,4,Single game,Coppage / Corey,Shrey and Shrey’s teammate,Shrey and Shrey’s teammate,10,15,,,,,Samuel Corey,Courtney Coppage,Shrey Parikh,Anthony Schenk
+Pool Play,4.5 Open Contender,Group D,4,Single game,Centros,Real Wannabees Wolfpack,Centros,15,11,,,,,Jon Esposo,Jaxon Gonzalez,Leslie Nguyen,Connor Shupe
+Pool Play,4.5 Open Contender,Group D,4,Single game,MBR Byeson,Tequila Amigos	,Tequila Amigos	,4,15,,,,,Ryan Montgomery,Caleb Montgomery,Sebastian Diaz,Ben Celestino
+Pool Play,4.5 Open Contender,Group A,5,Single game,Billy pockets,Pipeline,Pipeline,12,15,,,,,Joel Hoffler,Andrey Andriyevskiy,Zack Glew,Sam Weber
+Pool Play,4.5 Open Contender,Group A,5,Single game,"Keep your distance (500 ft) ",Mosley/Dancausse,"Keep your distance (500 ft) ",15,11,,,,,Tahseen Robbani,Jason Inumerable,Mason Dancausse,Eli Mosley
+Pool Play,4.5 Open Contender,Group B,5,Single game,Blitzkrieg,Special Teams,Special Teams,14,16,,,,,Luke Little,Connor Harte,Liam Keegan,Matthew Rodriguez
+Pool Play,4.5 Open Contender,Group B,5,Single game,Mierchuk / Wortman,Barry / Leach,Mierchuk / Wortman,15,6,,,,,Eli Wortman,CJ Mierchuk,Keegan Barry,Olivia Leach
+Pool Play,4.5 Open Contender,Group B,5,Single game,Double Faulters,Not Core,Not Core,7,15,,,,,Connor Neugebauer,Wesley Shelton,Ryland Holdren,Julian Penn
+Pool Play,4.5 Open Contender,Group C,5,Single game,Tuffy's Tyrants,Berries n’ Cream,Tuffy's Tyrants,15,13,,,,,Jack Walker,James Brock,Henrik Hoeldtke,Charlie Cavallaro
+Pool Play,4.5 Open Contender,Group C,5,Single game,Globo Gym Dodgeball,MBR Hope,Globo Gym Dodgeball,15,7,,,,,Drew VanDenburg,Brock Lodato,Christopher Montgomery,Jason Montgomery
+Pool Play,4.5 Open Contender,Group C,5,Single game,Goofy Goobers,Black ice,Goofy Goobers,15,7,,,,,Kevin Lane,Azeem Uraizee,"Chase  Gunter ",Jamie Martinez
+Pool Play,4.5 Open Contender,Group D,5,Single game,Coppage / Corey,Centros,Centros,15,17,,,,,Samuel Corey,Courtney Coppage,Jon Esposo,Jaxon Gonzalez
+Pool Play,4.5 Open Contender,Group D,5,Single game,Shrey and Shrey’s teammate,Tequila Amigos	,Shrey and Shrey’s teammate,15,9,,,,,Shrey Parikh,Anthony Schenk,Sebastian Diaz,Ben Celestino
+Pool Play,4.5 Open Contender,Group D,5,Single game,Real Wannabees Wolfpack,MBR Byeson,Real Wannabees Wolfpack,15,4,,,,,Leslie Nguyen,Connor Shupe,Ryan Montgomery,Caleb Montgomery
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 32,Best of 3,Globo Gym Dodgeball,MBR Byeson,Globo Gym Dodgeball,15,7,15,7,,,Drew VanDenburg,Brock Lodato,Ryan Montgomery,Caleb Montgomery
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 32,Best of 3,Fields of Summer,Barry / Leach,Fields of Summer,15,11,15,10,,,Ryan Field,Brent Summers,Keegan Barry,Olivia Leach
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 32,Best of 3,Not Core,Double Faulters,Not Core,15,10,10,15,15,10,Ryland Holdren,Julian Penn,Connor Neugebauer,Wesley Shelton
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 32,Best of 3,Coppage / Corey,Mosley/Dancausse,Coppage / Corey,15,7,15,7,,,Samuel Corey,Courtney Coppage,Mason Dancausse,Eli Mosley
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 32,Best of 3,Goofy Goobers,MBR Hope,Goofy Goobers,15,11,12,15,15,13,Kevin Lane,Azeem Uraizee,Christopher Montgomery,Jason Montgomery
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 32,Best of 3,"Keep your distance (500 ft) ",Tequila Amigos	,"Keep your distance (500 ft) ",15,11,15,7,,,Tahseen Robbani,Jason Inumerable,Sebastian Diaz,Ben Celestino
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 16,Best of 3,Special Teams,"Keep your distance (500 ft) ",Special Teams,21,13,18,21,21,14,Liam Keegan,Matthew Rodriguez,Tahseen Robbani,Jason Inumerable
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 16,Best of 3,Tuffy's Tyrants,Goofy Goobers,Tuffy's Tyrants,21,14,21,11,,,Jack Walker,James Brock,Kevin Lane,Azeem Uraizee
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 16,Best of 3,Centros,Coppage / Corey,Centros,21,17,21,10,,,Jon Esposo,Jaxon Gonzalez,Samuel Corey,Courtney Coppage
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 16,Best of 3,Pipeline,Not Core,Pipeline,21,14,21,18,,,Zack Glew,Sam Weber,Ryland Holdren,Julian Penn
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 16,Best of 3,Berries n’ Cream,Fields of Summer,Berries n’ Cream,21,14,21,15,,,Henrik Hoeldtke,Charlie Cavallaro,Ryan Field,Brent Summers
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 16,Best of 3,Real Wannabees Wolfpack,Globo Gym Dodgeball,Real Wannabees Wolfpack,15,21,21,18,24,22,Leslie Nguyen,Connor Shupe,Drew VanDenburg,Brock Lodato
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 16,Best of 3,Mierchuk / Wortman,Shrey and Shrey’s teammate,Shrey and Shrey’s teammate,1,0,0,1,0,1,Eli Wortman,CJ Mierchuk,Shrey Parikh,Anthony Schenk
+Bracket Stage,4.5 Open Contender,Bracket A,Round of 16,Best of 3,Billy pockets,Blitzkrieg,Billy pockets,18,21,21,15,21,17,Joel Hoffler,Andrey Andriyevskiy,Luke Little,Connor Harte
+Bracket Stage,4.5 Open Contender,Bracket A,Quarter-final,Best of 3,Special Teams,Billy pockets,Special Teams,21,14,19,21,21,15,Liam Keegan,Matthew Rodriguez,Joel Hoffler,Andrey Andriyevskiy
+Bracket Stage,4.5 Open Contender,Bracket A,Quarter-final,Best of 3,Tuffy's Tyrants,Shrey and Shrey’s teammate,Tuffy's Tyrants,1,0,1,0,,,Jack Walker,James Brock,Shrey Parikh,Anthony Schenk
+Bracket Stage,4.5 Open Contender,Bracket A,Quarter-final,Best of 3,Centros,Real Wannabees Wolfpack,Centros,1,0,1,0,,,Jon Esposo,Jaxon Gonzalez,Leslie Nguyen,Connor Shupe
+Bracket Stage,4.5 Open Contender,Bracket A,Quarter-final,Best of 3,Pipeline,Berries n’ Cream,Berries n’ Cream,21,19,12,21,18,21,Zack Glew,Sam Weber,Henrik Hoeldtke,Charlie Cavallaro
+Bracket Stage,4.5 Open Contender,Bracket A,P9: Quarter-final,Single game,Fields of Summer,Not Core,Not Core,0,1,,,,,Ryan Field,Brent Summers,Ryland Holdren,Julian Penn
+Bracket Stage,4.5 Open Contender,Bracket A,P17: Quarter-final,Single game,Mosley/Dancausse,MBR Byeson,MBR Byeson,0,1,,,,,Mason Dancausse,Eli Mosley,Ryan Montgomery,Caleb Montgomery
+Bracket Stage,4.5 Open Contender,Bracket A,Semi-final,Best of 3,Special Teams,Berries n’ Cream,Special Teams,21,10,21,14,,,Liam Keegan,Matthew Rodriguez,Henrik Hoeldtke,Charlie Cavallaro
+Bracket Stage,4.5 Open Contender,Bracket A,Semi-final,Best of 3,Tuffy's Tyrants,Centros,Tuffy's Tyrants,1,0,1,0,,,Jack Walker,James Brock,Jon Esposo,Jaxon Gonzalez
+Bracket Stage,4.5 Open Contender,Bracket A,P5: Semi-final,Single game,Pipeline,Billy pockets,Billy pockets,-1,0,,,,,Zack Glew,Sam Weber,Joel Hoffler,Andrey Andriyevskiy
+Bracket Stage,4.5 Open Contender,Bracket A,P5: Semi-final,Single game,Real Wannabees Wolfpack,Shrey and Shrey’s teammate,Real Wannabees Wolfpack,0,-1,,,,,Leslie Nguyen,Connor Shupe,Shrey Parikh,Anthony Schenk
+Bracket Stage,4.5 Open Contender,Bracket A,P17: Semi-final,Single game,MBR Hope,MBR Byeson,MBR Byeson,19,21,,,,,Christopher Montgomery,Jason Montgomery,Ryan Montgomery,Caleb Montgomery
+Bracket Stage,4.5 Open Contender,Bracket A,Final,Best of 3,Special Teams,Tuffy's Tyrants,Special Teams,21,19,21,16,,,Liam Keegan,Matthew Rodriguez,Jack Walker,James Brock
+Bracket Stage,4.5 Open Contender,Bracket A,P3: Final,Best of 3,Centros,Berries n’ Cream,Berries n’ Cream,16,21,12,21,,,Jon Esposo,Jaxon Gonzalez,Henrik Hoeldtke,Charlie Cavallaro
+Bracket Stage,4.5 Open Contender,Bracket A,P5: Final,Single game,Billy pockets,Real Wannabees Wolfpack,Billy pockets,0,-1,,,,,Joel Hoffler,Andrey Andriyevskiy,Leslie Nguyen,Connor Shupe

@@ -1,0 +1,78 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Expert,Group A,1,Single game,Sloppy,Amandawuman,Sloppy,21,11,,,,,Connor Nelson,Trevor Barbosa,Aman Khemka,Casper Wu
+Group Stage,5.0 Expert,Group A,1,Single game,Tarpey,woohoo,Tarpey,21,12,,,,,Josh Fragiacomo,Joseph Kaylor,Sebastiani Kim,Elle Lowe
+Group Stage,5.0 Expert,Group A,1,Single game,Champion Destroyers 🥏,Cutie Patooties,Champion Destroyers 🥏,21,13,,,,,Luke Pennington,Samuel Buckman,Jake Oxendine,Sasha Mariniuk
+Group Stage,5.0 Expert,Group A,1,Single game,Edge Guarders,Trouble with the curve,Trouble with the curve,14,21,,,,,Charlie Camarena,Michael Du,Jack Stinson,Alec Galbo
+Group Stage,5.0 Expert,Group A,2,Single game,Sloppy,woohoo,Sloppy,21,17,,,,,Connor Nelson,Trevor Barbosa,Sebastiani Kim,Elle Lowe
+Group Stage,5.0 Expert,Group A,2,Single game,Tarpey,Trouble with the curve,Tarpey,21,11,,,,,Josh Fragiacomo,Joseph Kaylor,Jack Stinson,Alec Galbo
+Group Stage,5.0 Expert,Group A,2,Single game,Champion Destroyers 🥏,Edge Guarders,Champion Destroyers 🥏,21,16,,,,,Luke Pennington,Samuel Buckman,Charlie Camarena,Michael Du
+Group Stage,5.0 Expert,Group A,2,Single game,Cutie Patooties,Amandawuman,Cutie Patooties,21,11,,,,,Jake Oxendine,Sasha Mariniuk,Aman Khemka,Casper Wu
+Group Stage,5.0 Expert,Group A,3,Single game,Sloppy,Cutie Patooties,Sloppy,21,12,,,,,Connor Nelson,Trevor Barbosa,Jake Oxendine,Sasha Mariniuk
+Group Stage,5.0 Expert,Group A,3,Single game,Tarpey,Champion Destroyers 🥏,Tarpey,21,19,,,,,Josh Fragiacomo,Joseph Kaylor,Luke Pennington,Samuel Buckman
+Group Stage,5.0 Expert,Group A,3,Single game,Edge Guarders,Amandawuman,Edge Guarders,21,10,,,,,Charlie Camarena,Michael Du,Aman Khemka,Casper Wu
+Group Stage,5.0 Expert,Group A,3,Single game,Trouble with the curve,woohoo,Trouble with the curve,21,14,,,,,Jack Stinson,Alec Galbo,Sebastiani Kim,Elle Lowe
+Group Stage,5.0 Expert,Group A,4,Single game,Sloppy,Trouble with the curve,Sloppy,21,15,,,,,Connor Nelson,Trevor Barbosa,Jack Stinson,Alec Galbo
+Group Stage,5.0 Expert,Group A,4,Single game,Tarpey,Amandawuman,Tarpey,21,7,,,,,Josh Fragiacomo,Joseph Kaylor,Aman Khemka,Casper Wu
+Group Stage,5.0 Expert,Group A,4,Single game,Champion Destroyers 🥏,woohoo,Champion Destroyers 🥏,21,13,,,,,Luke Pennington,Samuel Buckman,Sebastiani Kim,Elle Lowe
+Group Stage,5.0 Expert,Group A,4,Single game,Edge Guarders,Cutie Patooties,Edge Guarders,21,18,,,,,Charlie Camarena,Michael Du,Jake Oxendine,Sasha Mariniuk
+Group Stage,5.0 Expert,Group A,5,Single game,Sloppy,Edge Guarders,Sloppy,21,14,,,,,Connor Nelson,Trevor Barbosa,Charlie Camarena,Michael Du
+Group Stage,5.0 Expert,Group A,5,Single game,Tarpey,Cutie Patooties,Tarpey,21,11,,,,,Josh Fragiacomo,Joseph Kaylor,Jake Oxendine,Sasha Mariniuk
+Group Stage,5.0 Expert,Group A,5,Single game,Champion Destroyers 🥏,Trouble with the curve,Champion Destroyers 🥏,21,16,,,,,Luke Pennington,Samuel Buckman,Jack Stinson,Alec Galbo
+Group Stage,5.0 Expert,Group A,5,Single game,woohoo,Amandawuman,woohoo,21,9,,,,,Sebastiani Kim,Elle Lowe,Aman Khemka,Casper Wu
+Group Stage,5.0 Expert,Group A,6,Single game,Sloppy,Champion Destroyers 🥏,Sloppy,21,15,,,,,Connor Nelson,Trevor Barbosa,Luke Pennington,Samuel Buckman
+Group Stage,5.0 Expert,Group A,6,Single game,Tarpey,Edge Guarders,Tarpey,22,20,,,,,Josh Fragiacomo,Joseph Kaylor,Charlie Camarena,Michael Du
+Group Stage,5.0 Expert,Group A,6,Single game,Trouble with the curve,Amandawuman,Trouble with the curve,21,9,,,,,Jack Stinson,Alec Galbo,Aman Khemka,Casper Wu
+Group Stage,5.0 Expert,Group A,6,Single game,Cutie Patooties,woohoo,Cutie Patooties,21,17,,,,,Jake Oxendine,Sasha Mariniuk,Sebastiani Kim,Elle Lowe
+Group Stage,5.0 Expert,Group A,7,Single game,Sloppy,Tarpey,Sloppy,22,20,,,,,Connor Nelson,Trevor Barbosa,Josh Fragiacomo,Joseph Kaylor
+Group Stage,5.0 Expert,Group A,7,Single game,Champion Destroyers 🥏,Amandawuman,Champion Destroyers 🥏,21,9,,,,,Luke Pennington,Samuel Buckman,Aman Khemka,Casper Wu
+Group Stage,5.0 Expert,Group A,7,Single game,Edge Guarders,woohoo,Edge Guarders,21,15,,,,,Charlie Camarena,Michael Du,Sebastiani Kim,Elle Lowe
+Group Stage,5.0 Expert,Group A,7,Single game,Trouble with the curve,Cutie Patooties,Cutie Patooties,15,21,,,,,Jack Stinson,Alec Galbo,Jake Oxendine,Sasha Mariniuk
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Sloppy,Amandawuman,Sloppy,21,13,21,12,,,Connor Nelson,Trevor Barbosa,Aman Khemka,Casper Wu
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Tarpey,woohoo,Tarpey,21,15,21,12,,,Josh Fragiacomo,Joseph Kaylor,Sebastiani Kim,Elle Lowe
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Champion Destroyers 🥏,Cutie Patooties,Champion Destroyers 🥏,21,17,21,19,,,Luke Pennington,Samuel Buckman,Jake Oxendine,Sasha Mariniuk
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Trouble with the curve,Edge Guarders,Edge Guarders,21,14,19,21,16,21,Jack Stinson,Alec Galbo,Charlie Camarena,Michael Du
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Sloppy,Edge Guarders,Sloppy,21,16,21,16,,,Connor Nelson,Trevor Barbosa,Charlie Camarena,Michael Du
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Tarpey,Champion Destroyers 🥏,Tarpey,23,21,21,19,,,Josh Fragiacomo,Joseph Kaylor,Luke Pennington,Samuel Buckman
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Single game,Trouble with the curve,Amandawuman,Trouble with the curve,21,9,,,,,Jack Stinson,Alec Galbo,Aman Khemka,Casper Wu
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Single game,Cutie Patooties,woohoo,Cutie Patooties,21,17,,,,,Jake Oxendine,Sasha Mariniuk,Sebastiani Kim,Elle Lowe
+Bracket Stage,5.0 Expert,Bracket A,Final,Best of 3,Sloppy,Tarpey,Tarpey,14,21,19,21,,,Connor Nelson,Trevor Barbosa,Josh Fragiacomo,Joseph Kaylor
+Bracket Stage,5.0 Expert,Bracket A,P3: Final,Best of 3,Champion Destroyers 🥏,Edge Guarders,Champion Destroyers 🥏,21,19,18,21,21,17,Luke Pennington,Samuel Buckman,Charlie Camarena,Michael Du
+Group Stage,4.5 Contender,Group A,1,Single game,70K Trophies,Spiked Lemonade,70K Trophies,25,24,,,,,Jakob Seidner,Jaden Knott,George Zywiel,Matthew Kamimura
+Group Stage,4.5 Contender,Group A,1,Single game,Himothies,Bricked Brothers,Bricked Brothers,17,21,,,,,Charlie Keagle,Benicio Curiel,Jack Busa,Ryan Lee
+Group Stage,4.5 Contender,Group A,1,Single game,Freshman,Visual Hinder,Freshman,21,16,,,,,Carlos Diaz,Niviru Wijayaratne,Jake Eichenseer,Alex Veron
+Group Stage,4.5 Contender,Group A,1,Single game,Experts,Gooners,Gooners,18,21,,,,,Datis Shoushtary,max gehm,Adrianna Grothause,Costas Foster
+Group Stage,4.5 Contender,Group A,2,Single game,70K Trophies,Bricked Brothers,70K Trophies,21,12,,,,,Jakob Seidner,Jaden Knott,Jack Busa,Ryan Lee
+Group Stage,4.5 Contender,Group A,2,Single game,Himothies,Gooners,Gooners,18,21,,,,,Charlie Keagle,Benicio Curiel,Adrianna Grothause,Costas Foster
+Group Stage,4.5 Contender,Group A,2,Single game,Freshman,Experts,Freshman,22,20,,,,,Carlos Diaz,Niviru Wijayaratne,Datis Shoushtary,max gehm
+Group Stage,4.5 Contender,Group A,2,Single game,Visual Hinder,Spiked Lemonade,Spiked Lemonade,11,21,,,,,Jake Eichenseer,Alex Veron,George Zywiel,Matthew Kamimura
+Group Stage,4.5 Contender,Group A,3,Single game,70K Trophies,Visual Hinder,Visual Hinder,19,21,,,,,Jakob Seidner,Jaden Knott,Jake Eichenseer,Alex Veron
+Group Stage,4.5 Contender,Group A,3,Single game,Himothies,Freshman,Freshman,15,21,,,,,Charlie Keagle,Benicio Curiel,Carlos Diaz,Niviru Wijayaratne
+Group Stage,4.5 Contender,Group A,3,Single game,Experts,Spiked Lemonade,Spiked Lemonade,9,21,,,,,Datis Shoushtary,max gehm,George Zywiel,Matthew Kamimura
+Group Stage,4.5 Contender,Group A,3,Single game,Gooners,Bricked Brothers,Gooners,21,12,,,,,Adrianna Grothause,Costas Foster,Jack Busa,Ryan Lee
+Group Stage,4.5 Contender,Group A,4,Single game,70K Trophies,Gooners,70K Trophies,21,12,,,,,Jakob Seidner,Jaden Knott,Adrianna Grothause,Costas Foster
+Group Stage,4.5 Contender,Group A,4,Single game,Himothies,Spiked Lemonade,Spiked Lemonade,13,21,,,,,Charlie Keagle,Benicio Curiel,George Zywiel,Matthew Kamimura
+Group Stage,4.5 Contender,Group A,4,Single game,Freshman,Bricked Brothers,Freshman,21,11,,,,,Carlos Diaz,Niviru Wijayaratne,Jack Busa,Ryan Lee
+Group Stage,4.5 Contender,Group A,4,Single game,Experts,Visual Hinder,Visual Hinder,11,21,,,,,Datis Shoushtary,max gehm,Jake Eichenseer,Alex Veron
+Group Stage,4.5 Contender,Group A,5,Single game,70K Trophies,Experts,70K Trophies,21,13,,,,,Jakob Seidner,Jaden Knott,Datis Shoushtary,max gehm
+Group Stage,4.5 Contender,Group A,5,Single game,Himothies,Visual Hinder,Visual Hinder,20,22,,,,,Charlie Keagle,Benicio Curiel,Jake Eichenseer,Alex Veron
+Group Stage,4.5 Contender,Group A,5,Single game,Freshman,Gooners,Gooners,20,22,,,,,Carlos Diaz,Niviru Wijayaratne,Adrianna Grothause,Costas Foster
+Group Stage,4.5 Contender,Group A,5,Single game,Bricked Brothers,Spiked Lemonade,Spiked Lemonade,11,21,,,,,Jack Busa,Ryan Lee,George Zywiel,Matthew Kamimura
+Group Stage,4.5 Contender,Group A,6,Single game,70K Trophies,Freshman,Freshman,20,22,,,,,Jakob Seidner,Jaden Knott,Carlos Diaz,Niviru Wijayaratne
+Group Stage,4.5 Contender,Group A,6,Single game,Himothies,Experts,Experts,14,21,,,,,Charlie Keagle,Benicio Curiel,Datis Shoushtary,max gehm
+Group Stage,4.5 Contender,Group A,6,Single game,Gooners,Spiked Lemonade,Spiked Lemonade,13,21,,,,,Adrianna Grothause,Costas Foster,George Zywiel,Matthew Kamimura
+Group Stage,4.5 Contender,Group A,6,Single game,Visual Hinder,Bricked Brothers,Visual Hinder,21,15,,,,,Jake Eichenseer,Alex Veron,Jack Busa,Ryan Lee
+Group Stage,4.5 Contender,Group A,7,Single game,70K Trophies,Himothies,70K Trophies,21,13,,,,,Jakob Seidner,Jaden Knott,Charlie Keagle,Benicio Curiel
+Group Stage,4.5 Contender,Group A,7,Single game,Freshman,Spiked Lemonade,Spiked Lemonade,19,21,,,,,Carlos Diaz,Niviru Wijayaratne,George Zywiel,Matthew Kamimura
+Group Stage,4.5 Contender,Group A,7,Single game,Experts,Bricked Brothers,Experts,21,13,,,,,Datis Shoushtary,max gehm,Jack Busa,Ryan Lee
+Group Stage,4.5 Contender,Group A,7,Single game,Gooners,Visual Hinder,Gooners,21,13,,,,,Adrianna Grothause,Costas Foster,Jake Eichenseer,Alex Veron
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Spiked Lemonade,Himothies,Spiked Lemonade,21,15,22,20,,,George Zywiel,Matthew Kamimura,Charlie Keagle,Benicio Curiel
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,70K Trophies,Bricked Brothers,70K Trophies,21,12,21,13,,,Jakob Seidner,Jaden Knott,Jack Busa,Ryan Lee
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Freshman,Experts,Freshman,22,20,21,16,,,Carlos Diaz,Niviru Wijayaratne,Datis Shoushtary,max gehm
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Gooners,Visual Hinder,Gooners,13,21,21,19,21,17,Adrianna Grothause,Costas Foster,Jake Eichenseer,Alex Veron
+Bracket Stage,4.5 Contender,Bracket A,Semi-final,Best of 3,Spiked Lemonade,Gooners,Spiked Lemonade,19,21,21,18,21,17,George Zywiel,Matthew Kamimura,Adrianna Grothause,Costas Foster
+Bracket Stage,4.5 Contender,Bracket A,Semi-final,Best of 3,70K Trophies,Freshman,70K Trophies,1,0,1,0,,,Jakob Seidner,Jaden Knott,Carlos Diaz,Niviru Wijayaratne
+Bracket Stage,4.5 Contender,Bracket A,P5: Semi-final,Single game,Visual Hinder,Himothies,Visual Hinder,21,14,,,,,Jake Eichenseer,Alex Veron,Charlie Keagle,Benicio Curiel
+Bracket Stage,4.5 Contender,Bracket A,P5: Semi-final,Single game,Experts,Bricked Brothers,Bricked Brothers,15,21,,,,,Datis Shoushtary,max gehm,Jack Busa,Ryan Lee
+Bracket Stage,4.5 Contender,Bracket A,Final,Best of 3,Spiked Lemonade,70K Trophies,70K Trophies,13,21,18,21,,,George Zywiel,Matthew Kamimura,Jakob Seidner,Jaden Knott
+Bracket Stage,4.5 Contender,Bracket A,P3: Final,Best of 3,Freshman,Gooners,Gooners,19,21,16,21,,,Carlos Diaz,Niviru Wijayaratne,Adrianna Grothause,Costas Foster
+Bracket Stage,4.5 Contender,Bracket A,P5: Final,Single game,Visual Hinder,Bricked Brothers,Visual Hinder,0,-1,,,,,Jake Eichenseer,Alex Veron,Jack Busa,Ryan Lee
