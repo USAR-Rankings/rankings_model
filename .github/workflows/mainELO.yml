@@ -36,21 +36,35 @@ jobs:
           pip install pandas
 
       - name: Scrape Data from Fwango
-        run: python scrape_fwango_data.py
+        run: python Scripts/scrape_fwango_data.py
+
+      - name: Test ubuntu server downloads
+        run: |
+          pwd
+          ls -la
+          cd ..
+          pwd
+          ls -la
+          cd ..
+          pwd
+          ls -la
+          cd ..
+          pwd
+          ls -la
 
       - name: Convert Results into Correct Format
-        run: Rscript Scripts/results_converter.R
+        run: echo "Rscript Scripts/results_converter.R"
 
       - name: Run Rankings Model & Generate New Rankings
-        run: Rscript "Scripts/fit_models_1v2.R"
+        run: echo 'Rscript "Scripts/fit_models_1v2.R"'
 
       - name: Stage Changes
-        run: git add Predictions/*
+        run: echo "git add Tourney\ Results/Manual\ Downloads/*"
 
       - name: Commit and Push results
         run: |
           git config --local user.email '${{ github.actor }}@users.noreply.github.com'
           git config --local user.name '${{ github.actor }}'
-          commit_message="Rankings refresh on $(date +"%Y-%m-%d")"
+          commit_message="Testing Scraping and Rankings refresh on $(date +"%Y-%m-%d")"
           git commit -m "$commit_message" || echo "No changes to commit"
           git push origin || echo "No changes to commit"

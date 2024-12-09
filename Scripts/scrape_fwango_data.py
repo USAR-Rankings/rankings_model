@@ -51,7 +51,7 @@ def try_logging_in_w_cookies(driver):
     element_after_login = wait.until(EC.url_contains("fwango.io/dashboard"))
 
 # Function to manually login to fwango
-@exception_handler
+# @exception_handler
 def login(driver):
     print("Cookies failed; trying to log in manually")
     # Navigate to the login page
@@ -60,7 +60,53 @@ def login(driver):
 
     # Wait for manual login up 5 minutes until the login redirects you to the dashboard
     wait = WebDriverWait(driver, int(5*60))
-    element_after_login = wait.until(EC.url_contains("fwango.io/dashboard"))
+    # element_after_login = wait.until(EC.url_contains("fwango.io/dashboard"))
+
+    email_input = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.NAME, 'email'))
+        )
+    password_input = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.NAME, 'password'))
+        )
+
+    email = "events@usaroundnet.org"
+    password = "Ev3nt5upport!"
+    email_input.send_keys(email)
+    password_input.send_keys(password)
+
+    # WebDriverWait(driver, int(5*60)).until(EC.url_contains("fwango.io/dashboard"))
+
+    login_button = driver.find_element(By.CSS_SELECTOR, "button[type='submit']")
+    login_button.click()
+
+
+# Function to log into Fwango
+# def login(driver):
+#     # Set up the WebDriver
+#     # driver = webdriver.Chrome()  # Using chrome
+#     # wait = WebDriverWait(driver, 5) # Setting up the driver to wait until elements load up to 5 seconds
+#     # Input your credentials
+#     email = "events@usaroundnet.org"
+#     password = "Ev3nt5upport!"
+#     # Navigate to the login page
+#     login_url = "https://fwango.io/signin?r=/dashboard"  # Replace with your login page URL
+#     driver.get(login_url)
+#     wait = WebDriverWait(driver, int(5*60))
+#     # Use "name" attribute for locating elements
+#     email_input = WebDriverWait(driver, 10).until(
+#             EC.presence_of_element_located((By.NAME, 'email'))
+#         )
+#     password_input = WebDriverWait(driver, 10).until(
+#             EC.presence_of_element_located((By.NAME, 'password'))
+#         )
+#     # Enter the email and password
+#     email_input.send_keys(email)
+#     password_input.send_keys(password)
+#     time.sleep(3)
+#     # Submit the login form
+#     # login_button = driver.find_element(By.CSS_SELECTOR, "button[type='submit']")  # Replace with the actual name of the login button
+#     # login_button.click()
+
 
 
 # Loading page and waiting until ready
@@ -149,20 +195,28 @@ def click_download_button_match_results(driver, wait):
 # Getting all tournament URLs from Tourney List csv
 
 urls = []
-df = pd.read_csv('../Tourney List.csv')
+df = pd.read_csv('Tourney List.csv')
 for tourney in df.iterrows():
-    # print(tourney)
-    # print("HERE: ", tourney[1]["Year"])
-    if tourney[1]['Year'] == 2023 and tourney[1]['Type'] == "Challenger":
+    if tourney[1]["Scraped?"] == 'N':
         urls.append(tourney[1]["full URL"])
-# urls = df["full URL"].tolist()
+
 print("URLs: ", urls)
+
+# -----
+# Use to get specific tournaments
+# for tourney in df.iterrows():
+#     print(tourney)
+#     if tourney[1]['Year'] == 2023 and tourney[1]['Type'] == "Challenger":
+#         urls.append(tourney[1]["full URL"])
+# -----
+
+# print("URLs: ", urls)
 
 # --------------------------------------------------
 # Export Tounrament data
 
-# List of URLs
-# urls = [  ]
+# manual list of URLs (for testing)
+# urls = [ "https://fwango.io/nationals2024" , "https://fwango.io/chicago2024" ]
 
 
 # Specify the path to your downloads folder
@@ -178,10 +232,15 @@ wait = WebDriverWait(driver, 5) # Setting up the driver to wait until elements l
 # Trying to load the cookies from the last session to see if we can skip the manual login
 try:
     try_logging_in_w_cookies(driver)
+    print("Logged in?")
 except:
     # Logging into fwango manually (email & password)
     login(driver)
+    print("After log in attempt")
 
+print("Logged In!?")
+time.sleep(5)
+print("Yes!")
 # Save cookies
 cookies = driver.get_cookies()
 with open('cookies.json', 'w') as f:
@@ -211,4 +270,10 @@ for url in urls:
 
     time.sleep(2)
 
-    shutil.move(downloads_folder + "/")
+    # Figure out where downloaded files go on github ubuntu machine
+
+    # subprocess.run(["pwd"])
+    # subprocess.run(["ls", "-la"])
+    # subprocess.run([""])
+
+    # shutil.move(downloads_folder + "/", destination_folder + "/")
