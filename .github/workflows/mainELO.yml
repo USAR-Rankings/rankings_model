@@ -47,6 +47,8 @@ jobs:
           ls -la
           cd share
           ls -la
+          cd chromedriver-linux64
+          ls -la
 
       - name: Scrape Data from Fwango
         run: python Scripts/scrape_fwango_data.py

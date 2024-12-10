@@ -232,7 +232,7 @@ destination_folder = "/Users/coolk/OneDrive/Documents/Roundnet/USAR rankings/ran
 # if github actions:
 if os.environ['GITHUB_RUN_NUMBER'] != 0:
     print("Using Github Actions Workflow ", os.environ['GITHUB_RUN_NUMBER'])
-    chrome_service = Service(os.environ['CHROMEWEBDRIVER'])
+    chrome_service = Service() #os.environ['CHROMEWEBDRIVER'])
     chrome_options = Options()
     for option in ['--headless','--disable-gpu','--window-size=1920,1200','--ignore-certificate-errors','--disable-extensions','--no-sandbox','--disable-dev-shm-usage']:
         chrome_options.add_argument(option)
