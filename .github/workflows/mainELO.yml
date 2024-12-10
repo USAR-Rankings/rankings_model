@@ -38,16 +38,10 @@ jobs:
       - name: Scrape Data from Fwango
         run: python Scripts/scrape_fwango_data.py
 
-      - name: Find downloaded files
+      - name: Move downloaded files
         run: |
-          pwd
-          ls -la /
-          ls -la /home
-          ls -la /home/runner
           ls -la /home/runner/Downloads
-          ls -la /home/runner/work
-          ls -la /home/runner/work/rankings_model
-          ls -la
+          mkdir -p "./Tourney Results/Manual Downloads/Testing"
           mv /home/runner/Downloads/*Match*results*.csv "./Tourney Results/Manual Downloads/Testing/"
 
       - name: Convert Results into Correct Format
