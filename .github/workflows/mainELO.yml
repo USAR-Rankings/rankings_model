@@ -44,10 +44,11 @@ jobs:
           ls -la /
           ls -la /home
           ls -la /home/runner
+          ls -la /home/runner/Downloads
           ls -la /home/runner/work
           ls -la /home/runner/work/rankings_model
           ls -la
-        # mv "* - Match results*" "Tourney Results/Manual Downloads/Testing/"
+          mv "/home/runner/Downloads/* - Match results*" "Tourney Results/Manual Downloads/Testing/"
 
       - name: Convert Results into Correct Format
         run: echo "Rscript Scripts/results_converter.R"
