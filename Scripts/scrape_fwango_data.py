@@ -9,6 +9,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 
 import pandas as pd
 import time
@@ -226,7 +228,16 @@ downloads_folder = "/Users/coolk/Downloads"
 destination_folder = "/Users/coolk/OneDrive/Documents/Roundnet/USAR rankings/rankings_model/Tourney Results/Manual Downloads"
 
 # Set up the WebDriver
-driver = webdriver.Chrome()  # Using chrome
+
+# if github actions:
+chrome_service = Service(environ['CHROMEWEBDRIVER'])
+chrome_options = Options()
+for option in ['--headless','--disable-gpu','--window-size=1920,1200','--ignore-certificate-errors','--disable-extensions','--no-sandbox','--disable-dev-shm-usage']:
+    chrome_options.add_argument(option)
+driver = webdriver.Chrome(service = chrome_service,options = chrome_options)
+
+# if local testing:
+# driver = webdriver.Chrome()  # Using chrome
 wait = WebDriverWait(driver, 5) # Setting up the driver to wait until elements load up to 5 seconds
 
 # Trying to load the cookies from the last session to see if we can skip the manual login
