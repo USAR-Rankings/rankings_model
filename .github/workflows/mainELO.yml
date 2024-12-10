@@ -35,23 +35,14 @@ jobs:
           pip install numpy>=1.20.3
           pip install pandas
 
-      - name: Test ubuntu server downloads
+      - name: Scrape Data from Fwango
+        run: python Scripts/scrape_fwango_data.py
+
+      - name: Relocate downloaded files
         run: |
           pwd
           ls -la
-          cd /
-          ls -la
-          cd usr
-          ls -la
-          cd local
-          ls -la
-          cd share
-          ls -la
-          cd chromedriver-linux64
-          ls -la
-
-      - name: Scrape Data from Fwango
-        run: python Scripts/scrape_fwango_data.py
+          mv "* - Match results*" "Tourney Results/Manual Downloads/Testing/"
 
       - name: Convert Results into Correct Format
         run: echo "Rscript Scripts/results_converter.R"

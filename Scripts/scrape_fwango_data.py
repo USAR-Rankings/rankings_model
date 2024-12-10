@@ -222,17 +222,17 @@ print("URLs: ", urls)
 
 
 # Specify the path to your downloads folder
-downloads_folder = "/Users/coolk/Downloads"
+# downloads_folder = "/Users/coolk/Downloads"
 
 # Specify the path where you want to save the downloaded CSV files
-destination_folder = "/Users/coolk/OneDrive/Documents/Roundnet/USAR rankings/rankings_model/Tourney Results/Manual Downloads"
+# destination_folder = "/Users/coolk/OneDrive/Documents/Roundnet/USAR rankings/rankings_model/Tourney Results/Manual Downloads"
 
 # Set up the WebDriver
 
 # if github actions:
 if os.environ['GITHUB_RUN_NUMBER'] != 0:
     print("Using Github Actions Workflow ", os.environ['GITHUB_RUN_NUMBER'])
-    chrome_service = Service() #os.environ['CHROMEWEBDRIVER'])
+    chrome_service = Service() #os.environ['CHROMEWEBDRIVER'/chromedriver]) might also work
     chrome_options = Options()
     for option in ['--headless','--disable-gpu','--window-size=1920,1200','--ignore-certificate-errors','--disable-extensions','--no-sandbox','--disable-dev-shm-usage']:
         chrome_options.add_argument(option)
