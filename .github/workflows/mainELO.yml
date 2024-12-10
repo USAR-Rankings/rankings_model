@@ -38,11 +38,16 @@ jobs:
       - name: Scrape Data from Fwango
         run: python Scripts/scrape_fwango_data.py
 
-      - name: Relocate downloaded files
+      - name: Find downloaded files
         run: |
           pwd
+          ls -la /
+          ls -la /home
+          ls -la /home/runner
+          ls -la /home/runner/work
+          ls -la /home/runner/work/rankings_model
           ls -la
-          mv "* - Match results*" "Tourney Results/Manual Downloads/Testing/"
+        # mv "* - Match results*" "Tourney Results/Manual Downloads/Testing/"
 
       - name: Convert Results into Correct Format
         run: echo "Rscript Scripts/results_converter.R"
