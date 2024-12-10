@@ -51,14 +51,13 @@ jobs:
         run: echo 'Rscript "Scripts/fit_models_1v2.R"'
 
       - name: Stage Changes
-        run: echo "git add Tourney\ Results/Manual\ Downloads/*"
+        run: git add "Tourney Results/Manual Downloads/*"
 
       - name: Commit and Push results
         run: |
-          echo "Don't commit anything here for now"
-          echo "This is just for testing"
-        #   git config --local user.email '${{ github.actor }}@users.noreply.github.com'
-        #   git config --local user.name '${{ github.actor }}'
-        #   commit_message="Testing Scraping and Rankings refresh on $(date +"%Y-%m-%d")"
-        #   git commit -m "$commit_message" || echo "No changes to commit"
-        #   git push origin || echo "No changes to commit"
+          echo "Testing commit from github action"
+          git config --local user.email '${{ github.actor }}@users.noreply.github.com'
+          git config --local user.name '${{ github.actor }}'
+          commit_message="Testing Fwango Scraping on $(date +"%Y-%m-%d")"
+          git commit -m "$commit_message" || echo "No changes to commit"
+          git push origin || echo "No changes to push"

@@ -282,4 +282,4 @@ for url in urls:
     # Click on the download button
     click_download_button_match_results(driver, wait)
 
-    time.sleep(5)
+    time.sleep(20)
