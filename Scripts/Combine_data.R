@@ -36,7 +36,7 @@ tg = list()
 
 files = dir('Tourney Results') %>%
   data.frame(url = .) %>%
-  filter(url != 'Manual Downloads') %>%
+  filter(url != 'Manual Downloads' & url != 'Preprocessed') %>%
   pull(url)
 
 for (i in 1:length(files)){
@@ -48,6 +48,7 @@ forfeit_exceptions = c('USAR2023NATIONALS')
 dat = bind_rows(tg) %>%
   mutate_at(vars(tourney:T2P2), toupper) %>%
   filter(tourney %in% forfeit_exceptions | !((t1score %in% c(-1, -2) & t2score == 0) | (t2score %in% c(-1, -2) & t1score == 0)))
+
 
 # Filtering to valid tourney and division, applying name corrections, and adding a dummy "END OF SEASON" tournament
 pp = dat %>%
