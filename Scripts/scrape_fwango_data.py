@@ -230,14 +230,17 @@ destination_folder = "/Users/coolk/OneDrive/Documents/Roundnet/USAR rankings/ran
 # Set up the WebDriver
 
 # if github actions:
-chrome_service = Service(environ['CHROMEWEBDRIVER'])
-chrome_options = Options()
-for option in ['--headless','--disable-gpu','--window-size=1920,1200','--ignore-certificate-errors','--disable-extensions','--no-sandbox','--disable-dev-shm-usage']:
-    chrome_options.add_argument(option)
-driver = webdriver.Chrome(service = chrome_service,options = chrome_options)
+if os.environ['GITHUB_RUN_NUMBER'] != 0:
+    print("Using Github Actions Workflow ", os.environ['GITHUB_RUN_NUMBER'])
+    chrome_service = Service(os.environ['CHROMEWEBDRIVER'])
+    chrome_options = Options()
+    for option in ['--headless','--disable-gpu','--window-size=1920,1200','--ignore-certificate-errors','--disable-extensions','--no-sandbox','--disable-dev-shm-usage']:
+        chrome_options.add_argument(option)
+    driver = webdriver.Chrome(service = chrome_service,options = chrome_options)
+else:
+    print("Testing on local device")
+    # driver = webdriver.Chrome()  # Using chrome
 
-# if local testing:
-# driver = webdriver.Chrome()  # Using chrome
 wait = WebDriverWait(driver, 5) # Setting up the driver to wait until elements load up to 5 seconds
 
 # Trying to load the cookies from the last session to see if we can skip the manual login
@@ -280,11 +283,3 @@ for url in urls:
     click_download_button_match_results(driver, wait)
 
     time.sleep(2)
-
-    # Figure out where downloaded files go on github ubuntu machine
-
-    # subprocess.run(["pwd"])
-    # subprocess.run(["ls", "-la"])
-    # subprocess.run([""])
-
-    # shutil.move(downloads_folder + "/", destination_folder + "/")
