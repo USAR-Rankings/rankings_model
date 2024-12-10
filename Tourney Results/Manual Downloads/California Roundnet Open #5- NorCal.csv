@@ -1,0 +1,108 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Expert,Group A,1,Single game,De 916,9/10 Dentists Recommend,De 916,21,15,,,,,Clifton Miller,Trevor Barbosa,Tim Gaskin,Adrianna Grothause
+Group Stage,5.0 Expert,Group A,1,Single game,fun guys,Ben Dover,fun guys,21,13,,,,,Alec Galbo,Jake Oxendine,Benjamin Walker-Edwards,Devon Lee
+Group Stage,5.0 Expert,Group B,1,Single game,Nelson / Lowe,Harold and Kumar,Nelson / Lowe,21,10,,,,,Elle Lowe,Connor Nelson,Matthew Kamimura,Niviru Wijayaratne
+Group Stage,5.0 Expert,Group B,1,Single game,Big Slick,hits don't lie,Big Slick,21,8,,,,,Michael Du,Nathan Robertt,Dylan Cunningham,Nate Gauthier
+Group Stage,5.0 Expert,Group A,2,Single game,De 916,Ben Dover,De 916,21,9,,,,,Clifton Miller,Trevor Barbosa,Benjamin Walker-Edwards,Devon Lee
+Group Stage,5.0 Expert,Group A,2,Single game,The Blind Bandits,9/10 Dentists Recommend,The Blind Bandits,21,17,,,,,Noah Saddik,Joey Carmichael,Tim Gaskin,Adrianna Grothause
+Group Stage,5.0 Expert,Group B,2,Single game,Nelson / Lowe,hits don't lie,Nelson / Lowe,21,10,,,,,Elle Lowe,Connor Nelson,Dylan Cunningham,Nate Gauthier
+Group Stage,5.0 Expert,Group B,2,Single game,REIGN,Harold and Kumar,Harold and Kumar,15,21,,,,,Thompson Yang,Costas Foster,Matthew Kamimura,Niviru Wijayaratne
+Group Stage,5.0 Expert,Group A,3,Single game,De 916,The Blind Bandits,De 916,21,12,,,,,Clifton Miller,Trevor Barbosa,Noah Saddik,Joey Carmichael
+Group Stage,5.0 Expert,Group A,3,Single game,fun guys,9/10 Dentists Recommend,9/10 Dentists Recommend,21,23,,,,,Alec Galbo,Jake Oxendine,Tim Gaskin,Adrianna Grothause
+Group Stage,5.0 Expert,Group B,3,Single game,Nelson / Lowe,REIGN,Nelson / Lowe,21,13,,,,,Elle Lowe,Connor Nelson,Thompson Yang,Costas Foster
+Group Stage,5.0 Expert,Group B,3,Single game,Big Slick,Harold and Kumar,Big Slick,21,12,,,,,Michael Du,Nathan Robertt,Matthew Kamimura,Niviru Wijayaratne
+Group Stage,5.0 Expert,Group A,4,Single game,fun guys,The Blind Bandits,The Blind Bandits,15,21,,,,,Alec Galbo,Jake Oxendine,Noah Saddik,Joey Carmichael
+Group Stage,5.0 Expert,Group A,4,Single game,Ben Dover,9/10 Dentists Recommend,Ben Dover,21,17,,,,,Benjamin Walker-Edwards,Devon Lee,Tim Gaskin,Adrianna Grothause
+Group Stage,5.0 Expert,Group B,4,Single game,Big Slick,REIGN,Big Slick,21,11,,,,,Michael Du,Nathan Robertt,Thompson Yang,Costas Foster
+Group Stage,5.0 Expert,Group B,4,Single game,hits don't lie,Harold and Kumar,Harold and Kumar,12,21,,,,,Dylan Cunningham,Nate Gauthier,Matthew Kamimura,Niviru Wijayaratne
+Group Stage,5.0 Expert,Group A,5,Single game,De 916,fun guys,De 916,21,18,,,,,Clifton Miller,Trevor Barbosa,Alec Galbo,Jake Oxendine
+Group Stage,5.0 Expert,Group A,5,Single game,The Blind Bandits,Ben Dover,The Blind Bandits,21,16,,,,,Noah Saddik,Joey Carmichael,Benjamin Walker-Edwards,Devon Lee
+Group Stage,5.0 Expert,Group B,5,Single game,Nelson / Lowe,Big Slick,Nelson / Lowe,22,20,,,,,Elle Lowe,Connor Nelson,Michael Du,Nathan Robertt
+Group Stage,5.0 Expert,Group B,5,Single game,REIGN,hits don't lie,hits don't lie,23,25,,,,,Thompson Yang,Costas Foster,Dylan Cunningham,Nate Gauthier
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,9/10 Dentists Recommend,REIGN,9/10 Dentists Recommend,21,16,21,14,,,Tim Gaskin,Adrianna Grothause,Thompson Yang,Costas Foster
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,Ben Dover,hits don't lie,Ben Dover,21,13,21,14,,,Benjamin Walker-Edwards,Devon Lee,Dylan Cunningham,Nate Gauthier
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Nelson / Lowe,Ben Dover,Nelson / Lowe,1,0,1,0,,,Elle Lowe,Connor Nelson,Benjamin Walker-Edwards,Devon Lee
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,De 916,9/10 Dentists Recommend,De 916,21,15,21,12,,,Clifton Miller,Trevor Barbosa,Tim Gaskin,Adrianna Grothause
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Big Slick,fun guys,Big Slick,21,13,21,15,,,Michael Du,Nathan Robertt,Alec Galbo,Jake Oxendine
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,The Blind Bandits,Harold and Kumar,The Blind Bandits,0,1,1,0,1,0,Noah Saddik,Joey Carmichael,Matthew Kamimura,Niviru Wijayaratne
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Nelson / Lowe,The Blind Bandits,Nelson / Lowe,21,16,21,10,,,Elle Lowe,Connor Nelson,Noah Saddik,Joey Carmichael
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,De 916,Big Slick,Big Slick,21,19,19,21,18,21,Clifton Miller,Trevor Barbosa,Michael Du,Nathan Robertt
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Best of 3,fun guys,9/10 Dentists Recommend,fun guys,1,0,0,1,1,0,Alec Galbo,Jake Oxendine,Tim Gaskin,Adrianna Grothause
+Bracket Stage,5.0 Expert,Bracket A,Final,Best of 3,Nelson / Lowe,Big Slick,Nelson / Lowe,21,16,21,17,,,Elle Lowe,Connor Nelson,Michael Du,Nathan Robertt
+Bracket Stage,5.0 Expert,Bracket A,P3: Final,Single game,De 916,The Blind Bandits,De 916,21,9,,,,,Clifton Miller,Trevor Barbosa,Noah Saddik,Joey Carmichael
+Group Stage,2.0-4.0 Contender,Group A,1,Single game,Poutine Powered,Beef noodle soup,Poutine Powered,15,4,,,,,George Zywiel,Brian Quach,Matthew Banh,Jonathan Chen
+Group Stage,2.0-4.0 Contender,Group A,1,Single game,Alex/Jack,HAYES-HEELY,Alex/Jack,15,11,,,,,Jack Busa,Alex Veron,Dustin Sicherman,James Tabula
+Group Stage,2.0-4.0 Contender,Group A,1,Single game,Safe Sets,Canadian Giraffes,Safe Sets,15,2,,,,,Jonas Frost,Gavin Hansen,Nathan Nguyen,Datis Shoushtary
+Group Stage,2.0-4.0 Contender,Group A,1,Single game,Knott Rad,Rimmers,Rimmers,11,15,,,,,Jaden Knott,Konrad Niemiec,Michael Twersky,Bryant Odom
+Group Stage,2.0-4.0 Contender,Group B,1,Single game,Da Bois,Dipz and Rimz,Da Bois,15,4,,,,,Michael Leung,Emmanuel Flores,Gavin Anderson,Eric Pineda
+Group Stage,2.0-4.0 Contender,Group B,1,Single game,Tech Bros,Spike Bros,Tech Bros,15,5,,,,,Jake Eichenseer,Trevor Folden,Emma Kittrell,Jeslyn Theodore
+Group Stage,2.0-4.0 Contender,Group B,1,Single game,Chicharron Boys,The Orcas,Chicharron Boys,15,9,,,,,Ryan Michelfelder,Justin Estores,Justin Hyland,Josh Pereira
+Group Stage,2.0-4.0 Contender,Group B,1,Single game,REDNECKGREG93,sami & jacob,sami & jacob,11,15,,,,,Ben Harkey,Leo Mikelonis,Jacob Kusper,Sami Attebery
+Group Stage,2.0-4.0 Contender,Group A,2,Single game,Poutine Powered,HAYES-HEELY,Poutine Powered,15,10,,,,,George Zywiel,Brian Quach,Dustin Sicherman,James Tabula
+Group Stage,2.0-4.0 Contender,Group A,2,Single game,Alex/Jack,Rimmers,Alex/Jack,16,14,,,,,Jack Busa,Alex Veron,Michael Twersky,Bryant Odom
+Group Stage,2.0-4.0 Contender,Group A,2,Single game,Safe Sets,Knott Rad,Safe Sets,15,6,,,,,Jonas Frost,Gavin Hansen,Jaden Knott,Konrad Niemiec
+Group Stage,2.0-4.0 Contender,Group A,2,Single game,Canadian Giraffes,Beef noodle soup,Beef noodle soup,14,16,,,,,Nathan Nguyen,Datis Shoushtary,Matthew Banh,Jonathan Chen
+Group Stage,2.0-4.0 Contender,Group B,2,Single game,Da Bois,Spike Bros,Da Bois,15,6,,,,,Michael Leung,Emmanuel Flores,Emma Kittrell,Jeslyn Theodore
+Group Stage,2.0-4.0 Contender,Group B,2,Single game,Tech Bros,sami & jacob,Tech Bros,15,11,,,,,Jake Eichenseer,Trevor Folden,Jacob Kusper,Sami Attebery
+Group Stage,2.0-4.0 Contender,Group B,2,Single game,Chicharron Boys,REDNECKGREG93,Chicharron Boys,15,6,,,,,Ryan Michelfelder,Justin Estores,Ben Harkey,Leo Mikelonis
+Group Stage,2.0-4.0 Contender,Group B,2,Single game,The Orcas,Dipz and Rimz,Dipz and Rimz,10,15,,,,,Justin Hyland,Josh Pereira,Gavin Anderson,Eric Pineda
+Group Stage,2.0-4.0 Contender,Group A,3,Single game,Poutine Powered,Canadian Giraffes,Poutine Powered,15,12,,,,,George Zywiel,Brian Quach,Nathan Nguyen,Datis Shoushtary
+Group Stage,2.0-4.0 Contender,Group A,3,Single game,Alex/Jack,Safe Sets,Safe Sets,9,15,,,,,Jack Busa,Alex Veron,Jonas Frost,Gavin Hansen
+Group Stage,2.0-4.0 Contender,Group A,3,Single game,Knott Rad,Beef noodle soup,Beef noodle soup,10,15,,,,,Jaden Knott,Konrad Niemiec,Matthew Banh,Jonathan Chen
+Group Stage,2.0-4.0 Contender,Group A,3,Single game,Rimmers,HAYES-HEELY,Rimmers,15,11,,,,,Michael Twersky,Bryant Odom,Dustin Sicherman,James Tabula
+Group Stage,2.0-4.0 Contender,Group B,3,Single game,Da Bois,The Orcas,Da Bois,15,7,,,,,Michael Leung,Emmanuel Flores,Justin Hyland,Josh Pereira
+Group Stage,2.0-4.0 Contender,Group B,3,Single game,Tech Bros,Chicharron Boys,Chicharron Boys,8,15,,,,,Jake Eichenseer,Trevor Folden,Ryan Michelfelder,Justin Estores
+Group Stage,2.0-4.0 Contender,Group B,3,Single game,REDNECKGREG93,Dipz and Rimz,REDNECKGREG93,15,13,,,,,Ben Harkey,Leo Mikelonis,Gavin Anderson,Eric Pineda
+Group Stage,2.0-4.0 Contender,Group B,3,Single game,sami & jacob,Spike Bros,sami & jacob,15,6,,,,,Jacob Kusper,Sami Attebery,Emma Kittrell,Jeslyn Theodore
+Group Stage,2.0-4.0 Contender,Group A,4,Single game,Poutine Powered,Rimmers,Poutine Powered,15,6,,,,,George Zywiel,Brian Quach,Michael Twersky,Bryant Odom
+Group Stage,2.0-4.0 Contender,Group A,4,Single game,Alex/Jack,Beef noodle soup,Alex/Jack,15,11,,,,,Jack Busa,Alex Veron,Matthew Banh,Jonathan Chen
+Group Stage,2.0-4.0 Contender,Group A,4,Single game,Safe Sets,HAYES-HEELY,Safe Sets,15,4,,,,,Jonas Frost,Gavin Hansen,Dustin Sicherman,James Tabula
+Group Stage,2.0-4.0 Contender,Group A,4,Single game,Knott Rad,Canadian Giraffes,Canadian Giraffes,9,15,,,,,Jaden Knott,Konrad Niemiec,Nathan Nguyen,Datis Shoushtary
+Group Stage,2.0-4.0 Contender,Group B,4,Single game,Da Bois,sami & jacob,Da Bois,15,13,,,,,Michael Leung,Emmanuel Flores,Jacob Kusper,Sami Attebery
+Group Stage,2.0-4.0 Contender,Group B,4,Single game,Tech Bros,Dipz and Rimz,Tech Bros,15,4,,,,,Jake Eichenseer,Trevor Folden,Gavin Anderson,Eric Pineda
+Group Stage,2.0-4.0 Contender,Group B,4,Single game,Chicharron Boys,Spike Bros,Chicharron Boys,15,3,,,,,Ryan Michelfelder,Justin Estores,Emma Kittrell,Jeslyn Theodore
+Group Stage,2.0-4.0 Contender,Group B,4,Single game,REDNECKGREG93,The Orcas,REDNECKGREG93,15,8,,,,,Ben Harkey,Leo Mikelonis,Justin Hyland,Josh Pereira
+Group Stage,2.0-4.0 Contender,Group A,5,Single game,Poutine Powered,Knott Rad,Poutine Powered,15,7,,,,,George Zywiel,Brian Quach,Jaden Knott,Konrad Niemiec
+Group Stage,2.0-4.0 Contender,Group A,5,Single game,Alex/Jack,Canadian Giraffes,Alex/Jack,15,13,,,,,Jack Busa,Alex Veron,Nathan Nguyen,Datis Shoushtary
+Group Stage,2.0-4.0 Contender,Group A,5,Single game,Safe Sets,Rimmers,Safe Sets,15,6,,,,,Jonas Frost,Gavin Hansen,Michael Twersky,Bryant Odom
+Group Stage,2.0-4.0 Contender,Group A,5,Single game,HAYES-HEELY,Beef noodle soup,HAYES-HEELY,15,11,,,,,Dustin Sicherman,James Tabula,Matthew Banh,Jonathan Chen
+Group Stage,2.0-4.0 Contender,Group B,5,Single game,Da Bois,REDNECKGREG93,Da Bois,15,9,,,,,Michael Leung,Emmanuel Flores,Ben Harkey,Leo Mikelonis
+Group Stage,2.0-4.0 Contender,Group B,5,Single game,Tech Bros,The Orcas,Tech Bros,15,7,,,,,Jake Eichenseer,Trevor Folden,Justin Hyland,Josh Pereira
+Group Stage,2.0-4.0 Contender,Group B,5,Single game,Chicharron Boys,sami & jacob,Chicharron Boys,15,12,,,,,Ryan Michelfelder,Justin Estores,Jacob Kusper,Sami Attebery
+Group Stage,2.0-4.0 Contender,Group B,5,Single game,Spike Bros,Dipz and Rimz,Dipz and Rimz,11,15,,,,,Emma Kittrell,Jeslyn Theodore,Gavin Anderson,Eric Pineda
+Group Stage,2.0-4.0 Contender,Group A,6,Single game,Poutine Powered,Safe Sets,Poutine Powered,17,15,,,,,George Zywiel,Brian Quach,Jonas Frost,Gavin Hansen
+Group Stage,2.0-4.0 Contender,Group A,6,Single game,Alex/Jack,Knott Rad,Alex/Jack,15,8,,,,,Jack Busa,Alex Veron,Jaden Knott,Konrad Niemiec
+Group Stage,2.0-4.0 Contender,Group A,6,Single game,Rimmers,Beef noodle soup,Rimmers,15,11,,,,,Michael Twersky,Bryant Odom,Matthew Banh,Jonathan Chen
+Group Stage,2.0-4.0 Contender,Group A,6,Single game,Canadian Giraffes,HAYES-HEELY,Canadian Giraffes,15,12,,,,,Nathan Nguyen,Datis Shoushtary,Dustin Sicherman,James Tabula
+Group Stage,2.0-4.0 Contender,Group B,6,Single game,Da Bois,Chicharron Boys,Chicharron Boys,7,15,,,,,Michael Leung,Emmanuel Flores,Ryan Michelfelder,Justin Estores
+Group Stage,2.0-4.0 Contender,Group B,6,Single game,Tech Bros,REDNECKGREG93,Tech Bros,15,9,,,,,Jake Eichenseer,Trevor Folden,Ben Harkey,Leo Mikelonis
+Group Stage,2.0-4.0 Contender,Group B,6,Single game,sami & jacob,Dipz and Rimz,sami & jacob,15,12,,,,,Jacob Kusper,Sami Attebery,Gavin Anderson,Eric Pineda
+Group Stage,2.0-4.0 Contender,Group B,6,Single game,The Orcas,Spike Bros,The Orcas,15,11,,,,,Justin Hyland,Josh Pereira,Emma Kittrell,Jeslyn Theodore
+Group Stage,2.0-4.0 Contender,Group A,7,Single game,Poutine Powered,Alex/Jack,Poutine Powered,15,8,,,,,George Zywiel,Brian Quach,Jack Busa,Alex Veron
+Group Stage,2.0-4.0 Contender,Group A,7,Single game,Safe Sets,Beef noodle soup,Safe Sets,15,3,,,,,Jonas Frost,Gavin Hansen,Matthew Banh,Jonathan Chen
+Group Stage,2.0-4.0 Contender,Group A,7,Single game,Knott Rad,HAYES-HEELY,HAYES-HEELY,10,15,,,,,Jaden Knott,Konrad Niemiec,Dustin Sicherman,James Tabula
+Group Stage,2.0-4.0 Contender,Group A,7,Single game,Rimmers,Canadian Giraffes,Rimmers,15,9,,,,,Michael Twersky,Bryant Odom,Nathan Nguyen,Datis Shoushtary
+Group Stage,2.0-4.0 Contender,Group B,7,Single game,Da Bois,Tech Bros,Tech Bros,13,15,,,,,Michael Leung,Emmanuel Flores,Jake Eichenseer,Trevor Folden
+Group Stage,2.0-4.0 Contender,Group B,7,Single game,Chicharron Boys,Dipz and Rimz,Chicharron Boys,15,9,,,,,Ryan Michelfelder,Justin Estores,Gavin Anderson,Eric Pineda
+Group Stage,2.0-4.0 Contender,Group B,7,Single game,REDNECKGREG93,Spike Bros,REDNECKGREG93,15,5,,,,,Ben Harkey,Leo Mikelonis,Emma Kittrell,Jeslyn Theodore
+Group Stage,2.0-4.0 Contender,Group B,7,Single game,sami & jacob,The Orcas,sami & jacob,15,9,,,,,Jacob Kusper,Sami Attebery,Justin Hyland,Josh Pereira
+Bracket Stage,2.0-4.0 Contender,Bracket A,Round of 16,Best of 3,Chicharron Boys,Spike Bros,Chicharron Boys,21,6,21,9,,,Ryan Michelfelder,Justin Estores,Emma Kittrell,Jeslyn Theodore
+Bracket Stage,2.0-4.0 Contender,Bracket A,Round of 16,Best of 3,Poutine Powered,Knott Rad,Poutine Powered,21,5,21,12,,,George Zywiel,Brian Quach,Jaden Knott,Konrad Niemiec
+Bracket Stage,2.0-4.0 Contender,Bracket A,Round of 16,Best of 3,Safe Sets,The Orcas,Safe Sets,21,11,21,8,,,Jonas Frost,Gavin Hansen,Justin Hyland,Josh Pereira
+Bracket Stage,2.0-4.0 Contender,Bracket A,Round of 16,Best of 3,Tech Bros,Beef noodle soup,Tech Bros,21,10,21,12,,,Jake Eichenseer,Trevor Folden,Matthew Banh,Jonathan Chen
+Bracket Stage,2.0-4.0 Contender,Bracket A,Round of 16,Best of 3,Da Bois,Dipz and Rimz,Da Bois,21,16,21,11,,,Michael Leung,Emmanuel Flores,Gavin Anderson,Eric Pineda
+Bracket Stage,2.0-4.0 Contender,Bracket A,Round of 16,Best of 3,Alex/Jack,HAYES-HEELY,Alex/Jack,21,13,21,15,,,Jack Busa,Alex Veron,Dustin Sicherman,James Tabula
+Bracket Stage,2.0-4.0 Contender,Bracket A,Round of 16,Best of 3,sami & jacob,Canadian Giraffes,sami & jacob,21,11,21,10,,,Jacob Kusper,Sami Attebery,Nathan Nguyen,Datis Shoushtary
+Bracket Stage,2.0-4.0 Contender,Bracket A,Round of 16,Best of 3,Rimmers,REDNECKGREG93,REDNECKGREG93,18,21,17,21,,,Michael Twersky,Bryant Odom,Ben Harkey,Leo Mikelonis
+Bracket Stage,2.0-4.0 Contender,Bracket A,Quarter-final,Best of 3,Chicharron Boys,REDNECKGREG93,Chicharron Boys,21,19,22,20,,,Ryan Michelfelder,Justin Estores,Ben Harkey,Leo Mikelonis
+Bracket Stage,2.0-4.0 Contender,Bracket A,Quarter-final,Best of 3,Poutine Powered,sami & jacob,Poutine Powered,21,14,21,17,,,George Zywiel,Brian Quach,Jacob Kusper,Sami Attebery
+Bracket Stage,2.0-4.0 Contender,Bracket A,Quarter-final,Best of 3,Safe Sets,Alex/Jack,Safe Sets,21,12,21,14,,,Jonas Frost,Gavin Hansen,Jack Busa,Alex Veron
+Bracket Stage,2.0-4.0 Contender,Bracket A,Quarter-final,Best of 3,Tech Bros,Da Bois,Da Bois,22,20,20,22,16,21,Jake Eichenseer,Trevor Folden,Michael Leung,Emmanuel Flores
+Bracket Stage,2.0-4.0 Contender,Bracket A,P9: Quarter-final,Best of 3,Rimmers,Spike Bros,Rimmers,21,9,21,15,,,Michael Twersky,Bryant Odom,Emma Kittrell,Jeslyn Theodore
+Bracket Stage,2.0-4.0 Contender,Bracket A,P9: Quarter-final,Best of 3,Dipz and Rimz,Beef noodle soup,Dipz and Rimz,21,17,21,7,,,Gavin Anderson,Eric Pineda,Matthew Banh,Jonathan Chen
+Bracket Stage,2.0-4.0 Contender,Bracket A,Semi-final,Best of 3,Chicharron Boys,Da Bois,Da Bois,0,1,0,1,,,Ryan Michelfelder,Justin Estores,Michael Leung,Emmanuel Flores
+Bracket Stage,2.0-4.0 Contender,Bracket A,Semi-final,Best of 3,Poutine Powered,Safe Sets,Poutine Powered,21,19,18,21,22,20,George Zywiel,Brian Quach,Jonas Frost,Gavin Hansen
+Bracket Stage,2.0-4.0 Contender,Bracket A,P5: Semi-final,Best of 3,Tech Bros,REDNECKGREG93,REDNECKGREG93,16,21,21,23,,,Jake Eichenseer,Trevor Folden,Ben Harkey,Leo Mikelonis
+Bracket Stage,2.0-4.0 Contender,Bracket A,P9: Semi-final,Best of 3,Rimmers,Dipz and Rimz,Rimmers,21,11,19,21,21,9,Michael Twersky,Bryant Odom,Gavin Anderson,Eric Pineda
+Bracket Stage,2.0-4.0 Contender,Bracket A,Final,Best of 3,Da Bois,Poutine Powered,Poutine Powered,19,21,18,21,,,Michael Leung,Emmanuel Flores,George Zywiel,Brian Quach
+Bracket Stage,2.0-4.0 Contender,Bracket A,P3: Final,Single game,Safe Sets,Chicharron Boys,Safe Sets,0,-1,,,,,Jonas Frost,Gavin Hansen,Ryan Michelfelder,Justin Estores
