@@ -1,0 +1,152 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Premier 5.0,Group A,1,Single game,Abrams/Rose,One Touch Man,Abrams/Rose,21,17,,,,,Kieran Rose,Dan Abrams,Josiah Sanders,Luis Orozco
+Group Stage,Premier 5.0,Group A,1,Single game,Dkdnkslsnd,WySpike Moaning While Driving,Dkdnkslsnd,22,20,,,,,Grant Marshall,Nathan Montgomery,Nick Noguez,Garrett Hornok
+Group Stage,Premier 5.0,Group B,1,Single game,3 Plate Combo,Low Blows,3 Plate Combo,21,12,,,,,Luke Mowry,Matthew Cole,Kevin Chen,Jonathan Yuan
+Group Stage,Premier 5.0,Group B,1,Single game,Dinomite,Persnickety Fits,Dinomite,21,15,,,,,Auriel Wish,Charlie Camarena,Brian Childs,Luke Marshall
+Group Stage,Premier 5.0,Group C,1,Single game,Big Dawgs,Bomb Pop Tweas,Big Dawgs,21,10,,,,,Tyler Fernandez,Caleb Cummings,Adam Prudhomme,Josiah Murphy
+Group Stage,Premier 5.0,Group C,1,Single game,SFX,"""Business Trip""",SFX,21,19,,,,,Fredric Hinkle,Ethan McWhirter,Connor Larsen,Jake Young
+Group Stage,Premier 5.0,Group A,2,Single game,Abrams/Rose,WySpike Moaning While Driving,Abrams/Rose,21,18,,,,,Kieran Rose,Dan Abrams,Nick Noguez,Garrett Hornok
+Group Stage,Premier 5.0,Group A,2,Single game,Venenosa,One Touch Man,One Touch Man,16,21,,,,,Patricio Duran,Juan Moscoso,Josiah Sanders,Luis Orozco
+Group Stage,Premier 5.0,Group B,2,Single game,3 Plate Combo,Persnickety Fits,3 Plate Combo,21,12,,,,,Luke Mowry,Matthew Cole,Brian Childs,Luke Marshall
+Group Stage,Premier 5.0,Group B,2,Single game,Pocket Aces,Low Blows,Pocket Aces,21,17,,,,,Garrett Ashton,Micah Allin,Kevin Chen,Jonathan Yuan
+Group Stage,Premier 5.0,Group C,2,Single game,Big Dawgs,"""Business Trip""",Big Dawgs,21,15,,,,,Tyler Fernandez,Caleb Cummings,Connor Larsen,Jake Young
+Group Stage,Premier 5.0,Group C,2,Single game,WySpike Bulk Season,Bomb Pop Tweas,WySpike Bulk Season,21,16,,,,,Colton Mowry,Matthew Burrows,Adam Prudhomme,Josiah Murphy
+Group Stage,Premier 5.0,Group A,3,Single game,Abrams/Rose,Venenosa,Abrams/Rose,23,21,,,,,Kieran Rose,Dan Abrams,Patricio Duran,Juan Moscoso
+Group Stage,Premier 5.0,Group A,3,Single game,Dkdnkslsnd,One Touch Man,One Touch Man,20,22,,,,,Grant Marshall,Nathan Montgomery,Josiah Sanders,Luis Orozco
+Group Stage,Premier 5.0,Group B,3,Single game,3 Plate Combo,Pocket Aces,3 Plate Combo,21,10,,,,,Luke Mowry,Matthew Cole,Garrett Ashton,Micah Allin
+Group Stage,Premier 5.0,Group B,3,Single game,Dinomite,Low Blows,Dinomite,21,12,,,,,Auriel Wish,Charlie Camarena,Kevin Chen,Jonathan Yuan
+Group Stage,Premier 5.0,Group C,3,Single game,Big Dawgs,WySpike Bulk Season,Big Dawgs,21,16,,,,,Tyler Fernandez,Caleb Cummings,Colton Mowry,Matthew Burrows
+Group Stage,Premier 5.0,Group C,3,Single game,SFX,Bomb Pop Tweas,SFX,21,16,,,,,Fredric Hinkle,Ethan McWhirter,Adam Prudhomme,Josiah Murphy
+Group Stage,Premier 5.0,Group A,4,Single game,Dkdnkslsnd,Venenosa,Dkdnkslsnd,22,20,,,,,Grant Marshall,Nathan Montgomery,Patricio Duran,Juan Moscoso
+Group Stage,Premier 5.0,Group A,4,Single game,WySpike Moaning While Driving,One Touch Man,WySpike Moaning While Driving,21,17,,,,,Nick Noguez,Garrett Hornok,Josiah Sanders,Luis Orozco
+Group Stage,Premier 5.0,Group B,4,Single game,Dinomite,Pocket Aces,Dinomite,21,19,,,,,Auriel Wish,Charlie Camarena,Garrett Ashton,Micah Allin
+Group Stage,Premier 5.0,Group B,4,Single game,Persnickety Fits,Low Blows,Persnickety Fits,21,18,,,,,Brian Childs,Luke Marshall,Kevin Chen,Jonathan Yuan
+Group Stage,Premier 5.0,Group C,4,Single game,SFX,WySpike Bulk Season,SFX,21,14,,,,,Fredric Hinkle,Ethan McWhirter,Colton Mowry,Matthew Burrows
+Group Stage,Premier 5.0,Group C,4,Single game,"""Business Trip""",Bomb Pop Tweas,Bomb Pop Tweas,24,25,,,,,Connor Larsen,Jake Young,Adam Prudhomme,Josiah Murphy
+Group Stage,Premier 5.0,Group A,5,Single game,Abrams/Rose,Dkdnkslsnd,Abrams/Rose,21,10,,,,,Kieran Rose,Dan Abrams,Grant Marshall,Nathan Montgomery
+Group Stage,Premier 5.0,Group A,5,Single game,Venenosa,WySpike Moaning While Driving,Venenosa,21,14,,,,,Patricio Duran,Juan Moscoso,Nick Noguez,Garrett Hornok
+Group Stage,Premier 5.0,Group B,5,Single game,3 Plate Combo,Dinomite,3 Plate Combo,21,18,,,,,Luke Mowry,Matthew Cole,Auriel Wish,Charlie Camarena
+Group Stage,Premier 5.0,Group B,5,Single game,Pocket Aces,Persnickety Fits,Pocket Aces,21,19,,,,,Garrett Ashton,Micah Allin,Brian Childs,Luke Marshall
+Group Stage,Premier 5.0,Group C,5,Single game,Big Dawgs,SFX,Big Dawgs,21,17,,,,,Tyler Fernandez,Caleb Cummings,Fredric Hinkle,Ethan McWhirter
+Group Stage,Premier 5.0,Group C,5,Single game,WySpike Bulk Season,"""Business Trip""",WySpike Bulk Season,25,24,,,,,Colton Mowry,Matthew Burrows,Connor Larsen,Jake Young
+Bracket Stage,Premier 5.0,Bracket A,Round of 16,Best of 3,Big Dawgs,Low Blows,Big Dawgs,21,10,21,14,,,Tyler Fernandez,Caleb Cummings,Kevin Chen,Jonathan Yuan
+Bracket Stage,Premier 5.0,Bracket A,Round of 16,Best of 3,Abrams/Rose,"""Business Trip""",Abrams/Rose,21,10,21,10,,,Kieran Rose,Dan Abrams,Connor Larsen,Jake Young
+Bracket Stage,Premier 5.0,Bracket A,Round of 16,Best of 3,Dinomite,Bomb Pop Tweas,Dinomite,21,15,24,22,,,Auriel Wish,Charlie Camarena,Adam Prudhomme,Josiah Murphy
+Bracket Stage,Premier 5.0,Bracket A,Round of 16,Best of 3,SFX,Persnickety Fits,SFX,21,19,21,17,,,Fredric Hinkle,Ethan McWhirter,Brian Childs,Luke Marshall
+Bracket Stage,Premier 5.0,Bracket A,Round of 16,Best of 3,One Touch Man,WySpike Moaning While Driving,WySpike Moaning While Driving,18,21,16,21,,,Josiah Sanders,Luis Orozco,Nick Noguez,Garrett Hornok
+Bracket Stage,Premier 5.0,Bracket A,Round of 16,Best of 3,WySpike Bulk Season,Venenosa,WySpike Bulk Season,21,19,21,18,,,Colton Mowry,Matthew Burrows,Patricio Duran,Juan Moscoso
+Bracket Stage,Premier 5.0,Bracket A,Round of 16,Best of 3,Pocket Aces,Dkdnkslsnd,Pocket Aces,21,10,19,21,21,18,Garrett Ashton,Micah Allin,Grant Marshall,Nathan Montgomery
+Bracket Stage,Premier 5.0,Bracket A,Quarter-final,Best of 3,3 Plate Combo,Pocket Aces,3 Plate Combo,21,13,21,16,,,Luke Mowry,Matthew Cole,Garrett Ashton,Micah Allin
+Bracket Stage,Premier 5.0,Bracket A,Quarter-final,Best of 3,Big Dawgs,WySpike Bulk Season,Big Dawgs,21,14,21,15,,,Tyler Fernandez,Caleb Cummings,Colton Mowry,Matthew Burrows
+Bracket Stage,Premier 5.0,Bracket A,Quarter-final,Best of 3,Abrams/Rose,WySpike Moaning While Driving,Abrams/Rose,21,15,21,13,,,Kieran Rose,Dan Abrams,Nick Noguez,Garrett Hornok
+Bracket Stage,Premier 5.0,Bracket A,Quarter-final,Best of 3,Dinomite,SFX,Dinomite,18,21,21,15,21,14,Auriel Wish,Charlie Camarena,Fredric Hinkle,Ethan McWhirter
+Bracket Stage,Premier 5.0,Bracket A,P9: Quarter-final,Best of 3,Venenosa,Low Blows,Venenosa,21,9,21,18,,,Patricio Duran,Juan Moscoso,Kevin Chen,Jonathan Yuan
+Bracket Stage,Premier 5.0,Bracket A,P9: Quarter-final,Best of 3,One Touch Man,"""Business Trip""","""Business Trip""",21,17,19,21,19,21,Josiah Sanders,Luis Orozco,Connor Larsen,Jake Young
+Bracket Stage,Premier 5.0,Bracket A,P9: Quarter-final,Best of 3,Persnickety Fits,Bomb Pop Tweas,Persnickety Fits,13,15,15,13,17,15,Brian Childs,Luke Marshall,Adam Prudhomme,Josiah Murphy
+Bracket Stage,Premier 5.0,Bracket A,Semi-final,Best of 3,3 Plate Combo,Dinomite,3 Plate Combo,21,18,21,17,,,Luke Mowry,Matthew Cole,Auriel Wish,Charlie Camarena
+Bracket Stage,Premier 5.0,Bracket A,Semi-final,Best of 3,Big Dawgs,Abrams/Rose,Big Dawgs,19,21,21,13,21,13,Tyler Fernandez,Caleb Cummings,Kieran Rose,Dan Abrams
+Bracket Stage,Premier 5.0,Bracket A,P5: Semi-final,Best of 3,SFX,Pocket Aces,Pocket Aces,-1,1,-1,1,,,Fredric Hinkle,Ethan McWhirter,Garrett Ashton,Micah Allin
+Bracket Stage,Premier 5.0,Bracket A,P9: Semi-final,Best of 3,Dkdnkslsnd,Persnickety Fits,Dkdnkslsnd,21,13,1,0,,,Grant Marshall,Nathan Montgomery,Brian Childs,Luke Marshall
+Bracket Stage,Premier 5.0,Bracket A,P9: Semi-final,Best of 3,Venenosa,"""Business Trip""",Venenosa,21,17,1,0,,,Patricio Duran,Juan Moscoso,Connor Larsen,Jake Young
+Bracket Stage,Premier 5.0,Bracket A,Final,Best of 3,3 Plate Combo,Big Dawgs,3 Plate Combo,17,21,21,14,21,17,Luke Mowry,Matthew Cole,Tyler Fernandez,Caleb Cummings
+Bracket Stage,Premier 5.0,Bracket A,P3: Final,Best of 3,Abrams/Rose,Dinomite,Abrams/Rose,18,21,21,17,21,13,Kieran Rose,Dan Abrams,Auriel Wish,Charlie Camarena
+Bracket Stage,Premier 5.0,Bracket A,P9: Final,Best of 3,Dkdnkslsnd,Venenosa,Dkdnkslsnd,21,12,1,0,,,Grant Marshall,Nathan Montgomery,Patricio Duran,Juan Moscoso
+Group Stage,Contender 4.5,Group A,1,Single game,Balo Halo Halo,Slap'in Bass,Balo Halo Halo,21,9,,,,,Justin Estores,Tahseen Robbani,Mark Randall,Luke Twardowski
+Group Stage,Contender 4.5,Group A,1,Single game,Jules fan club,Kim and Donald,Jules fan club,21,16,,,,,Aimee Bray,Sam Aven,Corey Palm,Patrick Dinh
+Group Stage,Contender 4.5,Group A,1,Single game,The Small Ballers,george howe,The Small Ballers,23,21,,,,,JP Chincuanco,Jerm Porter,Rhett Howe,Walter Siller
+Group Stage,Contender 4.5,Group B,1,Single game,Quinntin Tarantimo,Net Ninjas,Quinntin Tarantimo,21,8,,,,,Quinn Hufler,Tim Gaskin,Brayden Ernst,Thomas Evans
+Group Stage,Contender 4.5,Group B,1,Single game,Ultralight Beam,"Sigmas Unite, Together We Sit",Ultralight Beam,21,6,,,,,Jack Stinson,Jared Almon,Oliver Hebel,Roger Li
+Group Stage,Contender 4.5,Group B,1,Single game,9579 Stud Street Lane,Triple Slaw No Chicken,Triple Slaw No Chicken,9,21,,,,,Brendan Walker,Pablo Riascos,Iason Hayes,Nathan Garcia
+Group Stage,Contender 4.5,Group C,1,Single game,Straight Outta Brittingham,Olive Garden,Straight Outta Brittingham,21,6,,,,,Anthony Winney,Devon Lee,Jacob Wang,Jonathan Nguyen
+Group Stage,Contender 4.5,Group C,1,Single game,Wheely Tired,Sons of Siemann,Wheely Tired,21,9,,,,,AJ Hutchinson,Ryan Montgomery,James Hudson,Barrett Maguire
+Group Stage,Contender 4.5,Group C,1,Single game,Henry Raman Fan Club,Reverse! Reverse!,Reverse! Reverse!,11,21,,,,,Aman Khemka,Hampton Chappell,Felipe Martinez,Caleb Allen
+Group Stage,Contender 4.5,Group A,2,Single game,Balo Halo Halo,Kim and Donald,Balo Halo Halo,21,15,,,,,Justin Estores,Tahseen Robbani,Corey Palm,Patrick Dinh
+Group Stage,Contender 4.5,Group A,2,Single game,Jules fan club,"Devious Dawgs ","Devious Dawgs ",16,21,,,,,Aimee Bray,Sam Aven,Ross Lochbaum,Nick Neuman
+Group Stage,Contender 4.5,Group A,2,Single game,george howe,Slap'in Bass,george howe,21,7,,,,,Rhett Howe,Walter Siller,Mark Randall,Luke Twardowski
+Group Stage,Contender 4.5,Group B,2,Single game,Quinntin Tarantimo,"Sigmas Unite, Together We Sit",Quinntin Tarantimo,21,2,,,,,Quinn Hufler,Tim Gaskin,Oliver Hebel,Roger Li
+Group Stage,Contender 4.5,Group B,2,Single game,Ultralight Beam,Doubled Up Can't Clutch,Ultralight Beam,21,8,,,,,Jack Stinson,Jared Almon,Leonardo Hermosillo,Jacob Robinson
+Group Stage,Contender 4.5,Group B,2,Single game,Triple Slaw No Chicken,Net Ninjas,Triple Slaw No Chicken,21,8,,,,,Iason Hayes,Nathan Garcia,Brayden Ernst,Thomas Evans
+Group Stage,Contender 4.5,Group C,2,Single game,Straight Outta Brittingham,Sons of Siemann,Straight Outta Brittingham,21,8,,,,,Anthony Winney,Devon Lee,James Hudson,Barrett Maguire
+Group Stage,Contender 4.5,Group C,2,Single game,Wheely Tired,Velvet Thunder,Wheely Tired,21,17,,,,,AJ Hutchinson,Ryan Montgomery,Jamison Friauf,Gage Green
+Group Stage,Contender 4.5,Group C,2,Single game,Reverse! Reverse!,Olive Garden,Reverse! Reverse!,21,6,,,,,Felipe Martinez,Caleb Allen,Jacob Wang,Jonathan Nguyen
+Group Stage,Contender 4.5,Group A,3,Single game,Balo Halo Halo,george howe,george howe,12,21,,,,,Justin Estores,Tahseen Robbani,Rhett Howe,Walter Siller
+Group Stage,Contender 4.5,Group A,3,Single game,Jules fan club,The Small Ballers,The Small Ballers,15,21,,,,,Aimee Bray,Sam Aven,JP Chincuanco,Jerm Porter
+Group Stage,Contender 4.5,Group A,3,Single game,"Devious Dawgs ",Kim and Donald,"Devious Dawgs ",21,7,,,,,Ross Lochbaum,Nick Neuman,Corey Palm,Patrick Dinh
+Group Stage,Contender 4.5,Group B,3,Single game,Quinntin Tarantimo,Triple Slaw No Chicken,Quinntin Tarantimo,21,17,,,,,Quinn Hufler,Tim Gaskin,Iason Hayes,Nathan Garcia
+Group Stage,Contender 4.5,Group B,3,Single game,Ultralight Beam,9579 Stud Street Lane,Ultralight Beam,21,19,,,,,Jack Stinson,Jared Almon,Brendan Walker,Pablo Riascos
+Group Stage,Contender 4.5,Group B,3,Single game,Doubled Up Can't Clutch,"Sigmas Unite, Together We Sit",Doubled Up Can't Clutch,21,13,,,,,Leonardo Hermosillo,Jacob Robinson,Oliver Hebel,Roger Li
+Group Stage,Contender 4.5,Group C,3,Single game,Straight Outta Brittingham,Reverse! Reverse!,Straight Outta Brittingham,21,15,,,,,Anthony Winney,Devon Lee,Felipe Martinez,Caleb Allen
+Group Stage,Contender 4.5,Group C,3,Single game,Wheely Tired,Henry Raman Fan Club,Wheely Tired,21,18,,,,,AJ Hutchinson,Ryan Montgomery,Aman Khemka,Hampton Chappell
+Group Stage,Contender 4.5,Group C,3,Single game,Velvet Thunder,Sons of Siemann,Sons of Siemann,14,21,,,,,Jamison Friauf,Gage Green,James Hudson,Barrett Maguire
+Group Stage,Contender 4.5,Group A,4,Single game,Balo Halo Halo,"Devious Dawgs ",Balo Halo Halo,21,18,,,,,Justin Estores,Tahseen Robbani,Ross Lochbaum,Nick Neuman
+Group Stage,Contender 4.5,Group A,4,Single game,Jules fan club,Slap'in Bass,Jules fan club,21,17,,,,,Aimee Bray,Sam Aven,Mark Randall,Luke Twardowski
+Group Stage,Contender 4.5,Group A,4,Single game,The Small Ballers,Kim and Donald,The Small Ballers,21,5,,,,,JP Chincuanco,Jerm Porter,Corey Palm,Patrick Dinh
+Group Stage,Contender 4.5,Group B,4,Single game,Quinntin Tarantimo,Doubled Up Can't Clutch,Quinntin Tarantimo,21,15,,,,,Quinn Hufler,Tim Gaskin,Leonardo Hermosillo,Jacob Robinson
+Group Stage,Contender 4.5,Group B,4,Single game,Ultralight Beam,Net Ninjas,Ultralight Beam,21,4,,,,,Jack Stinson,Jared Almon,Brayden Ernst,Thomas Evans
+Group Stage,Contender 4.5,Group B,4,Single game,9579 Stud Street Lane,"Sigmas Unite, Together We Sit",9579 Stud Street Lane,21,9,,,,,Brendan Walker,Pablo Riascos,Oliver Hebel,Roger Li
+Group Stage,Contender 4.5,Group C,4,Single game,Straight Outta Brittingham,Velvet Thunder,Straight Outta Brittingham,21,9,,,,,Anthony Winney,Devon Lee,Jamison Friauf,Gage Green
+Group Stage,Contender 4.5,Group C,4,Single game,Wheely Tired,Olive Garden,Wheely Tired,21,5,,,,,AJ Hutchinson,Ryan Montgomery,Jacob Wang,Jonathan Nguyen
+Group Stage,Contender 4.5,Group C,4,Single game,Henry Raman Fan Club,Sons of Siemann,Henry Raman Fan Club,21,13,,,,,Aman Khemka,Hampton Chappell,James Hudson,Barrett Maguire
+Group Stage,Contender 4.5,Group A,5,Single game,Jules fan club,george howe,george howe,11,21,,,,,Aimee Bray,Sam Aven,Rhett Howe,Walter Siller
+Group Stage,Contender 4.5,Group A,5,Single game,The Small Ballers,"Devious Dawgs ",The Small Ballers,21,10,,,,,JP Chincuanco,Jerm Porter,Ross Lochbaum,Nick Neuman
+Group Stage,Contender 4.5,Group A,5,Single game,Kim and Donald,Slap'in Bass,Slap'in Bass,19,21,,,,,Corey Palm,Patrick Dinh,Mark Randall,Luke Twardowski
+Group Stage,Contender 4.5,Group B,5,Single game,Ultralight Beam,Triple Slaw No Chicken,Ultralight Beam,23,21,,,,,Jack Stinson,Jared Almon,Iason Hayes,Nathan Garcia
+Group Stage,Contender 4.5,Group B,5,Single game,9579 Stud Street Lane,Doubled Up Can't Clutch,Doubled Up Can't Clutch,17,21,,,,,Brendan Walker,Pablo Riascos,Leonardo Hermosillo,Jacob Robinson
+Group Stage,Contender 4.5,Group B,5,Single game,"Sigmas Unite, Together We Sit",Net Ninjas,Net Ninjas,20,22,,,,,Oliver Hebel,Roger Li,Brayden Ernst,Thomas Evans
+Group Stage,Contender 4.5,Group C,5,Single game,Wheely Tired,Reverse! Reverse!,Reverse! Reverse!,18,21,,,,,AJ Hutchinson,Ryan Montgomery,Felipe Martinez,Caleb Allen
+Group Stage,Contender 4.5,Group C,5,Single game,Henry Raman Fan Club,Velvet Thunder,Henry Raman Fan Club,21,16,,,,,Aman Khemka,Hampton Chappell,Jamison Friauf,Gage Green
+Group Stage,Contender 4.5,Group C,5,Single game,Sons of Siemann,Olive Garden,Sons of Siemann,21,11,,,,,James Hudson,Barrett Maguire,Jacob Wang,Jonathan Nguyen
+Group Stage,Contender 4.5,Group A,6,Single game,Balo Halo Halo,The Small Ballers,The Small Ballers,18,21,,,,,Justin Estores,Tahseen Robbani,JP Chincuanco,Jerm Porter
+Group Stage,Contender 4.5,Group A,6,Single game,"Devious Dawgs ",Slap'in Bass,"Devious Dawgs ",21,10,,,,,Ross Lochbaum,Nick Neuman,Mark Randall,Luke Twardowski
+Group Stage,Contender 4.5,Group A,6,Single game,george howe,Kim and Donald,george howe,21,7,,,,,Rhett Howe,Walter Siller,Corey Palm,Patrick Dinh
+Group Stage,Contender 4.5,Group B,6,Single game,Quinntin Tarantimo,9579 Stud Street Lane,Quinntin Tarantimo,21,8,,,,,Quinn Hufler,Tim Gaskin,Brendan Walker,Pablo Riascos
+Group Stage,Contender 4.5,Group B,6,Single game,Doubled Up Can't Clutch,Net Ninjas,Doubled Up Can't Clutch,21,18,,,,,Leonardo Hermosillo,Jacob Robinson,Brayden Ernst,Thomas Evans
+Group Stage,Contender 4.5,Group B,6,Single game,Triple Slaw No Chicken,"Sigmas Unite, Together We Sit",Triple Slaw No Chicken,21,9,,,,,Iason Hayes,Nathan Garcia,Oliver Hebel,Roger Li
+Group Stage,Contender 4.5,Group C,6,Single game,Straight Outta Brittingham,Henry Raman Fan Club,Straight Outta Brittingham,21,11,,,,,Anthony Winney,Devon Lee,Aman Khemka,Hampton Chappell
+Group Stage,Contender 4.5,Group C,6,Single game,Velvet Thunder,Olive Garden,Velvet Thunder,21,13,,,,,Jamison Friauf,Gage Green,Jacob Wang,Jonathan Nguyen
+Group Stage,Contender 4.5,Group C,6,Single game,Reverse! Reverse!,Sons of Siemann,Reverse! Reverse!,21,10,,,,,Felipe Martinez,Caleb Allen,James Hudson,Barrett Maguire
+Group Stage,Contender 4.5,Group A,7,Single game,Balo Halo Halo,Jules fan club,Balo Halo Halo,21,12,,,,,Justin Estores,Tahseen Robbani,Aimee Bray,Sam Aven
+Group Stage,Contender 4.5,Group A,7,Single game,The Small Ballers,Slap'in Bass,The Small Ballers,21,6,,,,,JP Chincuanco,Jerm Porter,Mark Randall,Luke Twardowski
+Group Stage,Contender 4.5,Group A,7,Single game,"Devious Dawgs ",george howe,george howe,16,21,,,,,Ross Lochbaum,Nick Neuman,Rhett Howe,Walter Siller
+Group Stage,Contender 4.5,Group B,7,Single game,Quinntin Tarantimo,Ultralight Beam,Ultralight Beam,13,21,,,,,Quinn Hufler,Tim Gaskin,Jack Stinson,Jared Almon
+Group Stage,Contender 4.5,Group B,7,Single game,9579 Stud Street Lane,Net Ninjas,Net Ninjas,17,21,,,,,Brendan Walker,Pablo Riascos,Brayden Ernst,Thomas Evans
+Group Stage,Contender 4.5,Group B,7,Single game,Doubled Up Can't Clutch,Triple Slaw No Chicken,Doubled Up Can't Clutch,21,16,,,,,Leonardo Hermosillo,Jacob Robinson,Iason Hayes,Nathan Garcia
+Group Stage,Contender 4.5,Group C,7,Single game,Straight Outta Brittingham,Wheely Tired,Straight Outta Brittingham,21,17,,,,,Anthony Winney,Devon Lee,AJ Hutchinson,Ryan Montgomery
+Group Stage,Contender 4.5,Group C,7,Single game,Henry Raman Fan Club,Olive Garden,Henry Raman Fan Club,21,7,,,,,Aman Khemka,Hampton Chappell,Jacob Wang,Jonathan Nguyen
+Group Stage,Contender 4.5,Group C,7,Single game,Velvet Thunder,Reverse! Reverse!,Reverse! Reverse!,8,21,,,,,Jamison Friauf,Gage Green,Felipe Martinez,Caleb Allen
+Bracket Stage,Contender 4.5,Bracket A,Round of 32,Best of 3,Henry Raman Fan Club,Olive Garden,Henry Raman Fan Club,1,0,1,0,,,Aman Khemka,Hampton Chappell,Jacob Wang,Jonathan Nguyen
+Bracket Stage,Contender 4.5,Bracket A,Round of 32,Best of 3,Jules fan club,"Sigmas Unite, Together We Sit",Jules fan club,21,14,21,17,,,Aimee Bray,Sam Aven,Oliver Hebel,Roger Li
+Bracket Stage,Contender 4.5,Bracket A,Round of 32,Best of 3,Sons of Siemann,Kim and Donald,Kim and Donald,8,21,19,21,,,James Hudson,Barrett Maguire,Corey Palm,Patrick Dinh
+Bracket Stage,Contender 4.5,Bracket A,Round of 32,Best of 3,Net Ninjas,Slap'in Bass,Net Ninjas,19,21,21,18,21,16,Brayden Ernst,Thomas Evans,Mark Randall,Luke Twardowski
+Bracket Stage,Contender 4.5,Bracket A,Round of 32,Best of 3,9579 Stud Street Lane,Velvet Thunder,9579 Stud Street Lane,21,23,21,10,21,17,Brendan Walker,Pablo Riascos,Jamison Friauf,Gage Green
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,Straight Outta Brittingham,9579 Stud Street Lane,Straight Outta Brittingham,21,10,21,14,,,Anthony Winney,Devon Lee,Brendan Walker,Pablo Riascos
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,Ultralight Beam,Net Ninjas,Ultralight Beam,21,9,21,10,,,Jack Stinson,Jared Almon,Brayden Ernst,Thomas Evans
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,The Small Ballers,Kim and Donald,The Small Ballers,21,10,21,7,,,JP Chincuanco,Jerm Porter,Corey Palm,Patrick Dinh
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,george howe,Jules fan club,george howe,1,0,1,0,,,Rhett Howe,Walter Siller,Aimee Bray,Sam Aven
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,Quinntin Tarantimo,Henry Raman Fan Club,Quinntin Tarantimo,21,12,21,18,,,Quinn Hufler,Tim Gaskin,Aman Khemka,Hampton Chappell
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,Reverse! Reverse!,"Devious Dawgs ",Reverse! Reverse!,21,11,21,16,,,Felipe Martinez,Caleb Allen,Ross Lochbaum,Nick Neuman
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,Wheely Tired,Triple Slaw No Chicken,Triple Slaw No Chicken,13,21,18,21,,,AJ Hutchinson,Ryan Montgomery,Iason Hayes,Nathan Garcia
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,Balo Halo Halo,Doubled Up Can't Clutch,Balo Halo Halo,18,21,21,10,21,10,Justin Estores,Tahseen Robbani,Leonardo Hermosillo,Jacob Robinson
+Bracket Stage,Contender 4.5,Bracket A,Quarter-final,Best of 3,Straight Outta Brittingham,Balo Halo Halo,Straight Outta Brittingham,0,1,1,0,1,0,Anthony Winney,Devon Lee,Justin Estores,Tahseen Robbani
+Bracket Stage,Contender 4.5,Bracket A,Quarter-final,Best of 3,Ultralight Beam,Triple Slaw No Chicken,Ultralight Beam,21,17,21,11,,,Jack Stinson,Jared Almon,Iason Hayes,Nathan Garcia
+Bracket Stage,Contender 4.5,Bracket A,Quarter-final,Best of 3,The Small Ballers,Reverse! Reverse!,Reverse! Reverse!,17,21,11,21,,,JP Chincuanco,Jerm Porter,Felipe Martinez,Caleb Allen
+Bracket Stage,Contender 4.5,Bracket A,Quarter-final,Best of 3,george howe,Quinntin Tarantimo,Quinntin Tarantimo,18,21,21,19,19,21,Rhett Howe,Walter Siller,Quinn Hufler,Tim Gaskin
+Bracket Stage,Contender 4.5,Bracket A,P9: Quarter-final,Best of 3,Doubled Up Can't Clutch,9579 Stud Street Lane,9579 Stud Street Lane,17,21,0,21,,,Leonardo Hermosillo,Jacob Robinson,Brendan Walker,Pablo Riascos
+Bracket Stage,Contender 4.5,Bracket A,P9: Quarter-final,Best of 3,Wheely Tired,Net Ninjas,Net Ninjas,0,21,0,21,,,AJ Hutchinson,Ryan Montgomery,Brayden Ernst,Thomas Evans
+Bracket Stage,Contender 4.5,Bracket A,P9: Quarter-final,Best of 3,"Devious Dawgs ",Kim and Donald,"Devious Dawgs ",21,19,21,12,,,Ross Lochbaum,Nick Neuman,Corey Palm,Patrick Dinh
+Bracket Stage,Contender 4.5,Bracket A,P9: Quarter-final,Best of 3,Henry Raman Fan Club,Jules fan club,Henry Raman Fan Club,21,11,21,9,,,Aman Khemka,Hampton Chappell,Aimee Bray,Sam Aven
+Bracket Stage,Contender 4.5,Bracket A,P17: Quarter-final,Best of 3,"Sigmas Unite, Together We Sit",Olive Garden,"Sigmas Unite, Together We Sit",14,21,21,10,21,12,Oliver Hebel,Roger Li,Jacob Wang,Jonathan Nguyen
+Bracket Stage,Contender 4.5,Bracket A,Semi-final,Best of 3,Straight Outta Brittingham,Quinntin Tarantimo,Quinntin Tarantimo,12,21,18,21,,,Anthony Winney,Devon Lee,Quinn Hufler,Tim Gaskin
+Bracket Stage,Contender 4.5,Bracket A,Semi-final,Best of 3,Ultralight Beam,Reverse! Reverse!,Reverse! Reverse!,1,0,0,1,0,1,Jack Stinson,Jared Almon,Felipe Martinez,Caleb Allen
+Bracket Stage,Contender 4.5,Bracket A,P9: Semi-final,Best of 3,9579 Stud Street Lane,Henry Raman Fan Club,Henry Raman Fan Club,22,24,14,21,,,Brendan Walker,Pablo Riascos,Aman Khemka,Hampton Chappell
+Bracket Stage,Contender 4.5,Bracket A,P9: Semi-final,Best of 3,Net Ninjas,"Devious Dawgs ","Devious Dawgs ",18,21,18,21,,,Brayden Ernst,Thomas Evans,Ross Lochbaum,Nick Neuman
+Bracket Stage,Contender 4.5,Bracket A,P13: Semi-final,Best of 3,Jules fan club,Doubled Up Can't Clutch,Doubled Up Can't Clutch,0,1,0,1,,,Aimee Bray,Sam Aven,Leonardo Hermosillo,Jacob Robinson
+Bracket Stage,Contender 4.5,Bracket A,P13: Semi-final,Best of 3,Kim and Donald,Wheely Tired,Kim and Donald,1,0,1,0,,,Corey Palm,Patrick Dinh,AJ Hutchinson,Ryan Montgomery
+Bracket Stage,Contender 4.5,Bracket A,P17: Semi-final,Best of 3,Velvet Thunder,"Sigmas Unite, Together We Sit",Velvet Thunder,22,20,20,22,21,17,Jamison Friauf,Gage Green,Oliver Hebel,Roger Li
+Bracket Stage,Contender 4.5,Bracket A,P17: Semi-final,Best of 3,Slap'in Bass,Sons of Siemann,Sons of Siemann,0,1,0,1,,,Mark Randall,Luke Twardowski,James Hudson,Barrett Maguire
+Bracket Stage,Contender 4.5,Bracket A,Final,Best of 3,Quinntin Tarantimo,Reverse! Reverse!,Reverse! Reverse!,21,18,19,21,25,27,Quinn Hufler,Tim Gaskin,Felipe Martinez,Caleb Allen
+Bracket Stage,Contender 4.5,Bracket A,P3: Final,Best of 3,Ultralight Beam,Straight Outta Brittingham,Straight Outta Brittingham,15,21,21,12,19,21,Jack Stinson,Jared Almon,Anthony Winney,Devon Lee
+Bracket Stage,Contender 4.5,Bracket A,P9: Final,Best of 3,Henry Raman Fan Club,"Devious Dawgs ",Henry Raman Fan Club,21,14,0,-1,,,Aman Khemka,Hampton Chappell,Ross Lochbaum,Nick Neuman
+Bracket Stage,Contender 4.5,Bracket A,P11: Final,Best of 3,Net Ninjas,9579 Stud Street Lane,9579 Stud Street Lane,16,21,13,21,,,Brayden Ernst,Thomas Evans,Brendan Walker,Pablo Riascos
+Bracket Stage,Contender 4.5,Bracket A,P13: Final,Best of 3,Doubled Up Can't Clutch,Kim and Donald,Doubled Up Can't Clutch,1,0,1,0,,,Leonardo Hermosillo,Jacob Robinson,Corey Palm,Patrick Dinh
+Bracket Stage,Contender 4.5,Bracket A,P15: Final,Best of 3,Wheely Tired,Jules fan club,Jules fan club,0,1,0,1,,,AJ Hutchinson,Ryan Montgomery,Aimee Bray,Sam Aven
