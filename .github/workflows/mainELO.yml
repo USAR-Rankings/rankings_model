@@ -39,6 +39,14 @@ jobs:
         run: |
           pwd
           ls -la
+          cd /
+          ls -la
+          cd usr
+          ls -la
+          cd local
+          ls -la
+          cd share
+          ls -la
 
       - name: Scrape Data from Fwango
         run: python Scripts/scrape_fwango_data.py
