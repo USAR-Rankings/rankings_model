@@ -1,0 +1,137 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Expert,Group A,1,Single game,Endgame,Poutine Powered,Endgame,21,7,,,,,Trevor Barbosa,Josh Fragiacomo,Brian Quach,George Zywiel
+Group Stage,5.0 Expert,Group A,1,Single game,Dialed,Jai/Steven,Jai/Steven,24,25,,,,,Josh Cain,Luke Pennington,Jai Parera,Steven Pan
+Group Stage,5.0 Expert,Group B,1,Single game,Fractal Spikes,SR Ascension,Fractal Spikes,21,14,,,,,Connor Nelson,Michael Du,Harding Brumby,Nate Gauthier
+Group Stage,5.0 Expert,Group B,1,Single game,Flagship,Bing Bong,Flagship,21,15,,,,,Joseph Kaylor,Lucas Pruett,Dylan Medveal,Anthony Winney
+Group Stage,5.0 Expert,Group B,1,Single game,TRP KPOP,Feeders,TRP KPOP,21,17,,,,,kevin um,Karah Hui,Tim Gaskin,Matthew Kamimura
+Group Stage,5.0 Expert,Group A,2,Single game,Endgame,Jai/Steven,Endgame,21,11,,,,,Trevor Barbosa,Josh Fragiacomo,Jai Parera,Steven Pan
+Group Stage,5.0 Expert,Group A,2,Single game,We miss mama bear (Jake Woolley),Poutine Powered,We miss mama bear (Jake Woolley),21,11,,,,,Reece Greer,James Lamkin,Brian Quach,George Zywiel
+Group Stage,5.0 Expert,Group B,2,Single game,Fractal Spikes,Bing Bong,Fractal Spikes,21,16,,,,,Connor Nelson,Michael Du,Dylan Medveal,Anthony Winney
+Group Stage,5.0 Expert,Group B,2,Single game,Flagship,TRP KPOP,Flagship,21,15,,,,,Joseph Kaylor,Lucas Pruett,kevin um,Karah Hui
+Group Stage,5.0 Expert,Group B,2,Single game,Feeders,SR Ascension,SR Ascension,21,23,,,,,Tim Gaskin,Matthew Kamimura,Harding Brumby,Nate Gauthier
+Group Stage,5.0 Expert,Group A,3,Single game,Endgame,We miss mama bear (Jake Woolley),Endgame,21,18,,,,,Trevor Barbosa,Josh Fragiacomo,Reece Greer,James Lamkin
+Group Stage,5.0 Expert,Group A,3,Single game,Dialed,Poutine Powered,Dialed,21,15,,,,,Josh Cain,Luke Pennington,Brian Quach,George Zywiel
+Group Stage,5.0 Expert,Group B,3,Single game,Fractal Spikes,Feeders,Fractal Spikes,21,14,,,,,Connor Nelson,Michael Du,Tim Gaskin,Matthew Kamimura
+Group Stage,5.0 Expert,Group B,3,Single game,Flagship,SR Ascension,Flagship,21,8,,,,,Joseph Kaylor,Lucas Pruett,Harding Brumby,Nate Gauthier
+Group Stage,5.0 Expert,Group B,3,Single game,TRP KPOP,Bing Bong,Bing Bong,17,21,,,,,kevin um,Karah Hui,Dylan Medveal,Anthony Winney
+Group Stage,5.0 Expert,Group A,4,Single game,Dialed,We miss mama bear (Jake Woolley),Dialed,21,16,,,,,Josh Cain,Luke Pennington,Reece Greer,James Lamkin
+Group Stage,5.0 Expert,Group A,4,Single game,Jai/Steven,Poutine Powered,Jai/Steven,21,16,,,,,Jai Parera,Steven Pan,Brian Quach,George Zywiel
+Group Stage,5.0 Expert,Group B,4,Single game,Fractal Spikes,TRP KPOP,Fractal Spikes,21,17,,,,,Connor Nelson,Michael Du,kevin um,Karah Hui
+Group Stage,5.0 Expert,Group B,4,Single game,Flagship,Feeders,Flagship,21,16,,,,,Joseph Kaylor,Lucas Pruett,Tim Gaskin,Matthew Kamimura
+Group Stage,5.0 Expert,Group B,4,Single game,Bing Bong,SR Ascension,Bing Bong,21,11,,,,,Dylan Medveal,Anthony Winney,Harding Brumby,Nate Gauthier
+Group Stage,5.0 Expert,Group A,5,Single game,Endgame,Dialed,Endgame,22,20,,,,,Trevor Barbosa,Josh Fragiacomo,Josh Cain,Luke Pennington
+Group Stage,5.0 Expert,Group A,5,Single game,We miss mama bear (Jake Woolley),Jai/Steven,Jai/Steven,21,23,,,,,Reece Greer,James Lamkin,Jai Parera,Steven Pan
+Group Stage,5.0 Expert,Group B,5,Single game,Fractal Spikes,Flagship,Fractal Spikes,21,19,,,,,Connor Nelson,Michael Du,Joseph Kaylor,Lucas Pruett
+Group Stage,5.0 Expert,Group B,5,Single game,TRP KPOP,SR Ascension,TRP KPOP,21,15,,,,,kevin um,Karah Hui,Harding Brumby,Nate Gauthier
+Group Stage,5.0 Expert,Group B,5,Single game,Feeders,Bing Bong,Bing Bong,15,21,,,,,Tim Gaskin,Matthew Kamimura,Dylan Medveal,Anthony Winney
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,Bing Bong,Feeders,Feeders,23,25,24,22,19,21,Dylan Medveal,Anthony Winney,Tim Gaskin,Matthew Kamimura
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,We miss mama bear (Jake Woolley),Poutine Powered,We miss mama bear (Jake Woolley),21,12,21,12,,,Reece Greer,James Lamkin,Brian Quach,George Zywiel
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,TRP KPOP,SR Ascension,TRP KPOP,22,24,21,14,21,15,kevin um,Karah Hui,Harding Brumby,Nate Gauthier
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Endgame,TRP KPOP,Endgame,21,17,21,18,,,Trevor Barbosa,Josh Fragiacomo,kevin um,Karah Hui
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Fractal Spikes,We miss mama bear (Jake Woolley),Fractal Spikes,21,18,22,24,21,15,Connor Nelson,Michael Du,Reece Greer,James Lamkin
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Flagship,Feeders,Flagship,21,9,21,6,,,Joseph Kaylor,Lucas Pruett,Tim Gaskin,Matthew Kamimura
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Jai/Steven,Dialed,Dialed,19,21,18,21,,,Jai Parera,Steven Pan,Josh Cain,Luke Pennington
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Endgame,Dialed,Endgame,21,18,21,19,,,Trevor Barbosa,Josh Fragiacomo,Josh Cain,Luke Pennington
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Fractal Spikes,Flagship,Fractal Spikes,21,14,19,21,21,12,Connor Nelson,Michael Du,Joseph Kaylor,Lucas Pruett
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Best of 3,Jai/Steven,TRP KPOP,Jai/Steven,0,-1,0,-1,,,Jai Parera,Steven Pan,kevin um,Karah Hui
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Best of 3,Feeders,We miss mama bear (Jake Woolley),We miss mama bear (Jake Woolley),0,1,0,1,,,Tim Gaskin,Matthew Kamimura,Reece Greer,James Lamkin
+Bracket Stage,5.0 Expert,Bracket A,Final,Best of 3,Endgame,Fractal Spikes,Endgame,21,19,21,15,,,Trevor Barbosa,Josh Fragiacomo,Connor Nelson,Michael Du
+Bracket Stage,5.0 Expert,Bracket A,P3: Final,Best of 3,Flagship,Dialed,Flagship,21,12,19,21,21,11,Joseph Kaylor,Lucas Pruett,Josh Cain,Luke Pennington
+Bracket Stage,5.0 Expert,Bracket A,P5: Final,Best of 3,Jai/Steven,We miss mama bear (Jake Woolley),Jai/Steven,21,19,1,0,,,Jai Parera,Steven Pan,Reece Greer,James Lamkin
+Group Stage,4.5 Contender,Group A,1,Single game,Up Touches ☝️,Naughty Ninjas,Naughty Ninjas,15,21,,,,,Cameron Thomas,Jake Eichenseer,Dante Benedetti,Gabriel Rouse
+Group Stage,4.5 Contender,Group A,1,Single game,Jake/Aubrey,Gooners,Jake/Aubrey,21,16,,,,,Jake Young,aubrey lilo,EMMETT STEWART,Edward Ke
+Group Stage,4.5 Contender,Group B,1,Single game,Warren/Grady,Legally Blondes,Warren/Grady,21,10,,,,,Warren Foote,,Ella McDonald,Aiden Robak
+Group Stage,4.5 Contender,Group B,1,Single game,Diddy Reece,Eli/kelvin,Eli/kelvin,9,21,,,,,Reece Yoshizawa,Luke Westmark,Calvin Chang,Eli Wortman
+Group Stage,4.5 Contender,Group A,2,Single game,Up Touches ☝️,Gooners,Up Touches ☝️,21,16,,,,,Cameron Thomas,Jake Eichenseer,EMMETT STEWART,Edward Ke
+Group Stage,4.5 Contender,Group A,2,Single game,Net Worth,Naughty Ninjas,Naughty Ninjas,19,21,,,,,Hunter Koth,Aiden Edwards,Dante Benedetti,Gabriel Rouse
+Group Stage,4.5 Contender,Group B,2,Single game,Warren/Grady,Eli/kelvin,Warren/Grady,21,10,,,,,Warren Foote,,Calvin Chang,Eli Wortman
+Group Stage,4.5 Contender,Group B,2,Single game,Locked,Legally Blondes,Locked,21,6,,,,,Brandon Batcha,Ethan Bernhardt,Ella McDonald,Aiden Robak
+Group Stage,4.5 Contender,Group A,3,Single game,Up Touches ☝️,Net Worth,Net Worth,18,21,,,,,Cameron Thomas,Jake Eichenseer,Hunter Koth,Aiden Edwards
+Group Stage,4.5 Contender,Group A,3,Single game,Jake/Aubrey,Naughty Ninjas,Naughty Ninjas,13,21,,,,,Jake Young,aubrey lilo,Dante Benedetti,Gabriel Rouse
+Group Stage,4.5 Contender,Group B,3,Single game,Warren/Grady,Locked,Locked,20,22,,,,,Warren Foote,,Brandon Batcha,Ethan Bernhardt
+Group Stage,4.5 Contender,Group B,3,Single game,Diddy Reece,Legally Blondes,Diddy Reece,21,7,,,,,Reece Yoshizawa,Luke Westmark,Ella McDonald,Aiden Robak
+Group Stage,4.5 Contender,Group A,4,Single game,Jake/Aubrey,Net Worth,Jake/Aubrey,21,15,,,,,Jake Young,aubrey lilo,Hunter Koth,Aiden Edwards
+Group Stage,4.5 Contender,Group A,4,Single game,Gooners,Naughty Ninjas,Naughty Ninjas,11,21,,,,,EMMETT STEWART,Edward Ke,Dante Benedetti,Gabriel Rouse
+Group Stage,4.5 Contender,Group B,4,Single game,Diddy Reece,Locked,Locked,15,21,,,,,Reece Yoshizawa,Luke Westmark,Brandon Batcha,Ethan Bernhardt
+Group Stage,4.5 Contender,Group B,4,Single game,Eli/kelvin,Legally Blondes,Eli/kelvin,21,7,,,,,Calvin Chang,Eli Wortman,Ella McDonald,Aiden Robak
+Group Stage,4.5 Contender,Group A,5,Single game,Up Touches ☝️,Jake/Aubrey,Up Touches ☝️,21,18,,,,,Cameron Thomas,Jake Eichenseer,Jake Young,aubrey lilo
+Group Stage,4.5 Contender,Group A,5,Single game,Net Worth,Gooners,Net Worth,21,15,,,,,Hunter Koth,Aiden Edwards,EMMETT STEWART,Edward Ke
+Group Stage,4.5 Contender,Group B,5,Single game,Warren/Grady,Diddy Reece,Diddy Reece,19,21,,,,,Warren Foote,,Reece Yoshizawa,Luke Westmark
+Group Stage,4.5 Contender,Group B,5,Single game,Locked,Eli/kelvin,Eli/kelvin,16,21,,,,,Brandon Batcha,Ethan Bernhardt,Calvin Chang,Eli Wortman
+Bracket Stage,4.5 Contender,Bracket A,Round of 16,Best of 3,Up Touches ☝️,Legally Blondes,Up Touches ☝️,1,0,1,0,,,Cameron Thomas,Jake Eichenseer,Ella McDonald,Aiden Robak
+Bracket Stage,4.5 Contender,Bracket A,Round of 16,Best of 3,Diddy Reece,Gooners,Diddy Reece,21,18,21,16,,,Reece Yoshizawa,Luke Westmark,EMMETT STEWART,Edward Ke
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Naughty Ninjas,Diddy Reece,Naughty Ninjas,21,15,21,19,,,Dante Benedetti,Gabriel Rouse,Reece Yoshizawa,Luke Westmark
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Eli/kelvin,Up Touches ☝️,Eli/kelvin,1,0,1,0,,,Calvin Chang,Eli Wortman,Cameron Thomas,Jake Eichenseer
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Locked,Jake/Aubrey,Jake/Aubrey,18,21,15,21,,,Brandon Batcha,Ethan Bernhardt,Jake Young,aubrey lilo
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Warren/Grady,Net Worth,Net Worth,14,21,18,21,,,Warren Foote,,Hunter Koth,Aiden Edwards
+Bracket Stage,4.5 Contender,Bracket A,Semi-final,Best of 3,Naughty Ninjas,Net Worth,Naughty Ninjas,21,15,21,17,,,Dante Benedetti,Gabriel Rouse,Hunter Koth,Aiden Edwards
+Bracket Stage,4.5 Contender,Bracket A,Semi-final,Best of 3,Eli/kelvin,Jake/Aubrey,Eli/kelvin,1,0,1,0,,,Calvin Chang,Eli Wortman,Jake Young,aubrey lilo
+Bracket Stage,4.5 Contender,Bracket A,P5: Semi-final,Best of 3,Warren/Grady,Diddy Reece,Diddy Reece,-1,0,-1,0,,,Warren Foote,,Reece Yoshizawa,Luke Westmark
+Bracket Stage,4.5 Contender,Bracket A,Final,Best of 3,Naughty Ninjas,Eli/kelvin,Eli/kelvin,0,1,0,1,,,Dante Benedetti,Gabriel Rouse,Calvin Chang,Eli Wortman
+Bracket Stage,4.5 Contender,Bracket A,P3: Final,Best of 3,Jake/Aubrey,Net Worth,Net Worth,0,1,0,1,,,Jake Young,aubrey lilo,Hunter Koth,Aiden Edwards
+Group Stage,4.5 Womens,Group A,1,Single game,Black and ElleLowe,Spiked punch,Black and ElleLowe,21,8,,,,,Elle Lowe,Perrin York,Julia Holec,Abigail Fletcher
+Group Stage,4.5 Womens,Group A,1,Single game,hb shaygo and kim possible,Spikeosaurusrex,hb shaygo and kim possible,21,9,,,,,Shaina Berk,Sebastiani Kim,Kaiya Endo,Brittany Hibbard
+Group Stage,4.5 Womens,Group A,1,Single game,Alex/Adrianna,JoAlle,Alex/Adrianna,21,17,,,,,Alex Veron,Adrianna Grothause,Ally Chou,Joelle Nguyen
+Group Stage,4.5 Womens,Group A,2,Single game,Black and ElleLowe,Spikeosaurusrex,Black and ElleLowe,21,5,,,,,Elle Lowe,Perrin York,Kaiya Endo,Brittany Hibbard
+Group Stage,4.5 Womens,Group A,2,Single game,hb shaygo and kim possible,Alex/Adrianna,hb shaygo and kim possible,21,19,,,,,Shaina Berk,Sebastiani Kim,Alex Veron,Adrianna Grothause
+Group Stage,4.5 Womens,Group A,2,Single game,JoAlle,Spiked punch,JoAlle,21,14,,,,,Ally Chou,Joelle Nguyen,Julia Holec,Abigail Fletcher
+Group Stage,4.5 Womens,Group A,3,Single game,Black and ElleLowe,JoAlle,Black and ElleLowe,21,13,,,,,Elle Lowe,Perrin York,Ally Chou,Joelle Nguyen
+Group Stage,4.5 Womens,Group A,3,Single game,hb shaygo and kim possible,Spiked punch,hb shaygo and kim possible,21,8,,,,,Shaina Berk,Sebastiani Kim,Julia Holec,Abigail Fletcher
+Group Stage,4.5 Womens,Group A,3,Single game,Alex/Adrianna,Spikeosaurusrex,Alex/Adrianna,21,9,,,,,Alex Veron,Adrianna Grothause,Kaiya Endo,Brittany Hibbard
+Group Stage,4.5 Womens,Group A,4,Single game,Black and ElleLowe,Alex/Adrianna,Black and ElleLowe,21,16,,,,,Elle Lowe,Perrin York,Alex Veron,Adrianna Grothause
+Group Stage,4.5 Womens,Group A,4,Single game,hb shaygo and kim possible,JoAlle,hb shaygo and kim possible,21,15,,,,,Shaina Berk,Sebastiani Kim,Ally Chou,Joelle Nguyen
+Group Stage,4.5 Womens,Group A,4,Single game,Spikeosaurusrex,Spiked punch,Spiked punch,13,21,,,,,Kaiya Endo,Brittany Hibbard,Julia Holec,Abigail Fletcher
+Group Stage,4.5 Womens,Group A,5,Single game,Black and ElleLowe,hb shaygo and kim possible,Black and ElleLowe,21,12,,,,,Elle Lowe,Perrin York,Shaina Berk,Sebastiani Kim
+Group Stage,4.5 Womens,Group A,5,Single game,Alex/Adrianna,Spiked punch,Alex/Adrianna,21,16,,,,,Alex Veron,Adrianna Grothause,Julia Holec,Abigail Fletcher
+Group Stage,4.5 Womens,Group A,5,Single game,JoAlle,Spikeosaurusrex,JoAlle,21,17,,,,,Ally Chou,Joelle Nguyen,Kaiya Endo,Brittany Hibbard
+Bracket Stage,4.5 Womens,Bracket A,Quarter-final,Best of 3,Alex/Adrianna,Spikeosaurusrex,Alex/Adrianna,1,0,1,0,,,Alex Veron,Adrianna Grothause,Kaiya Endo,Brittany Hibbard
+Bracket Stage,4.5 Womens,Bracket A,Quarter-final,Best of 3,JoAlle,Spiked punch,JoAlle,21,17,24,22,,,Ally Chou,Joelle Nguyen,Julia Holec,Abigail Fletcher
+Bracket Stage,4.5 Womens,Bracket A,Semi-final,Best of 3,Black and ElleLowe,JoAlle,Black and ElleLowe,21,13,21,14,,,Elle Lowe,Perrin York,Ally Chou,Joelle Nguyen
+Bracket Stage,4.5 Womens,Bracket A,Semi-final,Best of 3,hb shaygo and kim possible,Alex/Adrianna,hb shaygo and kim possible,21,14,21,15,,,Shaina Berk,Sebastiani Kim,Alex Veron,Adrianna Grothause
+Bracket Stage,4.5 Womens,Bracket A,Final,Best of 3,Black and ElleLowe,hb shaygo and kim possible,Black and ElleLowe,21,19,21,19,,,Elle Lowe,Perrin York,Shaina Berk,Sebastiani Kim
+Bracket Stage,4.5 Womens,Bracket A,P3: Final,Best of 3,Alex/Adrianna,JoAlle,Alex/Adrianna,21,16,21,17,,,Alex Veron,Adrianna Grothause,Ally Chou,Joelle Nguyen
+Group Stage,4.0 Mixed,Group A,1,Single game,Origami,John McCain,Origami,15,8,,,,,Sebastiani Kim,Trevor Barbosa,Alex Veron,Josh Cain
+Group Stage,4.0 Mixed,Group A,1,Single game,National Sexual Tension Day,Wavelength,National Sexual Tension Day,18,16,,,,,Joseph Kaylor,Adrianna Grothause,Shaina Berk,James Lamkin
+Group Stage,4.0 Mixed,Group A,1,Single game,Not Pro and Con,Jukebox,Not Pro and Con,15,12,,,,,Abby Cham,Connor Nelson,Joelle Nguyen,Luke Pennington
+Group Stage,4.0 Mixed,Group A,1,Single game,Snoopy Justice,TRP KPOP,Snoopy Justice,15,13,,,,,Elle Lowe,Michael Du,Karah Hui,kevin um
+Group Stage,4.0 Mixed,Group A,2,Single game,Origami,Wavelength,Origami,15,10,,,,,Sebastiani Kim,Trevor Barbosa,Shaina Berk,James Lamkin
+Group Stage,4.0 Mixed,Group A,2,Single game,National Sexual Tension Day,TRP KPOP,TRP KPOP,9,15,,,,,Joseph Kaylor,Adrianna Grothause,Karah Hui,kevin um
+Group Stage,4.0 Mixed,Group A,2,Single game,Not Pro and Con,Brain Activity Meeting Room Table,Brain Activity Meeting Room Table,14,16,,,,,Abby Cham,Connor Nelson,Lucas Pruett,Perrin York
+Group Stage,4.0 Mixed,Group A,2,Single game,Jukebox,John McCain,Jukebox,15,12,,,,,Joelle Nguyen,Luke Pennington,Alex Veron,Josh Cain
+Group Stage,4.0 Mixed,Group A,3,Single game,Origami,Jukebox,Origami,15,10,,,,,Sebastiani Kim,Trevor Barbosa,Joelle Nguyen,Luke Pennington
+Group Stage,4.0 Mixed,Group A,3,Single game,Not Pro and Con,Snoopy Justice,Snoopy Justice,13,15,,,,,Abby Cham,Connor Nelson,Elle Lowe,Michael Du
+Group Stage,4.0 Mixed,Group A,3,Single game,Brain Activity Meeting Room Table,John McCain,Brain Activity Meeting Room Table,15,13,,,,,Lucas Pruett,Perrin York,Alex Veron,Josh Cain
+Group Stage,4.0 Mixed,Group A,3,Single game,TRP KPOP,Wavelength,Wavelength,12,15,,,,,Karah Hui,kevin um,Shaina Berk,James Lamkin
+Group Stage,4.0 Mixed,Group A,4,Single game,Origami,TRP KPOP,TRP KPOP,13,15,,,,,Sebastiani Kim,Trevor Barbosa,Karah Hui,kevin um
+Group Stage,4.0 Mixed,Group A,4,Single game,National Sexual Tension Day,Not Pro and Con,Not Pro and Con,13,15,,,,,Joseph Kaylor,Adrianna Grothause,Abby Cham,Connor Nelson
+Group Stage,4.0 Mixed,Group A,4,Single game,Snoopy Justice,John McCain,John McCain,12,15,,,,,Elle Lowe,Michael Du,Alex Veron,Josh Cain
+Group Stage,4.0 Mixed,Group A,4,Single game,Brain Activity Meeting Room Table,Jukebox,Brain Activity Meeting Room Table,15,8,,,,,Lucas Pruett,Perrin York,Joelle Nguyen,Luke Pennington
+Group Stage,4.0 Mixed,Group A,5,Single game,Origami,Brain Activity Meeting Room Table,Brain Activity Meeting Room Table,11,15,,,,,Sebastiani Kim,Trevor Barbosa,Lucas Pruett,Perrin York
+Group Stage,4.0 Mixed,Group A,5,Single game,National Sexual Tension Day,John McCain,John McCain,13,15,,,,,Joseph Kaylor,Adrianna Grothause,Alex Veron,Josh Cain
+Group Stage,4.0 Mixed,Group A,5,Single game,Not Pro and Con,Wavelength,Wavelength,13,15,,,,,Abby Cham,Connor Nelson,Shaina Berk,James Lamkin
+Group Stage,4.0 Mixed,Group A,5,Single game,Snoopy Justice,Jukebox,Snoopy Justice,16,14,,,,,Elle Lowe,Michael Du,Joelle Nguyen,Luke Pennington
+Group Stage,4.0 Mixed,Group A,6,Single game,National Sexual Tension Day,Jukebox,National Sexual Tension Day,15,10,,,,,Joseph Kaylor,Adrianna Grothause,Joelle Nguyen,Luke Pennington
+Group Stage,4.0 Mixed,Group A,6,Single game,Not Pro and Con,TRP KPOP,TRP KPOP,10,15,,,,,Abby Cham,Connor Nelson,Karah Hui,kevin um
+Group Stage,4.0 Mixed,Group A,6,Single game,Snoopy Justice,Brain Activity Meeting Room Table,Snoopy Justice,17,15,,,,,Elle Lowe,Michael Du,Lucas Pruett,Perrin York
+Group Stage,4.0 Mixed,Group A,6,Single game,Wavelength,John McCain,Wavelength,15,12,,,,,Shaina Berk,James Lamkin,Alex Veron,Josh Cain
+Group Stage,4.0 Mixed,Group A,7,Single game,Origami,Snoopy Justice,Origami,15,10,,,,,Sebastiani Kim,Trevor Barbosa,Elle Lowe,Michael Du
+Group Stage,4.0 Mixed,Group A,7,Single game,National Sexual Tension Day,Brain Activity Meeting Room Table,National Sexual Tension Day,15,13,,,,,Joseph Kaylor,Adrianna Grothause,Lucas Pruett,Perrin York
+Group Stage,4.0 Mixed,Group A,7,Single game,TRP KPOP,John McCain,TRP KPOP,15,11,,,,,Karah Hui,kevin um,Alex Veron,Josh Cain
+Group Stage,4.0 Mixed,Group A,7,Single game,Jukebox,Wavelength,Wavelength,11,15,,,,,Joelle Nguyen,Luke Pennington,Shaina Berk,James Lamkin
+Group Stage,4.0 Mixed,Group A,8,Single game,Origami,Not Pro and Con,Origami,15,9,,,,,Sebastiani Kim,Trevor Barbosa,Abby Cham,Connor Nelson
+Group Stage,4.0 Mixed,Group A,8,Single game,National Sexual Tension Day,Snoopy Justice,Snoopy Justice,6,15,,,,,Joseph Kaylor,Adrianna Grothause,Elle Lowe,Michael Du
+Group Stage,4.0 Mixed,Group A,8,Single game,Brain Activity Meeting Room Table,Wavelength,Wavelength,12,15,,,,,Lucas Pruett,Perrin York,Shaina Berk,James Lamkin
+Group Stage,4.0 Mixed,Group A,8,Single game,TRP KPOP,Jukebox,TRP KPOP,15,13,,,,,Karah Hui,kevin um,Joelle Nguyen,Luke Pennington
+Group Stage,4.0 Mixed,Group A,9,Single game,Origami,National Sexual Tension Day,Origami,15,10,,,,,Sebastiani Kim,Trevor Barbosa,Joseph Kaylor,Adrianna Grothause
+Group Stage,4.0 Mixed,Group A,9,Single game,Not Pro and Con,John McCain,Not Pro and Con,15,10,,,,,Abby Cham,Connor Nelson,Alex Veron,Josh Cain
+Group Stage,4.0 Mixed,Group A,9,Single game,Snoopy Justice,Wavelength,Snoopy Justice,15,12,,,,,Elle Lowe,Michael Du,Shaina Berk,James Lamkin
+Group Stage,4.0 Mixed,Group A,9,Single game,Brain Activity Meeting Room Table,TRP KPOP,TRP KPOP,9,15,,,,,Lucas Pruett,Perrin York,Karah Hui,kevin um
+Bracket Stage,4.0 Mixed,Bracket A,Round of 16,Best of 3,John McCain,Jukebox,Jukebox,0,-1,0,1,0,1,Alex Veron,Josh Cain,Joelle Nguyen,Luke Pennington
+Bracket Stage,4.0 Mixed,Bracket A,Quarter-final,Best of 3,Origami,Jukebox,Origami,22,24,21,12,21,13,Sebastiani Kim,Trevor Barbosa,Joelle Nguyen,Luke Pennington
+Bracket Stage,4.0 Mixed,Bracket A,Quarter-final,Best of 3,TRP KPOP,National Sexual Tension Day,National Sexual Tension Day,18,21,21,15,17,21,Karah Hui,kevin um,Joseph Kaylor,Adrianna Grothause
+Bracket Stage,4.0 Mixed,Bracket A,Quarter-final,Best of 3,Snoopy Justice,Not Pro and Con,Not Pro and Con,17,21,21,17,18,21,Elle Lowe,Michael Du,Abby Cham,Connor Nelson
+Bracket Stage,4.0 Mixed,Bracket A,Quarter-final,Best of 3,Wavelength,Brain Activity Meeting Room Table,Brain Activity Meeting Room Table,18,21,24,22,17,21,Shaina Berk,James Lamkin,Lucas Pruett,Perrin York
+Bracket Stage,4.0 Mixed,Bracket A,Semi-final,Best of 3,Origami,Brain Activity Meeting Room Table,Origami,21,16,21,14,,,Sebastiani Kim,Trevor Barbosa,Lucas Pruett,Perrin York
+Bracket Stage,4.0 Mixed,Bracket A,Semi-final,Best of 3,National Sexual Tension Day,Not Pro and Con,Not Pro and Con,16,21,21,17,17,21,Joseph Kaylor,Adrianna Grothause,Abby Cham,Connor Nelson
+Bracket Stage,4.0 Mixed,Bracket A,Final,Best of 3,Origami,Not Pro and Con,Not Pro and Con,18,21,-2,0,,,Sebastiani Kim,Trevor Barbosa,Abby Cham,Connor Nelson
+Bracket Stage,4.0 Mixed,Bracket A,P3: Final,Single game,National Sexual Tension Day,Brain Activity Meeting Room Table,National Sexual Tension Day,21,18,,,,,Joseph Kaylor,Adrianna Grothause,Lucas Pruett,Perrin York

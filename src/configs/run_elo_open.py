@@ -7,15 +7,16 @@ OPEN_P= {
 "NUMB_INITAL" : 25,
 
 # Set up Model parameters
-"K1":125,
-"K2":50,
-"NG":11,
-"DC":700,
-"DE":425,
+"K_ARRAY":[50,125,11],
+
+
+"DC":625,
+"DE":350,
 "SEP":2000,
 "DECAY":True,
-"DECAY_ARRAY":[5,8,18,40],
-
+"DECAY_ARRAY":[0,0,20,35],
+"REMOVE": True,
+"START_PER": 30,
 
 # Export results filename
 "EXPORT_FILENAME" : "open"}
@@ -28,14 +29,14 @@ WOMENS_P= {
 "NUMB_INITAL" : 14,
 
 # Set up Model parameters
-"K1":225,
-"K2":115,
-"NG":11,
+"K_ARRAY":[115,225,11],
 "DC":700,
 "DE":425,
 "SEP":2000,
 "DECAY":False,
 "DECAY_ARRAY":[0,0,0,0],
+"REMOVE": True,
+"START_PER": 30,
 
 
 # Export results filename

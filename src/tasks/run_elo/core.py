@@ -48,7 +48,7 @@ class Player:
         Updates the days since the player last played and decays their rating accordingly.
     """
         
-    def __init__(self, name,division,tournies=[],time_since_play=0,games=0, elo=1500):
+    def __init__(self, name,time_since_play=0,games=0, elo=1500,k_array=[],div_k=False,start_k=True):
         """
         Constructs all the necessary attributes for the player object.
 
@@ -71,9 +71,15 @@ class Player:
         self.elo = elo
         self.highest_division=10
         self.games=games
-        self.tournies=tournies
+        self.tournies=[]
         self.days_since_played=time_since_play
         self._og_elo=self.elo
+        self.k_array=k_array
+        self.div_k=div_k
+        self.start_k=start_k
+        if self.start_k ==True:
+            self.ng= self.k_array[-1]
+
 
         
         
@@ -86,16 +92,17 @@ class Player:
         tourney : str
             Name of the tournament played.
         """
-
         # Add Tournamnet
-        self.tournies=self.tournies+[tourney]
+        self.tournies=self.tournies+[(tourney)]
+        
+        
         
         # Reset og elo
         self._og_elo=self.elo
     
         
     
-    def update_elo(self,elo_ot,k1,k2,n,winner):
+    def update_elo(self,elo_ot,winner,pre_calc=False,odds=.5):
         """
         Updates a player's Elo rating from a given game.
 
@@ -118,23 +125,26 @@ class Player:
             The change in Elo rating for the player.
         """
 
-        #determine which k to use
-        if self.games <= n:
-            k=k1
+        #Caculate win if need be
+        if pre_calc==True:
+            cutoff=odds
         else:
-            k=k2
-        cutoff=calculate_win_prob(elo_ot,self.elo)
+            cutoff=calculate_win_prob(elo_ot,self.elo)
+
         if winner ==True:
             expected=1-(cutoff)
         else:
             expected=0-cutoff
             
         
-        self.elo+= k * expected
+        self.elo+= self.k * expected
         self.games+=1
+        if self.start_k==True:
+            if self.games==self.ng+1:
+                self.set_k()
         self._og_elo=self.elo
         
-        return k * expected
+        return self.k * expected
     
     def add_division(self,div):
         """
@@ -145,8 +155,15 @@ class Player:
         div : int
             The division the player played in.
         """
+        #set previous value
+        prev=self.highest_division
         # Update highest division
         self.highest_division=min(self.highest_division,div)
+        
+        # If division has chnaged Update K value
+        if (self.div_k==True) & (prev >self.highest_division):
+            self.set_k()
+
         
     def decay_rating(self,percent):
         """
@@ -190,6 +207,18 @@ class Player:
             self.decay_rating(decay_array[1])
         elif self.days_since_played > 91:
             self.decay_rating(decay_array[0])
+
+    def set_k(self):
+        if (self.start_k == True):
+            if self.games <= self.ng:
+                self.k=self.k_array[-2]
+            else:
+            #If not div specific k then k2 which should be in first spot
+                self.k=self.k_array[0]
+        else:
+            # If over limit, set k to div specific k
+            self.k=self.k_array[self.highest_division]
+        
     
     
 class ELO_Model:
@@ -224,7 +253,7 @@ class ELO_Model:
     
     """
         
-    def __init__(self, k1,k2,ng,dc,de,sep=2000,p_dict=[],tab=[],decay=False,decay_array=[]):
+    def __init__(self,k_array,dc,de,sep=2000,p_dict=[],tab=[],decay=False,decay_array=[],avg_team=False,start_per=50,start_k=True, div_k=False,remove=False, remove_time=365*1.5):
         """
         Constructs all the necessary attributes for the Elo model.
 
@@ -247,9 +276,7 @@ class ELO_Model:
         tab : DataFrame, optional
             Tracks team stats across the season (default is an empty list).
         """
-        self.k1 = k1
-        self.k2 = k2
-        self.ng=ng
+        self.k_array=k_array
         self.dc=dc
         self.de=de
         self.sep=sep
@@ -261,6 +288,12 @@ class ELO_Model:
         self._div_dict={0:"Pro",1:"Premier",2:"Expert",3:"Contender"}
         self.decay=decay
         self.decay_array=decay_array
+        self.avg_team=avg_team
+        self.start_per=start_per
+        self.start_k=start_k
+        self.div_k=div_k
+        self.remove=remove
+        self.remove_time=remove_time
         
          
     
@@ -314,19 +347,21 @@ class ELO_Model:
                 if player in self.p_dict.keys():
                     average_elo.append(self.p_dict[player].elo)
             
-            average_elo= sum(average_elo)/len(average_elo)
+            start_elo=np.percentile(average_elo, self.start_per)
+            
             # Set new starting elo
-            starting_elo=average_elo
+            starting_elo=start_elo
         
         if self.p_dict == []:
             #Create new player object for each player in the tournament and assign them the starting elo
-            object_array=[Player(player,division,elo=starting_elo) for player in player_array]
+            object_array=[Player(player,division,elo=starting_elo,div_k=self.div_k,start_k=self.start_k,k_array=self.k_array) for player in player_array]
 
              #Create the player dictionary where the player objects are stored
             self.p_dict= dict(zip(player_array, object_array))
             for player in player_array:
                 self.p_dict[player].add_tounrey(tourney)
                 self.p_dict[player].add_division(div)
+                self.p_dict[player].set_k()
                 self.p_dict[player].update_last_played(date)
                 
             
@@ -341,11 +376,14 @@ class ELO_Model:
                     self.p_dict[player].add_division(div)
                     self.p_dict[player].update_last_played(date)
                     
+                    
                 else:
-                    self.p_dict[player]=Player(player,division,elo=starting_elo)
+                    self.p_dict[player]=Player(player,division,elo=starting_elo,div_k=self.div_k,start_k=self.start_k,k_array=self.k_array)
                     self.p_dict[player].add_tounrey(tourney)
                     self.p_dict[player].add_division(div)
+                    self.p_dict[player].set_k()
                     self.p_dict[player].update_last_played(date)
+
         
         
     def read_games(self,data,tourney,division="PREMIER"):
@@ -425,10 +463,10 @@ class ELO_Model:
         if (winner == 1) :
             
             # Updating the Elo Ratings
-            self.temp_games.at[index,"T1P1 Change"]=player1.update_elo(elo2,self.k1,self.k2,self.ng,True)
-            self.temp_games.at[index,"T1P2 Change"]=player2.update_elo(elo2,self.k1,self.k2,self.ng,True)
-            self.temp_games.at[index,"T2P1 Change"]=player3.update_elo(elo1,self.k1,self.k2,self.ng,False)
-            self.temp_games.at[index,"T2P2 Change"]=player4.update_elo(elo1,self.k1,self.k2,self.ng,False)
+            self.temp_games.at[index,"T1P1 Change"]=player1.update_elo(elo2,pre_calc=self.avg_team,odds=cutoff,winner=True)
+            self.temp_games.at[index,"T1P2 Change"]=player2.update_elo(elo2,pre_calc=self.avg_team,odds=cutoff,winner=True)
+            self.temp_games.at[index,"T2P1 Change"]=player3.update_elo(elo1,pre_calc=self.avg_team,odds=cutoff,winner=False)
+            self.temp_games.at[index,"T2P2 Change"]=player4.update_elo(elo1,pre_calc=self.avg_team,odds=cutoff,winner=False)
             self.temp_games.at[index,"Win"]= False
 
         # Case if team 2 wins
@@ -436,10 +474,10 @@ class ELO_Model:
         else :
         
             # Updating the Elo Ratings
-            self.temp_games.at[index,"T1P1 Change"]=player1.update_elo(elo2,self.k1,self.k2,self.ng,False)
-            self.temp_games.at[index,"T1P2 Change"]=player2.update_elo(elo2,self.k1,self.k2,self.ng,False)
-            self.temp_games.at[index,"T2P1 Change"]=player3.update_elo(elo1,self.k1,self.k2,self.ng,True)
-            self.temp_games.at[index,"T2P2 Change"]=player4.update_elo(elo1,self.k1,self.k2,self.ng,True)
+            self.temp_games.at[index,"T1P1 Change"]=player1.update_elo(elo2,pre_calc=self.avg_team,odds=cutoff,winner=False)
+            self.temp_games.at[index,"T1P2 Change"]=player2.update_elo(elo2,pre_calc=self.avg_team,odds=cutoff,winner=False)
+            self.temp_games.at[index,"T2P1 Change"]=player3.update_elo(elo1,pre_calc=self.avg_team,odds=cutoff,winner=True)
+            self.temp_games.at[index,"T2P2 Change"]=player4.update_elo(elo1,pre_calc=self.avg_team,odds=cutoff,winner=True)
             #Win defaluts to false
             self.temp_games.at[index,"Win"]= True
 
@@ -477,6 +515,7 @@ class ELO_Model:
         for index,row in self.temp_games.iterrows():
                 self.record_game(row["mT1P1"],row["mT1P2"],row["mT2P1"],row["mT2P2"],row["mT1_result"],index)
         self.played_games=self.played_games._append(self.temp_games,ignore_index=True)
+
     
     def record_season(self,data,combos):
         """
@@ -503,6 +542,12 @@ class ELO_Model:
             if self.decay==True:
                 for player in self.p_dict.values():
                     player.update_time(combos_t.loc[i,"Date"],self.decay_array)
+            
+            if self.remove == True:
+                players = list(self.p_dict.keys())  # Create a list of keys to avoid modifying during iteration
+                for player in players:
+                    if self.p_dict[player].days_since_played > self.remove_time:
+                        del self.p_dict[player]  # Safe to delete now
             # Update tourney level results
             self.players_total=self.players_total._append(self.give_players_df(combos_t.loc[i,"tourney"],combos_t.loc[i,"Date"]))
             
@@ -678,7 +723,4 @@ class ELO_Model:
         """
         for i in range(0,len(combos)):
             self.predict_tourney(data,combos.loc[i,"tourney"],combos.loc[i,"Division"])
-        self.predicted_games=self.predicted_games.dropna(subset = ['Predict_win']).reset_index()    
-    
-
-    
+        self.predicted_games=self.predicted_games.dropna(subset = ['Predict_win']).reset_index()
