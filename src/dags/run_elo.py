@@ -35,7 +35,7 @@ def main():
         west_r_c["AVG_ELO"]=[True if x >param["NUMB_INITAL"]  else False for x in west_r_c["order"]]
         
         # Run elo model for whole timeframe
-        test=ELO_Model(karray= param["K_ARRAY"],dc=param["DC"],de=param["DE"],decay=param["DECAY"], decay_array=param["DECAY_ARRAY"],remove=param["REMOVE"],start_per=param["START_PER"])
+        test=ELO_Model(k_array= param["K_ARRAY"],dc=param["DC"],de=param["DE"],decay=param["DECAY"], decay_array=param["DECAY_ARRAY"],remove=param["REMOVE"],start_per=param["START_PER"])
         test.record_season(west_r,west_r_c)
         
         # Export player results at all stages
