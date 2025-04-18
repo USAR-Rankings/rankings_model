@@ -2,7 +2,6 @@
 OPEN_P= {
 # Filepath to where the data is
 "BASE_PATH": "",
-# "DATA_PATH" : "data/open_full_tournaments.csv",
 "DATA_PATH": "data/open_full_tournaments.csv",
 
 # Set number of events to use to use intial sperateion for (25 is what was used for final model)
@@ -26,7 +25,6 @@ OPEN_P= {
 WOMENS_P= {
 # Filepath to where the data is
 "BASE_PATH": "",
-# "DATA_PATH" : "data/women_full_tournaments.csv",
 "DATA_PATH" : "data/women_full_tournaments.csv",
 
 # Set number of events to use to use intial sperateion for (25 is what was used for final model)
