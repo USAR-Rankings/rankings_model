@@ -131,60 +131,32 @@ class Player:
         if pre_calc==True:
             cutoff=odds
         else:
-            # Original individual versus other team average model
-            # cutoff=calculate_win_prob(elo_ot,self.elo)
-
-            # Individual versus other team sum - teammate model
-            # cutoff=calculate_win_prob((elo_ot*2)-elo_partner,self.elo)
-
-            # Germany method - run teams against each other and split points evenly
-            # cutoff=calculate_win_prob(elo_ot,(self.elo+elo_partner)/2)
+            # Calculating odds of winning this game
+            cutoff = calculate_win_prob(elo_ot, (self.elo + elo_partner) / 2)
 
             # Run team's against each other, points split:
             #   For losses, proportional to the distance of the other's team average
-            #   For wins, inverse proportional
-            cutoff = calculate_win_prob(elo_ot, (self.elo + elo_partner) / 2)
-            # cur_distance = abs(self.elo - elo_ot) + 50
+            #   For wins, your partner's ELO / (sum of both partners elo)
             cur_distance = max(self.elo - elo_ot, 0) + 50
-            # cur_distance = cur_distance if cur_distance > 0 else 1
-            # 100 to make it less sensitive when the ELO scores are the same as the other team
-            # part_dist = abs(elo_partner - elo_ot) + 50
             part_dist = max(elo_partner - elo_ot, 0) + 50
-            # part_dist = part_dist if part_dist > 0 else 1
-            # This finds the proportion of distance the current player is accountable for
             cur_player_distance_proportion = cur_distance / (cur_distance + part_dist)
-
 
         if winner ==True:
             expected=1-(cutoff)
             total_points = 2 * (self.k * expected)
-            # points = total_points * (1 - cur_player_distance_proportion)
-            # For wins, lower player moves more than higher
+            points = total_points * (elo_partner / (elo_partner + self.elo))
         else:
             expected=0-cutoff
             total_points = 2 * (self.k * expected)
-            # points = total_points * cur_player_distance_proportion
-            # points = total_points / 2
+            points = total_points * cur_player_distance_proportion
 
-        ratio = elo_partner / (self.elo + elo_partner)
-        if self.elo < elo_partner:
-            ratio = ratio if ratio >= 0.6 else 0.6
-            # ratio = 0.5
-            points = total_points * ratio
-        else:
-            ratio = ratio if ratio <= 0.4 else 0.4
-            # ratio = 0.5
-            points = total_points * ratio
-
-        # self.elo+= self.k * expected
-        self.elo+= points
+        self.elo+=points
         self.games+=1
         if self.start_k==True:
             if self.games==self.ng+1:
                 self.set_k()
         self._og_elo=self.elo
 
-        # return self.k * expected
         return points
 
     def add_division(self,div):
@@ -737,4 +709,31 @@ class ELO_Model:
             The DataFrame that contains the games to predict.
         tourney : str
             The tournament that you're predicting.
-        division : st
+        division : str
+            The division you're predicting.
+        """
+        self.create_teams(data,tourney,division)
+        self.read_games(data,tourney,division)
+        self.temp_games["prob"]=[0.00]*len(self.temp_games)
+        self.temp_games["Win"]=[True]*len(self.temp_games)
+        self.temp_games["Min Games"]=[0]*len(self.temp_games)
+        self.temp_games["Avg Elo"]=[0]*len(self.temp_games)
+        self.temp_games["Predict_win"]=[0.0]*len(self.temp_games)
+        for index,row in self.temp_games.iterrows():
+                self.predict_game(row["mT1P1"],row["mT1P2"],row["mT2P1"],row["mT2P2"],row["mT1_result"],index)
+        self.predicted_games=self.predicted_games._append(self.temp_games,ignore_index=True)
+
+    def predict_season(self,data,combos):
+        """
+        Predicts across multiple tournaments.
+
+        Parameters
+        ----------
+        data : DataFrame
+            The DataFrame that contains the games to predict.
+        combos : DataFrame
+            The combinations of tournament and division to predict.
+        """
+        for i in range(0,len(combos)):
+            self.predict_tourney(data,combos.loc[i,"tourney"],combos.loc[i,"Division"])
+        self.predicted_games=self.predicted_games.dropna(subset = ['Predict_win']).reset_index()

@@ -1,5 +1,6 @@
 import math
 import random as random
+import plotly.express as px
 
 
 def calculate_win_prob(elo1,elo2):
@@ -38,36 +39,23 @@ def test_elo_reaction(player_elo, elo_partner, elo_ot, winner, k):
     :return:  float, the amount the player's ELO would change in this scenario
     """
     cutoff = calculate_win_prob(elo_ot, (player_elo + elo_partner) / 2)
-    cur_distance = max(player_elo - elo_ot, 0) + 500
-    # cur_distance = cur_distance if cur_distance > 0 else 1
-    # 100 to make it less sensitive when the ELO scores are the same as the other team
-    part_dist = max(elo_partner - elo_ot, 0) + 500
-    # part_dist = part_dist if part_dist > 0 else 1
-    # This finds the proportion of distance the current player is accountable for
+    cur_distance = max(player_elo - elo_ot, 0) + 50
+    part_dist = max(elo_partner - elo_ot, 0) + 50
     cur_player_distance_proportion = cur_distance / (cur_distance + part_dist)
 
     if winner == True:
         expected = 1 - (cutoff)
-        total_points = 2 * (k * expected)
-        # points = total_points * (1 - cur_player_distance_proportion)
-        if player_elo < elo_partner:
-            points = total_points * 0.6
-        else:
-            points = total_points * 0.4
+        total_points = 2 * (player_elo * expected)
+        points = total_points * (elo_partner / (elo_partner + player_elo))
     else:
         expected = 0 - cutoff
         total_points = 2 * (k * expected)
-        # points = total_points * cur_player_distance_proportion
-        points = total_points / 2
-
-    ratio = elo_partner / (player_elo + elo_partner)
-    if player_elo < elo_partner:
-        ratio = ratio if ratio >= 0.6 else 0.6
-        # ratio = 0.5
-        points = total_points * ratio
-    else:
-        ratio = ratio if ratio <= 0.4 else 0.4
-        # ratio = 0.5
-        points = total_points * ratio
+        points = total_points * cur_player_distance_proportion
 
     return points
+
+
+def create_player_comparison_chart(out_df, track_players, param):
+    track_df = out_df[out_df["name"].isin(track_players)]
+    fig = px.line(track_df, x="Date", y="elo", color="name")
+    fig.write_image(param["BASE_PATH"] + "data/track_players_elo.png")
