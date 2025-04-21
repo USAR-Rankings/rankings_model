@@ -1,0 +1,111 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Expert,This Pool is lame,1,Single game,Narayan’s Nemesis,Goldman Stacks,Narayan’s Nemesis,21,16,,,,,Kyle Fowler,Polk Denmark,Peyton Stack,Justin Goldman
+Pool Play,Expert,This Pool is lame,1,Single game,can’t ice ice cold,Torta Pounders,Torta Pounders,17,21,,,,,Bradley Clark,Braedan Thomas,Isaac Mixon,David Gonzales
+Pool Play,Expert,This Pool is lame,1,Single game,Consensual,No Mames,Consensual,21,14,,,,,Kurt Lannetti,Sean Caufield,Jackson Petroske,Blake Van Den Top
+Pool Play,Expert,This pool is cool,1,Single game,paq/noah,Dalinqwents,paq/noah,21,16,,,,,Paq Clifford,Noah Kopetic,Brandon Tice,Cole Kuhlers
+Pool Play,Expert,This pool is cool,1,Single game,NEM Seazonal,Claymore,NEM Seazonal,21,13,,,,,Zach Snover,Jacob Summers,Harrison Baisden,Andrew Yancey
+Pool Play,Expert,This pool is cool,1,Single game,Inspection,Wolfpack - Legends Edition,Inspection,22,20,,,,,Jake Dooley,John Buchanan,Jacob Narayan,Tommy Drake
+Pool Play,Expert,This Pool is lame,2,Single game,Narayan’s Nemesis,Torta Pounders,Narayan’s Nemesis,21,14,,,,,Kyle Fowler,Polk Denmark,Isaac Mixon,David Gonzales
+Pool Play,Expert,This Pool is lame,2,Single game,can’t ice ice cold,Consensual,Consensual,18,21,,,,,Bradley Clark,Braedan Thomas,Kurt Lannetti,Sean Caufield
+Pool Play,Expert,This Pool is lame,2,Single game,No Mames,Goldman Stacks,Goldman Stacks,14,21,,,,,Jackson Petroske,Blake Van Den Top,Peyton Stack,Justin Goldman
+Pool Play,Expert,This pool is cool,2,Single game,paq/noah,Claymore,paq/noah,21,19,,,,,Paq Clifford,Noah Kopetic,Harrison Baisden,Andrew Yancey
+Pool Play,Expert,This pool is cool,2,Single game,NEM Seazonal,Inspection,NEM Seazonal,21,19,,,,,Zach Snover,Jacob Summers,Jake Dooley,John Buchanan
+Pool Play,Expert,This pool is cool,2,Single game,Wolfpack - Legends Edition,Dalinqwents,Dalinqwents,15,21,,,,,Jacob Narayan,Tommy Drake,Brandon Tice,Cole Kuhlers
+Pool Play,Expert,This Pool is lame,3,Single game,Narayan’s Nemesis,No Mames,Narayan’s Nemesis,21,13,,,,,Kyle Fowler,Polk Denmark,Jackson Petroske,Blake Van Den Top
+Pool Play,Expert,This Pool is lame,3,Single game,can’t ice ice cold,Goldman Stacks,Goldman Stacks,17,21,,,,,Bradley Clark,Braedan Thomas,Peyton Stack,Justin Goldman
+Pool Play,Expert,This Pool is lame,3,Single game,Consensual,Torta Pounders,Consensual,21,12,,,,,Kurt Lannetti,Sean Caufield,Isaac Mixon,David Gonzales
+Pool Play,Expert,This pool is cool,3,Single game,paq/noah,Wolfpack - Legends Edition,paq/noah,21,15,,,,,Paq Clifford,Noah Kopetic,Jacob Narayan,Tommy Drake
+Pool Play,Expert,This pool is cool,3,Single game,NEM Seazonal,Dalinqwents,NEM Seazonal,21,10,,,,,Zach Snover,Jacob Summers,Brandon Tice,Cole Kuhlers
+Pool Play,Expert,This pool is cool,3,Single game,Inspection,Claymore,Inspection,21,18,,,,,Jake Dooley,John Buchanan,Harrison Baisden,Andrew Yancey
+Pool Play,Expert,This Pool is lame,4,Single game,Narayan’s Nemesis,Consensual,Narayan’s Nemesis,21,10,,,,,Kyle Fowler,Polk Denmark,Kurt Lannetti,Sean Caufield
+Pool Play,Expert,This Pool is lame,4,Single game,can’t ice ice cold,No Mames,No Mames,19,21,,,,,Bradley Clark,Braedan Thomas,Jackson Petroske,Blake Van Den Top
+Pool Play,Expert,This Pool is lame,4,Single game,Torta Pounders,Goldman Stacks,Goldman Stacks,19,21,,,,,Isaac Mixon,David Gonzales,Peyton Stack,Justin Goldman
+Pool Play,Expert,This pool is cool,4,Single game,paq/noah,Inspection,paq/noah,21,17,,,,,Paq Clifford,Noah Kopetic,Jake Dooley,John Buchanan
+Pool Play,Expert,This pool is cool,4,Single game,NEM Seazonal,Wolfpack - Legends Edition,NEM Seazonal,21,10,,,,,Zach Snover,Jacob Summers,Jacob Narayan,Tommy Drake
+Pool Play,Expert,This pool is cool,4,Single game,Claymore,Dalinqwents,Claymore,21,19,,,,,Harrison Baisden,Andrew Yancey,Brandon Tice,Cole Kuhlers
+Pool Play,Expert,This Pool is lame,5,Single game,Narayan’s Nemesis,can’t ice ice cold,Narayan’s Nemesis,21,12,,,,,Kyle Fowler,Polk Denmark,Bradley Clark,Braedan Thomas
+Pool Play,Expert,This Pool is lame,5,Single game,Consensual,Goldman Stacks,Consensual,21,16,,,,,Kurt Lannetti,Sean Caufield,Peyton Stack,Justin Goldman
+Pool Play,Expert,This Pool is lame,5,Single game,No Mames,Torta Pounders,No Mames,21,19,,,,,Jackson Petroske,Blake Van Den Top,Isaac Mixon,David Gonzales
+Pool Play,Expert,This pool is cool,5,Single game,paq/noah,NEM Seazonal,NEM Seazonal,16,21,,,,,Paq Clifford,Noah Kopetic,Zach Snover,Jacob Summers
+Pool Play,Expert,This pool is cool,5,Single game,Inspection,Dalinqwents,Dalinqwents,18,21,,,,,Jake Dooley,John Buchanan,Brandon Tice,Cole Kuhlers
+Pool Play,Expert,This pool is cool,5,Single game,Wolfpack - Legends Edition,Claymore,Claymore,22,24,,,,,Jacob Narayan,Tommy Drake,Harrison Baisden,Andrew Yancey
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Goldman Stacks,Wolfpack - Legends Edition,Goldman Stacks,21,18,21,12,,,Peyton Stack,Justin Goldman,Jacob Narayan,Tommy Drake
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Inspection,can’t ice ice cold,Inspection,21,13,23,21,,,Jake Dooley,John Buchanan,Bradley Clark,Braedan Thomas
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Claymore,Torta Pounders,Claymore,1,0,1,0,,,Harrison Baisden,Andrew Yancey,Isaac Mixon,David Gonzales
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Dalinqwents,No Mames,No Mames,17,21,16,21,,,Brandon Tice,Cole Kuhlers,Jackson Petroske,Blake Van Den Top
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Narayan’s Nemesis,No Mames,Narayan’s Nemesis,21,11,21,9,,,Kyle Fowler,Polk Denmark,Jackson Petroske,Blake Van Den Top
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,NEM Seazonal,Claymore,NEM Seazonal,21,16,21,15,,,Zach Snover,Jacob Summers,Harrison Baisden,Andrew Yancey
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Consensual,Inspection,Inspection,14,21,21,15,19,21,Kurt Lannetti,Sean Caufield,Jake Dooley,John Buchanan
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,paq/noah,Goldman Stacks,paq/noah,21,14,19,21,21,15,Paq Clifford,Noah Kopetic,Peyton Stack,Justin Goldman
+Bracket Stage,Expert,Bracket A,Semi-final,Best of 3,Narayan’s Nemesis,paq/noah,Narayan’s Nemesis,22,20,21,15,,,Kyle Fowler,Polk Denmark,Paq Clifford,Noah Kopetic
+Bracket Stage,Expert,Bracket A,Semi-final,Best of 3,NEM Seazonal,Inspection,NEM Seazonal,21,6,21,12,,,Zach Snover,Jacob Summers,Jake Dooley,John Buchanan
+Bracket Stage,Expert,Bracket A,P5: Semi-final,Best of 3,Consensual,Claymore,Consensual,0,-1,0,-1,,,Kurt Lannetti,Sean Caufield,Harrison Baisden,Andrew Yancey
+Bracket Stage,Expert,Bracket A,P9: Semi-final,Best of 3,Dalinqwents,Wolfpack - Legends Edition,Dalinqwents,0,-1,0,-1,,,Brandon Tice,Cole Kuhlers,Jacob Narayan,Tommy Drake
+Bracket Stage,Expert,Bracket A,P9: Semi-final,Best of 3,Torta Pounders,can’t ice ice cold,Torta Pounders,1,0,1,0,,,Isaac Mixon,David Gonzales,Bradley Clark,Braedan Thomas
+Bracket Stage,Expert,Bracket A,Final,Best of 3,Narayan’s Nemesis,NEM Seazonal,NEM Seazonal,17,21,18,21,,,Kyle Fowler,Polk Denmark,Zach Snover,Jacob Summers
+Bracket Stage,Expert,Bracket A,P3: Final,Best of 3,Inspection,paq/noah,Inspection,1,0,0,1,1,0,Jake Dooley,John Buchanan,Paq Clifford,Noah Kopetic
+Bracket Stage,Expert,Bracket A,P5: Final,Best of 3,Goldman Stacks,Consensual,Goldman Stacks,21,12,28,26,,,Peyton Stack,Justin Goldman,Kurt Lannetti,Sean Caufield
+Pool Play,Contender,Pool Kyle Sucks,1,Single game,Should we play contender?,Big Wang Chang,Should we play contender?,21,16,,,,,Winston Zheng,Sam Bunze,Garret Chaffins,Ocean Chang
+Pool Play,Contender,Pool Kyle Sucks,1,Single game,bookie,Off Net Hitz,bookie,21,19,,,,,Andrew Nee,Tiff Ding,Parker Mckinney,Paul Berrey
+Pool Play,Contender,Pool Jacob is Cool,1,Single game,Out of Pocket,Bloody Rubbish Innit,Out of Pocket,21,4,,,,,Spencer Sexton,Eli Canon,Addyson Cobb,John Paul Pokorny
+Pool Play,Contender,Pool Jacob is Cool,1,Single game,I 💖 Gamma Phi,Survivors,I 💖 Gamma Phi,21,12,,,,,Hampton Chappell,Joanna Gould,Zeke Beckford,Hudson Powers
+Pool Play,Contender,Pool Jacob is Cool,1,Single game,Mythical Pull,Remy Action,Mythical Pull,21,9,,,,,Austin Niles,Connar Kloehn,Maddie Huffstetler,Shelby Vanderhoof
+Pool Play,Contender,Pool Paq is also cool,1,Single game,EA Sports,Martins/Das,EA Sports,21,4,,,,,Eric Baldwin,Anthony Schenk,Giovani Grisotti Martins,neil das
+Pool Play,Contender,Pool Paq is also cool,1,Single game,Michael/Zack,TEEJ!,Michael/Zack,21,9,,,,,Michael Creedon,Zack Glew,Tahzjayee Gaymon,Ava Caron
+Pool Play,Contender,Pool Paq is also cool,1,Single game,Pi Cuts,"*Twisted* ","*Twisted* ",15,21,,,,,Lane Morris,Jake Kelley,Cody Peterson,Cole Solomon
+Pool Play,Contender,Pool Kyle Sucks,2,Single game,Should we play contender?,Off Net Hitz,Should we play contender?,21,11,,,,,Winston Zheng,Sam Bunze,Parker Mckinney,Paul Berrey
+Pool Play,Contender,Pool Kyle Sucks,2,Single game,Black Ops,Big Wang Chang,Black Ops,21,7,,,,,Pramodh Sundarshrii,Christina Nikas,Garret Chaffins,Ocean Chang
+Pool Play,Contender,Pool Jacob is Cool,2,Single game,Out of Pocket,Survivors,Out of Pocket,21,15,,,,,Spencer Sexton,Eli Canon,Zeke Beckford,Hudson Powers
+Pool Play,Contender,Pool Jacob is Cool,2,Single game,I 💖 Gamma Phi,Mythical Pull,Mythical Pull,18,21,,,,,Hampton Chappell,Joanna Gould,Austin Niles,Connar Kloehn
+Pool Play,Contender,Pool Jacob is Cool,2,Single game,Remy Action,Bloody Rubbish Innit,Remy Action,21,14,,,,,Maddie Huffstetler,Shelby Vanderhoof,Addyson Cobb,John Paul Pokorny
+Pool Play,Contender,Pool Paq is also cool,2,Single game,EA Sports,TEEJ!,EA Sports,21,8,,,,,Eric Baldwin,Anthony Schenk,Tahzjayee Gaymon,Ava Caron
+Pool Play,Contender,Pool Paq is also cool,2,Single game,Michael/Zack,Pi Cuts,Michael/Zack,25,24,,,,,Michael Creedon,Zack Glew,Lane Morris,Jake Kelley
+Pool Play,Contender,Pool Paq is also cool,2,Single game,"*Twisted* ",Martins/Das,"*Twisted* ",21,13,,,,,Cody Peterson,Cole Solomon,Giovani Grisotti Martins,neil das
+Pool Play,Contender,Pool Kyle Sucks,3,Single game,Should we play contender?,Black Ops,Should we play contender?,22,20,,,,,Winston Zheng,Sam Bunze,Pramodh Sundarshrii,Christina Nikas
+Pool Play,Contender,Pool Kyle Sucks,3,Single game,bookie,Big Wang Chang,Big Wang Chang,20,22,,,,,Andrew Nee,Tiff Ding,Garret Chaffins,Ocean Chang
+Pool Play,Contender,Pool Jacob is Cool,3,Single game,Out of Pocket,Remy Action,Out of Pocket,21,12,,,,,Spencer Sexton,Eli Canon,Maddie Huffstetler,Shelby Vanderhoof
+Pool Play,Contender,Pool Jacob is Cool,3,Single game,I 💖 Gamma Phi,Bloody Rubbish Innit,I 💖 Gamma Phi,21,7,,,,,Hampton Chappell,Joanna Gould,Addyson Cobb,John Paul Pokorny
+Pool Play,Contender,Pool Jacob is Cool,3,Single game,Mythical Pull,Survivors,Survivors,17,21,,,,,Austin Niles,Connar Kloehn,Zeke Beckford,Hudson Powers
+Pool Play,Contender,Pool Paq is also cool,3,Single game,EA Sports,"*Twisted* ","*Twisted* ",18,21,,,,,Eric Baldwin,Anthony Schenk,Cody Peterson,Cole Solomon
+Pool Play,Contender,Pool Paq is also cool,3,Single game,Michael/Zack,Martins/Das,Michael/Zack,21,12,,,,,Michael Creedon,Zack Glew,Giovani Grisotti Martins,neil das
+Pool Play,Contender,Pool Paq is also cool,3,Single game,Pi Cuts,TEEJ!,Pi Cuts,21,12,,,,,Lane Morris,Jake Kelley,Tahzjayee Gaymon,Ava Caron
+Pool Play,Contender,Pool Kyle Sucks,4,Single game,bookie,Black Ops,bookie,21,13,,,,,Andrew Nee,Tiff Ding,Pramodh Sundarshrii,Christina Nikas
+Pool Play,Contender,Pool Kyle Sucks,4,Single game,Off Net Hitz,Big Wang Chang,Big Wang Chang,13,21,,,,,Parker Mckinney,Paul Berrey,Garret Chaffins,Ocean Chang
+Pool Play,Contender,Pool Jacob is Cool,4,Single game,Out of Pocket,Mythical Pull,Out of Pocket,21,10,,,,,Spencer Sexton,Eli Canon,Austin Niles,Connar Kloehn
+Pool Play,Contender,Pool Jacob is Cool,4,Single game,I 💖 Gamma Phi,Remy Action,I 💖 Gamma Phi,21,10,,,,,Hampton Chappell,Joanna Gould,Maddie Huffstetler,Shelby Vanderhoof
+Pool Play,Contender,Pool Jacob is Cool,4,Single game,Survivors,Bloody Rubbish Innit,Survivors,21,6,,,,,Zeke Beckford,Hudson Powers,Addyson Cobb,John Paul Pokorny
+Pool Play,Contender,Pool Paq is also cool,4,Single game,EA Sports,Pi Cuts,EA Sports,21,15,,,,,Eric Baldwin,Anthony Schenk,Lane Morris,Jake Kelley
+Pool Play,Contender,Pool Paq is also cool,4,Single game,Michael/Zack,"*Twisted* ","*Twisted* ",17,21,,,,,Michael Creedon,Zack Glew,Cody Peterson,Cole Solomon
+Pool Play,Contender,Pool Paq is also cool,4,Single game,TEEJ!,Martins/Das,Martins/Das,10,21,,,,,Tahzjayee Gaymon,Ava Caron,Giovani Grisotti Martins,neil das
+Pool Play,Contender,Pool Kyle Sucks,5,Single game,Should we play contender?,bookie,Should we play contender?,21,17,,,,,Winston Zheng,Sam Bunze,Andrew Nee,Tiff Ding
+Pool Play,Contender,Pool Jacob is Cool,5,Single game,Out of Pocket,I 💖 Gamma Phi,Out of Pocket,21,17,,,,,Spencer Sexton,Eli Canon,Hampton Chappell,Joanna Gould
+Pool Play,Contender,Pool Jacob is Cool,5,Single game,Mythical Pull,Bloody Rubbish Innit,Mythical Pull,21,9,,,,,Austin Niles,Connar Kloehn,Addyson Cobb,John Paul Pokorny
+Pool Play,Contender,Pool Jacob is Cool,5,Single game,Remy Action,Survivors,Survivors,13,21,,,,,Maddie Huffstetler,Shelby Vanderhoof,Zeke Beckford,Hudson Powers
+Pool Play,Contender,Pool Paq is also cool,5,Single game,EA Sports,Michael/Zack,EA Sports,21,13,,,,,Eric Baldwin,Anthony Schenk,Michael Creedon,Zack Glew
+Pool Play,Contender,Pool Paq is also cool,5,Single game,Pi Cuts,Martins/Das,Pi Cuts,21,13,,,,,Lane Morris,Jake Kelley,Giovani Grisotti Martins,neil das
+Pool Play,Contender,Pool Paq is also cool,5,Single game,"*Twisted* ",TEEJ!,"*Twisted* ",21,4,,,,,Cody Peterson,Cole Solomon,Tahzjayee Gaymon,Ava Caron
+Bracket Stage,Contender,Bracket A,Round of 32,Best of 3,TEEJ!,Bloody Rubbish Innit,TEEJ!,21,13,21,19,,,Tahzjayee Gaymon,Ava Caron,Addyson Cobb,John Paul Pokorny
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Out of Pocket,TEEJ!,Out of Pocket,21,9,21,13,,,Spencer Sexton,Eli Canon,Tahzjayee Gaymon,Ava Caron
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,"*Twisted* ",Off Net Hitz,"*Twisted* ",21,11,21,12,,,Cody Peterson,Cole Solomon,Parker Mckinney,Paul Berrey
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,EA Sports,Remy Action,EA Sports,1,0,1,0,,,Eric Baldwin,Anthony Schenk,Maddie Huffstetler,Shelby Vanderhoof
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Should we play contender?,Martins/Das,Should we play contender?,21,10,21,10,,,Winston Zheng,Sam Bunze,Giovani Grisotti Martins,neil das
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,I 💖 Gamma Phi,Black Ops,I 💖 Gamma Phi,21,19,21,8,,,Hampton Chappell,Joanna Gould,Pramodh Sundarshrii,Christina Nikas
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Mythical Pull,Big Wang Chang,Mythical Pull,1,0,1,0,,,Austin Niles,Connar Kloehn,Garret Chaffins,Ocean Chang
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Survivors,Pi Cuts,Pi Cuts,0,1,1,0,0,1,Zeke Beckford,Hudson Powers,Lane Morris,Jake Kelley
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Michael/Zack,bookie,Michael/Zack,1,0,1,0,,,Michael Creedon,Zack Glew,Andrew Nee,Tiff Ding
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,Out of Pocket,Michael/Zack,Out of Pocket,21,19,21,18,,,Spencer Sexton,Eli Canon,Michael Creedon,Zack Glew
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,"*Twisted* ",Pi Cuts,"*Twisted* ",21,13,21,15,,,Cody Peterson,Cole Solomon,Lane Morris,Jake Kelley
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,EA Sports,Mythical Pull,EA Sports,17,21,26,24,21,18,Eric Baldwin,Anthony Schenk,Austin Niles,Connar Kloehn
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,Should we play contender?,I 💖 Gamma Phi,I 💖 Gamma Phi,29,31,16,21,,,Winston Zheng,Sam Bunze,Hampton Chappell,Joanna Gould
+Bracket Stage,Contender,Bracket A,P9: Quarter-final,Best of 3,bookie,TEEJ!,bookie,1,0,1,0,,,Andrew Nee,Tiff Ding,Tahzjayee Gaymon,Ava Caron
+Bracket Stage,Contender,Bracket A,P9: Quarter-final,Best of 3,Survivors,Off Net Hitz,Survivors,1,0,1,0,,,Zeke Beckford,Hudson Powers,Parker Mckinney,Paul Berrey
+Bracket Stage,Contender,Bracket A,P9: Quarter-final,Best of 3,Big Wang Chang,Remy Action,Big Wang Chang,1,0,0,1,1,0,Garret Chaffins,Ocean Chang,Maddie Huffstetler,Shelby Vanderhoof
+Bracket Stage,Contender,Bracket A,P9: Quarter-final,Best of 3,Black Ops,Martins/Das,Black Ops,1,0,1,0,,,Pramodh Sundarshrii,Christina Nikas,Giovani Grisotti Martins,neil das
+Bracket Stage,Contender,Bracket A,Semi-final,Best of 3,Out of Pocket,I 💖 Gamma Phi,Out of Pocket,21,15,18,21,21,18,Spencer Sexton,Eli Canon,Hampton Chappell,Joanna Gould
+Bracket Stage,Contender,Bracket A,Semi-final,Best of 3,"*Twisted* ",EA Sports,"*Twisted* ",23,21,21,17,,,Cody Peterson,Cole Solomon,Eric Baldwin,Anthony Schenk
+Bracket Stage,Contender,Bracket A,P5: Semi-final,Best of 3,Mythical Pull,Pi Cuts,Mythical Pull,1,0,1,0,,,Austin Niles,Connar Kloehn,Lane Morris,Jake Kelley
+Bracket Stage,Contender,Bracket A,P9: Semi-final,Best of 3,bookie,Black Ops,bookie,21,10,21,16,,,Andrew Nee,Tiff Ding,Pramodh Sundarshrii,Christina Nikas
+Bracket Stage,Contender,Bracket A,P9: Semi-final,Best of 3,Survivors,Big Wang Chang,Big Wang Chang,1,0,0,1,0,1,Zeke Beckford,Hudson Powers,Garret Chaffins,Ocean Chang
+Bracket Stage,Contender,Bracket A,Final,Best of 3,Out of Pocket,"*Twisted* ",Out of Pocket,1,0,0,1,1,0,Spencer Sexton,Eli Canon,Cody Peterson,Cole Solomon
+Bracket Stage,Contender,Bracket A,P3: Final,Best of 3,EA Sports,I 💖 Gamma Phi,I 💖 Gamma Phi,15,21,0,1,,,Eric Baldwin,Anthony Schenk,Hampton Chappell,Joanna Gould
+Bracket Stage,Contender,Bracket A,P9: Final,Best of 3,bookie,Big Wang Chang,bookie,1,0,1,0,,,Andrew Nee,Tiff Ding,Garret Chaffins,Ocean Chang
