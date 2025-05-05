@@ -1,0 +1,135 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Open Premier/Bronze+,Group A,1,Single game,Double A,Special Teams,Double A,21,17,,,,,Matt Spolarich,Owen Lippman,Liam Keegan,Matthew Rodriguez
+Group Stage,5.0 Open Premier/Bronze+,Group A,1,Single game,LL Come & Go,Charlie Brown,LL Come & Go,21,14,,,,,Jake Mottershead,Mike Garrett,Charlie Freeman,Declan Brown
+Group Stage,5.0 Open Premier/Bronze+,Group A,1,Single game,Awex and Wiwey,Keener’s weeners and Sid’s kids,Awex and Wiwey,21,13,,,,,Riley Nassour,Alex Newton,Tyler Keener,Sidney Mathues
+Group Stage,5.0 Open Premier/Bronze+,Group A,2,Single game,Double A,Charlie Brown,Double A,21,15,,,,,Matt Spolarich,Owen Lippman,Charlie Freeman,Declan Brown
+Group Stage,5.0 Open Premier/Bronze+,Group A,2,Single game,LL Come & Go,Rivals,LL Come & Go,21,16,,,,,Jake Mottershead,Mike Garrett,Henry Pilliod,Jake Hurst
+Group Stage,5.0 Open Premier/Bronze+,Group A,2,Single game,Keener’s weeners and Sid’s kids,Special Teams,Special Teams,16,21,,,,,Tyler Keener,Sidney Mathues,Liam Keegan,Matthew Rodriguez
+Group Stage,5.0 Open Premier/Bronze+,Group A,3,Single game,Double A,Keener’s weeners and Sid’s kids,Double A,21,18,,,,,Matt Spolarich,Owen Lippman,Tyler Keener,Sidney Mathues
+Group Stage,5.0 Open Premier/Bronze+,Group A,3,Single game,LL Come & Go,Awex and Wiwey,Awex and Wiwey,19,21,,,,,Jake Mottershead,Mike Garrett,Riley Nassour,Alex Newton
+Group Stage,5.0 Open Premier/Bronze+,Group A,3,Single game,Rivals,Charlie Brown,Rivals,21,12,,,,,Henry Pilliod,Jake Hurst,Charlie Freeman,Declan Brown
+Group Stage,5.0 Open Premier/Bronze+,Group A,4,Single game,Double A,Rivals,Rivals,14,21,,,,,Matt Spolarich,Owen Lippman,Henry Pilliod,Jake Hurst
+Group Stage,5.0 Open Premier/Bronze+,Group A,4,Single game,LL Come & Go,Special Teams,LL Come & Go,21,18,,,,,Jake Mottershead,Mike Garrett,Liam Keegan,Matthew Rodriguez
+Group Stage,5.0 Open Premier/Bronze+,Group A,4,Single game,Awex and Wiwey,Charlie Brown,Awex and Wiwey,21,15,,,,,Riley Nassour,Alex Newton,Charlie Freeman,Declan Brown
+Group Stage,5.0 Open Premier/Bronze+,Group A,5,Single game,LL Come & Go,Keener’s weeners and Sid’s kids,LL Come & Go,21,11,,,,,Jake Mottershead,Mike Garrett,Tyler Keener,Sidney Mathues
+Group Stage,5.0 Open Premier/Bronze+,Group A,5,Single game,Awex and Wiwey,Rivals,Rivals,19,21,,,,,Riley Nassour,Alex Newton,Henry Pilliod,Jake Hurst
+Group Stage,5.0 Open Premier/Bronze+,Group A,5,Single game,Charlie Brown,Special Teams,Charlie Brown,21,18,,,,,Charlie Freeman,Declan Brown,Liam Keegan,Matthew Rodriguez
+Group Stage,5.0 Open Premier/Bronze+,Group A,6,Single game,Double A,Awex and Wiwey,Awex and Wiwey,18,21,,,,,Matt Spolarich,Owen Lippman,Riley Nassour,Alex Newton
+Group Stage,5.0 Open Premier/Bronze+,Group A,6,Single game,Rivals,Special Teams,Rivals,21,11,,,,,Henry Pilliod,Jake Hurst,Liam Keegan,Matthew Rodriguez
+Group Stage,5.0 Open Premier/Bronze+,Group A,6,Single game,Keener’s weeners and Sid’s kids,Charlie Brown,Charlie Brown,15,21,,,,,Tyler Keener,Sidney Mathues,Charlie Freeman,Declan Brown
+Group Stage,5.0 Open Premier/Bronze+,Group A,7,Single game,Double A,LL Come & Go,Double A,21,17,,,,,Matt Spolarich,Owen Lippman,Jake Mottershead,Mike Garrett
+Group Stage,5.0 Open Premier/Bronze+,Group A,7,Single game,Awex and Wiwey,Special Teams,Awex and Wiwey,21,13,,,,,Riley Nassour,Alex Newton,Liam Keegan,Matthew Rodriguez
+Group Stage,5.0 Open Premier/Bronze+,Group A,7,Single game,Rivals,Keener’s weeners and Sid’s kids,Rivals,21,19,,,,,Henry Pilliod,Jake Hurst,Tyler Keener,Sidney Mathues
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Awex and Wiwey,Keener’s weeners and Sid’s kids,Awex and Wiwey,21,13,21,15,,,Riley Nassour,Alex Newton,Tyler Keener,Sidney Mathues
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Double A,Special Teams,Double A,21,12,21,18,,,Matt Spolarich,Owen Lippman,Liam Keegan,Matthew Rodriguez
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Quarter-final,Best of 3,LL Come & Go,Charlie Brown,LL Come & Go,21,14,21,16,,,Jake Mottershead,Mike Garrett,Charlie Freeman,Declan Brown
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Semi-final,Best of 3,Rivals,LL Come & Go,LL Come & Go,16,21,16,21,,,Henry Pilliod,Jake Hurst,Jake Mottershead,Mike Garrett
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Semi-final,Best of 3,Awex and Wiwey,Double A,Awex and Wiwey,27,25,21,16,,,Riley Nassour,Alex Newton,Matt Spolarich,Owen Lippman
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,P5: Semi-final,Best of 3,Special Teams,Keener’s weeners and Sid’s kids,Special Teams,0,-2,0,-2,,,Liam Keegan,Matthew Rodriguez,Tyler Keener,Sidney Mathues
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Final,Best of 3,LL Come & Go,Awex and Wiwey,LL Come & Go,21,16,21,18,,,Jake Mottershead,Mike Garrett,Riley Nassour,Alex Newton
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,P3: Final,Best of 3,Double A,Rivals,Rivals,17,21,22,20,17,21,Matt Spolarich,Owen Lippman,Henry Pilliod,Jake Hurst
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,P5: Final,Best of 3,Charlie Brown,Special Teams,Special Teams,18,21,18,21,,,Charlie Freeman,Declan Brown,Liam Keegan,Matthew Rodriguez
+Group Stage,Open 4.0+ (Contender),Group A,1,Single game,W.D.F.A.,Leah and Allie,W.D.F.A.,21,1,,,,,blake rock,Eoin O'Gara,Leah Petrore,Allison Minnier
+Group Stage,Open 4.0+ (Contender),Group A,1,Single game,JtRoundnet,Passion project,JtRoundnet,21,10,,,,,Michael Moniz,John Mankowich,Axel Helfand,Patrick Gillespie
+Group Stage,Open 4.0+ (Contender),Group A,1,Single game,Twin Peaks,Jaden Orewiler + Nick Moniz,Jaden Orewiler + Nick Moniz,16,21,,,,,Noah Malewicki,Jacob Lamontagne,jaden orewiler,Nicholas Moniz
+Group Stage,Open 4.0+ (Contender),Group B,1,Single game,Salty Spikes,McKayla and Addy,Salty Spikes,21,6,,,,,Noah Lerner-Morelle,Kolton Knight,McKayla Orewiler,Addy Roemersma
+Group Stage,Open 4.0+ (Contender),Group B,1,Single game,Gramp's and Unc,S-H,Gramp's and Unc,21,8,,,,,Robbie Koennecker,Henry Pleszkoch,alex M,Valencio Almborg-Perez
+Group Stage,Open 4.0+ (Contender),Group B,1,Single game,Freak n' Tweak,2 Working Knees,Freak n' Tweak,21,17,,,,,Samuel Panek,Sreesai Katiki,Kaden Gratton,John Neuffer
+Group Stage,Open 4.0+ (Contender),Group C,1,Single game,Trying Our Best,Incrediballs,Trying Our Best,21,4,,,,,Ethan Gabay,Michael Nelson,Abbie McCoy,evangelia hahalis
+Group Stage,Open 4.0+ (Contender),Group C,1,Single game,Old and new,We Suck,Old and new,21,16,,,,,Nic Albornoz,Sam Kautzman,Pranav Ram,Josh Retzlaff
+Group Stage,Open 4.0+ (Contender),Group C,1,Single game,AJ Yoon / Tyler Ruhl,Pete + Alex,Pete + Alex,13,21,,,,,AJ Yoon,Tyler Ruhl,Kaden Gratton,Peter Lanza
+Group Stage,Open 4.0+ (Contender),Group D,1,Single game,SOLD,Have you met Ted?,SOLD,21,12,,,,,Michael Lin,Kyle Keenan,Alaina Althouse,Raylyn Tarquinio
+Group Stage,Open 4.0+ (Contender),Group D,1,Single game,Spiked Pina Colada,Serenity,Spiked Pina Colada,21,8,,,,,Andrew Carmody,Richard Ahn,Walker Sherwin,Shawn Robertson
+Group Stage,Open 4.0+ (Contender),Group D,1,Single game,Fresh Meat,D3 A,Fresh Meat,21,18,,,,,Kade Kulpinski,Ryan Shantz,Nicholas Puglisi,James Pollock
+Group Stage,Open 4.0+ (Contender),Group E,1,Single game,"Ice cold ",2020 Montverde,"Ice cold ",21,17,,,,,Nathan Witmer,Christopher Brubaker,Taylor Nelson,Matthew Machmer
+Group Stage,Open 4.0+ (Contender),Group E,1,Single game,"Net Prophets ",I'm a livin bucket,"Net Prophets ",21,16,,,,,Drew Weaver,Matthew Mesaros,Nathan Leandri,Jake Hallinan
+Group Stage,Open 4.0+ (Contender),Group A,2,Single game,W.D.F.A.,Passion project,W.D.F.A.,21,13,,,,,blake rock,Eoin O'Gara,Axel Helfand,Patrick Gillespie
+Group Stage,Open 4.0+ (Contender),Group A,2,Single game,JtRoundnet,Twin Peaks,JtRoundnet,21,13,,,,,Michael Moniz,John Mankowich,Noah Malewicki,Jacob Lamontagne
+Group Stage,Open 4.0+ (Contender),Group A,2,Single game,Jaden Orewiler + Nick Moniz,Leah and Allie,Jaden Orewiler + Nick Moniz,21,5,,,,,jaden orewiler,Nicholas Moniz,Leah Petrore,Allison Minnier
+Group Stage,Open 4.0+ (Contender),Group B,2,Single game,Salty Spikes,S-H,Salty Spikes,21,12,,,,,Noah Lerner-Morelle,Kolton Knight,alex M,Valencio Almborg-Perez
+Group Stage,Open 4.0+ (Contender),Group B,2,Single game,Gramp's and Unc,Freak n' Tweak,Gramp's and Unc,21,12,,,,,Robbie Koennecker,Henry Pleszkoch,Samuel Panek,Sreesai Katiki
+Group Stage,Open 4.0+ (Contender),Group B,2,Single game,2 Working Knees,McKayla and Addy,2 Working Knees,21,7,,,,,Kaden Gratton,John Neuffer,McKayla Orewiler,Addy Roemersma
+Group Stage,Open 4.0+ (Contender),Group C,2,Single game,Trying Our Best,We Suck,Trying Our Best,21,14,,,,,Ethan Gabay,Michael Nelson,Pranav Ram,Josh Retzlaff
+Group Stage,Open 4.0+ (Contender),Group C,2,Single game,Old and new,AJ Yoon / Tyler Ruhl,Old and new,21,13,,,,,Nic Albornoz,Sam Kautzman,AJ Yoon,Tyler Ruhl
+Group Stage,Open 4.0+ (Contender),Group C,2,Single game,Pete + Alex,Incrediballs,Pete + Alex,21,12,,,,,Kaden Gratton,Peter Lanza,Abbie McCoy,evangelia hahalis
+Group Stage,Open 4.0+ (Contender),Group D,2,Single game,SOLD,Serenity,SOLD,21,12,,,,,Michael Lin,Kyle Keenan,Walker Sherwin,Shawn Robertson
+Group Stage,Open 4.0+ (Contender),Group D,2,Single game,Spiked Pina Colada,Fresh Meat,Spiked Pina Colada,21,19,,,,,Andrew Carmody,Richard Ahn,Kade Kulpinski,Ryan Shantz
+Group Stage,Open 4.0+ (Contender),Group D,2,Single game,D3 A,Have you met Ted?,D3 A,21,14,,,,,Nicholas Puglisi,James Pollock,Alaina Althouse,Raylyn Tarquinio
+Group Stage,Open 4.0+ (Contender),Group E,2,Single game,"Ice cold ",I'm a livin bucket,"Ice cold ",21,15,,,,,Nathan Witmer,Christopher Brubaker,Nathan Leandri,Jake Hallinan
+Group Stage,Open 4.0+ (Contender),Group E,2,Single game,Brainrot Blasters,2020 Montverde,Brainrot Blasters,21,18,,,,,Diego Lopez,Zach Young,Taylor Nelson,Matthew Machmer
+Group Stage,Open 4.0+ (Contender),Group A,3,Single game,W.D.F.A.,Jaden Orewiler + Nick Moniz,W.D.F.A.,21,8,,,,,blake rock,Eoin O'Gara,jaden orewiler,Nicholas Moniz
+Group Stage,Open 4.0+ (Contender),Group A,3,Single game,JtRoundnet,Leah and Allie,JtRoundnet,21,7,,,,,Michael Moniz,John Mankowich,Leah Petrore,Allison Minnier
+Group Stage,Open 4.0+ (Contender),Group A,3,Single game,Twin Peaks,Passion project,Twin Peaks,21,16,,,,,Noah Malewicki,Jacob Lamontagne,Axel Helfand,Patrick Gillespie
+Group Stage,Open 4.0+ (Contender),Group B,3,Single game,Salty Spikes,2 Working Knees,Salty Spikes,21,6,,,,,Noah Lerner-Morelle,Kolton Knight,Kaden Gratton,John Neuffer
+Group Stage,Open 4.0+ (Contender),Group B,3,Single game,Gramp's and Unc,McKayla and Addy,Gramp's and Unc,21,7,,,,,Robbie Koennecker,Henry Pleszkoch,McKayla Orewiler,Addy Roemersma
+Group Stage,Open 4.0+ (Contender),Group B,3,Single game,Freak n' Tweak,S-H,Freak n' Tweak,21,12,,,,,Samuel Panek,Sreesai Katiki,alex M,Valencio Almborg-Perez
+Group Stage,Open 4.0+ (Contender),Group C,3,Single game,Trying Our Best,Pete + Alex,Trying Our Best,21,17,,,,,Ethan Gabay,Michael Nelson,Kaden Gratton,Peter Lanza
+Group Stage,Open 4.0+ (Contender),Group C,3,Single game,Old and new,Incrediballs,Old and new,21,12,,,,,Nic Albornoz,Sam Kautzman,Abbie McCoy,evangelia hahalis
+Group Stage,Open 4.0+ (Contender),Group C,3,Single game,AJ Yoon / Tyler Ruhl,We Suck,AJ Yoon / Tyler Ruhl,21,16,,,,,AJ Yoon,Tyler Ruhl,Pranav Ram,Josh Retzlaff
+Group Stage,Open 4.0+ (Contender),Group D,3,Single game,SOLD,D3 A,SOLD,21,18,,,,,Michael Lin,Kyle Keenan,Nicholas Puglisi,James Pollock
+Group Stage,Open 4.0+ (Contender),Group D,3,Single game,Spiked Pina Colada,Have you met Ted?,Spiked Pina Colada,21,6,,,,,Andrew Carmody,Richard Ahn,Alaina Althouse,Raylyn Tarquinio
+Group Stage,Open 4.0+ (Contender),Group D,3,Single game,Fresh Meat,Serenity,Fresh Meat,21,11,,,,,Kade Kulpinski,Ryan Shantz,Walker Sherwin,Shawn Robertson
+Group Stage,Open 4.0+ (Contender),Group E,3,Single game,"Ice cold ",Brainrot Blasters,Brainrot Blasters,20,22,,,,,Nathan Witmer,Christopher Brubaker,Diego Lopez,Zach Young
+Group Stage,Open 4.0+ (Contender),Group E,3,Single game,"Net Prophets ",2020 Montverde,"Net Prophets ",21,10,,,,,Drew Weaver,Matthew Mesaros,Taylor Nelson,Matthew Machmer
+Group Stage,Open 4.0+ (Contender),Group A,4,Single game,W.D.F.A.,Twin Peaks,W.D.F.A.,21,19,,,,,blake rock,Eoin O'Gara,Noah Malewicki,Jacob Lamontagne
+Group Stage,Open 4.0+ (Contender),Group A,4,Single game,JtRoundnet,Jaden Orewiler + Nick Moniz,JtRoundnet,21,15,,,,,Michael Moniz,John Mankowich,jaden orewiler,Nicholas Moniz
+Group Stage,Open 4.0+ (Contender),Group A,4,Single game,Passion project,Leah and Allie,Passion project,21,8,,,,,Axel Helfand,Patrick Gillespie,Leah Petrore,Allison Minnier
+Group Stage,Open 4.0+ (Contender),Group B,4,Single game,Salty Spikes,Freak n' Tweak,Salty Spikes,21,16,,,,,Noah Lerner-Morelle,Kolton Knight,Samuel Panek,Sreesai Katiki
+Group Stage,Open 4.0+ (Contender),Group B,4,Single game,Gramp's and Unc,2 Working Knees,Gramp's and Unc,21,13,,,,,Robbie Koennecker,Henry Pleszkoch,Kaden Gratton,John Neuffer
+Group Stage,Open 4.0+ (Contender),Group B,4,Single game,S-H,McKayla and Addy,S-H,21,9,,,,,alex M,Valencio Almborg-Perez,McKayla Orewiler,Addy Roemersma
+Group Stage,Open 4.0+ (Contender),Group C,4,Single game,Trying Our Best,AJ Yoon / Tyler Ruhl,Trying Our Best,21,11,,,,,Ethan Gabay,Michael Nelson,AJ Yoon,Tyler Ruhl
+Group Stage,Open 4.0+ (Contender),Group C,4,Single game,Old and new,Pete + Alex,Pete + Alex,19,21,,,,,Nic Albornoz,Sam Kautzman,Kaden Gratton,Peter Lanza
+Group Stage,Open 4.0+ (Contender),Group C,4,Single game,We Suck,Incrediballs,We Suck,21,14,,,,,Pranav Ram,Josh Retzlaff,Abbie McCoy,evangelia hahalis
+Group Stage,Open 4.0+ (Contender),Group D,4,Single game,SOLD,Fresh Meat,Fresh Meat,11,21,,,,,Michael Lin,Kyle Keenan,Kade Kulpinski,Ryan Shantz
+Group Stage,Open 4.0+ (Contender),Group D,4,Single game,Spiked Pina Colada,D3 A,D3 A,19,21,,,,,Andrew Carmody,Richard Ahn,Nicholas Puglisi,James Pollock
+Group Stage,Open 4.0+ (Contender),Group D,4,Single game,Serenity,Have you met Ted?,Have you met Ted?,19,21,,,,,Walker Sherwin,Shawn Robertson,Alaina Althouse,Raylyn Tarquinio
+Group Stage,Open 4.0+ (Contender),Group E,4,Single game,"Net Prophets ",Brainrot Blasters,"Net Prophets ",21,17,,,,,Drew Weaver,Matthew Mesaros,Diego Lopez,Zach Young
+Group Stage,Open 4.0+ (Contender),Group E,4,Single game,I'm a livin bucket,2020 Montverde,I'm a livin bucket,21,9,,,,,Nathan Leandri,Jake Hallinan,Taylor Nelson,Matthew Machmer
+Group Stage,Open 4.0+ (Contender),Group A,5,Single game,W.D.F.A.,JtRoundnet,JtRoundnet,21,23,,,,,blake rock,Eoin O'Gara,Michael Moniz,John Mankowich
+Group Stage,Open 4.0+ (Contender),Group A,5,Single game,Twin Peaks,Leah and Allie,Twin Peaks,21,3,,,,,Noah Malewicki,Jacob Lamontagne,Leah Petrore,Allison Minnier
+Group Stage,Open 4.0+ (Contender),Group A,5,Single game,Jaden Orewiler + Nick Moniz,Passion project,Passion project,24,25,,,,,jaden orewiler,Nicholas Moniz,Axel Helfand,Patrick Gillespie
+Group Stage,Open 4.0+ (Contender),Group B,5,Single game,Salty Spikes,Gramp's and Unc,Gramp's and Unc,15,21,,,,,Noah Lerner-Morelle,Kolton Knight,Robbie Koennecker,Henry Pleszkoch
+Group Stage,Open 4.0+ (Contender),Group B,5,Single game,Freak n' Tweak,McKayla and Addy,Freak n' Tweak,21,8,,,,,Samuel Panek,Sreesai Katiki,McKayla Orewiler,Addy Roemersma
+Group Stage,Open 4.0+ (Contender),Group B,5,Single game,2 Working Knees,S-H,2 Working Knees,21,16,,,,,Kaden Gratton,John Neuffer,alex M,Valencio Almborg-Perez
+Group Stage,Open 4.0+ (Contender),Group C,5,Single game,Trying Our Best,Old and new,Trying Our Best,21,14,,,,,Ethan Gabay,Michael Nelson,Nic Albornoz,Sam Kautzman
+Group Stage,Open 4.0+ (Contender),Group C,5,Single game,AJ Yoon / Tyler Ruhl,Incrediballs,AJ Yoon / Tyler Ruhl,25,24,,,,,AJ Yoon,Tyler Ruhl,Abbie McCoy,evangelia hahalis
+Group Stage,Open 4.0+ (Contender),Group C,5,Single game,Pete + Alex,We Suck,Pete + Alex,21,15,,,,,Kaden Gratton,Peter Lanza,Pranav Ram,Josh Retzlaff
+Group Stage,Open 4.0+ (Contender),Group D,5,Single game,SOLD,Spiked Pina Colada,Spiked Pina Colada,20,22,,,,,Michael Lin,Kyle Keenan,Andrew Carmody,Richard Ahn
+Group Stage,Open 4.0+ (Contender),Group D,5,Single game,Fresh Meat,Have you met Ted?,Fresh Meat,21,10,,,,,Kade Kulpinski,Ryan Shantz,Alaina Althouse,Raylyn Tarquinio
+Group Stage,Open 4.0+ (Contender),Group D,5,Single game,D3 A,Serenity,D3 A,21,14,,,,,Nicholas Puglisi,James Pollock,Walker Sherwin,Shawn Robertson
+Group Stage,Open 4.0+ (Contender),Group E,5,Single game,"Ice cold ","Net Prophets ","Net Prophets ",13,21,,,,,Nathan Witmer,Christopher Brubaker,Drew Weaver,Matthew Mesaros
+Group Stage,Open 4.0+ (Contender),Group E,5,Single game,Brainrot Blasters,I'm a livin bucket,Brainrot Blasters,21,17,,,,,Diego Lopez,Zach Young,Nathan Leandri,Jake Hallinan
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Round of 16,Best of 3,Gramp's and Unc,Twin Peaks,Gramp's and Unc,21,14,21,16,,,Robbie Koennecker,Henry Pleszkoch,Noah Malewicki,Jacob Lamontagne
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Round of 16,Best of 3,Trying Our Best,"Ice cold ",Trying Our Best,21,18,21,15,,,Ethan Gabay,Michael Nelson,Nathan Witmer,Christopher Brubaker
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Round of 16,Best of 3,JtRoundnet,SOLD,JtRoundnet,21,15,21,16,,,Michael Moniz,John Mankowich,Michael Lin,Kyle Keenan
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Round of 16,Best of 3,"Net Prophets ",D3 A,"Net Prophets ",21,11,18,21,21,14,Drew Weaver,Matthew Mesaros,Nicholas Puglisi,James Pollock
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Round of 16,Best of 3,W.D.F.A.,Freak n' Tweak,W.D.F.A.,21,10,21,15,,,blake rock,Eoin O'Gara,Samuel Panek,Sreesai Katiki
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Round of 16,Best of 3,Salty Spikes,Old and new,Salty Spikes,21,15,21,16,,,Noah Lerner-Morelle,Kolton Knight,Nic Albornoz,Sam Kautzman
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Round of 16,Best of 3,Fresh Meat,Brainrot Blasters,Fresh Meat,21,16,16,21,21,13,Kade Kulpinski,Ryan Shantz,Diego Lopez,Zach Young
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Round of 16,Best of 3,Spiked Pina Colada,Pete + Alex,Spiked Pina Colada,21,15,21,5,,,Andrew Carmody,Richard Ahn,Kaden Gratton,Peter Lanza
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Quarter-final,Best of 3,Gramp's and Unc,Spiked Pina Colada,Gramp's and Unc,21,12,21,14,,,Robbie Koennecker,Henry Pleszkoch,Andrew Carmody,Richard Ahn
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Quarter-final,Best of 3,Trying Our Best,Fresh Meat,Trying Our Best,21,19,21,14,,,Ethan Gabay,Michael Nelson,Kade Kulpinski,Ryan Shantz
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Quarter-final,Best of 3,JtRoundnet,Salty Spikes,JtRoundnet,17,21,21,17,21,14,Michael Moniz,John Mankowich,Noah Lerner-Morelle,Kolton Knight
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Quarter-final,Best of 3,"Net Prophets ",W.D.F.A.,W.D.F.A.,13,21,23,21,17,21,Drew Weaver,Matthew Mesaros,blake rock,Eoin O'Gara
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P9: Quarter-final,Best of 3,Pete + Alex,Twin Peaks,Twin Peaks,0,1,1,0,0,1,Kaden Gratton,Peter Lanza,Noah Malewicki,Jacob Lamontagne
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P9: Quarter-final,Best of 3,Brainrot Blasters,"Ice cold ",Brainrot Blasters,1,0,1,0,,,Diego Lopez,Zach Young,Nathan Witmer,Christopher Brubaker
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P9: Quarter-final,Best of 3,Old and new,SOLD,Old and new,1,0,1,0,,,Nic Albornoz,Sam Kautzman,Michael Lin,Kyle Keenan
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P9: Quarter-final,Best of 3,Freak n' Tweak,D3 A,Freak n' Tweak,1,0,1,0,,,Samuel Panek,Sreesai Katiki,Nicholas Puglisi,James Pollock
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Semi-final,Best of 3,Gramp's and Unc,W.D.F.A.,Gramp's and Unc,13,21,21,15,21,16,Robbie Koennecker,Henry Pleszkoch,blake rock,Eoin O'Gara
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Semi-final,Best of 3,Trying Our Best,JtRoundnet,JtRoundnet,17,21,15,21,,,Ethan Gabay,Michael Nelson,Michael Moniz,John Mankowich
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P5: Semi-final,Best of 3,"Net Prophets ",Spiked Pina Colada,"Net Prophets ",1,0,1,0,,,Drew Weaver,Matthew Mesaros,Andrew Carmody,Richard Ahn
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P5: Semi-final,Best of 3,Salty Spikes,Fresh Meat,Salty Spikes,0,-2,0,-2,,,Noah Lerner-Morelle,Kolton Knight,Kade Kulpinski,Ryan Shantz
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P9: Semi-final,Best of 3,Twin Peaks,Freak n' Tweak,Freak n' Tweak,0,10,1,0,0,1,Noah Malewicki,Jacob Lamontagne,Samuel Panek,Sreesai Katiki
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P9: Semi-final,Best of 3,Brainrot Blasters,Old and new,Brainrot Blasters,1,0,1,0,,,Diego Lopez,Zach Young,Nic Albornoz,Sam Kautzman
+Bracket Stage,Open 4.0+ (Contender),Bracket A,Final,Best of 3,Gramp's and Unc,JtRoundnet,JtRoundnet,19,21,21,16,16,21,Robbie Koennecker,Henry Pleszkoch,Michael Moniz,John Mankowich
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P3: Final,Best of 3,Trying Our Best,W.D.F.A.,W.D.F.A.,17,21,-1,0,,,Ethan Gabay,Michael Nelson,blake rock,Eoin O'Gara
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P5: Final,Best of 3,"Net Prophets ",Salty Spikes,Salty Spikes,18,21,20,22,,,Drew Weaver,Matthew Mesaros,Noah Lerner-Morelle,Kolton Knight
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P9: Final,Single game,Freak n' Tweak,Brainrot Blasters,Freak n' Tweak,21,15,,,,,Samuel Panek,Sreesai Katiki,Diego Lopez,Zach Young
+Bracket Stage,Open 4.0+ (Contender),Bracket A,P11: Final,Best of 3,Old and new,Twin Peaks,Twin Peaks,10,21,10,21,,,Nic Albornoz,Sam Kautzman,Noah Malewicki,Jacob Lamontagne
+Bracket Stage,Open 4.0+ (Contender),Bracket B,Round of 16,Best of 3,Passion project,Leah and Allie,Passion project,21,5,21,14,,,Axel Helfand,Patrick Gillespie,Leah Petrore,Allison Minnier
+Bracket Stage,Open 4.0+ (Contender),Bracket B,Round of 16,Best of 3,AJ Yoon / Tyler Ruhl,McKayla and Addy,AJ Yoon / Tyler Ruhl,21,12,21,17,,,AJ Yoon,Tyler Ruhl,McKayla Orewiler,Addy Roemersma
+Bracket Stage,Open 4.0+ (Contender),Bracket B,Round of 16,Best of 3,We Suck,Incrediballs,We Suck,21,19,21,16,,,Pranav Ram,Josh Retzlaff,Abbie McCoy,evangelia hahalis
+Bracket Stage,Open 4.0+ (Contender),Bracket B,Round of 16,Best of 3,S-H,Serenity,Serenity,21,17,18,21,17,21,alex M,Valencio Almborg-Perez,Walker Sherwin,Shawn Robertson
+Bracket Stage,Open 4.0+ (Contender),Bracket B,Round of 16,Best of 3,2020 Montverde,Have you met Ted?,2020 Montverde,10,21,21,10,21,18,Taylor Nelson,Matthew Machmer,Alaina Althouse,Raylyn Tarquinio
+Bracket Stage,Open 4.0+ (Contender),Bracket B,Quarter-final,Best of 3,2 Working Knees,We Suck,2 Working Knees,21,21,21,13,21,3,Kaden Gratton,John Neuffer,Pranav Ram,Josh Retzlaff
+Bracket Stage,Open 4.0+ (Contender),Bracket B,Quarter-final,Best of 3,Passion project,AJ Yoon / Tyler Ruhl,Passion project,21,17,21,16,,,Axel Helfand,Patrick Gillespie,AJ Yoon,Tyler Ruhl
