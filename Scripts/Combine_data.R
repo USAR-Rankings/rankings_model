@@ -47,7 +47,7 @@ forfeit_exceptions = c('USAR2023NATIONALS')
 
 dat = bind_rows(tg) %>%
   mutate_at(vars(tourney:T2P2), toupper) %>%
-  filter(tourney %in% forfeit_exceptions | !((t1score == -2 & t2score == 0) | (t2score == -2 & t1score == 0)))
+  filter(tourney %in% forfeit_exceptions | !((t1score == -1 & t2score == 0) | (t2score == -1 & t1score == 0)))
 
 
 # Filtering to valid tourney and division, applying name corrections, and adding a dummy "END OF SEASON" tournament
