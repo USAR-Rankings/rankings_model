@@ -1,0 +1,37 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Expert,Group A,1,Single game,Fractal Spikes,Extremely Last Minute,Fractal Spikes,21,13,,,,,Michael Du,Connor Nelson,Julian Peres,
+Group Stage,5.0 Expert,Group A,1,Single game,Josh/Alec,Tacky hitters,Josh/Alec,21,14,,,,,Josh Fragiacomo,Alec Galbo,Jeffrey Taylor,Micah Kjos
+Group Stage,5.0 Expert,Group A,1,Single game,J.A.R.V.I.S,All you brother,J.A.R.V.I.S,21,16,,,,,Charlie Camarena,Noah Saddik,Matthew Kamimura,Justin Estores
+Group Stage,5.0 Expert,Group A,1,Single game,Extremely Terrifying Roaring Dragons,two rights != a left,Extremely Terrifying Roaring Dragons,21,10,,,,,Sasha Mariniuk,Aman Khemka,Trevor Folden,Benjamin Walker-Edwards
+Group Stage,5.0 Expert,Group A,2,Single game,Fractal Spikes,Tacky hitters,Fractal Spikes,21,10,,,,,Michael Du,Connor Nelson,Jeffrey Taylor,Micah Kjos
+Group Stage,5.0 Expert,Group A,2,Single game,Josh/Alec,two rights != a left,Josh/Alec,21,9,,,,,Josh Fragiacomo,Alec Galbo,Trevor Folden,Benjamin Walker-Edwards
+Group Stage,5.0 Expert,Group A,2,Single game,J.A.R.V.I.S,Extremely Terrifying Roaring Dragons,J.A.R.V.I.S,21,18,,,,,Charlie Camarena,Noah Saddik,Sasha Mariniuk,Aman Khemka
+Group Stage,5.0 Expert,Group A,2,Single game,All you brother,Extremely Last Minute,Extremely Last Minute,13,21,,,,,Matthew Kamimura,Justin Estores,Julian Peres,
+Group Stage,5.0 Expert,Group A,3,Single game,Fractal Spikes,All you brother,Fractal Spikes,21,9,,,,,Michael Du,Connor Nelson,Matthew Kamimura,Justin Estores
+Group Stage,5.0 Expert,Group A,3,Single game,Josh/Alec,J.A.R.V.I.S,Josh/Alec,21,17,,,,,Josh Fragiacomo,Alec Galbo,Charlie Camarena,Noah Saddik
+Group Stage,5.0 Expert,Group A,3,Single game,Extremely Terrifying Roaring Dragons,Extremely Last Minute,Extremely Terrifying Roaring Dragons,21,14,,,,,Sasha Mariniuk,Aman Khemka,Julian Peres,
+Group Stage,5.0 Expert,Group A,3,Single game,two rights != a left,Tacky hitters,two rights != a left,21,17,,,,,Trevor Folden,Benjamin Walker-Edwards,Jeffrey Taylor,Micah Kjos
+Group Stage,5.0 Expert,Group A,4,Single game,Fractal Spikes,two rights != a left,Fractal Spikes,21,12,,,,,Michael Du,Connor Nelson,Trevor Folden,Benjamin Walker-Edwards
+Group Stage,5.0 Expert,Group A,4,Single game,Josh/Alec,Extremely Last Minute,Josh/Alec,21,12,,,,,Josh Fragiacomo,Alec Galbo,Julian Peres,
+Group Stage,5.0 Expert,Group A,4,Single game,J.A.R.V.I.S,Tacky hitters,J.A.R.V.I.S,21,12,,,,,Charlie Camarena,Noah Saddik,Jeffrey Taylor,Micah Kjos
+Group Stage,5.0 Expert,Group A,4,Single game,Extremely Terrifying Roaring Dragons,All you brother,Extremely Terrifying Roaring Dragons,21,19,,,,,Sasha Mariniuk,Aman Khemka,Matthew Kamimura,Justin Estores
+Group Stage,5.0 Expert,Group A,5,Single game,Fractal Spikes,Extremely Terrifying Roaring Dragons,Fractal Spikes,21,16,,,,,Michael Du,Connor Nelson,Sasha Mariniuk,Aman Khemka
+Group Stage,5.0 Expert,Group A,5,Single game,Josh/Alec,All you brother,Josh/Alec,21,16,,,,,Josh Fragiacomo,Alec Galbo,Matthew Kamimura,Justin Estores
+Group Stage,5.0 Expert,Group A,5,Single game,J.A.R.V.I.S,two rights != a left,J.A.R.V.I.S,21,13,,,,,Charlie Camarena,Noah Saddik,Trevor Folden,Benjamin Walker-Edwards
+Group Stage,5.0 Expert,Group A,5,Single game,Tacky hitters,Extremely Last Minute,Extremely Last Minute,16,21,,,,,Jeffrey Taylor,Micah Kjos,Julian Peres,
+Group Stage,5.0 Expert,Group A,6,Single game,Fractal Spikes,J.A.R.V.I.S,J.A.R.V.I.S,13,21,,,,,Michael Du,Connor Nelson,Charlie Camarena,Noah Saddik
+Group Stage,5.0 Expert,Group A,6,Single game,Josh/Alec,Extremely Terrifying Roaring Dragons,Josh/Alec,21,19,,,,,Josh Fragiacomo,Alec Galbo,Sasha Mariniuk,Aman Khemka
+Group Stage,5.0 Expert,Group A,6,Single game,two rights != a left,Extremely Last Minute,two rights != a left,21,15,,,,,Trevor Folden,Benjamin Walker-Edwards,Julian Peres,
+Group Stage,5.0 Expert,Group A,6,Single game,All you brother,Tacky hitters,All you brother,21,15,,,,,Matthew Kamimura,Justin Estores,Jeffrey Taylor,Micah Kjos
+Group Stage,5.0 Expert,Group A,7,Single game,Fractal Spikes,Josh/Alec,Fractal Spikes,21,17,,,,,Michael Du,Connor Nelson,Josh Fragiacomo,Alec Galbo
+Group Stage,5.0 Expert,Group A,7,Single game,J.A.R.V.I.S,Extremely Last Minute,J.A.R.V.I.S,21,7,,,,,Charlie Camarena,Noah Saddik,Julian Peres,
+Group Stage,5.0 Expert,Group A,7,Single game,Extremely Terrifying Roaring Dragons,Tacky hitters,Extremely Terrifying Roaring Dragons,21,18,,,,,Sasha Mariniuk,Aman Khemka,Jeffrey Taylor,Micah Kjos
+Group Stage,5.0 Expert,Group A,7,Single game,two rights != a left,All you brother,two rights != a left,22,20,,,,,Trevor Folden,Benjamin Walker-Edwards,Matthew Kamimura,Justin Estores
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,J.A.R.V.I.S,Tacky hitters,J.A.R.V.I.S,21,16,21,12,,,Charlie Camarena,Noah Saddik,Jeffrey Taylor,Micah Kjos
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Fractal Spikes,All you brother,Fractal Spikes,21,13,21,13,,,Michael Du,Connor Nelson,Matthew Kamimura,Justin Estores
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Josh/Alec,Extremely Last Minute,Josh/Alec,21,13,21,13,,,Josh Fragiacomo,Alec Galbo,Julian Peres,
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Extremely Terrifying Roaring Dragons,two rights != a left,Extremely Terrifying Roaring Dragons,21,18,23,25,21,17,Sasha Mariniuk,Aman Khemka,Trevor Folden,Benjamin Walker-Edwards
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,J.A.R.V.I.S,Extremely Terrifying Roaring Dragons,J.A.R.V.I.S,21,19,21,14,,,Charlie Camarena,Noah Saddik,Sasha Mariniuk,Aman Khemka
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Fractal Spikes,Josh/Alec,Josh/Alec,24,26,21,17,19,21,Michael Du,Connor Nelson,Josh Fragiacomo,Alec Galbo
+Bracket Stage,5.0 Expert,Bracket A,Final,Best of 3,J.A.R.V.I.S,Josh/Alec,J.A.R.V.I.S,17,21,21,17,21,14,Charlie Camarena,Noah Saddik,Josh Fragiacomo,Alec Galbo
+Bracket Stage,5.0 Expert,Bracket A,P3: Final,Single game,Fractal Spikes,Extremely Terrifying Roaring Dragons,Fractal Spikes,21,15,,,,,Michael Du,Connor Nelson,Sasha Mariniuk,Aman Khemka
