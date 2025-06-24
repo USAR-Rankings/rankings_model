@@ -1,0 +1,340 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,4.5+ Women's,Group A (Pro) Nets 17-18,1,Single game,Dolan/Phan,Too old for this,Too old for this,24,25,,,,,Katheleen Phan,Rachel Dolan,Karah Hui,Holly Yu
+Pool Play,4.5+ Women's,Group A (Pro) Nets 17-18,1,Single game,Carry Set,just want to be loved,just want to be loved,14,21,,,,,Malia Wanderer,Abigale Lamontagne,Kalin Morgan,Joanna Gould
+Pool Play,4.5+ Women's,Group B - Nets 19-20,1,Single game,Meowdy Purrtners,Chica Chica BOOM!,Meowdy Purrtners,21,6,,,,,Tess Dolan,Tiff Ding,Chau Nguyen,Erica Weiler
+Pool Play,4.5+ Women's,Group B - Nets 19-20,1,Single game,Collab of the century,Big L,Collab of the century,21,16,,,,,Raylyn Tarquinio,Hannah Radell,Lia Maag,Liliko Uchida
+Pool Play,4.5+ Women's,Group C - Nets 21-22,1,Single game,Stef/Belvedere,DIGGS,Stef/Belvedere,21,6,,,,,Stef Ding,Bel Belvedere,Megan Dwire,Kelsey Higgins
+Pool Play,4.5+ Women's,Group C - Nets 21-22,1,Single game,C-list spikers,TBD,TBD,12,21,,,,,Cailley Biagini,Christine Chang,Hui Ying Stradiot,Erin Riley
+Pool Play,4.5+ Women's,Group A (Pro) Nets 17-18,2,Single game,Dolan/Phan,just want to be loved,just want to be loved,10,21,,,,,Katheleen Phan,Rachel Dolan,Kalin Morgan,Joanna Gould
+Pool Play,4.5+ Women's,Group A (Pro) Nets 17-18,2,Single game,Carry Set,Too old for this,Carry Set,21,13,,,,,Malia Wanderer,Abigale Lamontagne,Karah Hui,Holly Yu
+Pool Play,4.5+ Women's,Group B - Nets 19-20,2,Single game,Meowdy Purrtners,Big L,Meowdy Purrtners,21,12,,,,,Tess Dolan,Tiff Ding,Lia Maag,Liliko Uchida
+Pool Play,4.5+ Women's,Group B - Nets 19-20,2,Single game,Collab of the century,Chica Chica BOOM!,Collab of the century,21,7,,,,,Raylyn Tarquinio,Hannah Radell,Chau Nguyen,Erica Weiler
+Pool Play,4.5+ Women's,Group C - Nets 21-22,2,Single game,Stef/Belvedere,TBD,Stef/Belvedere,21,12,,,,,Stef Ding,Bel Belvedere,Hui Ying Stradiot,Erin Riley
+Pool Play,4.5+ Women's,Group C - Nets 21-22,2,Single game,C-list spikers,DIGGS,C-list spikers,21,16,,,,,Cailley Biagini,Christine Chang,Megan Dwire,Kelsey Higgins
+Pool Play,4.5+ Women's,Group A (Pro) Nets 17-18,3,Single game,Dolan/Phan,Carry Set,Carry Set,18,21,,,,,Katheleen Phan,Rachel Dolan,Malia Wanderer,Abigale Lamontagne
+Pool Play,4.5+ Women's,Group A (Pro) Nets 17-18,3,Single game,just want to be loved,Too old for this,just want to be loved,21,16,,,,,Kalin Morgan,Joanna Gould,Karah Hui,Holly Yu
+Pool Play,4.5+ Women's,Group B - Nets 19-20,3,Single game,Meowdy Purrtners,Collab of the century,Meowdy Purrtners,21,13,,,,,Tess Dolan,Tiff Ding,Raylyn Tarquinio,Hannah Radell
+Pool Play,4.5+ Women's,Group B - Nets 19-20,3,Single game,Big L,Chica Chica BOOM!,Big L,21,10,,,,,Lia Maag,Liliko Uchida,Chau Nguyen,Erica Weiler
+Pool Play,4.5+ Women's,Group C - Nets 21-22,3,Single game,Stef/Belvedere,C-list spikers,Stef/Belvedere,21,14,,,,,Stef Ding,Bel Belvedere,Cailley Biagini,Christine Chang
+Pool Play,4.5+ Women's,Group C - Nets 21-22,3,Single game,TBD,DIGGS,TBD,21,6,,,,,Hui Ying Stradiot,Erin Riley,Megan Dwire,Kelsey Higgins
+Bracket Stage,4.5+ Women's,Bracket A,Round of 16,Best of 3,Meowdy Purrtners,DIGGS,Meowdy Purrtners,21,7,21,7,,,Tess Dolan,Tiff Ding,Megan Dwire,Kelsey Higgins
+Bracket Stage,4.5+ Women's,Bracket A,Round of 16,Best of 3,Stef/Belvedere,Chica Chica BOOM!,Stef/Belvedere,21,9,21,14,,,Stef Ding,Bel Belvedere,Chau Nguyen,Erica Weiler
+Bracket Stage,4.5+ Women's,Bracket A,Round of 16,Best of 3,Collab of the century,C-list spikers,Collab of the century,19,21,21,12,21,15,Raylyn Tarquinio,Hannah Radell,Cailley Biagini,Christine Chang
+Bracket Stage,4.5+ Women's,Bracket A,Round of 16,Best of 3,TBD,Big L,TBD,21,16,11,21,22,20,Hui Ying Stradiot,Erin Riley,Lia Maag,Liliko Uchida
+Bracket Stage,4.5+ Women's,Bracket A,Quarter-final,Best of 3,just want to be loved,TBD,just want to be loved,21,11,21,14,,,Kalin Morgan,Joanna Gould,Hui Ying Stradiot,Erin Riley
+Bracket Stage,4.5+ Women's,Bracket A,Quarter-final,Best of 3,Carry Set,Collab of the century,Carry Set,21,9,21,14,,,Malia Wanderer,Abigale Lamontagne,Raylyn Tarquinio,Hannah Radell
+Bracket Stage,4.5+ Women's,Bracket A,Quarter-final,Best of 3,Too old for this,Stef/Belvedere,Too old for this,21,14,21,17,,,Karah Hui,Holly Yu,Stef Ding,Bel Belvedere
+Bracket Stage,4.5+ Women's,Bracket A,Quarter-final,Best of 3,Dolan/Phan,Meowdy Purrtners,Meowdy Purrtners,17,21,10,21,,,Katheleen Phan,Rachel Dolan,Tess Dolan,Tiff Ding
+Bracket Stage,4.5+ Women's,Bracket A,Semi-final,Best of 3,just want to be loved,Meowdy Purrtners,just want to be loved,21,18,27,25,,,Kalin Morgan,Joanna Gould,Tess Dolan,Tiff Ding
+Bracket Stage,4.5+ Women's,Bracket A,Semi-final,Best of 3,Carry Set,Too old for this,Carry Set,21,18,21,19,,,Malia Wanderer,Abigale Lamontagne,Karah Hui,Holly Yu
+Bracket Stage,4.5+ Women's,Bracket A,P5: Semi-final,Single game,Dolan/Phan,TBD,TBD,-1,0,,,,,Katheleen Phan,Rachel Dolan,Hui Ying Stradiot,Erin Riley
+Bracket Stage,4.5+ Women's,Bracket A,P5: Semi-final,Single game,Stef/Belvedere,Collab of the century,Collab of the century,-1,0,,,,,Stef Ding,Bel Belvedere,Raylyn Tarquinio,Hannah Radell
+Bracket Stage,4.5+ Women's,Bracket A,P9: Semi-final,Single game,Big L,DIGGS,Big L,21,12,,,,,Lia Maag,Liliko Uchida,Megan Dwire,Kelsey Higgins
+Bracket Stage,4.5+ Women's,Bracket A,P9: Semi-final,Single game,C-list spikers,Chica Chica BOOM!,Chica Chica BOOM!,19,21,,,,,Cailley Biagini,Christine Chang,Chau Nguyen,Erica Weiler
+Bracket Stage,4.5+ Women's,Bracket A,Final,Best of 3,just want to be loved,Carry Set,just want to be loved,21,19,21,10,,,Kalin Morgan,Joanna Gould,Malia Wanderer,Abigale Lamontagne
+Bracket Stage,4.5+ Women's,Bracket A,P3: Final,Best of 3,Too old for this,Meowdy Purrtners,Too old for this,21,13,25,23,,,Karah Hui,Holly Yu,Tess Dolan,Tiff Ding
+Bracket Stage,4.5+ Women's,Bracket A,P5: Final,Single game,TBD,Collab of the century,Collab of the century,-1,0,,,,,Hui Ying Stradiot,Erin Riley,Raylyn Tarquinio,Hannah Radell
+Bracket Stage,4.5+ Women's,Bracket A,P9: Final,Single game,Big L,Chica Chica BOOM!,Big L,21,18,,,,,Lia Maag,Liliko Uchida,Chau Nguyen,Erica Weiler
+Bracket Stage,4.5+ Women's,Bracket A,P11: Final,Single game,C-list spikers,DIGGS,C-list spikers,21,14,,,,,Cailley Biagini,Christine Chang,Megan Dwire,Kelsey Higgins
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,1,Single game,The Jew and the Gentile,LL Come & Go,LL Come & Go,14,21,,,,,Gabe Finocchi,Dan Abrams,Jake Mottershead,Mike Garrett
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,1,Single game,Drawing Dead,Blind Bandits,Blind Bandits,18,21,,,,,Kieran Rose,Tyler Fernandez,Henry Pilliod,Sunny Gu
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,1,Single game,Les Chiens,NEM Seazonal,Les Chiens,21,19,,,,,Will Picone,Etienne Cote,Zach Snover,Jacob Summers
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,1,Single game,Switch Hit👑,Party Fowl,Switch Hit👑,21,16,,,,,Dawson Morgan,Thomas Hamilton,Cole Maddox,Kyle Fowler
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,1,Single game,Wyrm,Magenta Status,Wyrm,21,16,,,,,Riley Nassour,Alex Newton,Ethan Ferland,Alex Luc
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,1,Single game,Bang bang lighty boys,pal pals,pal pals,18,21,,,,,Sam Diani,Jackson Biggs,Drew Ryder,John Mankowich
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,1,Single game,Mr. Worldwide,Biggie Bag Ballers,Mr. Worldwide,21,16,,,,,Polk Denmark,John Buchanan,Kolton Knight,Eoin O'Gara
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,1,Single game,Ooops,Justin / Jake,Ooops,21,14,,,,,Javier Vidal,John Putney,Jake Young,Justin Wang
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,1,Single game,Beeah Boys,TP Gang,Beeah Boys,21,13,,,,,fredric hinkle,Alex Daly,pavan narahari,Tomer Keren
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,1,Single game,3.5 Calves,Lil Bro Sr.,3.5 Calves,21,12,,,,,Auriel Wish,Noah Lerner-Morelle,Brooks Weeks,Tommy Drake
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,1,Single game,🧛breaking dawn part 3🐺,Don't want it!,🧛breaking dawn part 3🐺,21,11,,,,,Paq Clifford,Bradley Clark,Brent Summers,Noah Kopetic
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,1,Single game,Cerebral,Great Wall,Cerebral,21,17,,,,,Kurt Lannetti,Samuel Corey,Kevin Chen,Ricky Santiago
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,1,Single game,Patchy Grass,Rotato Potato,Patchy Grass,21,14,,,,,Brian Perlson,Caleb White,Charlie Freeman,Jonathan Saysamone
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,1,Single game,Pleasant People,And They Were Roommates,And They Were Roommates,22,24,,,,,Maxwell Gunneson,Demitri Forand,Charlie Cavallaro,Noah Elconin
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,1,Single game,Huge Hitbox,Cactus Juice,Huge Hitbox,21,15,,,,,Josh Hutko,Matt Spolarich,Gabe Packevicz,Matt Garbecki
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,1,Single game,Special Teams,Lank Alarm,Lank Alarm,23,25,,,,,Liam Keegan,Matthew Rodriguez,Blake Van Den Top,Mike Hamilton
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,2,Single game,The Jew and the Gentile,Blind Bandits,The Jew and the Gentile,21,19,,,,,Gabe Finocchi,Dan Abrams,Henry Pilliod,Sunny Gu
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,2,Single game,Gross/Savage,LL Come & Go,LL Come & Go,17,21,,,,,Ryan Gross,Ben Savage,Jake Mottershead,Mike Garrett
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,2,Single game,Les Chiens,Party Fowl,Les Chiens,21,17,,,,,Will Picone,Etienne Cote,Cole Maddox,Kyle Fowler
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,2,Single game,Mr. Tumnus,NEM Seazonal,NEM Seazonal,9,21,,,,,Thomas Hoffman,Clifford Amadeo LeVeque,Zach Snover,Jacob Summers
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,2,Single game,Wyrm,pal pals,Wyrm,21,16,,,,,Riley Nassour,Alex Newton,Drew Ryder,John Mankowich
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,2,Single game,oh no mr gonzalez,Magenta Status,oh no mr gonzalez,21,19,,,,,Peyton Stack,Isaac Mixon,Ethan Ferland,Alex Luc
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,2,Single game,Mr. Worldwide,Justin / Jake,Mr. Worldwide,21,14,,,,,Polk Denmark,John Buchanan,Jake Young,Justin Wang
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,2,Single game,"White Lotus Roundnet ",Biggie Bag Ballers,"White Lotus Roundnet ",21,11,,,,,Ely Marciano,Mitchell Carter,Kolton Knight,Eoin O'Gara
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,2,Single game,Beeah Boys,Lil Bro Sr.,Beeah Boys,21,10,,,,,fredric hinkle,Alex Daly,Brooks Weeks,Tommy Drake
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,2,Single game,Centros,TP Gang,Centros,21,14,,,,,Jon Esposo,Jaxon Gonzalez,pavan narahari,Tomer Keren
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,2,Single game,🧛breaking dawn part 3🐺,Great Wall,🧛breaking dawn part 3🐺,21,14,,,,,Paq Clifford,Bradley Clark,Kevin Chen,Ricky Santiago
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,2,Single game,Cerebral,Patchy Grass,Cerebral,21,15,,,,,Kurt Lannetti,Samuel Corey,Brian Perlson,Caleb White
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,2,Single game,Rotato Potato,Don't want it!,Rotato Potato,21,16,,,,,Charlie Freeman,Jonathan Saysamone,Brent Summers,Noah Kopetic
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,2,Single game,Pleasant People,Cactus Juice,Pleasant People,21,13,,,,,Maxwell Gunneson,Demitri Forand,Gabe Packevicz,Matt Garbecki
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,2,Single game,Huge Hitbox,Special Teams,Huge Hitbox,21,9,,,,,Josh Hutko,Matt Spolarich,Liam Keegan,Matthew Rodriguez
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,2,Single game,Lank Alarm,And They Were Roommates,Lank Alarm,21,18,,,,,Blake Van Den Top,Mike Hamilton,Charlie Cavallaro,Noah Elconin
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,3,Single game,The Jew and the Gentile,Gross/Savage,Gross/Savage,16,21,,,,,Gabe Finocchi,Dan Abrams,Ryan Gross,Ben Savage
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,3,Single game,Drawing Dead,LL Come & Go,LL Come & Go,20,22,,,,,Kieran Rose,Tyler Fernandez,Jake Mottershead,Mike Garrett
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,3,Single game,Les Chiens,Mr. Tumnus,Mr. Tumnus,17,21,,,,,Will Picone,Etienne Cote,Thomas Hoffman,Clifford Amadeo LeVeque
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,3,Single game,Switch Hit👑,NEM Seazonal,Switch Hit👑,21,18,,,,,Dawson Morgan,Thomas Hamilton,Zach Snover,Jacob Summers
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,3,Single game,Wyrm,oh no mr gonzalez,Wyrm,21,13,,,,,Riley Nassour,Alex Newton,Peyton Stack,Isaac Mixon
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,3,Single game,Bang bang lighty boys,Magenta Status,Bang bang lighty boys,21,14,,,,,Sam Diani,Jackson Biggs,Ethan Ferland,Alex Luc
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,3,Single game,Mr. Worldwide,"White Lotus Roundnet ",Mr. Worldwide,21,11,,,,,Polk Denmark,John Buchanan,Ely Marciano,Mitchell Carter
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,3,Single game,Ooops,Biggie Bag Ballers,Biggie Bag Ballers,18,21,,,,,Javier Vidal,John Putney,Kolton Knight,Eoin O'Gara
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,3,Single game,Beeah Boys,Centros,Beeah Boys,21,18,,,,,fredric hinkle,Alex Daly,Jon Esposo,Jaxon Gonzalez
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,3,Single game,3.5 Calves,TP Gang,3.5 Calves,21,3,,,,,Auriel Wish,Noah Lerner-Morelle,pavan narahari,Tomer Keren
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,3,Single game,🧛breaking dawn part 3🐺,Rotato Potato,🧛breaking dawn part 3🐺,21,18,,,,,Paq Clifford,Bradley Clark,Charlie Freeman,Jonathan Saysamone
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,3,Single game,Cerebral,Don't want it!,Cerebral,21,14,,,,,Kurt Lannetti,Samuel Corey,Brent Summers,Noah Kopetic
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,3,Single game,Patchy Grass,Great Wall,Great Wall,13,21,,,,,Brian Perlson,Caleb White,Kevin Chen,Ricky Santiago
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,3,Single game,Pleasant People,Lank Alarm,Pleasant People,21,17,,,,,Maxwell Gunneson,Demitri Forand,Blake Van Den Top,Mike Hamilton
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,3,Single game,Huge Hitbox,And They Were Roommates,And They Were Roommates,15,21,,,,,Josh Hutko,Matt Spolarich,Charlie Cavallaro,Noah Elconin
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,3,Single game,Special Teams,Cactus Juice,Special Teams,21,14,,,,,Liam Keegan,Matthew Rodriguez,Gabe Packevicz,Matt Garbecki
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,4,Single game,Drawing Dead,Gross/Savage,Gross/Savage,18,21,,,,,Kieran Rose,Tyler Fernandez,Ryan Gross,Ben Savage
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,4,Single game,Blind Bandits,LL Come & Go,Blind Bandits,21,14,,,,,Henry Pilliod,Sunny Gu,Jake Mottershead,Mike Garrett
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,4,Single game,Switch Hit👑,Mr. Tumnus,Mr. Tumnus,24,25,,,,,Dawson Morgan,Thomas Hamilton,Thomas Hoffman,Clifford Amadeo LeVeque
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,4,Single game,Party Fowl,NEM Seazonal,Party Fowl,21,14,,,,,Cole Maddox,Kyle Fowler,Zach Snover,Jacob Summers
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,4,Single game,Bang bang lighty boys,oh no mr gonzalez,oh no mr gonzalez,14,21,,,,,Sam Diani,Jackson Biggs,Peyton Stack,Isaac Mixon
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,4,Single game,pal pals,Magenta Status,pal pals,21,12,,,,,Drew Ryder,John Mankowich,Ethan Ferland,Alex Luc
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,4,Single game,Ooops,"White Lotus Roundnet ","White Lotus Roundnet ",24,25,,,,,Javier Vidal,John Putney,Ely Marciano,Mitchell Carter
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,4,Single game,Justin / Jake,Biggie Bag Ballers,Biggie Bag Ballers,7,21,,,,,Jake Young,Justin Wang,Kolton Knight,Eoin O'Gara
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,4,Single game,3.5 Calves,Centros,Centros,21,23,,,,,Auriel Wish,Noah Lerner-Morelle,Jon Esposo,Jaxon Gonzalez
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,4,Single game,Lil Bro Sr.,TP Gang,Lil Bro Sr.,21,14,,,,,Brooks Weeks,Tommy Drake,pavan narahari,Tomer Keren
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,4,Single game,🧛breaking dawn part 3🐺,Patchy Grass,🧛breaking dawn part 3🐺,21,14,,,,,Paq Clifford,Bradley Clark,Brian Perlson,Caleb White
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,4,Single game,Cerebral,Rotato Potato,Cerebral,21,8,,,,,Kurt Lannetti,Samuel Corey,Charlie Freeman,Jonathan Saysamone
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,4,Single game,Great Wall,Don't want it!,Great Wall,21,11,,,,,Kevin Chen,Ricky Santiago,Brent Summers,Noah Kopetic
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,4,Single game,Pleasant People,Special Teams,Pleasant People,21,18,,,,,Maxwell Gunneson,Demitri Forand,Liam Keegan,Matthew Rodriguez
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,4,Single game,Huge Hitbox,Lank Alarm,Huge Hitbox,21,15,,,,,Josh Hutko,Matt Spolarich,Blake Van Den Top,Mike Hamilton
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,4,Single game,Cactus Juice,And They Were Roommates,And They Were Roommates,6,21,,,,,Gabe Packevicz,Matt Garbecki,Charlie Cavallaro,Noah Elconin
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,5,Single game,The Jew and the Gentile,Drawing Dead,The Jew and the Gentile,21,18,,,,,Gabe Finocchi,Dan Abrams,Kieran Rose,Tyler Fernandez
+Pool Play,5.0 Open Bronze+,Group A - Nets 13-14,5,Single game,Gross/Savage,Blind Bandits,Blind Bandits,18,21,,,,,Ryan Gross,Ben Savage,Henry Pilliod,Sunny Gu
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,5,Single game,Les Chiens,Switch Hit👑,Les Chiens,22,20,,,,,Will Picone,Etienne Cote,Dawson Morgan,Thomas Hamilton
+Pool Play,5.0 Open Bronze+,Group B - Nets 15-16,5,Single game,Mr. Tumnus,Party Fowl,Mr. Tumnus,21,18,,,,,Thomas Hoffman,Clifford Amadeo LeVeque,Cole Maddox,Kyle Fowler
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,5,Single game,Wyrm,Bang bang lighty boys,Wyrm,21,13,,,,,Riley Nassour,Alex Newton,Sam Diani,Jackson Biggs
+Pool Play,5.0 Open Bronze+,Group C - Nets 1-2,5,Single game,oh no mr gonzalez,pal pals,oh no mr gonzalez,21,16,,,,,Peyton Stack,Isaac Mixon,Drew Ryder,John Mankowich
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,5,Single game,Mr. Worldwide,Ooops,Mr. Worldwide,21,7,,,,,Polk Denmark,John Buchanan,Javier Vidal,John Putney
+Pool Play,5.0 Open Bronze+,Group D - Nets 3-4,5,Single game,"White Lotus Roundnet ",Justin / Jake,Justin / Jake,16,21,,,,,Ely Marciano,Mitchell Carter,Jake Young,Justin Wang
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,5,Single game,Beeah Boys,3.5 Calves,3.5 Calves,18,21,,,,,fredric hinkle,Alex Daly,Auriel Wish,Noah Lerner-Morelle
+Pool Play,5.0 Open Bronze+,Group E - Nets 5-6,5,Single game,Centros,Lil Bro Sr.,Centros,21,11,,,,,Jon Esposo,Jaxon Gonzalez,Brooks Weeks,Tommy Drake
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,5,Single game,🧛breaking dawn part 3🐺,Cerebral,🧛breaking dawn part 3🐺,21,15,,,,,Paq Clifford,Bradley Clark,Kurt Lannetti,Samuel Corey
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,5,Single game,Patchy Grass,Don't want it!,Patchy Grass,21,11,,,,,Brian Perlson,Caleb White,Brent Summers,Noah Kopetic
+Pool Play,5.0 Open Bronze+,Group F - Nets 7-9,5,Single game,Rotato Potato,Great Wall,Great Wall,12,21,,,,,Charlie Freeman,Jonathan Saysamone,Kevin Chen,Ricky Santiago
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,5,Single game,Pleasant People,Huge Hitbox,Pleasant People,21,16,,,,,Maxwell Gunneson,Demitri Forand,Josh Hutko,Matt Spolarich
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,5,Single game,Special Teams,And They Were Roommates,Special Teams,21,10,,,,,Liam Keegan,Matthew Rodriguez,Charlie Cavallaro,Noah Elconin
+Pool Play,5.0 Open Bronze+,Group G - Nets 17-19,5,Single game,Lank Alarm,Cactus Juice,Lank Alarm,21,18,,,,,Blake Van Den Top,Mike Hamilton,Gabe Packevicz,Matt Garbecki
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Blind Bandits,Justin / Jake,Blind Bandits,21,14,21,14,,,Henry Pilliod,Sunny Gu,Jake Young,Justin Wang
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,LL Come & Go,Lil Bro Sr.,LL Come & Go,21,7,21,13,,,Jake Mottershead,Mike Garrett,Brooks Weeks,Tommy Drake
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Mr. Tumnus,Bang bang lighty boys,Mr. Tumnus,23,25,21,13,21,19,Thomas Hoffman,Clifford Amadeo LeVeque,Sam Diani,Jackson Biggs
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Les Chiens,Ooops,Les Chiens,21,16,21,16,,,Will Picone,Etienne Cote,Javier Vidal,John Putney
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Switch Hit👑,Patchy Grass,Switch Hit👑,21,17,21,6,,,Dawson Morgan,Thomas Hamilton,Brian Perlson,Caleb White
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Gross/Savage,Special Teams,Gross/Savage,21,18,21,17,,,Ryan Gross,Ben Savage,Liam Keegan,Matthew Rodriguez
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,The Jew and the Gentile,"White Lotus Roundnet ",The Jew and the Gentile,21,14,21,8,,,Gabe Finocchi,Dan Abrams,Ely Marciano,Mitchell Carter
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Party Fowl,Lank Alarm,Party Fowl,21,10,21,10,,,Cole Maddox,Kyle Fowler,Blake Van Den Top,Mike Hamilton
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,NEM Seazonal,Biggie Bag Ballers,NEM Seazonal,21,13,21,11,,,Zach Snover,Jacob Summers,Kolton Knight,Eoin O'Gara
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Drawing Dead,pal pals,Drawing Dead,22,20,21,16,,,Kieran Rose,Tyler Fernandez,Drew Ryder,John Mankowich
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Mr. Worldwide,Huge Hitbox,Mr. Worldwide,19,21,21,19,21,15,Polk Denmark,John Buchanan,Josh Hutko,Matt Spolarich
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,🧛breaking dawn part 3🐺,And They Were Roommates,🧛breaking dawn part 3🐺,21,15,21,16,,,Paq Clifford,Bradley Clark,Charlie Cavallaro,Noah Elconin
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Wyrm,Great Wall,Wyrm,21,11,21,13,,,Riley Nassour,Alex Newton,Kevin Chen,Ricky Santiago
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,3.5 Calves,oh no mr gonzalez,3.5 Calves,21,8,21,17,,,Auriel Wish,Noah Lerner-Morelle,Peyton Stack,Isaac Mixon
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Cerebral,Pleasant People,Pleasant People,20,22,12,21,,,Kurt Lannetti,Samuel Corey,Maxwell Gunneson,Demitri Forand
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 32,Best of 3,Beeah Boys,Centros,Centros,18,21,11,21,,,fredric hinkle,Alex Daly,Jon Esposo,Jaxon Gonzalez
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 16,Best of 3,Blind Bandits,Centros,Blind Bandits,21,13,21,17,,,Henry Pilliod,Sunny Gu,Jon Esposo,Jaxon Gonzalez
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 16,Best of 3,LL Come & Go,Pleasant People,LL Come & Go,21,14,21,14,,,Jake Mottershead,Mike Garrett,Maxwell Gunneson,Demitri Forand
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 16,Best of 3,Mr. Tumnus,3.5 Calves,Mr. Tumnus,21,14,25,23,,,Thomas Hoffman,Clifford Amadeo LeVeque,Auriel Wish,Noah Lerner-Morelle
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 16,Best of 3,Les Chiens,Wyrm,Les Chiens,21,12,21,19,,,Will Picone,Etienne Cote,Riley Nassour,Alex Newton
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 16,Best of 3,Switch Hit👑,🧛breaking dawn part 3🐺,Switch Hit👑,21,11,21,12,,,Dawson Morgan,Thomas Hamilton,Paq Clifford,Bradley Clark
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 16,Best of 3,Gross/Savage,Mr. Worldwide,Gross/Savage,21,19,21,14,,,Ryan Gross,Ben Savage,Polk Denmark,John Buchanan
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 16,Best of 3,The Jew and the Gentile,Drawing Dead,The Jew and the Gentile,21,13,21,19,,,Gabe Finocchi,Dan Abrams,Kieran Rose,Tyler Fernandez
+Bracket Stage,5.0 Open Bronze+,Bracket A,Round of 16,Best of 3,Party Fowl,NEM Seazonal,NEM Seazonal,19,21,21,16,12,21,Cole Maddox,Kyle Fowler,Zach Snover,Jacob Summers
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Round of 16,Single game,Beeah Boys,Justin / Jake,Justin / Jake,8,21,,,,,fredric hinkle,Alex Daly,Jake Young,Justin Wang
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Round of 16,Single game,Cerebral,Lil Bro Sr.,Cerebral,0,-1,,,,,Kurt Lannetti,Samuel Corey,Brooks Weeks,Tommy Drake
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Round of 16,Single game,oh no mr gonzalez,Bang bang lighty boys,oh no mr gonzalez,0,-1,,,,,Peyton Stack,Isaac Mixon,Sam Diani,Jackson Biggs
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Round of 16,Single game,Great Wall,Ooops,Great Wall,21,19,,,,,Kevin Chen,Ricky Santiago,Javier Vidal,John Putney
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Round of 16,Single game,And They Were Roommates,Patchy Grass,Patchy Grass,16,21,,,,,Charlie Cavallaro,Noah Elconin,Brian Perlson,Caleb White
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Round of 16,Single game,Huge Hitbox,Special Teams,Huge Hitbox,21,16,,,,,Josh Hutko,Matt Spolarich,Liam Keegan,Matthew Rodriguez
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Round of 16,Single game,pal pals,"White Lotus Roundnet ","White Lotus Roundnet ",11,21,,,,,Drew Ryder,John Mankowich,Ely Marciano,Mitchell Carter
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Round of 16,Single game,Biggie Bag Ballers,Lank Alarm,Lank Alarm,11,21,,,,,Kolton Knight,Eoin O'Gara,Blake Van Den Top,Mike Hamilton
+Bracket Stage,5.0 Open Bronze+,Bracket A,Quarter-final,Best of 3,Blind Bandits,NEM Seazonal,Blind Bandits,21,13,21,19,,,Henry Pilliod,Sunny Gu,Zach Snover,Jacob Summers
+Bracket Stage,5.0 Open Bronze+,Bracket A,Quarter-final,Best of 3,LL Come & Go,The Jew and the Gentile,The Jew and the Gentile,10,21,21,16,10,21,Jake Mottershead,Mike Garrett,Gabe Finocchi,Dan Abrams
+Bracket Stage,5.0 Open Bronze+,Bracket A,Quarter-final,Best of 3,Mr. Tumnus,Gross/Savage,Gross/Savage,13,21,21,18,16,21,Thomas Hoffman,Clifford Amadeo LeVeque,Ryan Gross,Ben Savage
+Bracket Stage,5.0 Open Bronze+,Bracket A,Quarter-final,Best of 3,Les Chiens,Switch Hit👑,Les Chiens,21,13,18,21,21,17,Will Picone,Etienne Cote,Dawson Morgan,Thomas Hamilton
+Bracket Stage,5.0 Open Bronze+,Bracket A,P9: Quarter-final,Single game,Party Fowl,Centros,Centros,0,1,,,,,Cole Maddox,Kyle Fowler,Jon Esposo,Jaxon Gonzalez
+Bracket Stage,5.0 Open Bronze+,Bracket A,P9: Quarter-final,Single game,Drawing Dead,Pleasant People,Pleasant People,-1,0,,,,,Kieran Rose,Tyler Fernandez,Maxwell Gunneson,Demitri Forand
+Bracket Stage,5.0 Open Bronze+,Bracket A,P9: Quarter-final,Single game,Mr. Worldwide,3.5 Calves,3.5 Calves,1,2,,,,,Polk Denmark,John Buchanan,Auriel Wish,Noah Lerner-Morelle
+Bracket Stage,5.0 Open Bronze+,Bracket A,P9: Quarter-final,Single game,🧛breaking dawn part 3🐺,Wyrm,Wyrm,0,1,,,,,Paq Clifford,Bradley Clark,Riley Nassour,Alex Newton
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Quarter-final,Single game,Justin / Jake,Lank Alarm,Justin / Jake,21,18,,,,,Jake Young,Justin Wang,Blake Van Den Top,Mike Hamilton
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Quarter-final,Single game,Cerebral,"White Lotus Roundnet ","White Lotus Roundnet ",11,21,,,,,Kurt Lannetti,Samuel Corey,Ely Marciano,Mitchell Carter
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Quarter-final,Single game,oh no mr gonzalez,Huge Hitbox,oh no mr gonzalez,0,-1,,,,,Peyton Stack,Isaac Mixon,Josh Hutko,Matt Spolarich
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Quarter-final,Single game,Great Wall,Patchy Grass,Great Wall,21,19,,,,,Kevin Chen,Ricky Santiago,Brian Perlson,Caleb White
+Bracket Stage,5.0 Open Bronze+,Bracket A,P25: Quarter-final,Single game,Biggie Bag Ballers,Beeah Boys,Biggie Bag Ballers,24,22,,,,,Kolton Knight,Eoin O'Gara,fredric hinkle,Alex Daly
+Bracket Stage,5.0 Open Bronze+,Bracket A,P25: Quarter-final,Single game,pal pals,Lil Bro Sr.,pal pals,0,-1,,,,,Drew Ryder,John Mankowich,Brooks Weeks,Tommy Drake
+Bracket Stage,5.0 Open Bronze+,Bracket A,P25: Quarter-final,Single game,Special Teams,Bang bang lighty boys,Special Teams,0,-2,,,,,Liam Keegan,Matthew Rodriguez,Sam Diani,Jackson Biggs
+Bracket Stage,5.0 Open Bronze+,Bracket A,P25: Quarter-final,Single game,And They Were Roommates,Ooops,And They Were Roommates,24,22,,,,,Charlie Cavallaro,Noah Elconin,Javier Vidal,John Putney
+Bracket Stage,5.0 Open Bronze+,Bracket A,Semi-final,Best of 3,Blind Bandits,Les Chiens,Les Chiens,21,19,17,21,13,21,Henry Pilliod,Sunny Gu,Will Picone,Etienne Cote
+Bracket Stage,5.0 Open Bronze+,Bracket A,Semi-final,Best of 3,The Jew and the Gentile,Gross/Savage,The Jew and the Gentile,21,18,21,12,,,Gabe Finocchi,Dan Abrams,Ryan Gross,Ben Savage
+Bracket Stage,5.0 Open Bronze+,Bracket A,P5: Semi-final,Single game,Switch Hit👑,NEM Seazonal,NEM Seazonal,-1,0,,,,,Dawson Morgan,Thomas Hamilton,Zach Snover,Jacob Summers
+Bracket Stage,5.0 Open Bronze+,Bracket A,P5: Semi-final,Single game,Mr. Tumnus,LL Come & Go,LL Come & Go,20,22,,,,,Thomas Hoffman,Clifford Amadeo LeVeque,Jake Mottershead,Mike Garrett
+Bracket Stage,5.0 Open Bronze+,Bracket A,P9: Semi-final,Single game,Centros,Wyrm,Wyrm,13,21,,,,,Jon Esposo,Jaxon Gonzalez,Riley Nassour,Alex Newton
+Bracket Stage,5.0 Open Bronze+,Bracket A,P9: Semi-final,Single game,Pleasant People,3.5 Calves,3.5 Calves,21,23,,,,,Maxwell Gunneson,Demitri Forand,Auriel Wish,Noah Lerner-Morelle
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Semi-final,Single game,Justin / Jake,Great Wall,Great Wall,-1,0,,,,,Jake Young,Justin Wang,Kevin Chen,Ricky Santiago
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Semi-final,Single game,"White Lotus Roundnet ",oh no mr gonzalez,oh no mr gonzalez,18,21,,,,,Ely Marciano,Mitchell Carter,Peyton Stack,Isaac Mixon
+Bracket Stage,5.0 Open Bronze+,Bracket A,P25: Semi-final,Single game,Biggie Bag Ballers,And They Were Roommates,Biggie Bag Ballers,21,19,,,,,Kolton Knight,Eoin O'Gara,Charlie Cavallaro,Noah Elconin
+Bracket Stage,5.0 Open Bronze+,Bracket A,P25: Semi-final,Single game,pal pals,Special Teams,pal pals,21,15,,,,,Drew Ryder,John Mankowich,Liam Keegan,Matthew Rodriguez
+Bracket Stage,5.0 Open Bronze+,Bracket A,P29: Semi-final,Single game,Ooops,Beeah Boys,Ooops,21,15,,,,,Javier Vidal,John Putney,fredric hinkle,Alex Daly
+Bracket Stage,5.0 Open Bronze+,Bracket A,P29: Semi-final,Single game,Bang bang lighty boys,Lil Bro Sr.,Bang bang lighty boys,0,-1,,,,,Sam Diani,Jackson Biggs,Brooks Weeks,Tommy Drake
+Bracket Stage,5.0 Open Bronze+,Bracket A,Final,Best of 3,Les Chiens,The Jew and the Gentile,Les Chiens,21,15,21,16,,,Will Picone,Etienne Cote,Gabe Finocchi,Dan Abrams
+Bracket Stage,5.0 Open Bronze+,Bracket A,P3: Final,Best of 3,Gross/Savage,Blind Bandits,Blind Bandits,10,21,21,15,19,21,Ryan Gross,Ben Savage,Henry Pilliod,Sunny Gu
+Bracket Stage,5.0 Open Bronze+,Bracket A,P5: Final,Single game,NEM Seazonal,LL Come & Go,NEM Seazonal,24,22,,,,,Zach Snover,Jacob Summers,Jake Mottershead,Mike Garrett
+Bracket Stage,5.0 Open Bronze+,Bracket A,P7: Final,Single game,Mr. Tumnus,Switch Hit👑,Switch Hit👑,-1,0,,,,,Thomas Hoffman,Clifford Amadeo LeVeque,Dawson Morgan,Thomas Hamilton
+Bracket Stage,5.0 Open Bronze+,Bracket A,P9: Final,Single game,Wyrm,3.5 Calves,Wyrm,21,15,,,,,Riley Nassour,Alex Newton,Auriel Wish,Noah Lerner-Morelle
+Bracket Stage,5.0 Open Bronze+,Bracket A,P11: Final,Single game,Pleasant People,Centros,Pleasant People,1,0,,,,,Maxwell Gunneson,Demitri Forand,Jon Esposo,Jaxon Gonzalez
+Bracket Stage,5.0 Open Bronze+,Bracket A,P17: Final,Single game,Great Wall,oh no mr gonzalez,oh no mr gonzalez,17,21,,,,,Kevin Chen,Ricky Santiago,Peyton Stack,Isaac Mixon
+Bracket Stage,5.0 Open Bronze+,Bracket A,P25: Final,Single game,Biggie Bag Ballers,pal pals,pal pals,15,21,,,,,Kolton Knight,Eoin O'Gara,Drew Ryder,John Mankowich
+Bracket Stage,5.0 Open Bronze+,Bracket A,P27: Final,Single game,Special Teams,And They Were Roommates,Special Teams,21,13,,,,,Liam Keegan,Matthew Rodriguez,Charlie Cavallaro,Noah Elconin
+Bracket Stage,5.0 Open Bronze+,Bracket A,P29: Final,Single game,Ooops,Bang bang lighty boys,Ooops,0,-1,,,,,Javier Vidal,John Putney,Sam Diani,Jackson Biggs
+Bracket Stage,5.0 Open Bronze+,Bracket B,Quarter-final,Single game,Cactus Juice,Don't want it!,Cactus Juice,0,-1,,,,,Gabe Packevicz,Matt Garbecki,Brent Summers,Noah Kopetic
+Bracket Stage,5.0 Open Bronze+,Bracket B,Semi-final,Single game,Rotato Potato,Cactus Juice,Cactus Juice,-1,0,,,,,Charlie Freeman,Jonathan Saysamone,Gabe Packevicz,Matt Garbecki
+Bracket Stage,5.0 Open Bronze+,Bracket B,Semi-final,Single game,Magenta Status,TP Gang,TP Gang,-1,0,,,,,Ethan Ferland,Alex Luc,pavan narahari,Tomer Keren
+Bracket Stage,5.0 Open Bronze+,Bracket B,Final,Best of 3,Cactus Juice,TP Gang,TP Gang,10,21,11,21,,,Gabe Packevicz,Matt Garbecki,pavan narahari,Tomer Keren
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,1,Single game,Rotato Potato,Don't want it!,Rotato Potato,21,9,,,,,Charlie Freeman,Jonathan Saysamone,Brent Summers,Noah Kopetic
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,1,Single game,Magenta Status,Cactus Juice,Magenta Status,21,14,,,,,Ethan Ferland,Alex Luc,Gabe Packevicz,Matt Garbecki
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,2,Single game,Rotato Potato,Cactus Juice,Cactus Juice,19,21,,,,,Charlie Freeman,Jonathan Saysamone,Gabe Packevicz,Matt Garbecki
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,2,Single game,TP Gang,Don't want it!,TP Gang,21,11,,,,,pavan narahari,Tomer Keren,Brent Summers,Noah Kopetic
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,3,Single game,Rotato Potato,TP Gang,TP Gang,19,21,,,,,Charlie Freeman,Jonathan Saysamone,pavan narahari,Tomer Keren
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,3,Single game,Magenta Status,Don't want it!,Magenta Status,21,13,,,,,Ethan Ferland,Alex Luc,Brent Summers,Noah Kopetic
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,4,Single game,Magenta Status,TP Gang,TP Gang,16,21,,,,,Ethan Ferland,Alex Luc,pavan narahari,Tomer Keren
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,4,Single game,Cactus Juice,Don't want it!,Cactus Juice,21,13,,,,,Gabe Packevicz,Matt Garbecki,Brent Summers,Noah Kopetic
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,5,Single game,Rotato Potato,Magenta Status,Rotato Potato,23,21,,,,,Charlie Freeman,Jonathan Saysamone,Ethan Ferland,Alex Luc
+Bronze Round Robin,5.0 Open Bronze+,33rd Place Pool,5,Single game,TP Gang,Cactus Juice,Cactus Juice,21,23,,,,,pavan narahari,Tomer Keren,Gabe Packevicz,Matt Garbecki
+Pool Play,4.0 Open,Group A - Nets 1-2,1,Single game,Passion project,Sweaty Spikes,Passion project,21,16,,,,,Axel Helfand,Patrick Gillespie,Daniel Krupp,Matt Brady
+Pool Play,4.0 Open,Group A - Nets 1-2,1,Single game,DoubleThreat,Cookie Soup,DoubleThreat,21,15,,,,,Siddhant Desai,Dylan Rehman,Andrew Barra,george reagan
+Pool Play,4.0 Open,Group B - Nets 3-4,1,Single game,Snowfall,Chiva Hermanos,Snowfall,21,8,,,,,Samuel Panek,Jacob Lamontagne,Camilo Cruz,Edgar Cruz
+Pool Play,4.0 Open,Group B - Nets 3-4,1,Single game,White and Brown,Jabroni’s,White and Brown,22,20,,,,,Jobin Binu Daniel,William White,Dean Russo,Matthew Rusinyak
+Pool Play,4.0 Open,Group C - Nets 5-6,1,Single game,Locked,Fleet Lords,Locked,21,5,,,,,Matt Wallach,Andrew Nee,Mark Fedio,Jake Stoller
+Pool Play,4.0 Open,Group C - Nets 5-6,1,Single game,IIIIT’S SHO TIME,In-Tim-idating and Dan-gerous,IIIIT’S SHO TIME,21,13,,,,,Eddie Wu,Sho M,Daniel Vogt,Tim Matten
+Pool Play,4.0 Open,Group D - Nets 7-8,1,Single game,ddmf,Knights of the Roundnet,ddmf,21,8,,,,,Eric Tay,Rishab Jain,Josiah Groff,Samuel Knowles
+Pool Play,4.0 Open,Group D - Nets 7-8,1,Single game,Adiabatic,Monkey Mode,Adiabatic,21,10,,,,,Gabris Ni,Isaac Wong,Labib Aziz,Tanuj Alapati
+Pool Play,4.0 Open,Group E - Nets 9-10,1,Single game,Deep enuff?,Heat Check,Deep enuff?,21,6,,,,,Amrit Hingorani,Eric Guan,Yi-Fei Zhao,Gabe Martin
+Pool Play,4.0 Open,Group E - Nets 9-10,1,Single game,"Let Us Serve ",Mad Ting!,"Let Us Serve ",21,6,,,,,AJ Yoon,Drew Weaver,Paul Pierre-Louis,Jack Lot Raghav
+Pool Play,4.0 Open,Group F - Nets 11-12,1,Single game,YungReddy,Red Pandas,YungReddy,21,3,,,,,Manish Nagireddy,Michael Yung,Rishi Ghatta,Max Cavallaro
+Pool Play,4.0 Open,Group F - Nets 11-12,1,Single game,New York Rats,SWEDEN,New York Rats,21,18,,,,,Ryan Jung,David Xu,Kyle Harding,Jeremy Ettlinger
+Pool Play,4.0 Open,Group G - Nets 13-14,1,Single game,lotion,Rusting but still Dusting,lotion,21,6,,,,,vince S,Michael Lin,Damian Maldonado,Spencer Hedges
+Pool Play,4.0 Open,Group G - Nets 13-14,1,Single game,Big Duck Roundnet,Bogey Bros,Big Duck Roundnet,21,13,,,,,Jackson Petroske,Tiger Winston,Ryan Lacilla,Daniel Fredbeck
+Pool Play,4.0 Open,Group H - Nets 15-16,1,Single game,Call Ballers,Ofgangs,Call Ballers,21,13,,,,,Kyle Keenan,Andrew Warren,Max Ofgang,Alex Ofgang
+Pool Play,4.0 Open,Group H - Nets 15-16,1,Single game,Lil Booties,Sage St,Lil Booties,21,3,,,,,Ryland Holdren,Sean Santos,Arjun Menon,Sourish Jasti
+Pool Play,4.0 Open,Group I - Nets 17-18,1,Single game,Cornballs,Hot Pockets,Cornballs,21,11,,,,,Sreesai Katiki,Noah Malewicki,Joseph Landry,Jacob Sandler
+Pool Play,4.0 Open,Group I - Nets 17-18,1,Single game,Double Caked Up,BJ Blasters,Double Caked Up,21,13,,,,,Brock Lodato,Owen Wallace,Ben Jacobsen,david seo
+Pool Play,4.0 Open,Group J - Nets 19-20,1,Single game,McGrath/Gao,"Liberty ",McGrath/Gao,21,11,,,,,Alan Gao,Jason Mcgrath,Josh Puffenberger,Isaac Haynes
+Pool Play,4.0 Open,Group J - Nets 19-20,1,Single game,Half-Way Crooks,Wadhwa & Co.,Half-Way Crooks,21,10,,,,,Jared Almon,Aidan Riley,Rohan Wadhwa,Harrison Zaye
+Pool Play,4.0 Open,Group A - Nets 1-2,2,Single game,Passion project,Cookie Soup,Passion project,21,12,,,,,Axel Helfand,Patrick Gillespie,Andrew Barra,george reagan
+Pool Play,4.0 Open,Group A - Nets 1-2,2,Single game,DoubleThreat,Sweaty Spikes,DoubleThreat,21,16,,,,,Siddhant Desai,Dylan Rehman,Daniel Krupp,Matt Brady
+Pool Play,4.0 Open,Group B - Nets 3-4,2,Single game,Snowfall,Jabroni’s,Snowfall,21,8,,,,,Samuel Panek,Jacob Lamontagne,Dean Russo,Matthew Rusinyak
+Pool Play,4.0 Open,Group B - Nets 3-4,2,Single game,White and Brown,Chiva Hermanos,Chiva Hermanos,15,21,,,,,Jobin Binu Daniel,William White,Camilo Cruz,Edgar Cruz
+Pool Play,4.0 Open,Group C - Nets 5-6,2,Single game,Locked,In-Tim-idating and Dan-gerous,Locked,21,7,,,,,Matt Wallach,Andrew Nee,Daniel Vogt,Tim Matten
+Pool Play,4.0 Open,Group C - Nets 5-6,2,Single game,IIIIT’S SHO TIME,Fleet Lords,IIIIT’S SHO TIME,21,15,,,,,Eddie Wu,Sho M,Mark Fedio,Jake Stoller
+Pool Play,4.0 Open,Group D - Nets 7-8,2,Single game,ddmf,Monkey Mode,ddmf,21,10,,,,,Eric Tay,Rishab Jain,Labib Aziz,Tanuj Alapati
+Pool Play,4.0 Open,Group D - Nets 7-8,2,Single game,Adiabatic,Knights of the Roundnet,Knights of the Roundnet,19,21,,,,,Gabris Ni,Isaac Wong,Josiah Groff,Samuel Knowles
+Pool Play,4.0 Open,Group E - Nets 9-10,2,Single game,Deep enuff?,Mad Ting!,Deep enuff?,21,7,,,,,Amrit Hingorani,Eric Guan,Paul Pierre-Louis,Jack Lot Raghav
+Pool Play,4.0 Open,Group E - Nets 9-10,2,Single game,"Let Us Serve ",Heat Check,"Let Us Serve ",21,9,,,,,AJ Yoon,Drew Weaver,Yi-Fei Zhao,Gabe Martin
+Pool Play,4.0 Open,Group F - Nets 11-12,2,Single game,YungReddy,SWEDEN,YungReddy,21,5,,,,,Manish Nagireddy,Michael Yung,Kyle Harding,Jeremy Ettlinger
+Pool Play,4.0 Open,Group F - Nets 11-12,2,Single game,New York Rats,Red Pandas,New York Rats,21,6,,,,,Ryan Jung,David Xu,Rishi Ghatta,Max Cavallaro
+Pool Play,4.0 Open,Group G - Nets 13-14,2,Single game,lotion,Bogey Bros,lotion,21,19,,,,,vince S,Michael Lin,Ryan Lacilla,Daniel Fredbeck
+Pool Play,4.0 Open,Group G - Nets 13-14,2,Single game,Big Duck Roundnet,Rusting but still Dusting,Big Duck Roundnet,21,6,,,,,Jackson Petroske,Tiger Winston,Damian Maldonado,Spencer Hedges
+Pool Play,4.0 Open,Group H - Nets 15-16,2,Single game,Call Ballers,Sage St,Call Ballers,21,8,,,,,Kyle Keenan,Andrew Warren,Arjun Menon,Sourish Jasti
+Pool Play,4.0 Open,Group H - Nets 15-16,2,Single game,Lil Booties,Ofgangs,Lil Booties,21,10,,,,,Ryland Holdren,Sean Santos,Max Ofgang,Alex Ofgang
+Pool Play,4.0 Open,Group I - Nets 17-18,2,Single game,Cornballs,BJ Blasters,Cornballs,21,19,,,,,Sreesai Katiki,Noah Malewicki,Ben Jacobsen,david seo
+Pool Play,4.0 Open,Group I - Nets 17-18,2,Single game,Double Caked Up,Hot Pockets,Double Caked Up,21,8,,,,,Brock Lodato,Owen Wallace,Joseph Landry,Jacob Sandler
+Pool Play,4.0 Open,Group J - Nets 19-20,2,Single game,McGrath/Gao,Wadhwa & Co.,McGrath/Gao,21,15,,,,,Alan Gao,Jason Mcgrath,Rohan Wadhwa,Harrison Zaye
+Pool Play,4.0 Open,Group J - Nets 19-20,2,Single game,Half-Way Crooks,"Liberty ",Half-Way Crooks,21,19,,,,,Jared Almon,Aidan Riley,Josh Puffenberger,Isaac Haynes
+Pool Play,4.0 Open,Group A - Nets 1-2,3,Single game,Passion project,DoubleThreat,DoubleThreat,22,24,,,,,Axel Helfand,Patrick Gillespie,Siddhant Desai,Dylan Rehman
+Pool Play,4.0 Open,Group A - Nets 1-2,3,Single game,Cookie Soup,Sweaty Spikes,Cookie Soup,21,16,,,,,Andrew Barra,george reagan,Daniel Krupp,Matt Brady
+Pool Play,4.0 Open,Group B - Nets 3-4,3,Single game,Snowfall,White and Brown,Snowfall,21,11,,,,,Samuel Panek,Jacob Lamontagne,Jobin Binu Daniel,William White
+Pool Play,4.0 Open,Group B - Nets 3-4,3,Single game,Jabroni’s,Chiva Hermanos,Jabroni’s,21,11,,,,,Dean Russo,Matthew Rusinyak,Camilo Cruz,Edgar Cruz
+Pool Play,4.0 Open,Group C - Nets 5-6,3,Single game,Locked,IIIIT’S SHO TIME,Locked,21,14,,,,,Matt Wallach,Andrew Nee,Eddie Wu,Sho M
+Pool Play,4.0 Open,Group C - Nets 5-6,3,Single game,In-Tim-idating and Dan-gerous,Fleet Lords,In-Tim-idating and Dan-gerous,21,16,,,,,Daniel Vogt,Tim Matten,Mark Fedio,Jake Stoller
+Pool Play,4.0 Open,Group D - Nets 7-8,3,Single game,ddmf,Adiabatic,ddmf,21,8,,,,,Eric Tay,Rishab Jain,Gabris Ni,Isaac Wong
+Pool Play,4.0 Open,Group D - Nets 7-8,3,Single game,Monkey Mode,Knights of the Roundnet,Knights of the Roundnet,12,21,,,,,Labib Aziz,Tanuj Alapati,Josiah Groff,Samuel Knowles
+Pool Play,4.0 Open,Group E - Nets 9-10,3,Single game,Deep enuff?,"Let Us Serve ",Deep enuff?,21,10,,,,,Amrit Hingorani,Eric Guan,AJ Yoon,Drew Weaver
+Pool Play,4.0 Open,Group E - Nets 9-10,3,Single game,Mad Ting!,Heat Check,Mad Ting!,21,7,,,,,Paul Pierre-Louis,Jack Lot Raghav,Yi-Fei Zhao,Gabe Martin
+Pool Play,4.0 Open,Group F - Nets 11-12,3,Single game,YungReddy,New York Rats,YungReddy,21,13,,,,,Manish Nagireddy,Michael Yung,Ryan Jung,David Xu
+Pool Play,4.0 Open,Group F - Nets 11-12,3,Single game,SWEDEN,Red Pandas,SWEDEN,21,17,,,,,Kyle Harding,Jeremy Ettlinger,Rishi Ghatta,Max Cavallaro
+Pool Play,4.0 Open,Group G - Nets 13-14,3,Single game,lotion,Big Duck Roundnet,lotion,21,11,,,,,vince S,Michael Lin,Jackson Petroske,Tiger Winston
+Pool Play,4.0 Open,Group G - Nets 13-14,3,Single game,Bogey Bros,Rusting but still Dusting,Bogey Bros,21,17,,,,,Ryan Lacilla,Daniel Fredbeck,Damian Maldonado,Spencer Hedges
+Pool Play,4.0 Open,Group H - Nets 15-16,3,Single game,Call Ballers,Lil Booties,Call Ballers,21,17,,,,,Kyle Keenan,Andrew Warren,Ryland Holdren,Sean Santos
+Pool Play,4.0 Open,Group H - Nets 15-16,3,Single game,Sage St,Ofgangs,Ofgangs,9,21,,,,,Arjun Menon,Sourish Jasti,Max Ofgang,Alex Ofgang
+Pool Play,4.0 Open,Group I - Nets 17-18,3,Single game,Cornballs,Double Caked Up,Double Caked Up,11,21,,,,,Sreesai Katiki,Noah Malewicki,Brock Lodato,Owen Wallace
+Pool Play,4.0 Open,Group I - Nets 17-18,3,Single game,BJ Blasters,Hot Pockets,BJ Blasters,21,9,,,,,Ben Jacobsen,david seo,Joseph Landry,Jacob Sandler
+Pool Play,4.0 Open,Group J - Nets 19-20,3,Single game,McGrath/Gao,Half-Way Crooks,McGrath/Gao,21,18,,,,,Alan Gao,Jason Mcgrath,Jared Almon,Aidan Riley
+Pool Play,4.0 Open,Group J - Nets 19-20,3,Single game,Wadhwa & Co.,"Liberty ","Liberty ",9,21,,,,,Rohan Wadhwa,Harrison Zaye,Josh Puffenberger,Isaac Haynes
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,YungReddy,Sweaty Spikes,YungReddy,21,3,21,14,,,Manish Nagireddy,Michael Yung,Daniel Krupp,Matt Brady
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Deep enuff?,In-Tim-idating and Dan-gerous,Deep enuff?,21,11,23,21,,,Amrit Hingorani,Eric Guan,Daniel Vogt,Tim Matten
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,ddmf,Chiva Hermanos,ddmf,21,12,21,15,,,Eric Tay,Rishab Jain,Camilo Cruz,Edgar Cruz
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Locked,Mad Ting!,Locked,15,5,15,5,,,Matt Wallach,Andrew Nee,Paul Pierre-Louis,Jack Lot Raghav
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Snowfall,SWEDEN,Snowfall,21,8,21,12,,,Samuel Panek,Jacob Lamontagne,Kyle Harding,Jeremy Ettlinger
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Double Caked Up,White and Brown,Double Caked Up,21,6,21,4,,,Brock Lodato,Owen Wallace,Jobin Binu Daniel,William White
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,lotion,Cookie Soup,lotion,21,15,21,12,,,vince S,Michael Lin,Andrew Barra,george reagan
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Call Ballers,Ofgangs,Call Ballers,21,19,21,15,,,Kyle Keenan,Andrew Warren,Max Ofgang,Alex Ofgang
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,McGrath/Gao,Bogey Bros,McGrath/Gao,21,14,18,21,21,19,Alan Gao,Jason Mcgrath,Ryan Lacilla,Daniel Fredbeck
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,DoubleThreat,Jabroni’s,DoubleThreat,21,19,21,19,,,Siddhant Desai,Dylan Rehman,Dean Russo,Matthew Rusinyak
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Lil Booties,Adiabatic,Lil Booties,22,20,21,13,,,Ryland Holdren,Sean Santos,Gabris Ni,Isaac Wong
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,"Let Us Serve ","Liberty ","Liberty ",21,19,18,21,15,21,AJ Yoon,Drew Weaver,Josh Puffenberger,Isaac Haynes
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Big Duck Roundnet,BJ Blasters,Big Duck Roundnet,21,18,21,16,,,Jackson Petroske,Tiger Winston,Ben Jacobsen,david seo
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Passion project,Knights of the Roundnet,Passion project,22,20,21,13,,,Axel Helfand,Patrick Gillespie,Josiah Groff,Samuel Knowles
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,Half-Way Crooks,Cornballs,Half-Way Crooks,21,18,21,13,,,Jared Almon,Aidan Riley,Sreesai Katiki,Noah Malewicki
+Bracket Stage,4.0 Open,Bracket A,Round of 32,Best of 3,New York Rats,IIIIT’S SHO TIME,IIIIT’S SHO TIME,15,21,19,21,,,Ryan Jung,David Xu,Eddie Wu,Sho M
+Bracket Stage,4.0 Open,Bracket A,Round of 16,Best of 3,YungReddy,IIIIT’S SHO TIME,YungReddy,21,11,21,7,,,Manish Nagireddy,Michael Yung,Eddie Wu,Sho M
+Bracket Stage,4.0 Open,Bracket A,Round of 16,Best of 3,Deep enuff?,Half-Way Crooks,Deep enuff?,21,18,22,20,,,Amrit Hingorani,Eric Guan,Jared Almon,Aidan Riley
+Bracket Stage,4.0 Open,Bracket A,Round of 16,Best of 3,ddmf,Passion project,ddmf,1,0,1,0,,,Eric Tay,Rishab Jain,Axel Helfand,Patrick Gillespie
+Bracket Stage,4.0 Open,Bracket A,Round of 16,Best of 3,Locked,Big Duck Roundnet,Locked,21,10,22,20,,,Matt Wallach,Andrew Nee,Jackson Petroske,Tiger Winston
+Bracket Stage,4.0 Open,Bracket A,Round of 16,Best of 3,Snowfall,"Liberty ",Snowfall,23,21,19,21,21,13,Samuel Panek,Jacob Lamontagne,Josh Puffenberger,Isaac Haynes
+Bracket Stage,4.0 Open,Bracket A,Round of 16,Best of 3,Double Caked Up,Lil Booties,Lil Booties,13,21,15,21,,,Brock Lodato,Owen Wallace,Ryland Holdren,Sean Santos
+Bracket Stage,4.0 Open,Bracket A,Round of 16,Best of 3,lotion,DoubleThreat,DoubleThreat,20,22,14,21,,,vince S,Michael Lin,Siddhant Desai,Dylan Rehman
+Bracket Stage,4.0 Open,Bracket A,Round of 16,Best of 3,Call Ballers,McGrath/Gao,Call Ballers,21,18,26,24,,,Kyle Keenan,Andrew Warren,Alan Gao,Jason Mcgrath
+Bracket Stage,4.0 Open,Bracket A,P17: Round of 16,Single game,New York Rats,Sweaty Spikes,New York Rats,21,14,,,,,Ryan Jung,David Xu,Daniel Krupp,Matt Brady
+Bracket Stage,4.0 Open,Bracket A,P17: Round of 16,Single game,Cornballs,In-Tim-idating and Dan-gerous,Cornballs,21,19,,,,,Sreesai Katiki,Noah Malewicki,Daniel Vogt,Tim Matten
+Bracket Stage,4.0 Open,Bracket A,P17: Round of 16,Single game,Knights of the Roundnet,Chiva Hermanos,Knights of the Roundnet,0,-1,,,,,Josiah Groff,Samuel Knowles,Camilo Cruz,Edgar Cruz
+Bracket Stage,4.0 Open,Bracket A,P17: Round of 16,Single game,BJ Blasters,Mad Ting!,BJ Blasters,21,12,,,,,Ben Jacobsen,david seo,Paul Pierre-Louis,Jack Lot Raghav
+Bracket Stage,4.0 Open,Bracket A,P17: Round of 16,Single game,"Let Us Serve ",SWEDEN,"Let Us Serve ",21,15,,,,,AJ Yoon,Drew Weaver,Kyle Harding,Jeremy Ettlinger
+Bracket Stage,4.0 Open,Bracket A,P17: Round of 16,Single game,Adiabatic,White and Brown,Adiabatic,21,18,,,,,Gabris Ni,Isaac Wong,Jobin Binu Daniel,William White
+Bracket Stage,4.0 Open,Bracket A,P17: Round of 16,Single game,Jabroni’s,Cookie Soup,Jabroni’s,21,16,,,,,Dean Russo,Matthew Rusinyak,Andrew Barra,george reagan
+Bracket Stage,4.0 Open,Bracket A,P17: Round of 16,Single game,Bogey Bros,Ofgangs,Bogey Bros,0,-1,,,,,Ryan Lacilla,Daniel Fredbeck,Max Ofgang,Alex Ofgang
+Bracket Stage,4.0 Open,Bracket A,Quarter-final,Best of 3,YungReddy,Call Ballers,YungReddy,21,11,21,19,,,Manish Nagireddy,Michael Yung,Kyle Keenan,Andrew Warren
+Bracket Stage,4.0 Open,Bracket A,Quarter-final,Best of 3,Deep enuff?,DoubleThreat,Deep enuff?,21,15,21,9,,,Amrit Hingorani,Eric Guan,Siddhant Desai,Dylan Rehman
+Bracket Stage,4.0 Open,Bracket A,Quarter-final,Best of 3,ddmf,Lil Booties,ddmf,21,19,24,26,21,16,Eric Tay,Rishab Jain,Ryland Holdren,Sean Santos
+Bracket Stage,4.0 Open,Bracket A,Quarter-final,Best of 3,Locked,Snowfall,Locked,21,7,21,11,,,Matt Wallach,Andrew Nee,Samuel Panek,Jacob Lamontagne
+Bracket Stage,4.0 Open,Bracket A,P9: Quarter-final,Single game,McGrath/Gao,IIIIT’S SHO TIME,IIIIT’S SHO TIME,16,21,,,,,Alan Gao,Jason Mcgrath,Eddie Wu,Sho M
+Bracket Stage,4.0 Open,Bracket A,P9: Quarter-final,Single game,lotion,Half-Way Crooks,Half-Way Crooks,0,1,,,,,vince S,Michael Lin,Jared Almon,Aidan Riley
+Bracket Stage,4.0 Open,Bracket A,P9: Quarter-final,Single game,Double Caked Up,Passion project,Passion project,0,1,,,,,Brock Lodato,Owen Wallace,Axel Helfand,Patrick Gillespie
+Bracket Stage,4.0 Open,Bracket A,P9: Quarter-final,Single game,"Liberty ",Big Duck Roundnet,Big Duck Roundnet,-1,0,,,,,Josh Puffenberger,Isaac Haynes,Jackson Petroske,Tiger Winston
+Bracket Stage,4.0 Open,Bracket A,P17: Quarter-final,Single game,New York Rats,Bogey Bros,Bogey Bros,18,21,,,,,Ryan Jung,David Xu,Ryan Lacilla,Daniel Fredbeck
+Bracket Stage,4.0 Open,Bracket A,P17: Quarter-final,Single game,Cornballs,Jabroni’s,Cornballs,21,15,,,,,Sreesai Katiki,Noah Malewicki,Dean Russo,Matthew Rusinyak
+Bracket Stage,4.0 Open,Bracket A,P17: Quarter-final,Single game,Knights of the Roundnet,Adiabatic,Adiabatic,-1,0,,,,,Josiah Groff,Samuel Knowles,Gabris Ni,Isaac Wong
+Bracket Stage,4.0 Open,Bracket A,P17: Quarter-final,Single game,BJ Blasters,"Let Us Serve ","Let Us Serve ",19,21,,,,,Ben Jacobsen,david seo,AJ Yoon,Drew Weaver
+Bracket Stage,4.0 Open,Bracket A,P25: Quarter-final,Single game,Ofgangs,Sweaty Spikes,Ofgangs,21,8,,,,,Max Ofgang,Alex Ofgang,Daniel Krupp,Matt Brady
+Bracket Stage,4.0 Open,Bracket A,P25: Quarter-final,Single game,Cookie Soup,In-Tim-idating and Dan-gerous,Cookie Soup,1,0,,,,,Andrew Barra,george reagan,Daniel Vogt,Tim Matten
+Bracket Stage,4.0 Open,Bracket A,P25: Quarter-final,Single game,White and Brown,Chiva Hermanos,White and Brown,21,18,,,,,Jobin Binu Daniel,William White,Camilo Cruz,Edgar Cruz
+Bracket Stage,4.0 Open,Bracket A,P25: Quarter-final,Single game,SWEDEN,Mad Ting!,SWEDEN,21,19,,,,,Kyle Harding,Jeremy Ettlinger,Paul Pierre-Louis,Jack Lot Raghav
+Bracket Stage,4.0 Open,Bracket A,Semi-final,Best of 3,YungReddy,Locked,YungReddy,19,21,24,22,21,17,Manish Nagireddy,Michael Yung,Matt Wallach,Andrew Nee
+Bracket Stage,4.0 Open,Bracket A,Semi-final,Best of 3,Deep enuff?,ddmf,ddmf,-1,0,0,-1,11,21,Amrit Hingorani,Eric Guan,Eric Tay,Rishab Jain
+Bracket Stage,4.0 Open,Bracket A,P5: Semi-final,Best of 3,Snowfall,Call Ballers,Call Ballers,21,14,17,21,17,21,Samuel Panek,Jacob Lamontagne,Kyle Keenan,Andrew Warren
+Bracket Stage,4.0 Open,Bracket A,P5: Semi-final,Best of 3,Lil Booties,DoubleThreat,DoubleThreat,17,21,10,21,,,Ryland Holdren,Sean Santos,Siddhant Desai,Dylan Rehman
+Bracket Stage,4.0 Open,Bracket A,P9: Semi-final,Single game,IIIIT’S SHO TIME,Big Duck Roundnet,Big Duck Roundnet,-1,0,,,,,Eddie Wu,Sho M,Jackson Petroske,Tiger Winston
+Bracket Stage,4.0 Open,Bracket A,P9: Semi-final,Single game,Half-Way Crooks,Passion project,Passion project,15,21,,,,,Jared Almon,Aidan Riley,Axel Helfand,Patrick Gillespie
+Bracket Stage,4.0 Open,Bracket A,P17: Semi-final,Single game,Bogey Bros,"Let Us Serve ",Bogey Bros,23,21,,,,,Ryan Lacilla,Daniel Fredbeck,AJ Yoon,Drew Weaver
+Bracket Stage,4.0 Open,Bracket A,P17: Semi-final,Single game,Cornballs,Adiabatic,Cornballs,0,-1,,,,,Sreesai Katiki,Noah Malewicki,Gabris Ni,Isaac Wong
+Bracket Stage,4.0 Open,Bracket A,P21: Semi-final,Single game,BJ Blasters,New York Rats,BJ Blasters,21,19,,,,,Ben Jacobsen,david seo,Ryan Jung,David Xu
+Bracket Stage,4.0 Open,Bracket A,P25: Semi-final,Single game,Ofgangs,SWEDEN,SWEDEN,19,21,,,,,Max Ofgang,Alex Ofgang,Kyle Harding,Jeremy Ettlinger
+Bracket Stage,4.0 Open,Bracket A,P25: Semi-final,Single game,Cookie Soup,White and Brown,White and Brown,0,1,,,,,Andrew Barra,george reagan,Jobin Binu Daniel,William White
+Bracket Stage,4.0 Open,Bracket A,P29: Semi-final,Single game,Mad Ting!,Sweaty Spikes,Sweaty Spikes,0,1,,,,,Paul Pierre-Louis,Jack Lot Raghav,Daniel Krupp,Matt Brady
+Bracket Stage,4.0 Open,Bracket A,Final,Best of 3,YungReddy,ddmf,YungReddy,21,13,0,-1,,,Manish Nagireddy,Michael Yung,Eric Tay,Rishab Jain
+Bracket Stage,4.0 Open,Bracket A,P3: Final,Best of 3,Deep enuff?,Locked,Locked,13,21,18,21,,,Amrit Hingorani,Eric Guan,Matt Wallach,Andrew Nee
+Bracket Stage,4.0 Open,Bracket A,P5: Final,Best of 3,Call Ballers,DoubleThreat,DoubleThreat,23,21,17,21,25,27,Kyle Keenan,Andrew Warren,Siddhant Desai,Dylan Rehman
+Bracket Stage,4.0 Open,Bracket A,P7: Final,Single game,Lil Booties,Snowfall,Snowfall,-1,0,,,,,Ryland Holdren,Sean Santos,Samuel Panek,Jacob Lamontagne
+Bracket Stage,4.0 Open,Bracket A,P9: Final,Single game,Big Duck Roundnet,Passion project,Passion project,-1,0,,,,,Jackson Petroske,Tiger Winston,Axel Helfand,Patrick Gillespie
+Bracket Stage,4.0 Open,Bracket A,P11: Final,Single game,Half-Way Crooks,IIIIT’S SHO TIME,IIIIT’S SHO TIME,15,21,,,,,Jared Almon,Aidan Riley,Eddie Wu,Sho M
+Bracket Stage,4.0 Open,Bracket A,P17: Final,Single game,Bogey Bros,Cornballs,Bogey Bros,21,16,,,,,Ryan Lacilla,Daniel Fredbeck,Sreesai Katiki,Noah Malewicki
+Bracket Stage,4.0 Open,Bracket A,P19: Final,Single game,Adiabatic,"Let Us Serve ","Let Us Serve ",-1,0,,,,,Gabris Ni,Isaac Wong,AJ Yoon,Drew Weaver
+Bracket Stage,4.0 Open,Bracket A,P25: Final,Single game,SWEDEN,White and Brown,White and Brown,14,21,,,,,Kyle Harding,Jeremy Ettlinger,Jobin Binu Daniel,William White
+Bracket Stage,4.0 Open,Bracket B,Quarter-final,Best of 3,Fleet Lords,Sage St,Fleet Lords,1,0,0,1,1,0,Mark Fedio,Jake Stoller,Arjun Menon,Sourish Jasti
+Bracket Stage,4.0 Open,Bracket B,Quarter-final,Best of 3,Wadhwa & Co.,Heat Check,Wadhwa & Co.,21,12,21,15,,,Rohan Wadhwa,Harrison Zaye,Yi-Fei Zhao,Gabe Martin
+Bracket Stage,4.0 Open,Bracket B,Quarter-final,Best of 3,Monkey Mode,Red Pandas,Monkey Mode,21,11,21,8,,,Labib Aziz,Tanuj Alapati,Rishi Ghatta,Max Cavallaro
+Bracket Stage,4.0 Open,Bracket B,Quarter-final,Best of 3,Rusting but still Dusting,Hot Pockets,Hot Pockets,-1,0,-1,0,,,Damian Maldonado,Spencer Hedges,Joseph Landry,Jacob Sandler
+Bracket Stage,4.0 Open,Bracket B,Semi-final,Best of 3,Fleet Lords,Hot Pockets,Hot Pockets,0,1,1,0,0,1,Mark Fedio,Jake Stoller,Joseph Landry,Jacob Sandler
+Bracket Stage,4.0 Open,Bracket B,Semi-final,Best of 3,Wadhwa & Co.,Monkey Mode,Monkey Mode,14,21,9,21,,,Rohan Wadhwa,Harrison Zaye,Labib Aziz,Tanuj Alapati
+Bracket Stage,4.0 Open,Bracket B,P5: Semi-final,Best of 3,Red Pandas,Heat Check,Heat Check,0,1,0,1,,,Rishi Ghatta,Max Cavallaro,Yi-Fei Zhao,Gabe Martin
+Bracket Stage,4.0 Open,Bracket B,Final,Best of 3,Hot Pockets,Monkey Mode,Monkey Mode,14,21,9,21,,,Joseph Landry,Jacob Sandler,Labib Aziz,Tanuj Alapati
+Bracket Stage,4.0 Open,Bracket B,P3: Final,Best of 3,Wadhwa & Co.,Fleet Lords,Fleet Lords,-1,0,-1,0,-1,0,Rohan Wadhwa,Harrison Zaye,Mark Fedio,Jake Stoller
