@@ -1,0 +1,103 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Premier/Bronze+,Group A,1,Single game,Rogue,Past and President,Rogue,21,5,,,,,Thomas Hamilton,Ryan Marino,Micah Bouman,Weston Motloch
+Group Stage,5.0 Premier/Bronze+,Group A,1,Single game,ORTHODOX,Margwa Munchers,ORTHODOX,21,7,,,,,Jack Bushart,Clifford Amadeo LeVeque,Izayah Gibson,Skyler Sebring
+Group Stage,5.0 Premier/Bronze+,Group B,1,Single game,Cwazy,Halliday/Banziger,Cwazy,21,8,,,,,Emerson Dean,Kyle Fowler,AJ Halliday,Drew Banziger
+Group Stage,5.0 Premier/Bronze+,Group B,1,Single game,Mystery Box,Lahar Drift,Mystery Box,21,6,,,,,Kieran Rose,Aleks Essen,Jack Drouare,Korbin Thompson
+Group Stage,5.0 Premier/Bronze+,Group A,2,Single game,Rogue,Margwa Munchers,Rogue,21,8,,,,,Thomas Hamilton,Ryan Marino,Izayah Gibson,Skyler Sebring
+Group Stage,5.0 Premier/Bronze+,Group A,2,Single game,Transfer portal,Past and President,Transfer portal,21,17,,,,,Nick Evanko,Jackson Wood,Micah Bouman,Weston Motloch
+Group Stage,5.0 Premier/Bronze+,Group B,2,Single game,Cwazy,Lahar Drift,Cwazy,21,8,,,,,Emerson Dean,Kyle Fowler,Jack Drouare,Korbin Thompson
+Group Stage,5.0 Premier/Bronze+,Group B,2,Single game,RNG,Halliday/Banziger,RNG,21,11,,,,,Reed Drouare,Garrett Duncan,AJ Halliday,Drew Banziger
+Group Stage,5.0 Premier/Bronze+,Group A,3,Single game,Rogue,Transfer portal,Rogue,21,11,,,,,Thomas Hamilton,Ryan Marino,Nick Evanko,Jackson Wood
+Group Stage,5.0 Premier/Bronze+,Group A,3,Single game,ORTHODOX,Past and President,ORTHODOX,21,8,,,,,Jack Bushart,Clifford Amadeo LeVeque,Micah Bouman,Weston Motloch
+Group Stage,5.0 Premier/Bronze+,Group B,3,Single game,Cwazy,RNG,Cwazy,21,12,,,,,Emerson Dean,Kyle Fowler,Reed Drouare,Garrett Duncan
+Group Stage,5.0 Premier/Bronze+,Group B,3,Single game,Mystery Box,Halliday/Banziger,Mystery Box,21,13,,,,,Kieran Rose,Aleks Essen,AJ Halliday,Drew Banziger
+Group Stage,5.0 Premier/Bronze+,Group A,4,Single game,ORTHODOX,Transfer portal,ORTHODOX,21,19,,,,,Jack Bushart,Clifford Amadeo LeVeque,Nick Evanko,Jackson Wood
+Group Stage,5.0 Premier/Bronze+,Group A,4,Single game,Margwa Munchers,Past and President,Past and President,9,21,,,,,Izayah Gibson,Skyler Sebring,Micah Bouman,Weston Motloch
+Group Stage,5.0 Premier/Bronze+,Group B,4,Single game,Mystery Box,RNG,Mystery Box,21,9,,,,,Kieran Rose,Aleks Essen,Reed Drouare,Garrett Duncan
+Group Stage,5.0 Premier/Bronze+,Group B,4,Single game,Lahar Drift,Halliday/Banziger,Lahar Drift,21,16,,,,,Jack Drouare,Korbin Thompson,AJ Halliday,Drew Banziger
+Group Stage,5.0 Premier/Bronze+,Group A,5,Single game,Rogue,ORTHODOX,Rogue,21,15,,,,,Thomas Hamilton,Ryan Marino,Jack Bushart,Clifford Amadeo LeVeque
+Group Stage,5.0 Premier/Bronze+,Group A,5,Single game,Transfer portal,Margwa Munchers,Transfer portal,21,14,,,,,Nick Evanko,Jackson Wood,Izayah Gibson,Skyler Sebring
+Group Stage,5.0 Premier/Bronze+,Group B,5,Single game,Cwazy,Mystery Box,Mystery Box,14,21,,,,,Emerson Dean,Kyle Fowler,Kieran Rose,Aleks Essen
+Group Stage,5.0 Premier/Bronze+,Group B,5,Single game,RNG,Lahar Drift,RNG,21,9,,,,,Reed Drouare,Garrett Duncan,Jack Drouare,Korbin Thompson
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Round of 16,Best of 3,Past and President,Halliday/Banziger,Past and President,21,14,16,21,21,9,Micah Bouman,Weston Motloch,AJ Halliday,Drew Banziger
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Round of 16,Best of 3,Lahar Drift,Margwa Munchers,Lahar Drift,21,10,21,19,,,Jack Drouare,Korbin Thompson,Izayah Gibson,Skyler Sebring
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Rogue,Lahar Drift,Rogue,21,4,21,8,,,Thomas Hamilton,Ryan Marino,Jack Drouare,Korbin Thompson
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Mystery Box,Past and President,Mystery Box,21,11,21,9,,,Kieran Rose,Aleks Essen,Micah Bouman,Weston Motloch
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Cwazy,Transfer portal,Cwazy,21,15,19,21,21,14,Emerson Dean,Kyle Fowler,Nick Evanko,Jackson Wood
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Quarter-final,Best of 3,ORTHODOX,RNG,ORTHODOX,21,16,21,19,,,Jack Bushart,Clifford Amadeo LeVeque,Reed Drouare,Garrett Duncan
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Semi-final,Best of 3,Rogue,ORTHODOX,Rogue,21,14,21,17,,,Thomas Hamilton,Ryan Marino,Jack Bushart,Clifford Amadeo LeVeque
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Semi-final,Best of 3,Mystery Box,Cwazy,Cwazy,17,21,16,21,,,Kieran Rose,Aleks Essen,Emerson Dean,Kyle Fowler
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P5: Semi-final,Single game,RNG,Lahar Drift,RNG,22,20,,,,,Reed Drouare,Garrett Duncan,Jack Drouare,Korbin Thompson
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P5: Semi-final,Single game,Transfer portal,Past and President,Past and President,-2,0,,,,,Nick Evanko,Jackson Wood,Micah Bouman,Weston Motloch
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Final,Best of 3,Rogue,Cwazy,Cwazy,21,16,19,21,17,21,Thomas Hamilton,Ryan Marino,Emerson Dean,Kyle Fowler
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P3: Final,Best of 3,Mystery Box,ORTHODOX,Mystery Box,18,21,21,14,23,21,Kieran Rose,Aleks Essen,Jack Bushart,Clifford Amadeo LeVeque
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P5: Final,Single game,RNG,Past and President,RNG,0,-1,,,,,Reed Drouare,Garrett Duncan,Micah Bouman,Weston Motloch
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P7: Final,Single game,Transfer portal,Lahar Drift,Lahar Drift,-1,0,,,,,Nick Evanko,Jackson Wood,Jack Drouare,Korbin Thompson
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P9: Final,Single game,Margwa Munchers,Halliday/Banziger,Margwa Munchers,21,18,,,,,Izayah Gibson,Skyler Sebring,AJ Halliday,Drew Banziger
+Group Stage,4.0 Contender,Group A,1,Single game,Steel Trap,Double Trouble,Steel Trap,21,6,,,,,Hui Ying Stradiot,Grayson M  Wills,David Robertson,Jeremy Matzinger
+Group Stage,4.0 Contender,Group A,1,Single game,MSU F team,Shifty Spikers,MSU F team,21,5,,,,,Andrew Perez,Zach M,Jacob Dokho,Parker Dokho
+Group Stage,4.0 Contender,Group A,1,Single game,Slammoed,Slammo Slappers,Slammoed,21,3,,,,,Nathan Warner,Lance Markowitz,Gio DeBlasi,Derek Schramm
+Group Stage,4.0 Contender,Group B,1,Single game,The Beans,LAST MINUTE CHAOS,The Beans,21,7,,,,,Salvatore Guagenti,Jackson Carpenter,Christian Antaran,William Fan
+Group Stage,4.0 Contender,Group B,1,Single game,Blast double,Geometric Isamer,Blast double,21,5,,,,,Tate Geiser,Brendon Hanson,Isaac Miller,Summer Guerra
+Group Stage,4.0 Contender,Group B,1,Single game,Cheeky,Buzzer Beaters,Cheeky,21,14,,,,,Donn Bacon,Eli Pinnoo,Drew Davis,Caleb Rellis
+Group Stage,4.0 Contender,Group A,2,Single game,Steel Trap,Shifty Spikers,Steel Trap,21,11,,,,,Hui Ying Stradiot,Grayson M  Wills,Jacob Dokho,Parker Dokho
+Group Stage,4.0 Contender,Group A,2,Single game,MSU F team,Chowey,MSU F team,21,7,,,,,Andrew Perez,Zach M,David Gonzales,Nic Dewey
+Group Stage,4.0 Contender,Group A,2,Single game,Slammo Slappers,Double Trouble,Double Trouble,18,21,,,,,Gio DeBlasi,Derek Schramm,David Robertson,Jeremy Matzinger
+Group Stage,4.0 Contender,Group B,2,Single game,The Beans,Geometric Isamer,The Beans,21,5,,,,,Salvatore Guagenti,Jackson Carpenter,Isaac Miller,Summer Guerra
+Group Stage,4.0 Contender,Group B,2,Single game,Blast double,Fwango,Blast double,21,10,,,,,Tate Geiser,Brendon Hanson,Andrew Enright,Zach Regas
+Group Stage,4.0 Contender,Group B,2,Single game,Buzzer Beaters,LAST MINUTE CHAOS,Buzzer Beaters,21,8,,,,,Drew Davis,Caleb Rellis,Christian Antaran,William Fan
+Group Stage,4.0 Contender,Group A,3,Single game,Steel Trap,Slammo Slappers,Steel Trap,21,14,,,,,Hui Ying Stradiot,Grayson M  Wills,Gio DeBlasi,Derek Schramm
+Group Stage,4.0 Contender,Group A,3,Single game,MSU F team,Slammoed,Slammoed,18,21,,,,,Andrew Perez,Zach M,Nathan Warner,Lance Markowitz
+Group Stage,4.0 Contender,Group A,3,Single game,Chowey,Shifty Spikers,Chowey,22,20,,,,,David Gonzales,Nic Dewey,Jacob Dokho,Parker Dokho
+Group Stage,4.0 Contender,Group B,3,Single game,The Beans,Buzzer Beaters,The Beans,21,8,,,,,Salvatore Guagenti,Jackson Carpenter,Drew Davis,Caleb Rellis
+Group Stage,4.0 Contender,Group B,3,Single game,Blast double,Cheeky,Blast double,21,11,,,,,Tate Geiser,Brendon Hanson,Donn Bacon,Eli Pinnoo
+Group Stage,4.0 Contender,Group B,3,Single game,Fwango,Geometric Isamer,Fwango,21,7,,,,,Andrew Enright,Zach Regas,Isaac Miller,Summer Guerra
+Group Stage,4.0 Contender,Group A,4,Single game,Steel Trap,Chowey,Steel Trap,21,18,,,,,Hui Ying Stradiot,Grayson M  Wills,David Gonzales,Nic Dewey
+Group Stage,4.0 Contender,Group A,4,Single game,MSU F team,Double Trouble,MSU F team,21,17,,,,,Andrew Perez,Zach M,David Robertson,Jeremy Matzinger
+Group Stage,4.0 Contender,Group A,4,Single game,Slammoed,Shifty Spikers,Slammoed,21,13,,,,,Nathan Warner,Lance Markowitz,Jacob Dokho,Parker Dokho
+Group Stage,4.0 Contender,Group B,4,Single game,The Beans,Fwango,The Beans,21,17,,,,,Salvatore Guagenti,Jackson Carpenter,Andrew Enright,Zach Regas
+Group Stage,4.0 Contender,Group B,4,Single game,Blast double,LAST MINUTE CHAOS,Blast double,21,5,,,,,Tate Geiser,Brendon Hanson,Christian Antaran,William Fan
+Group Stage,4.0 Contender,Group B,4,Single game,Cheeky,Geometric Isamer,Cheeky,21,9,,,,,Donn Bacon,Eli Pinnoo,Isaac Miller,Summer Guerra
+Group Stage,4.0 Contender,Group A,5,Single game,MSU F team,Slammo Slappers,MSU F team,21,6,,,,,Andrew Perez,Zach M,Gio DeBlasi,Derek Schramm
+Group Stage,4.0 Contender,Group A,5,Single game,Slammoed,Chowey,Slammoed,22,20,,,,,Nathan Warner,Lance Markowitz,David Gonzales,Nic Dewey
+Group Stage,4.0 Contender,Group A,5,Single game,Shifty Spikers,Double Trouble,Double Trouble,15,21,,,,,Jacob Dokho,Parker Dokho,David Robertson,Jeremy Matzinger
+Group Stage,4.0 Contender,Group B,5,Single game,Blast double,Buzzer Beaters,Blast double,21,14,,,,,Tate Geiser,Brendon Hanson,Drew Davis,Caleb Rellis
+Group Stage,4.0 Contender,Group B,5,Single game,Cheeky,Fwango,Cheeky,21,19,,,,,Donn Bacon,Eli Pinnoo,Andrew Enright,Zach Regas
+Group Stage,4.0 Contender,Group B,5,Single game,Geometric Isamer,LAST MINUTE CHAOS,LAST MINUTE CHAOS,7,21,,,,,Isaac Miller,Summer Guerra,Christian Antaran,William Fan
+Group Stage,4.0 Contender,Group A,6,Single game,Steel Trap,Slammoed,Steel Trap,21,15,,,,,Hui Ying Stradiot,Grayson M  Wills,Nathan Warner,Lance Markowitz
+Group Stage,4.0 Contender,Group A,6,Single game,Chowey,Double Trouble,Chowey,21,18,,,,,David Gonzales,Nic Dewey,David Robertson,Jeremy Matzinger
+Group Stage,4.0 Contender,Group A,6,Single game,Slammo Slappers,Shifty Spikers,Shifty Spikers,21,23,,,,,Gio DeBlasi,Derek Schramm,Jacob Dokho,Parker Dokho
+Group Stage,4.0 Contender,Group B,6,Single game,The Beans,Cheeky,The Beans,21,16,,,,,Salvatore Guagenti,Jackson Carpenter,Donn Bacon,Eli Pinnoo
+Group Stage,4.0 Contender,Group B,6,Single game,Fwango,LAST MINUTE CHAOS,Fwango,21,9,,,,,Andrew Enright,Zach Regas,Christian Antaran,William Fan
+Group Stage,4.0 Contender,Group B,6,Single game,Buzzer Beaters,Geometric Isamer,Buzzer Beaters,21,5,,,,,Drew Davis,Caleb Rellis,Isaac Miller,Summer Guerra
+Group Stage,4.0 Contender,Group A,7,Single game,Steel Trap,MSU F team,MSU F team,16,21,,,,,Hui Ying Stradiot,Grayson M  Wills,Andrew Perez,Zach M
+Group Stage,4.0 Contender,Group A,7,Single game,Slammoed,Double Trouble,Slammoed,21,17,,,,,Nathan Warner,Lance Markowitz,David Robertson,Jeremy Matzinger
+Group Stage,4.0 Contender,Group A,7,Single game,Chowey,Slammo Slappers,Chowey,21,18,,,,,David Gonzales,Nic Dewey,Gio DeBlasi,Derek Schramm
+Group Stage,4.0 Contender,Group B,7,Single game,The Beans,Blast double,The Beans,22,20,,,,,Salvatore Guagenti,Jackson Carpenter,Tate Geiser,Brendon Hanson
+Group Stage,4.0 Contender,Group B,7,Single game,Cheeky,LAST MINUTE CHAOS,Cheeky,21,7,,,,,Donn Bacon,Eli Pinnoo,Christian Antaran,William Fan
+Group Stage,4.0 Contender,Group B,7,Single game,Fwango,Buzzer Beaters,Buzzer Beaters,20,22,,,,,Andrew Enright,Zach Regas,Drew Davis,Caleb Rellis
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,MSU F team,Geometric Isamer,MSU F team,21,9,21,7,,,Andrew Perez,Zach M,Isaac Miller,Summer Guerra
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Steel Trap,Slammo Slappers,Steel Trap,21,11,21,11,,,Hui Ying Stradiot,Grayson M  Wills,Gio DeBlasi,Derek Schramm
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Slammoed,LAST MINUTE CHAOS,Slammoed,21,1,21,15,,,Nathan Warner,Lance Markowitz,Christian Antaran,William Fan
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Cheeky,Shifty Spikers,Cheeky,21,11,21,18,,,Donn Bacon,Eli Pinnoo,Jacob Dokho,Parker Dokho
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Buzzer Beaters,Chowey,Chowey,19,21,14,21,,,Drew Davis,Caleb Rellis,David Gonzales,Nic Dewey
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Double Trouble,Fwango,Fwango,17,21,18,21,,,David Robertson,Jeremy Matzinger,Andrew Enright,Zach Regas
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,The Beans,Fwango,The Beans,21,17,21,9,,,Salvatore Guagenti,Jackson Carpenter,Andrew Enright,Zach Regas
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,Blast double,Chowey,Blast double,21,14,21,14,,,Tate Geiser,Brendon Hanson,David Gonzales,Nic Dewey
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,MSU F team,Cheeky,MSU F team,21,13,21,13,,,Andrew Perez,Zach M,Donn Bacon,Eli Pinnoo
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,Steel Trap,Slammoed,Slammoed,21,19,11,21,14,21,Hui Ying Stradiot,Grayson M  Wills,Nathan Warner,Lance Markowitz
+Bracket Stage,4.0 Contender,Bracket A,P9: Quarter-final,Single game,Shifty Spikers,Geometric Isamer,Shifty Spikers,21,5,,,,,Jacob Dokho,Parker Dokho,Isaac Miller,Summer Guerra
+Bracket Stage,4.0 Contender,Bracket A,P9: Quarter-final,Single game,LAST MINUTE CHAOS,Slammo Slappers,LAST MINUTE CHAOS,21,15,,,,,Christian Antaran,William Fan,Gio DeBlasi,Derek Schramm
+Bracket Stage,4.0 Contender,Bracket A,Semi-final,Best of 3,The Beans,Slammoed,The Beans,21,18,21,15,,,Salvatore Guagenti,Jackson Carpenter,Nathan Warner,Lance Markowitz
+Bracket Stage,4.0 Contender,Bracket A,Semi-final,Best of 3,Blast double,MSU F team,MSU F team,14,21,14,21,,,Tate Geiser,Brendon Hanson,Andrew Perez,Zach M
+Bracket Stage,4.0 Contender,Bracket A,P5: Semi-final,Single game,Steel Trap,Fwango,Steel Trap,0,-2,,,,,Hui Ying Stradiot,Grayson M  Wills,Andrew Enright,Zach Regas
+Bracket Stage,4.0 Contender,Bracket A,P5: Semi-final,Single game,Cheeky,Chowey,Cheeky,21,14,,,,,Donn Bacon,Eli Pinnoo,David Gonzales,Nic Dewey
+Bracket Stage,4.0 Contender,Bracket A,P9: Semi-final,Single game,Double Trouble,LAST MINUTE CHAOS,LAST MINUTE CHAOS,15,21,,,,,David Robertson,Jeremy Matzinger,Christian Antaran,William Fan
+Bracket Stage,4.0 Contender,Bracket A,P9: Semi-final,Single game,Buzzer Beaters,Shifty Spikers,Shifty Spikers,14,21,,,,,Drew Davis,Caleb Rellis,Jacob Dokho,Parker Dokho
+Bracket Stage,4.0 Contender,Bracket A,Final,Best of 3,The Beans,MSU F team,MSU F team,16,21,19,21,,,Salvatore Guagenti,Jackson Carpenter,Andrew Perez,Zach M
+Bracket Stage,4.0 Contender,Bracket A,P3: Final,Best of 3,Blast double,Slammoed,Blast double,21,15,21,15,,,Tate Geiser,Brendon Hanson,Nathan Warner,Lance Markowitz
+Bracket Stage,4.0 Contender,Bracket A,P5: Final,Single game,Steel Trap,Cheeky,Steel Trap,21,15,,,,,Hui Ying Stradiot,Grayson M  Wills,Donn Bacon,Eli Pinnoo
+Bracket Stage,4.0 Contender,Bracket A,P7: Final,Single game,Chowey,Fwango,Fwango,-1,0,,,,,David Gonzales,Nic Dewey,Andrew Enright,Zach Regas
+Bracket Stage,4.0 Contender,Bracket A,P9: Final,Single game,LAST MINUTE CHAOS,Shifty Spikers,Shifty Spikers,15,21,,,,,Christian Antaran,William Fan,Jacob Dokho,Parker Dokho
+Bracket Stage,4.0 Contender,Bracket A,P11: Final,Single game,Buzzer Beaters,Double Trouble,Double Trouble,-1,0,,,,,Drew Davis,Caleb Rellis,David Robertson,Jeremy Matzinger
+Bracket Stage,4.0 Contender,Bracket A,P13: Final,Single game,Slammo Slappers,Geometric Isamer,Slammo Slappers,0,-1,,,,,Gio DeBlasi,Derek Schramm,Isaac Miller,Summer Guerra

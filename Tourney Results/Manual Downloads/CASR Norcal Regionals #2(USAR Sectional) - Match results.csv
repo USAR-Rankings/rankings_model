@@ -1,0 +1,79 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Expert,Group A,1,Single game,Dinomite,E2D2,Dinomite,21,13,,,,,Auriel Wish,Charlie Camarena,Eric Tay,Eric Guan
+Group Stage,5.0 Expert,Group A,1,Single game,Big Schwing,Trojan Horse,Trojan Horse,18,21,,,,,Alec Galbo,Rafi Moldovsky,Reece Greer,Devon Lee
+Group Stage,5.0 Expert,Group B,1,Single game,Nelson / Lowe,Ben & Brian,Nelson / Lowe,21,5,,,,,Connor Nelson,Elle Lowe,Benjamin Walker-Edwards,Brian Quach
+Group Stage,5.0 Expert,Group B,1,Single game,Dinomite,Dinomite,Dinomite,22,20,,,,,Sasha Mariniuk,Noah Saddik,Aman Khemka,Trevor Folden
+Group Stage,5.0 Expert,Group B,1,Single game,Bad Beat,Missing Minute,Missing Minute,17,21,,,,,Jerry Hao,Rishab Jain,Gabriel Rouse,Jackson Blackburn
+Group Stage,5.0 Expert,Group A,2,Single game,Dinomite,Trojan Horse,Dinomite,21,17,,,,,Auriel Wish,Charlie Camarena,Reece Greer,Devon Lee
+Group Stage,5.0 Expert,Group A,2,Single game,Chicken Wing,E2D2,Chicken Wing,21,15,,,,,Kevin Chen,Justin Wang,Eric Tay,Eric Guan
+Group Stage,5.0 Expert,Group B,2,Single game,Nelson / Lowe,Dinomite,Nelson / Lowe,21,9,,,,,Connor Nelson,Elle Lowe,Aman Khemka,Trevor Folden
+Group Stage,5.0 Expert,Group B,2,Single game,Dinomite,Bad Beat,Dinomite,21,15,,,,,Sasha Mariniuk,Noah Saddik,Jerry Hao,Rishab Jain
+Group Stage,5.0 Expert,Group B,2,Single game,Missing Minute,Ben & Brian,Missing Minute,22,20,,,,,Gabriel Rouse,Jackson Blackburn,Benjamin Walker-Edwards,Brian Quach
+Group Stage,5.0 Expert,Group A,3,Single game,Dinomite,Chicken Wing,Dinomite,21,14,,,,,Auriel Wish,Charlie Camarena,Kevin Chen,Justin Wang
+Group Stage,5.0 Expert,Group A,3,Single game,Big Schwing,E2D2,Big Schwing,21,16,,,,,Alec Galbo,Rafi Moldovsky,Eric Tay,Eric Guan
+Group Stage,5.0 Expert,Group B,3,Single game,Nelson / Lowe,Missing Minute,Nelson / Lowe,21,9,,,,,Connor Nelson,Elle Lowe,Gabriel Rouse,Jackson Blackburn
+Group Stage,5.0 Expert,Group B,3,Single game,Dinomite,Ben & Brian,Dinomite,21,17,,,,,Sasha Mariniuk,Noah Saddik,Benjamin Walker-Edwards,Brian Quach
+Group Stage,5.0 Expert,Group B,3,Single game,Bad Beat,Dinomite,Bad Beat,21,11,,,,,Jerry Hao,Rishab Jain,Aman Khemka,Trevor Folden
+Group Stage,5.0 Expert,Group A,4,Single game,Big Schwing,Chicken Wing,Big Schwing,21,16,,,,,Alec Galbo,Rafi Moldovsky,Kevin Chen,Justin Wang
+Group Stage,5.0 Expert,Group A,4,Single game,Trojan Horse,E2D2,Trojan Horse,21,18,,,,,Reece Greer,Devon Lee,Eric Tay,Eric Guan
+Group Stage,5.0 Expert,Group B,4,Single game,Nelson / Lowe,Bad Beat,Nelson / Lowe,21,14,,,,,Connor Nelson,Elle Lowe,Jerry Hao,Rishab Jain
+Group Stage,5.0 Expert,Group B,4,Single game,Dinomite,Missing Minute,Dinomite,21,19,,,,,Sasha Mariniuk,Noah Saddik,Gabriel Rouse,Jackson Blackburn
+Group Stage,5.0 Expert,Group B,4,Single game,Dinomite,Ben & Brian,Ben & Brian,17,21,,,,,Aman Khemka,Trevor Folden,Benjamin Walker-Edwards,Brian Quach
+Group Stage,5.0 Expert,Group A,5,Single game,Dinomite,Big Schwing,Dinomite,22,20,,,,,Auriel Wish,Charlie Camarena,Alec Galbo,Rafi Moldovsky
+Group Stage,5.0 Expert,Group A,5,Single game,Chicken Wing,Trojan Horse,Trojan Horse,16,21,,,,,Kevin Chen,Justin Wang,Reece Greer,Devon Lee
+Group Stage,5.0 Expert,Group B,5,Single game,Nelson / Lowe,Dinomite,Nelson / Lowe,21,13,,,,,Connor Nelson,Elle Lowe,Sasha Mariniuk,Noah Saddik
+Group Stage,5.0 Expert,Group B,5,Single game,Bad Beat,Ben & Brian,Bad Beat,21,17,,,,,Jerry Hao,Rishab Jain,Benjamin Walker-Edwards,Brian Quach
+Group Stage,5.0 Expert,Group B,5,Single game,Missing Minute,Dinomite,Missing Minute,21,11,,,,,Gabriel Rouse,Jackson Blackburn,Aman Khemka,Trevor Folden
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,Missing Minute,Dinomite,Missing Minute,21,19,22,20,,,Gabriel Rouse,Jackson Blackburn,Aman Khemka,Trevor Folden
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,Bad Beat,E2D2,Bad Beat,21,13,21,19,,,Jerry Hao,Rishab Jain,Eric Tay,Eric Guan
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,Chicken Wing,Ben & Brian,Chicken Wing,21,15,20,22,21,18,Kevin Chen,Justin Wang,Benjamin Walker-Edwards,Brian Quach
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Nelson / Lowe,Chicken Wing,Nelson / Lowe,21,13,21,16,,,Connor Nelson,Elle Lowe,Kevin Chen,Justin Wang
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Dinomite,Bad Beat,Dinomite,21,10,21,14,,,Auriel Wish,Charlie Camarena,Jerry Hao,Rishab Jain
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Trojan Horse,Missing Minute,Trojan Horse,21,13,21,16,,,Reece Greer,Devon Lee,Gabriel Rouse,Jackson Blackburn
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Dinomite,Big Schwing,Dinomite,16,21,21,18,21,17,Sasha Mariniuk,Noah Saddik,Alec Galbo,Rafi Moldovsky
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Nelson / Lowe,Dinomite,Nelson / Lowe,1,0,1,0,,,Connor Nelson,Elle Lowe,Sasha Mariniuk,Noah Saddik
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Dinomite,Trojan Horse,Dinomite,1,0,1,0,,,Auriel Wish,Charlie Camarena,Reece Greer,Devon Lee
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Best of 3,Big Schwing,Chicken Wing,Big Schwing,0,-2,0,-2,,,Alec Galbo,Rafi Moldovsky,Kevin Chen,Justin Wang
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Best of 3,Missing Minute,Bad Beat,Missing Minute,21,17,0,-2,,,Gabriel Rouse,Jackson Blackburn,Jerry Hao,Rishab Jain
+Bracket Stage,5.0 Expert,Bracket A,P9: Semi-final,Best of 3,E2D2,Dinomite,E2D2,21,13,21,14,,,Eric Tay,Eric Guan,Aman Khemka,Trevor Folden
+Bracket Stage,5.0 Expert,Bracket A,Final,Best of 3,Nelson / Lowe,Dinomite,Dinomite,39,41,0,1,,,Connor Nelson,Elle Lowe,Auriel Wish,Charlie Camarena
+Bracket Stage,5.0 Expert,Bracket A,P3: Final,Best of 3,Trojan Horse,Dinomite,Dinomite,0,1,-2,0,,,Reece Greer,Devon Lee,Sasha Mariniuk,Noah Saddik
+Bracket Stage,5.0 Expert,Bracket A,P9: Final,Best of 3,Ben & Brian,E2D2,E2D2,18,21,-1,0,,,Benjamin Walker-Edwards,Brian Quach,Eric Tay,Eric Guan
+Group Stage,4.5 Contender,Group A,1,Single game,Tea time,Combined 9,Tea time,21,16,,,,,Ricky Santiago,Cailley Biagini,Ally Chou,Cynthia Zhang
+Group Stage,4.5 Contender,Group A,1,Single game,CMU PREZS,reecespuffs,CMU PREZS,21,7,,,,,Dorian Caporal,Richard Ahn,Tobin Bloomquist,Caius Leung
+Group Stage,4.5 Contender,Group A,1,Single game,Overcookers,Da Dawgs,Overcookers,21,15,,,,,Michael Ramsey,Eddie Wu,CJ Wallace,Eli Weiner-Rogers
+Group Stage,4.5 Contender,Group B,1,Single game,UC us in the finals,R&Beez Knees,UC us in the finals,21,10,,,,,Jenner Lim,Hunter Koth,Ryan Jung,Becca Kim
+Group Stage,4.5 Contender,Group B,1,Single game,freaky deaky fried zucchini,Big T,freaky deaky fried zucchini,21,9,,,,,Tahseen Robbani,Johnnie Teng,Andrew Ekren,Tyler Farnholtz
+Group Stage,4.5 Contender,Group A,2,Single game,Tea time,reecespuffs,Tea time,21,12,,,,,Ricky Santiago,Cailley Biagini,Tobin Bloomquist,Caius Leung
+Group Stage,4.5 Contender,Group A,2,Single game,CMU PREZS,Overcookers,Overcookers,17,21,,,,,Dorian Caporal,Richard Ahn,Michael Ramsey,Eddie Wu
+Group Stage,4.5 Contender,Group A,2,Single game,Da Dawgs,Combined 9,Combined 9,16,21,,,,,CJ Wallace,Eli Weiner-Rogers,Ally Chou,Cynthia Zhang
+Group Stage,4.5 Contender,Group B,2,Single game,UC us in the finals,Big T,UC us in the finals,21,6,,,,,Jenner Lim,Hunter Koth,Andrew Ekren,Tyler Farnholtz
+Group Stage,4.5 Contender,Group B,2,Single game,AYCE Pekpek,R&Beez Knees,AYCE Pekpek,21,15,,,,,Justin Estores,Jonathan Ong,Ryan Jung,Becca Kim
+Group Stage,4.5 Contender,Group A,3,Single game,Tea time,Da Dawgs,Tea time,21,17,,,,,Ricky Santiago,Cailley Biagini,CJ Wallace,Eli Weiner-Rogers
+Group Stage,4.5 Contender,Group A,3,Single game,CMU PREZS,Combined 9,CMU PREZS,21,14,,,,,Dorian Caporal,Richard Ahn,Ally Chou,Cynthia Zhang
+Group Stage,4.5 Contender,Group A,3,Single game,Overcookers,reecespuffs,Overcookers,21,5,,,,,Michael Ramsey,Eddie Wu,Tobin Bloomquist,Caius Leung
+Group Stage,4.5 Contender,Group B,3,Single game,UC us in the finals,AYCE Pekpek,UC us in the finals,21,12,,,,,Jenner Lim,Hunter Koth,Justin Estores,Jonathan Ong
+Group Stage,4.5 Contender,Group B,3,Single game,freaky deaky fried zucchini,R&Beez Knees,freaky deaky fried zucchini,21,11,,,,,Tahseen Robbani,Johnnie Teng,Ryan Jung,Becca Kim
+Group Stage,4.5 Contender,Group A,4,Single game,Tea time,Overcookers,Tea time,21,13,,,,,Ricky Santiago,Cailley Biagini,Michael Ramsey,Eddie Wu
+Group Stage,4.5 Contender,Group A,4,Single game,CMU PREZS,Da Dawgs,CMU PREZS,21,12,,,,,Dorian Caporal,Richard Ahn,CJ Wallace,Eli Weiner-Rogers
+Group Stage,4.5 Contender,Group A,4,Single game,reecespuffs,Combined 9,Combined 9,18,21,,,,,Tobin Bloomquist,Caius Leung,Ally Chou,Cynthia Zhang
+Group Stage,4.5 Contender,Group B,4,Single game,freaky deaky fried zucchini,AYCE Pekpek,AYCE Pekpek,14,21,,,,,Tahseen Robbani,Johnnie Teng,Justin Estores,Jonathan Ong
+Group Stage,4.5 Contender,Group B,4,Single game,Big T,R&Beez Knees,Big T,21,15,,,,,Andrew Ekren,Tyler Farnholtz,Ryan Jung,Becca Kim
+Group Stage,4.5 Contender,Group A,5,Single game,Tea time,CMU PREZS,CMU PREZS,33,35,,,,,Ricky Santiago,Cailley Biagini,Dorian Caporal,Richard Ahn
+Group Stage,4.5 Contender,Group A,5,Single game,Overcookers,Combined 9,Overcookers,21,12,,,,,Michael Ramsey,Eddie Wu,Ally Chou,Cynthia Zhang
+Group Stage,4.5 Contender,Group A,5,Single game,Da Dawgs,reecespuffs,Da Dawgs,21,14,,,,,CJ Wallace,Eli Weiner-Rogers,Tobin Bloomquist,Caius Leung
+Group Stage,4.5 Contender,Group B,5,Single game,UC us in the finals,freaky deaky fried zucchini,UC us in the finals,21,10,,,,,Jenner Lim,Hunter Koth,Tahseen Robbani,Johnnie Teng
+Group Stage,4.5 Contender,Group B,5,Single game,AYCE Pekpek,Big T,AYCE Pekpek,21,15,,,,,Justin Estores,Jonathan Ong,Andrew Ekren,Tyler Farnholtz
+Bracket Stage,4.5 Contender,Bracket A,Round of 16,Best of 3,freaky deaky fried zucchini,reecespuffs,freaky deaky fried zucchini,21,10,21,13,,,Tahseen Robbani,Johnnie Teng,Tobin Bloomquist,Caius Leung
+Bracket Stage,4.5 Contender,Bracket A,Round of 16,Best of 3,Combined 9,R&Beez Knees,Combined 9,21,18,19,21,21,14,Ally Chou,Cynthia Zhang,Ryan Jung,Becca Kim
+Bracket Stage,4.5 Contender,Bracket A,Round of 16,Best of 3,Big T,Da Dawgs,Da Dawgs,13,21,18,21,,,Andrew Ekren,Tyler Farnholtz,CJ Wallace,Eli Weiner-Rogers
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,UC us in the finals,Da Dawgs,UC us in the finals,21,12,24,22,,,Jenner Lim,Hunter Koth,CJ Wallace,Eli Weiner-Rogers
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,CMU PREZS,Combined 9,CMU PREZS,1,0,1,0,,,Dorian Caporal,Richard Ahn,Ally Chou,Cynthia Zhang
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Overcookers,freaky deaky fried zucchini,Overcookers,21,19,21,16,,,Michael Ramsey,Eddie Wu,Tahseen Robbani,Johnnie Teng
+Bracket Stage,4.5 Contender,Bracket A,Quarter-final,Best of 3,Tea time,AYCE Pekpek,Tea time,21,12,21,17,,,Ricky Santiago,Cailley Biagini,Justin Estores,Jonathan Ong
+Bracket Stage,4.5 Contender,Bracket A,Semi-final,Best of 3,UC us in the finals,Tea time,UC us in the finals,19,21,21,19,23,21,Jenner Lim,Hunter Koth,Ricky Santiago,Cailley Biagini
+Bracket Stage,4.5 Contender,Bracket A,Semi-final,Best of 3,CMU PREZS,Overcookers,CMU PREZS,21,18,21,17,,,Dorian Caporal,Richard Ahn,Michael Ramsey,Eddie Wu
+Bracket Stage,4.5 Contender,Bracket A,P5: Semi-final,Best of 3,AYCE Pekpek,Da Dawgs,AYCE Pekpek,0,-1,0,-1,,,Justin Estores,Jonathan Ong,CJ Wallace,Eli Weiner-Rogers
+Bracket Stage,4.5 Contender,Bracket A,P5: Semi-final,Best of 3,freaky deaky fried zucchini,Combined 9,freaky deaky fried zucchini,0,-1,0,-1,,,Tahseen Robbani,Johnnie Teng,Ally Chou,Cynthia Zhang
+Bracket Stage,4.5 Contender,Bracket A,Final,Best of 3,UC us in the finals,CMU PREZS,UC us in the finals,21,19,18,21,22,20,Jenner Lim,Hunter Koth,Dorian Caporal,Richard Ahn
+Bracket Stage,4.5 Contender,Bracket A,P5: Final,Best of 3,AYCE Pekpek,freaky deaky fried zucchini,freaky deaky fried zucchini,-1,0,-1,0,,,Justin Estores,Jonathan Ong,Tahseen Robbani,Johnnie Teng
