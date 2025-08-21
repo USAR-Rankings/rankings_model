@@ -6,14 +6,22 @@ write_csvs = T
 source('Scripts/Preload.R')
 
 # Read in Tournament list
-sheet_scrape2 = read.csv('Tourney List.csv', as.is = T)
+sheet_scrape2 = read.csv('Tourney List.csv', as.is = T, fileEncoding = "UTF-8")
 
 #Perform Player Corrections
-all_cors = read.csv('Players/name_corrections.csv', as.is = T) %>%
+all_cors = read.csv('Players/name_corrections.csv', as.is = T,fileEncoding = "UTF-8") %>%
   select(-Tourney) %>%
   mutate_all(toupper)
 
-
+library(stringi)
+normalize_text <- function(x) {
+  x %>%
+    iconv(from = "", to = "UTF-8", sub = "") %>%       # Fixes encoding
+    stri_trans_general("Latin-ASCII") %>%              # Removes accents: É → E
+    toupper()                                          # Standard casing
+}
+div_cols <- c("Open.Division.1", "Open.Division.2", "Open.Division.3", "Women.Division.1")
+sheet_scrape2[div_cols] <- lapply(sheet_scrape2[div_cols], normalize_text)
 
 for(d in 1:2){
   gender = c('women', 'open')[d]
@@ -39,8 +47,15 @@ files = dir('Tourney Results') %>%
   filter(url != 'Manual Downloads' & url != 'Preprocessed') %>%
   pull(url)
 
-for (i in 1:length(files)){
-  tg[[i]] = read.csv(paste0('Tourney Results/', files[i]), as.is = T, stringsAsFactors = F, fileEncoding="UTF-8")
+for (i in 1:length(files)) {
+  df <- read.csv(paste0('Tourney Results/', files[i]), as.is = TRUE, stringsAsFactors = FALSE, fileEncoding = "UTF-8")
+  
+  # Clean up encoding and normalize Division column
+  if ("Division" %in% names(df)) {
+    dat$Division <- normalize_text(dat$Division)
+  }
+  
+  tg[[i]] <- df
 }
 
 forfeit_exceptions = c('USAR2023NATIONALS')
@@ -48,6 +63,14 @@ forfeit_exceptions = c('USAR2023NATIONALS')
 dat = bind_rows(tg) %>%
   mutate_at(vars(tourney:T2P2), toupper) %>%
   filter(tourney %in% forfeit_exceptions | !((t1score == -1 & t2score == 0) | (t2score == -1 & t1score == 0)))
+
+dat <- dat %>%
+  mutate(Division = normalize_text(Division),
+         tourney = normalize_text(tourney))
+
+qual_tourneys <- qual_tourneys %>%
+  mutate(Division = normalize_text(Division),
+         tourney = normalize_text(tourney))
 
 
 # Filtering to valid tourney and division, applying name corrections, and adding a dummy "END OF SEASON" tournament
@@ -113,4 +136,3 @@ final<- pp %>% mutate(T1_result = sign(t1score - t2score)/2 + .5,
 
 write.csv(final,paste("data/",gender,"_full_tournaments.csv",sep = ""),row.names=FALSE)
 }
-
