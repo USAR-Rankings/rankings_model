@@ -48,7 +48,7 @@ for(td in 1:nrow(to_do_list)){
   downloaded_dat = read.csv(file_name, as.is = T) %>% 
     mutate(og_order = row_number(),
            tourney = tolower(to_do_list$tourney[td]))
-  
+  if("Best of 3" %in% downloaded_dat$Match.format){
   temp = bind_rows(downloaded_dat %>% 
                      transmute(tourney, Division, Round = ifelse(Round %in% 1:50, 'Pool', Round),
                                Team1 = Team.A, Team2 = Team.B, T1P1 = Team.A...Player.1,
@@ -67,6 +67,16 @@ for(td in 1:nrow(to_do_list)){
     filter(!is.na(t1score), !is.na(t2score)) %>% 
     arrange(og_order) %>% 
     select(-og_order)
+  }else{
+    temp=downloaded_dat %>% 
+      transmute(tourney, Division, Round = ifelse(Round %in% 1:50, 'Pool', Round),
+                Team1 = Team.A, Team2 = Team.B, T1P1 = Team.A...Player.1,
+                T1P2 = Team.A...Player.2, T2P1 = Team.B...Player.1, T2P2 = Team.B...Player.2,
+                t1score = Game.1...Score.team.A, t2score = Game.1...Score.team.B, og_order)%>% 
+      filter(!is.na(t1score), !is.na(t2score)) %>% 
+      arrange(og_order) %>% 
+      select(-og_order)
+  }
   
   
   write.csv(temp, file.path('Tourney Results', tolower(paste0(to_do_list$tourney[td], ".csv"))), row.names = F)
