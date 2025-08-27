@@ -52,7 +52,7 @@ for (i in 1:length(files)) {
   
   # Clean up encoding and normalize Division column
   if ("Division" %in% names(df)) {
-    dat$Division <- normalize_text(dat$Division)
+    df$Division <- normalize_text(df$Division)
   }
   
   tg[[i]] <- df
