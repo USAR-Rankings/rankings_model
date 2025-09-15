@@ -1,0 +1,130 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Premier/Bronze+,Group A,1,Single game,Limitless,Friendly Fire,Limitless,21,12,,,,,Aleks Essen,Ryan Marino,Austin Niles,Sam Aven
+Group Stage,5.0 Premier/Bronze+,Group A,1,Single game,Lahar Drift,".......kidding, kidding, kidding",Lahar Drift,21,8,,,,,Korbin Thompson,Jack Drouare,Kai Zafren,Zach Carver
+Group Stage,5.0 Premier/Bronze+,Group A,1,Single game,Living Water,Boomstick McDoom,Boomstick McDoom,15,21,,,,,Julia Timan,Grant Klapwijk,Jackson Wood,Taaron Rudzitis
+Group Stage,5.0 Premier/Bronze+,Group B,1,Single game,FreeELO,Looks Maxed,FreeELO,21,3,,,,,Nick Evanko,Clifford Amadeo LeVeque,Samantha Barklow,Rob's Traveler
+Group Stage,5.0 Premier/Bronze+,Group B,1,Single game,"Cumboblatted ",Jinx,"Cumboblatted ",21,18,,,,,Justin Barr,Tim Lacagnina,Noah Elconin,Charlie Cavallaro
+Group Stage,5.0 Premier/Bronze+,Group A,2,Single game,Limitless,".......kidding, kidding, kidding",Limitless,21,11,,,,,Aleks Essen,Ryan Marino,Kai Zafren,Zach Carver
+Group Stage,5.0 Premier/Bronze+,Group A,2,Single game,Lahar Drift,Living Water,Lahar Drift,21,11,,,,,Korbin Thompson,Jack Drouare,Julia Timan,Grant Klapwijk
+Group Stage,5.0 Premier/Bronze+,Group A,2,Single game,Boomstick McDoom,Friendly Fire,Boomstick McDoom,21,15,,,,,Jackson Wood,Taaron Rudzitis,Austin Niles,Sam Aven
+Group Stage,5.0 Premier/Bronze+,Group B,2,Single game,FreeELO,Jinx,FreeELO,21,18,,,,,Nick Evanko,Clifford Amadeo LeVeque,Noah Elconin,Charlie Cavallaro
+Group Stage,5.0 Premier/Bronze+,Group B,2,Single game,#slay,Looks Maxed,#slay,21,10,,,,,Joanna Gould,Bradley Clark,Samantha Barklow,Rob's Traveler
+Group Stage,5.0 Premier/Bronze+,Group A,3,Single game,Limitless,Boomstick McDoom,Limitless,21,10,,,,,Aleks Essen,Ryan Marino,Jackson Wood,Taaron Rudzitis
+Group Stage,5.0 Premier/Bronze+,Group A,3,Single game,Lahar Drift,Friendly Fire,Friendly Fire,13,21,,,,,Korbin Thompson,Jack Drouare,Austin Niles,Sam Aven
+Group Stage,5.0 Premier/Bronze+,Group A,3,Single game,Living Water,".......kidding, kidding, kidding",Living Water,21,18,,,,,Julia Timan,Grant Klapwijk,Kai Zafren,Zach Carver
+Group Stage,5.0 Premier/Bronze+,Group B,3,Single game,FreeELO,#slay,FreeELO,21,10,,,,,Nick Evanko,Clifford Amadeo LeVeque,Joanna Gould,Bradley Clark
+Group Stage,5.0 Premier/Bronze+,Group B,3,Single game,"Cumboblatted ",Looks Maxed,"Cumboblatted ",21,11,,,,,Justin Barr,Tim Lacagnina,Samantha Barklow,Rob's Traveler
+Group Stage,5.0 Premier/Bronze+,Group A,4,Single game,Limitless,Living Water,Limitless,21,11,,,,,Aleks Essen,Ryan Marino,Julia Timan,Grant Klapwijk
+Group Stage,5.0 Premier/Bronze+,Group A,4,Single game,Lahar Drift,Boomstick McDoom,Boomstick McDoom,18,21,,,,,Korbin Thompson,Jack Drouare,Jackson Wood,Taaron Rudzitis
+Group Stage,5.0 Premier/Bronze+,Group A,4,Single game,".......kidding, kidding, kidding",Friendly Fire,Friendly Fire,14,21,,,,,Kai Zafren,Zach Carver,Austin Niles,Sam Aven
+Group Stage,5.0 Premier/Bronze+,Group B,4,Single game,"Cumboblatted ",#slay,"Cumboblatted ",21,15,,,,,Justin Barr,Tim Lacagnina,Joanna Gould,Bradley Clark
+Group Stage,5.0 Premier/Bronze+,Group B,4,Single game,Jinx,Looks Maxed,Jinx,21,15,,,,,Noah Elconin,Charlie Cavallaro,Samantha Barklow,Rob's Traveler
+Group Stage,5.0 Premier/Bronze+,Group A,5,Single game,Limitless,Lahar Drift,Limitless,21,14,,,,,Aleks Essen,Ryan Marino,Korbin Thompson,Jack Drouare
+Group Stage,5.0 Premier/Bronze+,Group A,5,Single game,Living Water,Friendly Fire,Living Water,21,19,,,,,Julia Timan,Grant Klapwijk,Austin Niles,Sam Aven
+Group Stage,5.0 Premier/Bronze+,Group A,5,Single game,Boomstick McDoom,".......kidding, kidding, kidding",Boomstick McDoom,21,13,,,,,Jackson Wood,Taaron Rudzitis,Kai Zafren,Zach Carver
+Group Stage,5.0 Premier/Bronze+,Group B,5,Single game,FreeELO,"Cumboblatted ","Cumboblatted ",24,25,,,,,Nick Evanko,Clifford Amadeo LeVeque,Justin Barr,Tim Lacagnina
+Group Stage,5.0 Premier/Bronze+,Group B,5,Single game,#slay,Jinx,#slay,21,19,,,,,Joanna Gould,Bradley Clark,Noah Elconin,Charlie Cavallaro
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Round of 16,Best of 3,Lahar Drift,".......kidding, kidding, kidding",Lahar Drift,21,15,21,11,,,Korbin Thompson,Jack Drouare,Kai Zafren,Zach Carver
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Round of 16,Best of 3,Friendly Fire,Looks Maxed,Friendly Fire,21,15,21,18,,,Austin Niles,Sam Aven,Samantha Barklow,Rob's Traveler
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Round of 16,Best of 3,Jinx,Living Water,Jinx,14,21,21,19,22,20,Noah Elconin,Charlie Cavallaro,Julia Timan,Grant Klapwijk
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Limitless,Jinx,Limitless,21,13,21,17,,,Aleks Essen,Ryan Marino,Noah Elconin,Charlie Cavallaro
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Quarter-final,Best of 3,"Cumboblatted ",Friendly Fire,"Cumboblatted ",21,18,21,16,,,Justin Barr,Tim Lacagnina,Austin Niles,Sam Aven
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Quarter-final,Best of 3,FreeELO,Lahar Drift,FreeELO,21,18,24,22,,,Nick Evanko,Clifford Amadeo LeVeque,Korbin Thompson,Jack Drouare
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Boomstick McDoom,#slay,Boomstick McDoom,21,13,21,19,,,Jackson Wood,Taaron Rudzitis,Joanna Gould,Bradley Clark
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Semi-final,Best of 3,Limitless,Boomstick McDoom,Limitless,21,18,21,16,,,Aleks Essen,Ryan Marino,Jackson Wood,Taaron Rudzitis
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Semi-final,Best of 3,"Cumboblatted ",FreeELO,FreeELO,15,21,22,24,,,Justin Barr,Tim Lacagnina,Nick Evanko,Clifford Amadeo LeVeque
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P5: Semi-final,Single game,#slay,Jinx,Jinx,0,1,,,,,Joanna Gould,Bradley Clark,Noah Elconin,Charlie Cavallaro
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P5: Semi-final,Single game,Lahar Drift,Friendly Fire,Lahar Drift,21,14,,,,,Korbin Thompson,Jack Drouare,Austin Niles,Sam Aven
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P9: Semi-final,Single game,Looks Maxed,".......kidding, kidding, kidding",".......kidding, kidding, kidding",-2,0,,,,,Samantha Barklow,Rob's Traveler,Kai Zafren,Zach Carver
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,Final,Best of 3,Limitless,FreeELO,Limitless,21,13,21,11,,,Aleks Essen,Ryan Marino,Nick Evanko,Clifford Amadeo LeVeque
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P3: Final,Single game,"Cumboblatted ",Boomstick McDoom,Boomstick McDoom,-1,0,,,,,Justin Barr,Tim Lacagnina,Jackson Wood,Taaron Rudzitis
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P5: Final,Single game,Jinx,Lahar Drift,Jinx,21,19,,,,,Noah Elconin,Charlie Cavallaro,Korbin Thompson,Jack Drouare
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P7: Final,Single game,Friendly Fire,#slay,Friendly Fire,1,0,,,,,Austin Niles,Sam Aven,Joanna Gould,Bradley Clark
+Bracket Stage,5.0 Premier/Bronze+,Bracket A,P9: Final,Single game,Living Water,".......kidding, kidding, kidding",".......kidding, kidding, kidding",18,21,,,,,Julia Timan,Grant Klapwijk,Kai Zafren,Zach Carver
+Group Stage,4.0 Contender,Group A,1,Single game,The Beans,Big Ballers,The Beans,21,3,,,,,Jackson Carpenter,Salvatore Guagenti,Leeland Fartro,Cameron Cox
+Group Stage,4.0 Contender,Group A,1,Single game,Good News,Time 4 PE,Good News,21,9,,,,,Evan Talley,Logan Graham,Pearce Kauffman,Eli Hakes
+Group Stage,4.0 Contender,Group A,1,Single game,IU Sucks,Spike Tyson,IU Sucks,21,18,,,,,Jack Christman,Michael Checketts,Erin Lubahn,Yanaq Quispe
+Group Stage,4.0 Contender,Group B,1,Single game,Steel Trap,Six Sendy,Steel Trap,21,15,,,,,Grayson M  Wills,Hui Ying Stradiot,Jack Van Riper,Josh Beigel
+Group Stage,4.0 Contender,Group B,1,Single game,Short n Skinny,Ballbarians,Short n Skinny,21,10,,,,,Nathan Warner,Gio DeBlasi,Nikil Prabhakar,Lucas Mendiola
+Group Stage,4.0 Contender,Group C,1,Single game,New kids on the block,Spike-o-paths,New kids on the block,21,6,,,,,Tommy Richard,Daniel Gutierrez,Amber Fisher,Laura Carver
+Group Stage,4.0 Contender,Group C,1,Single game,Aces,the summer i didn’t play spikeball,Aces,21,13,,,,,Zach Regas,Stef Ding,Lydia Penix,Rachel Dolan
+Group Stage,4.0 Contender,Group D,1,Single game,Crossfire,Michael's Brothers,Crossfire,21,13,,,,,eddie francis,Connor Wallace,Brady Hsu,David Gonzales
+Group Stage,4.0 Contender,Group D,1,Single game,B-B-B-B-Boom,Net Ninjas,B-B-B-B-Boom,21,16,,,,,Liam Arnold,Henry Cheung,Parker Schuller,Carter Nemmers
+Group Stage,4.0 Contender,Group A,2,Single game,The Beans,Time 4 PE,The Beans,21,1,,,,,Jackson Carpenter,Salvatore Guagenti,Pearce Kauffman,Eli Hakes
+Group Stage,4.0 Contender,Group A,2,Single game,Good News,IU Sucks,Good News,21,6,,,,,Evan Talley,Logan Graham,Jack Christman,Michael Checketts
+Group Stage,4.0 Contender,Group A,2,Single game,Spike Tyson,Big Ballers,Big Ballers,19,21,,,,,Erin Lubahn,Yanaq Quispe,Leeland Fartro,Cameron Cox
+Group Stage,4.0 Contender,Group B,2,Single game,Steel Trap,Ballbarians,Steel Trap,21,12,,,,,Grayson M  Wills,Hui Ying Stradiot,Nikil Prabhakar,Lucas Mendiola
+Group Stage,4.0 Contender,Group B,2,Single game,Saucy Dee,Six Sendy,Saucy Dee,21,15,,,,,Andrew Enright,Logan Pallo,Jack Van Riper,Josh Beigel
+Group Stage,4.0 Contender,Group C,2,Single game,New kids on the block,the summer i didn’t play spikeball,New kids on the block,21,6,,,,,Tommy Richard,Daniel Gutierrez,Lydia Penix,Rachel Dolan
+Group Stage,4.0 Contender,Group C,2,Single game,Hubbara,Spike-o-paths,Spike-o-paths,9,21,,,,,Nicholas Hubbard,Meghan Hubbard,Amber Fisher,Laura Carver
+Group Stage,4.0 Contender,Group D,2,Single game,Crossfire,Net Ninjas,Crossfire,21,6,,,,,eddie francis,Connor Wallace,Parker Schuller,Carter Nemmers
+Group Stage,4.0 Contender,Group D,2,Single game,Doulos Duo,Michael's Brothers,Doulos Duo,21,8,,,,,Daniel Shearer,Ethan Manwiller,Brady Hsu,David Gonzales
+Group Stage,4.0 Contender,Group A,3,Single game,The Beans,Spike Tyson,The Beans,21,4,,,,,Jackson Carpenter,Salvatore Guagenti,Erin Lubahn,Yanaq Quispe
+Group Stage,4.0 Contender,Group A,3,Single game,Good News,Big Ballers,Good News,21,8,,,,,Evan Talley,Logan Graham,Leeland Fartro,Cameron Cox
+Group Stage,4.0 Contender,Group A,3,Single game,IU Sucks,Time 4 PE,IU Sucks,21,13,,,,,Jack Christman,Michael Checketts,Pearce Kauffman,Eli Hakes
+Group Stage,4.0 Contender,Group B,3,Single game,Steel Trap,Saucy Dee,Steel Trap,21,18,,,,,Grayson M  Wills,Hui Ying Stradiot,Andrew Enright,Logan Pallo
+Group Stage,4.0 Contender,Group B,3,Single game,Short n Skinny,Six Sendy,Short n Skinny,21,14,,,,,Nathan Warner,Gio DeBlasi,Jack Van Riper,Josh Beigel
+Group Stage,4.0 Contender,Group C,3,Single game,New kids on the block,Hubbara,New kids on the block,21,8,,,,,Tommy Richard,Daniel Gutierrez,Nicholas Hubbard,Meghan Hubbard
+Group Stage,4.0 Contender,Group C,3,Single game,Aces,Spike-o-paths,Aces,21,19,,,,,Zach Regas,Stef Ding,Amber Fisher,Laura Carver
+Group Stage,4.0 Contender,Group D,3,Single game,Crossfire,Doulos Duo,Crossfire,21,16,,,,,eddie francis,Connor Wallace,Daniel Shearer,Ethan Manwiller
+Group Stage,4.0 Contender,Group D,3,Single game,B-B-B-B-Boom,Michael's Brothers,B-B-B-B-Boom,21,9,,,,,Liam Arnold,Henry Cheung,Brady Hsu,David Gonzales
+Group Stage,4.0 Contender,Group A,4,Single game,The Beans,IU Sucks,The Beans,21,4,,,,,Jackson Carpenter,Salvatore Guagenti,Jack Christman,Michael Checketts
+Group Stage,4.0 Contender,Group A,4,Single game,Good News,Spike Tyson,Good News,21,11,,,,,Evan Talley,Logan Graham,Erin Lubahn,Yanaq Quispe
+Group Stage,4.0 Contender,Group A,4,Single game,Time 4 PE,Big Ballers,Time 4 PE,21,15,,,,,Pearce Kauffman,Eli Hakes,Leeland Fartro,Cameron Cox
+Group Stage,4.0 Contender,Group B,4,Single game,Short n Skinny,Saucy Dee,Short n Skinny,21,12,,,,,Nathan Warner,Gio DeBlasi,Andrew Enright,Logan Pallo
+Group Stage,4.0 Contender,Group B,4,Single game,Ballbarians,Six Sendy,Six Sendy,12,21,,,,,Nikil Prabhakar,Lucas Mendiola,Jack Van Riper,Josh Beigel
+Group Stage,4.0 Contender,Group C,4,Single game,Aces,Hubbara,Aces,21,7,,,,,Zach Regas,Stef Ding,Nicholas Hubbard,Meghan Hubbard
+Group Stage,4.0 Contender,Group C,4,Single game,the summer i didn’t play spikeball,Spike-o-paths,Spike-o-paths,10,21,,,,,Lydia Penix,Rachel Dolan,Amber Fisher,Laura Carver
+Group Stage,4.0 Contender,Group D,4,Single game,B-B-B-B-Boom,Doulos Duo,B-B-B-B-Boom,21,18,,,,,Liam Arnold,Henry Cheung,Daniel Shearer,Ethan Manwiller
+Group Stage,4.0 Contender,Group D,4,Single game,Net Ninjas,Michael's Brothers,Net Ninjas,21,12,,,,,Parker Schuller,Carter Nemmers,Brady Hsu,David Gonzales
+Group Stage,4.0 Contender,Group A,5,Single game,The Beans,Good News,The Beans,21,14,,,,,Jackson Carpenter,Salvatore Guagenti,Evan Talley,Logan Graham
+Group Stage,4.0 Contender,Group A,5,Single game,IU Sucks,Big Ballers,Big Ballers,14,21,,,,,Jack Christman,Michael Checketts,Leeland Fartro,Cameron Cox
+Group Stage,4.0 Contender,Group A,5,Single game,Spike Tyson,Time 4 PE,Time 4 PE,14,21,,,,,Erin Lubahn,Yanaq Quispe,Pearce Kauffman,Eli Hakes
+Group Stage,4.0 Contender,Group B,5,Single game,Steel Trap,Short n Skinny,Short n Skinny,18,21,,,,,Grayson M  Wills,Hui Ying Stradiot,Nathan Warner,Gio DeBlasi
+Group Stage,4.0 Contender,Group B,5,Single game,Saucy Dee,Ballbarians,Saucy Dee,21,11,,,,,Andrew Enright,Logan Pallo,Nikil Prabhakar,Lucas Mendiola
+Group Stage,4.0 Contender,Group C,5,Single game,New kids on the block,Aces,New kids on the block,21,8,,,,,Tommy Richard,Daniel Gutierrez,Zach Regas,Stef Ding
+Group Stage,4.0 Contender,Group C,5,Single game,Hubbara,the summer i didn’t play spikeball,the summer i didn’t play spikeball,19,21,,,,,Nicholas Hubbard,Meghan Hubbard,Lydia Penix,Rachel Dolan
+Group Stage,4.0 Contender,Group D,5,Single game,Crossfire,B-B-B-B-Boom,B-B-B-B-Boom,16,21,,,,,eddie francis,Connor Wallace,Liam Arnold,Henry Cheung
+Group Stage,4.0 Contender,Group D,5,Single game,Doulos Duo,Net Ninjas,Doulos Duo,21,6,,,,,Daniel Shearer,Ethan Manwiller,Parker Schuller,Carter Nemmers
+Bracket Stage,4.0 Contender,Bracket A,Round of 32,Best of 3,Six Sendy,Spike Tyson,Six Sendy,21,13,21,10,,,Jack Van Riper,Josh Beigel,Erin Lubahn,Yanaq Quispe
+Bracket Stage,4.0 Contender,Bracket A,Round of 32,Best of 3,Time 4 PE,Michael's Brothers,Michael's Brothers,21,16,18,21,13,21,Pearce Kauffman,Eli Hakes,Brady Hsu,David Gonzales
+Bracket Stage,4.0 Contender,Bracket A,Round of 32,Best of 3,IU Sucks,Hubbara,IU Sucks,19,21,24,22,21,9,Jack Christman,Michael Checketts,Nicholas Hubbard,Meghan Hubbard
+Bracket Stage,4.0 Contender,Bracket A,Round of 32,Best of 3,Big Ballers,Ballbarians,Ballbarians,22,20,13,21,15,21,Leeland Fartro,Cameron Cox,Nikil Prabhakar,Lucas Mendiola
+Bracket Stage,4.0 Contender,Bracket A,Round of 32,Best of 3,Net Ninjas,the summer i didn’t play spikeball,Net Ninjas,21,16,21,16,,,Parker Schuller,Carter Nemmers,Lydia Penix,Rachel Dolan
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,The Beans,Net Ninjas,The Beans,21,7,21,9,,,Jackson Carpenter,Salvatore Guagenti,Parker Schuller,Carter Nemmers
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,New kids on the block,Ballbarians,New kids on the block,21,4,21,9,,,Tommy Richard,Daniel Gutierrez,Nikil Prabhakar,Lucas Mendiola
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Short n Skinny,IU Sucks,Short n Skinny,21,7,21,8,,,Nathan Warner,Gio DeBlasi,Jack Christman,Michael Checketts
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,B-B-B-B-Boom,Michael's Brothers,B-B-B-B-Boom,21,13,21,16,,,Liam Arnold,Henry Cheung,Brady Hsu,David Gonzales
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Good News,Six Sendy,Good News,21,14,21,10,,,Evan Talley,Logan Graham,Jack Van Riper,Josh Beigel
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Crossfire,Saucy Dee,Crossfire,21,16,21,13,,,eddie francis,Connor Wallace,Andrew Enright,Logan Pallo
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Steel Trap,Spike-o-paths,Steel Trap,21,16,21,15,,,Grayson M  Wills,Hui Ying Stradiot,Amber Fisher,Laura Carver
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Aces,Doulos Duo,Doulos Duo,13,21,24,22,14,21,Zach Regas,Stef Ding,Daniel Shearer,Ethan Manwiller
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,The Beans,Doulos Duo,The Beans,21,8,21,12,,,Jackson Carpenter,Salvatore Guagenti,Daniel Shearer,Ethan Manwiller
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,New kids on the block,Steel Trap,New kids on the block,21,19,21,16,,,Tommy Richard,Daniel Gutierrez,Grayson M  Wills,Hui Ying Stradiot
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,Short n Skinny,Crossfire,Short n Skinny,21,17,21,16,,,Nathan Warner,Gio DeBlasi,eddie francis,Connor Wallace
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,B-B-B-B-Boom,Good News,B-B-B-B-Boom,21,19,21,16,,,Liam Arnold,Henry Cheung,Evan Talley,Logan Graham
+Bracket Stage,4.0 Contender,Bracket A,P9: Quarter-final,Single game,Aces,Net Ninjas,Aces,21,14,,,,,Zach Regas,Stef Ding,Parker Schuller,Carter Nemmers
+Bracket Stage,4.0 Contender,Bracket A,P9: Quarter-final,Single game,Spike-o-paths,Ballbarians,Spike-o-paths,21,10,,,,,Amber Fisher,Laura Carver,Nikil Prabhakar,Lucas Mendiola
+Bracket Stage,4.0 Contender,Bracket A,P9: Quarter-final,Single game,Saucy Dee,IU Sucks,Saucy Dee,21,15,,,,,Andrew Enright,Logan Pallo,Jack Christman,Michael Checketts
+Bracket Stage,4.0 Contender,Bracket A,P9: Quarter-final,Single game,Six Sendy,Michael's Brothers,Six Sendy,0,-1,,,,,Jack Van Riper,Josh Beigel,Brady Hsu,David Gonzales
+Bracket Stage,4.0 Contender,Bracket A,P17: Quarter-final,Single game,Time 4 PE,Spike Tyson,Spike Tyson,19,21,,,,,Pearce Kauffman,Eli Hakes,Erin Lubahn,Yanaq Quispe
+Bracket Stage,4.0 Contender,Bracket A,Semi-final,Best of 3,The Beans,B-B-B-B-Boom,The Beans,21,8,21,14,,,Jackson Carpenter,Salvatore Guagenti,Liam Arnold,Henry Cheung
+Bracket Stage,4.0 Contender,Bracket A,Semi-final,Best of 3,New kids on the block,Short n Skinny,Short n Skinny,15,21,21,23,,,Tommy Richard,Daniel Gutierrez,Nathan Warner,Gio DeBlasi
+Bracket Stage,4.0 Contender,Bracket A,P5: Semi-final,Single game,Good News,Doulos Duo,Doulos Duo,19,21,,,,,Evan Talley,Logan Graham,Daniel Shearer,Ethan Manwiller
+Bracket Stage,4.0 Contender,Bracket A,P5: Semi-final,Single game,Crossfire,Steel Trap,Crossfire,0,-2,,,,,eddie francis,Connor Wallace,Grayson M  Wills,Hui Ying Stradiot
+Bracket Stage,4.0 Contender,Bracket A,P9: Semi-final,Single game,Aces,Six Sendy,Six Sendy,-1,0,,,,,Zach Regas,Stef Ding,Jack Van Riper,Josh Beigel
+Bracket Stage,4.0 Contender,Bracket A,P9: Semi-final,Single game,Spike-o-paths,Saucy Dee,Saucy Dee,9,21,,,,,Amber Fisher,Laura Carver,Andrew Enright,Logan Pallo
+Bracket Stage,4.0 Contender,Bracket A,P13: Semi-final,Single game,Michael's Brothers,Net Ninjas,Net Ninjas,-2,0,,,,,Brady Hsu,David Gonzales,Parker Schuller,Carter Nemmers
+Bracket Stage,4.0 Contender,Bracket A,P13: Semi-final,Single game,IU Sucks,Ballbarians,Ballbarians,14,21,,,,,Jack Christman,Michael Checketts,Nikil Prabhakar,Lucas Mendiola
+Bracket Stage,4.0 Contender,Bracket A,P17: Semi-final,Single game,the summer i didn’t play spikeball,Spike Tyson,Spike Tyson,-2,0,,,,,Lydia Penix,Rachel Dolan,Erin Lubahn,Yanaq Quispe
+Bracket Stage,4.0 Contender,Bracket A,P17: Semi-final,Single game,Big Ballers,Hubbara,Big Ballers,0,-1,,,,,Leeland Fartro,Cameron Cox,Nicholas Hubbard,Meghan Hubbard
+Bracket Stage,4.0 Contender,Bracket A,Final,Best of 3,The Beans,Short n Skinny,The Beans,21,19,21,14,,,Jackson Carpenter,Salvatore Guagenti,Nathan Warner,Gio DeBlasi
+Bracket Stage,4.0 Contender,Bracket A,P3: Final,Single game,New kids on the block,B-B-B-B-Boom,New kids on the block,21,16,,,,,Tommy Richard,Daniel Gutierrez,Liam Arnold,Henry Cheung
+Bracket Stage,4.0 Contender,Bracket A,P5: Final,Single game,Doulos Duo,Crossfire,Crossfire,15,21,,,,,Daniel Shearer,Ethan Manwiller,eddie francis,Connor Wallace
+Bracket Stage,4.0 Contender,Bracket A,P7: Final,Single game,Steel Trap,Good News,Good News,-2,0,,,,,Grayson M  Wills,Hui Ying Stradiot,Evan Talley,Logan Graham
+Bracket Stage,4.0 Contender,Bracket A,P9: Final,Single game,Six Sendy,Saucy Dee,Saucy Dee,17,21,,,,,Jack Van Riper,Josh Beigel,Andrew Enright,Logan Pallo
+Bracket Stage,4.0 Contender,Bracket A,P11: Final,Single game,Spike-o-paths,Aces,Spike-o-paths,1,-2,,,,,Amber Fisher,Laura Carver,Zach Regas,Stef Ding
+Bracket Stage,4.0 Contender,Bracket A,P13: Final,Single game,Net Ninjas,Ballbarians,Ballbarians,14,21,,,,,Parker Schuller,Carter Nemmers,Nikil Prabhakar,Lucas Mendiola
+Bracket Stage,4.0 Contender,Bracket A,P15: Final,Single game,IU Sucks,Michael's Brothers,IU Sucks,0,-2,,,,,Jack Christman,Michael Checketts,Brady Hsu,David Gonzales
+Bracket Stage,4.0 Contender,Bracket A,P17: Final,Single game,Spike Tyson,Big Ballers,Spike Tyson,0,-2,,,,,Erin Lubahn,Yanaq Quispe,Leeland Fartro,Cameron Cox
+Bracket Stage,4.0 Contender,Bracket A,P19: Final,Single game,Hubbara,the summer i didn’t play spikeball,the summer i didn’t play spikeball,14,21,,,,,Nicholas Hubbard,Meghan Hubbard,Lydia Penix,Rachel Dolan

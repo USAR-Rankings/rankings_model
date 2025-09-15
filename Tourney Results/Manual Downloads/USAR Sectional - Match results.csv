@@ -1,0 +1,41 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Open Bronze (5.0+),Group A,1,Single game,Irrational,Dairy Cow Junction,Irrational,15,6,,,,,Dalee Young,Connor Larsen,Jalen Butkus,Sean Bjork
+Pool Play,Open Bronze (5.0+),Group A,1,Single game,Maggies' Angels,Curls and cuts,Curls and cuts,12,15,,,,,Brandon Spector,Andre Reynolds,Simeon Ryan,Malachi Ryan
+Pool Play,Open Bronze (5.0+),Group A,1,Single game,Prudhomme/Hummel,Flow state,Flow state,10,15,,,,,Zac Hummel,Adam Prudhomme,Daniel Champlin,Jake ‏Babbitt
+Pool Play,Open Bronze (5.0+),Group A,2,Single game,Irrational,Curls and cuts,Irrational,15,9,,,,,Dalee Young,Connor Larsen,Simeon Ryan,Malachi Ryan
+Pool Play,Open Bronze (5.0+),Group A,2,Single game,Maggies' Angels,Team Fwango 3.0,Team Fwango 3.0,12,15,,,,,Brandon Spector,Andre Reynolds,Josiah Murphy,Zack Duffy
+Pool Play,Open Bronze (5.0+),Group A,2,Single game,Flow state,Dairy Cow Junction,Flow state,15,13,,,,,Daniel Champlin,Jake ‏Babbitt,Jalen Butkus,Sean Bjork
+Pool Play,Open Bronze (5.0+),Group A,3,Single game,Irrational,Flow state,Irrational,15,13,,,,,Dalee Young,Connor Larsen,Daniel Champlin,Jake ‏Babbitt
+Pool Play,Open Bronze (5.0+),Group A,3,Single game,Maggies' Angels,Prudhomme/Hummel,Maggies' Angels,15,11,,,,,Brandon Spector,Andre Reynolds,Zac Hummel,Adam Prudhomme
+Pool Play,Open Bronze (5.0+),Group A,3,Single game,Team Fwango 3.0,Curls and cuts,Team Fwango 3.0,15,13,,,,,Josiah Murphy,Zack Duffy,Simeon Ryan,Malachi Ryan
+Pool Play,Open Bronze (5.0+),Group A,4,Single game,Irrational,Team Fwango 3.0,Team Fwango 3.0,13,15,,,,,Dalee Young,Connor Larsen,Josiah Murphy,Zack Duffy
+Pool Play,Open Bronze (5.0+),Group A,4,Single game,Maggies' Angels,Dairy Cow Junction,Maggies' Angels,15,13,,,,,Brandon Spector,Andre Reynolds,Jalen Butkus,Sean Bjork
+Pool Play,Open Bronze (5.0+),Group A,4,Single game,Prudhomme/Hummel,Curls and cuts,Prudhomme/Hummel,15,7,,,,,Zac Hummel,Adam Prudhomme,Simeon Ryan,Malachi Ryan
+Pool Play,Open Bronze (5.0+),Group A,5,Single game,Maggies' Angels,Flow state,Maggies' Angels,15,11,,,,,Brandon Spector,Andre Reynolds,Daniel Champlin,Jake ‏Babbitt
+Pool Play,Open Bronze (5.0+),Group A,5,Single game,Prudhomme/Hummel,Team Fwango 3.0,Team Fwango 3.0,12,15,,,,,Zac Hummel,Adam Prudhomme,Josiah Murphy,Zack Duffy
+Pool Play,Open Bronze (5.0+),Group A,5,Single game,Curls and cuts,Dairy Cow Junction,Dairy Cow Junction,10,15,,,,,Simeon Ryan,Malachi Ryan,Jalen Butkus,Sean Bjork
+Pool Play,Open Bronze (5.0+),Group A,6,Single game,Irrational,Prudhomme/Hummel,Irrational,15,11,,,,,Dalee Young,Connor Larsen,Zac Hummel,Adam Prudhomme
+Pool Play,Open Bronze (5.0+),Group A,6,Single game,Team Fwango 3.0,Dairy Cow Junction,Team Fwango 3.0,15,12,,,,,Josiah Murphy,Zack Duffy,Jalen Butkus,Sean Bjork
+Pool Play,Open Bronze (5.0+),Group A,6,Single game,Flow state,Curls and cuts,Curls and cuts,10,15,,,,,Daniel Champlin,Jake ‏Babbitt,Simeon Ryan,Malachi Ryan
+Pool Play,Open Bronze (5.0+),Group A,7,Single game,Irrational,Maggies' Angels,Irrational,15,13,,,,,Dalee Young,Connor Larsen,Brandon Spector,Andre Reynolds
+Pool Play,Open Bronze (5.0+),Group A,7,Single game,Prudhomme/Hummel,Dairy Cow Junction,Prudhomme/Hummel,16,14,,,,,Zac Hummel,Adam Prudhomme,Jalen Butkus,Sean Bjork
+Pool Play,Open Bronze (5.0+),Group A,7,Single game,Team Fwango 3.0,Flow state,Flow state,8,15,,,,,Josiah Murphy,Zack Duffy,Daniel Champlin,Jake ‏Babbitt
+Bracket Play,Open Bronze (5.0+),Bracket A,Quarter-final,Best of 3,Team Fwango 3.0,Dairy Cow Junction,Team Fwango 3.0,21,18,21,16,,,Josiah Murphy,Zack Duffy,Jalen Butkus,Sean Bjork
+Bracket Play,Open Bronze (5.0+),Bracket A,Quarter-final,Best of 3,Flow state,Curls and cuts,Flow state,1,0,0,1,1,0,Daniel Champlin,Jake ‏Babbitt,Simeon Ryan,Malachi Ryan
+Bracket Play,Open Bronze (5.0+),Bracket A,Quarter-final,Best of 3,Maggies' Angels,Prudhomme/Hummel,Maggies' Angels,1,0,1,0,,,Brandon Spector,Andre Reynolds,Zac Hummel,Adam Prudhomme
+Bracket Play,Open Bronze (5.0+),Bracket A,Semi-final,Best of 3,Irrational,Maggies' Angels,Maggies' Angels,18,21,25,23,16,21,Dalee Young,Connor Larsen,Brandon Spector,Andre Reynolds
+Bracket Play,Open Bronze (5.0+),Bracket A,Semi-final,Best of 3,Team Fwango 3.0,Flow state,Flow state,19,21,21,18,22,24,Josiah Murphy,Zack Duffy,Daniel Champlin,Jake ‏Babbitt
+Bracket Play,Open Bronze (5.0+),Bracket A,Final,Best of 3,Maggies' Angels,Flow state,Maggies' Angels,21,16,21,17,,,Brandon Spector,Andre Reynolds,Daniel Champlin,Jake ‏Babbitt
+Bracket Play,Open Bronze (5.0+),Bracket A,P3: Final,Best of 3,Team Fwango 3.0,Irrational,Team Fwango 3.0,21,15,1,0,,,Josiah Murphy,Zack Duffy,Dalee Young,Connor Larsen
+Pool Play,Open Contender (4.0-4.5),Group A,1,Single game,Medical Assistance,Square Circles,Medical Assistance,15,10,,,,,Nick Ragan,Jack Wallace,Ben Baize,Chloe Knape
+Pool Play,Open Contender (4.0-4.5),Group A,1,Single game,JB(&)L,Spike it or not,JB(&)L,15,8,,,,,Justin Lim,Jack Barland,David Ahnfeldt,John Huntoon
+Pool Play,Open Contender (4.0-4.5),Group A,2,Single game,Medical Assistance,Spike it or not,Medical Assistance,1,0,,,,,Nick Ragan,Jack Wallace,David Ahnfeldt,John Huntoon
+Pool Play,Open Contender (4.0-4.5),Group A,3,Single game,Medical Assistance,JB(&)L,Medical Assistance,15,13,,,,,Nick Ragan,Jack Wallace,Justin Lim,Jack Barland
+Pool Play,Open Contender (4.0-4.5),Group A,4,Single game,Medical Assistance,Square Circles,Medical Assistance,15,10,,,,,Nick Ragan,Jack Wallace,Ben Baize,Chloe Knape
+Pool Play,Open Contender (4.0-4.5),Group A,4,Single game,JB(&)L,Spike it or not,Spike it or not,13,15,,,,,Justin Lim,Jack Barland,David Ahnfeldt,John Huntoon
+Pool Play,Open Contender (4.0-4.5),Group A,5,Single game,Medical Assistance,Spike it or not,Medical Assistance,1,0,,,,,Nick Ragan,Jack Wallace,David Ahnfeldt,John Huntoon
+Pool Play,Open Contender (4.0-4.5),Group A,6,Single game,Medical Assistance,JB(&)L,Medical Assistance,15,13,,,,,Nick Ragan,Jack Wallace,Justin Lim,Jack Barland
+Bracket Play,Open Contender (4.0-4.5),Bracket A,Semi-final,Best of 3,JB(&)L,Spike it or not,JB(&)L,1,0,1,0,,,Justin Lim,Jack Barland,David Ahnfeldt,John Huntoon
+Bracket Play,Open Contender (4.0-4.5),Bracket A,Winners final,Best of 3,Medical Assistance,JB(&)L,Medical Assistance,1,0,1,0,,,Nick Ragan,Jack Wallace,Justin Lim,Jack Barland
+Bracket Play,Open Contender (4.0-4.5),Bracket A,Final,Best of 3,Medical Assistance,JB(&)L,Medical Assistance,1,0,1,0,,,Nick Ragan,Jack Wallace,Justin Lim,Jack Barland
+Bracket Play,Open Contender (4.0-4.5),Bracket A,Losers Final,Best of 3,JB(&)L,Spike it or not,JB(&)L,1,0,1,0,,,Justin Lim,Jack Barland,David Ahnfeldt,John Huntoon
