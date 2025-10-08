@@ -1,0 +1,624 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group A,1,Single game,Fwangloooww,Kyle + Sebastian,Kyle + Sebastian,18,21,,,,,Lindsey Johanson,Grayson Szarko-Berkhout,Seba Araya Castillo,Kyle Ling
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group A,1,Single game,Ricky Bobby,Wilson & Krishay SBU,Ricky Bobby,21,11,,,,,Ronin Harper,david riedel,Krishay Matneja,Wilson Wuchen
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group B,1,Single game,Testudo's dream,Yip Yip,Testudo's dream,21,12,,,,,Joseph Kunitz,Caden Unger,Ben Steuerman,Tommy Dale
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group B,1,Single game,6238,Mark & Aaron SBU,Mark & Aaron SBU,17,21,,,,,Joseph Vaisman,Ryan Cheriathundam,Mark Vadnais,Aaron Zeiler
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group A,2,Single game,Fwangloooww,Wilson & Krishay SBU,Fwangloooww,21,9,,,,,Lindsey Johanson,Grayson Szarko-Berkhout,Krishay Matneja,Wilson Wuchen
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group A,2,Single game,Ricky Bobby,Kyle + Sebastian,Kyle + Sebastian,19,21,,,,,Ronin Harper,david riedel,Seba Araya Castillo,Kyle Ling
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group B,2,Single game,Testudo's dream,Mark & Aaron SBU,Testudo's dream,21,13,,,,,Joseph Kunitz,Caden Unger,Mark Vadnais,Aaron Zeiler
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group B,2,Single game,6238,Yip Yip,6238,21,18,,,,,Joseph Vaisman,Ryan Cheriathundam,Ben Steuerman,Tommy Dale
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group A,3,Single game,Fwangloooww,Ricky Bobby,Ricky Bobby,18,21,,,,,Lindsey Johanson,Grayson Szarko-Berkhout,Ronin Harper,david riedel
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group A,3,Single game,Wilson & Krishay SBU,Kyle + Sebastian,Kyle + Sebastian,11,21,,,,,Krishay Matneja,Wilson Wuchen,Seba Araya Castillo,Kyle Ling
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group B,3,Single game,Testudo's dream,6238,Testudo's dream,21,10,,,,,Joseph Kunitz,Caden Unger,Joseph Vaisman,Ryan Cheriathundam
+Pool Play,3.0-3.5 Open Intermediate-Advanced,Group B,3,Single game,Mark & Aaron SBU,Yip Yip,Yip Yip,17,21,,,,,Mark Vadnais,Aaron Zeiler,Ben Steuerman,Tommy Dale
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,Quarter-final,Best of 3,Testudo's dream,Wilson & Krishay SBU,Testudo's dream,15,3,15,7,,,Joseph Kunitz,Caden Unger,Krishay Matneja,Wilson Wuchen
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,Quarter-final,Best of 3,Kyle + Sebastian,6238,6238,17,21,18,21,,,Seba Araya Castillo,Kyle Ling,Joseph Vaisman,Ryan Cheriathundam
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,Quarter-final,Best of 3,Mark & Aaron SBU,Fwangloooww,Fwangloooww,10,21,12,21,,,Mark Vadnais,Aaron Zeiler,Lindsey Johanson,Grayson Szarko-Berkhout
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,Quarter-final,Best of 3,Ricky Bobby,Yip Yip,Ricky Bobby,19,21,21,12,21,13,Ronin Harper,david riedel,Ben Steuerman,Tommy Dale
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,Semi-final,Best of 3,Testudo's dream,Ricky Bobby,Testudo's dream,21,15,18,21,21,12,Joseph Kunitz,Caden Unger,Ronin Harper,david riedel
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,Semi-final,Best of 3,6238,Fwangloooww,6238,18,21,21,19,27,25,Joseph Vaisman,Ryan Cheriathundam,Lindsey Johanson,Grayson Szarko-Berkhout
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,P5: Semi-final,Single game,Yip Yip,Wilson & Krishay SBU,Wilson & Krishay SBU,0,21,,,,,Ben Steuerman,Tommy Dale,Krishay Matneja,Wilson Wuchen
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,P5: Semi-final,Single game,Mark & Aaron SBU,Kyle + Sebastian,Kyle + Sebastian,18,21,,,,,Mark Vadnais,Aaron Zeiler,Seba Araya Castillo,Kyle Ling
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,Final,Best of 3,Testudo's dream,6238,Testudo's dream,1,0,16,14,,,Joseph Kunitz,Caden Unger,Joseph Vaisman,Ryan Cheriathundam
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,P3: Final,Best of 3,Fwangloooww,Ricky Bobby,Ricky Bobby,13,21,0,1,,,Lindsey Johanson,Grayson Szarko-Berkhout,Ronin Harper,david riedel
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,P5: Final,Best of 3,Wilson & Krishay SBU,Kyle + Sebastian,Kyle + Sebastian,11,21,0,1,0,0,Krishay Matneja,Wilson Wuchen,Seba Araya Castillo,Kyle Ling
+Bracket Play,3.0-3.5 Open Intermediate-Advanced,Bracket A,P7: Final,Best of 3,Mark & Aaron SBU,Yip Yip,Mark & Aaron SBU,21,0,21,0,21,0,Mark Vadnais,Aaron Zeiler,Ben Steuerman,Tommy Dale
+Pool Play,4.0 Open (Contender),Group A,1,Single game,3rd Times The Charm,Last second,3rd Times The Charm,15,6,,,,,Nathan Warner,Wyatt Semke,Thomas Ross,Benigno Mckain
+Pool Play,4.0 Open (Contender),Group A,1,Single game,Washed premier,Recession Pop!,Washed premier,15,10,,,,,Joseph Yu,Hayden Goedert,Luke Snyder,Jeremy Illut
+Pool Play,4.0 Open (Contender),Group B,1,Single game,Rutgers Alum,Drew’s Daddies,Rutgers Alum,15,9,,,,,Kevin  McClain,Chris Ng,Jacob Carlson,Tyler Ruhl
+Pool Play,4.0 Open (Contender),Group B,1,Single game,Penjamin Koi Fish,Generational pull,Generational pull,8,15,,,,,Andres Marquez,Kennedy Nguyen,Kelton Raabe,Kade Kulpinski
+Pool Play,4.0 Open (Contender),Group C,1,Single game,Gentle Servers,Chris + Alex SBU,Gentle Servers,15,8,,,,,Brooks Weeks,Ryan Lacilla,Alex Ofgang,Christopher Rella
+Pool Play,4.0 Open (Contender),Group C,1,Single game,Monkey shirt,Predestined,Predestined,14,16,,,,,Charles Labarge,Soren Brown,William Rowe,Calvin Smith
+Pool Play,4.0 Open (Contender),Group D,1,Single game,The dynamic tuahs,Nothing but rim,Nothing but rim,13,15,,,,,Brock Lodato,Brian Perlson,David Milan-Medina,Joey Lu
+Pool Play,4.0 Open (Contender),Group D,1,Single game,Wrestle Mania,We have no idea,Wrestle Mania,15,12,,,,,Sean Peucker,CJ Mierchuk,Michael Borja,Keegan Barry
+Pool Play,4.0 Open (Contender),Group E,1,Single game,EA Sports,125%,EA Sports,15,8,,,,,Anthony Schenk,Eric Baldwin,Thomas Li,Nick Pham
+Pool Play,4.0 Open (Contender),Group E,1,Single game,Ace Card Never Declines,Salt and Cinnamon,Ace Card Never Declines,17,16,,,,,Scotty McCabe,Sam Kautzman,Samarth Desai,Jake Kelley
+Pool Play,4.0 Open (Contender),Group E,1,Single game,Zay2Sweet,Spikebool,Spikebool,13,15,,,,,Owen Wallace,Sebastian Grant,Will Janusz,Luka Eaton
+Pool Play,4.0 Open (Contender),Group F,1,Single game,Lil Booties,Bear Call City,Bear Call City,16,17,,,,,Sean Santos,Ryland Holdren,Cody Dale,Robbie Schaeffer
+Pool Play,4.0 Open (Contender),Group F,1,Single game,Flow State,Lanky Lefties,Flow State,15,8,,,,,Connar Kloehn,Mason Dancausse,Jason Rea,Max Ofgang
+Pool Play,4.0 Open (Contender),Group F,1,Single game,Tall Men,"Flood ace ",Tall Men,16,14,,,,,Yanai Hamel-Sasson,Drew Davis,Mark Fedio,Benjamin Colao
+Pool Play,4.0 Open (Contender),Group G,1,Single game,Abu Ghareeb Nawaz,Spikerdoodle Supreme,Abu Ghareeb Nawaz,15,5,,,,,Tahseen Robbani,Tab Dayani,Derek Fisher,Layne Miller
+Pool Play,4.0 Open (Contender),Group G,1,Single game,Pierogi Race,The Yin-Yang Gang,Pierogi Race,15,10,,,,,Kaden Gratton,Ryan Shantz,Alex Vilela,Brendan Walker
+Pool Play,4.0 Open (Contender),Group G,1,Single game,Wrong Server,19.5 fingers crossed,19.5 fingers crossed,12,15,,,,,Jobin Binu Daniel,Riley Chenard,Jake Stoller,Bassil Chughtai
+Pool Play,4.0 Open (Contender),Group H,1,Single game,Twin Peaks,Slim Pickens,Twin Peaks,15,7,,,,,Noah Malewicki,Jacob Lamontagne,Max Cavallaro,Evan Kaskawits
+Pool Play,4.0 Open (Contender),Group H,1,Single game,"🥇 Come, 1st Serve",Mad Ting!,"🥇 Come, 1st Serve",15,6,,,,,Evan Liao,Caedon Gibson,Paul Pierre-Louis,Jack Lot Raghav
+Pool Play,4.0 Open (Contender),Group I,1,Single game,Highly Mid,The Empire Spikes Back MU,Highly Mid,15,8,,,,,Alan Gao,Jason Mcgrath,Wyatt Smucker,Corey McCommon
+Pool Play,4.0 Open (Contender),Group I,1,Single game,Defensive touch,Rishi & Fatin SBU,Defensive touch,15,7,,,,,Isaac Haynes,Josh Puffenberger,Rishi Ghatta,Fatin Ishteaaque
+Pool Play,4.0 Open (Contender),Group I,1,Single game,Buttery Fork,Same Hand Drop,Buttery Fork,15,7,,,,,Jamison Friauf,Evan Burkstrand,Jason Montgomery,William Fan
+Pool Play,4.0 Open (Contender),Group J,1,Single game,Balls to the Walls,Tommy and Tony,Balls to the Walls,15,7,,,,,James Pollock,Zach Young,Anthony Rentsch,Tommy Dessecker
+Pool Play,4.0 Open (Contender),Group J,1,Single game,[PLACEHOLDER],六-七,[PLACEHOLDER],15,7,,,,,Brandon Fung,Pat Marinich,Vijay Moorthy,William Louis
+Pool Play,4.0 Open (Contender),Group J,1,Single game,Sean/Travis,Front Pocket,Sean/Travis,15,10,,,,,Sean Sullivan,Travis Flynn,Michael Tracey,James Halpin
+Pool Play,4.0 Open (Contender),Group A,2,Single game,3rd Times The Charm,Recession Pop!,3rd Times The Charm,15,13,,,,,Nathan Warner,Wyatt Semke,Luke Snyder,Jeremy Illut
+Pool Play,4.0 Open (Contender),Group A,2,Single game,Codswallop,Last second,Codswallop,15,11,,,,,Myles Coleman,Aman Khemka,Thomas Ross,Benigno Mckain
+Pool Play,4.0 Open (Contender),Group B,2,Single game,Rutgers Alum,Generational pull,Generational pull,12,15,,,,,Kevin  McClain,Chris Ng,Kelton Raabe,Kade Kulpinski
+Pool Play,4.0 Open (Contender),Group B,2,Single game,Big Z and Chicken Joe,Drew’s Daddies,Big Z and Chicken Joe,15,9,,,,,Parker Mckinney,Joseph Gibson,Jacob Carlson,Tyler Ruhl
+Pool Play,4.0 Open (Contender),Group C,2,Single game,Gentle Servers,Predestined,Gentle Servers,15,13,,,,,Brooks Weeks,Ryan Lacilla,William Rowe,Calvin Smith
+Pool Play,4.0 Open (Contender),Group C,2,Single game,Moonballers,Chris + Alex SBU,Moonballers,15,12,,,,,Tanuj Alapati,Jacob Sandler,Alex Ofgang,Christopher Rella
+Pool Play,4.0 Open (Contender),Group D,2,Single game,The dynamic tuahs,We have no idea,The dynamic tuahs,15,6,,,,,Brock Lodato,Brian Perlson,Michael Borja,Keegan Barry
+Pool Play,4.0 Open (Contender),Group D,2,Single game,Benne and Michele,Nothing but rim,Nothing but rim,13,15,,,,,Ben Jacobsen,Michael Ramsey,David Milan-Medina,Joey Lu
+Pool Play,4.0 Open (Contender),Group E,2,Single game,EA Sports,Salt and Cinnamon,EA Sports,15,11,,,,,Anthony Schenk,Eric Baldwin,Samarth Desai,Jake Kelley
+Pool Play,4.0 Open (Contender),Group E,2,Single game,Ace Card Never Declines,Zay2Sweet,Ace Card Never Declines,17,15,,,,,Scotty McCabe,Sam Kautzman,Owen Wallace,Sebastian Grant
+Pool Play,4.0 Open (Contender),Group E,2,Single game,Spikebool,125%,Spikebool,17,16,,,,,Will Janusz,Luka Eaton,Thomas Li,Nick Pham
+Pool Play,4.0 Open (Contender),Group F,2,Single game,Lil Booties,Lanky Lefties,Lil Booties,15,8,,,,,Sean Santos,Ryland Holdren,Jason Rea,Max Ofgang
+Pool Play,4.0 Open (Contender),Group F,2,Single game,Flow State,Tall Men,Flow State,17,16,,,,,Connar Kloehn,Mason Dancausse,Yanai Hamel-Sasson,Drew Davis
+Pool Play,4.0 Open (Contender),Group F,2,Single game,"Flood ace ",Bear Call City,Bear Call City,13,15,,,,,Mark Fedio,Benjamin Colao,Cody Dale,Robbie Schaeffer
+Pool Play,4.0 Open (Contender),Group G,2,Single game,Abu Ghareeb Nawaz,The Yin-Yang Gang,Abu Ghareeb Nawaz,15,7,,,,,Tahseen Robbani,Tab Dayani,Alex Vilela,Brendan Walker
+Pool Play,4.0 Open (Contender),Group G,2,Single game,Pierogi Race,Wrong Server,Pierogi Race,15,8,,,,,Kaden Gratton,Ryan Shantz,Jobin Binu Daniel,Riley Chenard
+Pool Play,4.0 Open (Contender),Group G,2,Single game,19.5 fingers crossed,Spikerdoodle Supreme,Spikerdoodle Supreme,13,15,,,,,Jake Stoller,Bassil Chughtai,Derek Fisher,Layne Miller
+Pool Play,4.0 Open (Contender),Group H,2,Single game,Twin Peaks,Mad Ting!,Twin Peaks,15,1,,,,,Noah Malewicki,Jacob Lamontagne,Paul Pierre-Louis,Jack Lot Raghav
+Pool Play,4.0 Open (Contender),Group H,2,Single game,Jabroni’s,Slim Pickens,Jabroni’s,15,12,,,,,Dean Russo,Matthew Rusinyak,Max Cavallaro,Evan Kaskawits
+Pool Play,4.0 Open (Contender),Group I,2,Single game,Highly Mid,Rishi & Fatin SBU,Highly Mid,15,5,,,,,Alan Gao,Jason Mcgrath,Rishi Ghatta,Fatin Ishteaaque
+Pool Play,4.0 Open (Contender),Group I,2,Single game,Defensive touch,Buttery Fork,Defensive touch,15,7,,,,,Isaac Haynes,Josh Puffenberger,Jamison Friauf,Evan Burkstrand
+Pool Play,4.0 Open (Contender),Group I,2,Single game,Same Hand Drop,The Empire Spikes Back MU,The Empire Spikes Back MU,7,15,,,,,Jason Montgomery,William Fan,Wyatt Smucker,Corey McCommon
+Pool Play,4.0 Open (Contender),Group J,2,Single game,Balls to the Walls,六-七,Balls to the Walls,15,7,,,,,James Pollock,Zach Young,Vijay Moorthy,William Louis
+Pool Play,4.0 Open (Contender),Group J,2,Single game,[PLACEHOLDER],Sean/Travis,Sean/Travis,10,15,,,,,Brandon Fung,Pat Marinich,Sean Sullivan,Travis Flynn
+Pool Play,4.0 Open (Contender),Group J,2,Single game,Front Pocket,Tommy and Tony,Front Pocket,15,10,,,,,Michael Tracey,James Halpin,Anthony Rentsch,Tommy Dessecker
+Pool Play,4.0 Open (Contender),Group A,3,Single game,3rd Times The Charm,Codswallop,3rd Times The Charm,15,11,,,,,Nathan Warner,Wyatt Semke,Myles Coleman,Aman Khemka
+Pool Play,4.0 Open (Contender),Group A,3,Single game,Washed premier,Last second,Washed premier,15,3,,,,,Joseph Yu,Hayden Goedert,Thomas Ross,Benigno Mckain
+Pool Play,4.0 Open (Contender),Group B,3,Single game,Rutgers Alum,Big Z and Chicken Joe,Rutgers Alum,15,13,,,,,Kevin  McClain,Chris Ng,Parker Mckinney,Joseph Gibson
+Pool Play,4.0 Open (Contender),Group B,3,Single game,Penjamin Koi Fish,Drew’s Daddies,Penjamin Koi Fish,15,8,,,,,Andres Marquez,Kennedy Nguyen,Jacob Carlson,Tyler Ruhl
+Pool Play,4.0 Open (Contender),Group C,3,Single game,Gentle Servers,Moonballers,Gentle Servers,15,6,,,,,Brooks Weeks,Ryan Lacilla,Tanuj Alapati,Jacob Sandler
+Pool Play,4.0 Open (Contender),Group C,3,Single game,Monkey shirt,Chris + Alex SBU,Monkey shirt,17,16,,,,,Charles Labarge,Soren Brown,Alex Ofgang,Christopher Rella
+Pool Play,4.0 Open (Contender),Group D,3,Single game,The dynamic tuahs,Benne and Michele,The dynamic tuahs,16,14,,,,,Brock Lodato,Brian Perlson,Ben Jacobsen,Michael Ramsey
+Pool Play,4.0 Open (Contender),Group D,3,Single game,Wrestle Mania,Nothing but rim,Wrestle Mania,15,7,,,,,Sean Peucker,CJ Mierchuk,David Milan-Medina,Joey Lu
+Pool Play,4.0 Open (Contender),Group E,3,Single game,EA Sports,Spikebool,EA Sports,15,9,,,,,Anthony Schenk,Eric Baldwin,Will Janusz,Luka Eaton
+Pool Play,4.0 Open (Contender),Group E,3,Single game,Ace Card Never Declines,125%,Ace Card Never Declines,15,7,,,,,Scotty McCabe,Sam Kautzman,Thomas Li,Nick Pham
+Pool Play,4.0 Open (Contender),Group E,3,Single game,Zay2Sweet,Salt and Cinnamon,Zay2Sweet,15,12,,,,,Owen Wallace,Sebastian Grant,Samarth Desai,Jake Kelley
+Pool Play,4.0 Open (Contender),Group F,3,Single game,Lil Booties,"Flood ace ",Lil Booties,15,12,,,,,Sean Santos,Ryland Holdren,Mark Fedio,Benjamin Colao
+Pool Play,4.0 Open (Contender),Group F,3,Single game,Flow State,Bear Call City,Flow State,15,12,,,,,Connar Kloehn,Mason Dancausse,Cody Dale,Robbie Schaeffer
+Pool Play,4.0 Open (Contender),Group F,3,Single game,Tall Men,Lanky Lefties,Tall Men,15,10,,,,,Yanai Hamel-Sasson,Drew Davis,Jason Rea,Max Ofgang
+Pool Play,4.0 Open (Contender),Group G,3,Single game,Abu Ghareeb Nawaz,19.5 fingers crossed,Abu Ghareeb Nawaz,15,9,,,,,Tahseen Robbani,Tab Dayani,Jake Stoller,Bassil Chughtai
+Pool Play,4.0 Open (Contender),Group G,3,Single game,Pierogi Race,Spikerdoodle Supreme,Pierogi Race,16,14,,,,,Kaden Gratton,Ryan Shantz,Derek Fisher,Layne Miller
+Pool Play,4.0 Open (Contender),Group G,3,Single game,Wrong Server,The Yin-Yang Gang,Wrong Server,15,11,,,,,Jobin Binu Daniel,Riley Chenard,Alex Vilela,Brendan Walker
+Pool Play,4.0 Open (Contender),Group H,3,Single game,Twin Peaks,Jabroni’s,Twin Peaks,15,9,,,,,Noah Malewicki,Jacob Lamontagne,Dean Russo,Matthew Rusinyak
+Pool Play,4.0 Open (Contender),Group H,3,Single game,"🥇 Come, 1st Serve",Slim Pickens,"🥇 Come, 1st Serve",15,3,,,,,Evan Liao,Caedon Gibson,Max Cavallaro,Evan Kaskawits
+Pool Play,4.0 Open (Contender),Group I,3,Single game,Highly Mid,Same Hand Drop,Highly Mid,15,6,,,,,Alan Gao,Jason Mcgrath,Jason Montgomery,William Fan
+Pool Play,4.0 Open (Contender),Group I,3,Single game,Defensive touch,The Empire Spikes Back MU,Defensive touch,15,8,,,,,Isaac Haynes,Josh Puffenberger,Wyatt Smucker,Corey McCommon
+Pool Play,4.0 Open (Contender),Group I,3,Single game,Buttery Fork,Rishi & Fatin SBU,Buttery Fork,15,6,,,,,Jamison Friauf,Evan Burkstrand,Rishi Ghatta,Fatin Ishteaaque
+Pool Play,4.0 Open (Contender),Group J,3,Single game,Balls to the Walls,Front Pocket,Balls to the Walls,15,9,,,,,James Pollock,Zach Young,Michael Tracey,James Halpin
+Pool Play,4.0 Open (Contender),Group J,3,Single game,[PLACEHOLDER],Tommy and Tony,[PLACEHOLDER],15,4,,,,,Brandon Fung,Pat Marinich,Anthony Rentsch,Tommy Dessecker
+Pool Play,4.0 Open (Contender),Group J,3,Single game,Sean/Travis,六-七,Sean/Travis,15,7,,,,,Sean Sullivan,Travis Flynn,Vijay Moorthy,William Louis
+Pool Play,4.0 Open (Contender),Group A,4,Single game,Washed premier,Codswallop,Washed premier,15,8,,,,,Joseph Yu,Hayden Goedert,Myles Coleman,Aman Khemka
+Pool Play,4.0 Open (Contender),Group A,4,Single game,Recession Pop!,Last second,Recession Pop!,15,9,,,,,Luke Snyder,Jeremy Illut,Thomas Ross,Benigno Mckain
+Pool Play,4.0 Open (Contender),Group B,4,Single game,Penjamin Koi Fish,Big Z and Chicken Joe,Penjamin Koi Fish,15,13,,,,,Andres Marquez,Kennedy Nguyen,Parker Mckinney,Joseph Gibson
+Pool Play,4.0 Open (Contender),Group B,4,Single game,Generational pull,Drew’s Daddies,Generational pull,15,4,,,,,Kelton Raabe,Kade Kulpinski,Jacob Carlson,Tyler Ruhl
+Pool Play,4.0 Open (Contender),Group C,4,Single game,Monkey shirt,Moonballers,Monkey shirt,15,8,,,,,Charles Labarge,Soren Brown,Tanuj Alapati,Jacob Sandler
+Pool Play,4.0 Open (Contender),Group C,4,Single game,Predestined,Chris + Alex SBU,Predestined,15,11,,,,,William Rowe,Calvin Smith,Alex Ofgang,Christopher Rella
+Pool Play,4.0 Open (Contender),Group D,4,Single game,Wrestle Mania,Benne and Michele,Wrestle Mania,15,9,,,,,Sean Peucker,CJ Mierchuk,Ben Jacobsen,Michael Ramsey
+Pool Play,4.0 Open (Contender),Group D,4,Single game,We have no idea,Nothing but rim,Nothing but rim,15,17,,,,,Michael Borja,Keegan Barry,David Milan-Medina,Joey Lu
+Pool Play,4.0 Open (Contender),Group E,4,Single game,EA Sports,Zay2Sweet,Zay2Sweet,13,15,,,,,Anthony Schenk,Eric Baldwin,Owen Wallace,Sebastian Grant
+Pool Play,4.0 Open (Contender),Group E,4,Single game,Ace Card Never Declines,Spikebool,Ace Card Never Declines,15,8,,,,,Scotty McCabe,Sam Kautzman,Will Janusz,Luka Eaton
+Pool Play,4.0 Open (Contender),Group E,4,Single game,Salt and Cinnamon,125%,Salt and Cinnamon,15,11,,,,,Samarth Desai,Jake Kelley,Thomas Li,Nick Pham
+Pool Play,4.0 Open (Contender),Group F,4,Single game,Lil Booties,Tall Men,Lil Booties,15,10,,,,,Sean Santos,Ryland Holdren,Yanai Hamel-Sasson,Drew Davis
+Pool Play,4.0 Open (Contender),Group F,4,Single game,Flow State,"Flood ace ",Flow State,16,14,,,,,Connar Kloehn,Mason Dancausse,Mark Fedio,Benjamin Colao
+Pool Play,4.0 Open (Contender),Group F,4,Single game,Lanky Lefties,Bear Call City,Bear Call City,10,15,,,,,Jason Rea,Max Ofgang,Cody Dale,Robbie Schaeffer
+Pool Play,4.0 Open (Contender),Group G,4,Single game,Abu Ghareeb Nawaz,Wrong Server,Abu Ghareeb Nawaz,15,7,,,,,Tahseen Robbani,Tab Dayani,Jobin Binu Daniel,Riley Chenard
+Pool Play,4.0 Open (Contender),Group G,4,Single game,Pierogi Race,19.5 fingers crossed,Pierogi Race,15,12,,,,,Kaden Gratton,Ryan Shantz,Jake Stoller,Bassil Chughtai
+Pool Play,4.0 Open (Contender),Group G,4,Single game,The Yin-Yang Gang,Spikerdoodle Supreme,Spikerdoodle Supreme,11,15,,,,,Alex Vilela,Brendan Walker,Derek Fisher,Layne Miller
+Pool Play,4.0 Open (Contender),Group H,4,Single game,"🥇 Come, 1st Serve",Jabroni’s,"🥇 Come, 1st Serve",15,13,,,,,Evan Liao,Caedon Gibson,Dean Russo,Matthew Rusinyak
+Pool Play,4.0 Open (Contender),Group H,4,Single game,Mad Ting!,Slim Pickens,Mad Ting!,15,11,,,,,Paul Pierre-Louis,Jack Lot Raghav,Max Cavallaro,Evan Kaskawits
+Pool Play,4.0 Open (Contender),Group I,4,Single game,Highly Mid,Buttery Fork,Highly Mid,15,10,,,,,Alan Gao,Jason Mcgrath,Jamison Friauf,Evan Burkstrand
+Pool Play,4.0 Open (Contender),Group I,4,Single game,Defensive touch,Same Hand Drop,Defensive touch,15,7,,,,,Isaac Haynes,Josh Puffenberger,Jason Montgomery,William Fan
+Pool Play,4.0 Open (Contender),Group I,4,Single game,Rishi & Fatin SBU,The Empire Spikes Back MU,The Empire Spikes Back MU,6,15,,,,,Rishi Ghatta,Fatin Ishteaaque,Wyatt Smucker,Corey McCommon
+Pool Play,4.0 Open (Contender),Group J,4,Single game,Balls to the Walls,Sean/Travis,Balls to the Walls,15,13,,,,,James Pollock,Zach Young,Sean Sullivan,Travis Flynn
+Pool Play,4.0 Open (Contender),Group J,4,Single game,[PLACEHOLDER],Front Pocket,[PLACEHOLDER],15,12,,,,,Brandon Fung,Pat Marinich,Michael Tracey,James Halpin
+Pool Play,4.0 Open (Contender),Group J,4,Single game,六-七,Tommy and Tony,六-七,17,16,,,,,Vijay Moorthy,William Louis,Anthony Rentsch,Tommy Dessecker
+Pool Play,4.0 Open (Contender),Group A,5,Single game,3rd Times The Charm,Washed premier,Washed premier,9,15,,,,,Nathan Warner,Wyatt Semke,Joseph Yu,Hayden Goedert
+Pool Play,4.0 Open (Contender),Group A,5,Single game,Codswallop,Recession Pop!,Codswallop,15,10,,,,,Myles Coleman,Aman Khemka,Luke Snyder,Jeremy Illut
+Pool Play,4.0 Open (Contender),Group B,5,Single game,Rutgers Alum,Penjamin Koi Fish,Rutgers Alum,15,10,,,,,Kevin  McClain,Chris Ng,Andres Marquez,Kennedy Nguyen
+Pool Play,4.0 Open (Contender),Group B,5,Single game,Big Z and Chicken Joe,Generational pull,Generational pull,8,15,,,,,Parker Mckinney,Joseph Gibson,Kelton Raabe,Kade Kulpinski
+Pool Play,4.0 Open (Contender),Group C,5,Single game,Gentle Servers,Monkey shirt,Monkey shirt,12,15,,,,,Brooks Weeks,Ryan Lacilla,Charles Labarge,Soren Brown
+Pool Play,4.0 Open (Contender),Group C,5,Single game,Moonballers,Predestined,Predestined,11,15,,,,,Tanuj Alapati,Jacob Sandler,William Rowe,Calvin Smith
+Pool Play,4.0 Open (Contender),Group D,5,Single game,The dynamic tuahs,Wrestle Mania,Wrestle Mania,12,15,,,,,Brock Lodato,Brian Perlson,Sean Peucker,CJ Mierchuk
+Pool Play,4.0 Open (Contender),Group D,5,Single game,Benne and Michele,We have no idea,We have no idea,-1,0,,,,,Ben Jacobsen,Michael Ramsey,Michael Borja,Keegan Barry
+Pool Play,4.0 Open (Contender),Group E,5,Single game,EA Sports,Ace Card Never Declines,EA Sports,15,8,,,,,Anthony Schenk,Eric Baldwin,Scotty McCabe,Sam Kautzman
+Pool Play,4.0 Open (Contender),Group E,5,Single game,Zay2Sweet,125%,Zay2Sweet,15,11,,,,,Owen Wallace,Sebastian Grant,Thomas Li,Nick Pham
+Pool Play,4.0 Open (Contender),Group E,5,Single game,Spikebool,Salt and Cinnamon,Salt and Cinnamon,9,15,,,,,Will Janusz,Luka Eaton,Samarth Desai,Jake Kelley
+Pool Play,4.0 Open (Contender),Group F,5,Single game,Lil Booties,Flow State,Flow State,13,15,,,,,Sean Santos,Ryland Holdren,Connar Kloehn,Mason Dancausse
+Pool Play,4.0 Open (Contender),Group F,5,Single game,Tall Men,Bear Call City,Tall Men,17,15,,,,,Yanai Hamel-Sasson,Drew Davis,Cody Dale,Robbie Schaeffer
+Pool Play,4.0 Open (Contender),Group F,5,Single game,"Flood ace ",Lanky Lefties,Lanky Lefties,11,15,,,,,Mark Fedio,Benjamin Colao,Jason Rea,Max Ofgang
+Pool Play,4.0 Open (Contender),Group G,5,Single game,Abu Ghareeb Nawaz,Pierogi Race,Pierogi Race,13,15,,,,,Tahseen Robbani,Tab Dayani,Kaden Gratton,Ryan Shantz
+Pool Play,4.0 Open (Contender),Group G,5,Single game,Wrong Server,Spikerdoodle Supreme,Spikerdoodle Supreme,11,15,,,,,Jobin Binu Daniel,Riley Chenard,Derek Fisher,Layne Miller
+Pool Play,4.0 Open (Contender),Group G,5,Single game,19.5 fingers crossed,The Yin-Yang Gang,19.5 fingers crossed,15,13,,,,,Jake Stoller,Bassil Chughtai,Alex Vilela,Brendan Walker
+Pool Play,4.0 Open (Contender),Group H,5,Single game,Twin Peaks,"🥇 Come, 1st Serve","🥇 Come, 1st Serve",7,15,,,,,Noah Malewicki,Jacob Lamontagne,Evan Liao,Caedon Gibson
+Pool Play,4.0 Open (Contender),Group H,5,Single game,Jabroni’s,Mad Ting!,Jabroni’s,15,8,,,,,Dean Russo,Matthew Rusinyak,Paul Pierre-Louis,Jack Lot Raghav
+Pool Play,4.0 Open (Contender),Group I,5,Single game,Highly Mid,Defensive touch,Highly Mid,17,15,,,,,Alan Gao,Jason Mcgrath,Isaac Haynes,Josh Puffenberger
+Pool Play,4.0 Open (Contender),Group I,5,Single game,Buttery Fork,The Empire Spikes Back MU,Buttery Fork,15,8,,,,,Jamison Friauf,Evan Burkstrand,Wyatt Smucker,Corey McCommon
+Pool Play,4.0 Open (Contender),Group I,5,Single game,Same Hand Drop,Rishi & Fatin SBU,Same Hand Drop,15,13,,,,,Jason Montgomery,William Fan,Rishi Ghatta,Fatin Ishteaaque
+Pool Play,4.0 Open (Contender),Group J,5,Single game,Balls to the Walls,[PLACEHOLDER],Balls to the Walls,15,10,,,,,James Pollock,Zach Young,Brandon Fung,Pat Marinich
+Pool Play,4.0 Open (Contender),Group J,5,Single game,Sean/Travis,Tommy and Tony,Sean/Travis,15,10,,,,,Sean Sullivan,Travis Flynn,Anthony Rentsch,Tommy Dessecker
+Pool Play,4.0 Open (Contender),Group J,5,Single game,Front Pocket,六-七,Front Pocket,15,7,,,,,Michael Tracey,James Halpin,Vijay Moorthy,William Louis
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,"🥇 Come, 1st Serve",Salt and Cinnamon,"🥇 Come, 1st Serve",21,15,,,,,Evan Liao,Caedon Gibson,Samarth Desai,Jake Kelley
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Washed premier,Penjamin Koi Fish,Washed premier,21,14,,,,,Joseph Yu,Hayden Goedert,Andres Marquez,Kennedy Nguyen
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Generational pull,Codswallop,Codswallop,24,26,,,,,Kelton Raabe,Kade Kulpinski,Myles Coleman,Aman Khemka
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Highly Mid,Spikerdoodle Supreme,Spikerdoodle Supreme,17,21,,,,,Alan Gao,Jason Mcgrath,Derek Fisher,Layne Miller
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Balls to the Walls,Jabroni’s,Balls to the Walls,21,14,,,,,James Pollock,Zach Young,Dean Russo,Matthew Rusinyak
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Wrestle Mania,Bear Call City,Wrestle Mania,21,14,,,,,Sean Peucker,CJ Mierchuk,Cody Dale,Robbie Schaeffer
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Pierogi Race,Tall Men,Pierogi Race,21,17,,,,,Kaden Gratton,Ryan Shantz,Yanai Hamel-Sasson,Drew Davis
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Flow State,Zay2Sweet,Zay2Sweet,17,21,,,,,Connar Kloehn,Mason Dancausse,Owen Wallace,Sebastian Grant
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Abu Ghareeb Nawaz,The dynamic tuahs,Abu Ghareeb Nawaz,21,18,,,,,Tahseen Robbani,Tab Dayani,Brock Lodato,Brian Perlson
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Defensive touch,Buttery Fork,Defensive touch,21,15,,,,,Isaac Haynes,Josh Puffenberger,Jamison Friauf,Evan Burkstrand
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Twin Peaks,[PLACEHOLDER],Twin Peaks,21,17,,,,,Noah Malewicki,Jacob Lamontagne,Brandon Fung,Pat Marinich
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,EA Sports,Lil Booties,Lil Booties,21,23,,,,,Anthony Schenk,Eric Baldwin,Sean Santos,Ryland Holdren
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Sean/Travis,Nothing but rim,Sean/Travis,21,15,,,,,Sean Sullivan,Travis Flynn,David Milan-Medina,Joey Lu
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Gentle Servers,Predestined,Gentle Servers,21,16,,,,,Brooks Weeks,Ryan Lacilla,William Rowe,Calvin Smith
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,Rutgers Alum,Ace Card Never Declines,Ace Card Never Declines,13,21,,,,,Kevin  McClain,Chris Ng,Scotty McCabe,Sam Kautzman
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 32,Single game,3rd Times The Charm,Monkey shirt,Monkey shirt,18,21,,,,,Nathan Warner,Wyatt Semke,Charles Labarge,Soren Brown
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 16,Best of 3,"🥇 Come, 1st Serve",Monkey shirt,"🥇 Come, 1st Serve",18,21,21,14,25,23,Evan Liao,Caedon Gibson,Charles Labarge,Soren Brown
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 16,Best of 3,Washed premier,Ace Card Never Declines,Washed premier,21,15,21,16,,,Joseph Yu,Hayden Goedert,Scotty McCabe,Sam Kautzman
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 16,Best of 3,Codswallop,Gentle Servers,Gentle Servers,10,21,16,21,,,Myles Coleman,Aman Khemka,Brooks Weeks,Ryan Lacilla
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 16,Best of 3,Spikerdoodle Supreme,Sean/Travis,Spikerdoodle Supreme,21,18,21,17,,,Derek Fisher,Layne Miller,Sean Sullivan,Travis Flynn
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 16,Best of 3,Balls to the Walls,Lil Booties,Balls to the Walls,16,21,21,19,21,18,James Pollock,Zach Young,Sean Santos,Ryland Holdren
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 16,Best of 3,Wrestle Mania,Twin Peaks,Twin Peaks,20,22,22,20,18,21,Sean Peucker,CJ Mierchuk,Noah Malewicki,Jacob Lamontagne
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 16,Best of 3,Pierogi Race,Defensive touch,Defensive touch,15,21,21,19,21,23,Kaden Gratton,Ryan Shantz,Isaac Haynes,Josh Puffenberger
+Bracket Play,4.0 Open (Contender),Bracket A,Round of 16,Best of 3,Zay2Sweet,Abu Ghareeb Nawaz,Abu Ghareeb Nawaz,18,21,16,21,,,Owen Wallace,Sebastian Grant,Tahseen Robbani,Tab Dayani
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Round of 16,Single game,3rd Times The Charm,Salt and Cinnamon,Salt and Cinnamon,-1,0,,,,,Nathan Warner,Wyatt Semke,Samarth Desai,Jake Kelley
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Round of 16,Single game,Rutgers Alum,Penjamin Koi Fish,Penjamin Koi Fish,-2,0,,,,,Kevin  McClain,Chris Ng,Andres Marquez,Kennedy Nguyen
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Round of 16,Single game,Predestined,Generational pull,Predestined,0,-1,,,,,William Rowe,Calvin Smith,Kelton Raabe,Kade Kulpinski
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Round of 16,Single game,Nothing but rim,Highly Mid,Highly Mid,18,21,,,,,David Milan-Medina,Joey Lu,Alan Gao,Jason Mcgrath
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Round of 16,Single game,EA Sports,Jabroni’s,Jabroni’s,-1,0,,,,,Anthony Schenk,Eric Baldwin,Dean Russo,Matthew Rusinyak
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Round of 16,Single game,[PLACEHOLDER],Bear Call City,[PLACEHOLDER],21,17,,,,,Brandon Fung,Pat Marinich,Cody Dale,Robbie Schaeffer
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Round of 16,Single game,Buttery Fork,Tall Men,Tall Men,20,22,,,,,Jamison Friauf,Evan Burkstrand,Yanai Hamel-Sasson,Drew Davis
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Round of 16,Single game,The dynamic tuahs,Flow State,The dynamic tuahs,22,20,,,,,Brock Lodato,Brian Perlson,Connar Kloehn,Mason Dancausse
+Bracket Play,4.0 Open (Contender),Bracket A,Quarter-final,Best of 3,"🥇 Come, 1st Serve",Abu Ghareeb Nawaz,"🥇 Come, 1st Serve",21,16,21,18,,,Evan Liao,Caedon Gibson,Tahseen Robbani,Tab Dayani
+Bracket Play,4.0 Open (Contender),Bracket A,Quarter-final,Best of 3,Washed premier,Defensive touch,Washed premier,21,16,21,13,,,Joseph Yu,Hayden Goedert,Isaac Haynes,Josh Puffenberger
+Bracket Play,4.0 Open (Contender),Bracket A,Quarter-final,Best of 3,Gentle Servers,Twin Peaks,Gentle Servers,21,18,26,24,,,Brooks Weeks,Ryan Lacilla,Noah Malewicki,Jacob Lamontagne
+Bracket Play,4.0 Open (Contender),Bracket A,Quarter-final,Best of 3,Spikerdoodle Supreme,Balls to the Walls,Balls to the Walls,11,21,13,21,,,Derek Fisher,Layne Miller,James Pollock,Zach Young
+Bracket Play,4.0 Open (Contender),Bracket A,P9: Quarter-final,Single game,Zay2Sweet,Monkey shirt,Monkey shirt,28,30,,,,,Owen Wallace,Sebastian Grant,Charles Labarge,Soren Brown
+Bracket Play,4.0 Open (Contender),Bracket A,P9: Quarter-final,Single game,Pierogi Race,Ace Card Never Declines,Ace Card Never Declines,19,21,,,,,Kaden Gratton,Ryan Shantz,Scotty McCabe,Sam Kautzman
+Bracket Play,4.0 Open (Contender),Bracket A,P9: Quarter-final,Single game,Wrestle Mania,Codswallop,Codswallop,-1,0,,,,,Sean Peucker,CJ Mierchuk,Myles Coleman,Aman Khemka
+Bracket Play,4.0 Open (Contender),Bracket A,P9: Quarter-final,Single game,Lil Booties,Sean/Travis,Sean/Travis,-2,0,,,,,Sean Santos,Ryland Holdren,Sean Sullivan,Travis Flynn
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Quarter-final,Single game,Salt and Cinnamon,The dynamic tuahs,The dynamic tuahs,-1,0,,,,,Samarth Desai,Jake Kelley,Brock Lodato,Brian Perlson
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Quarter-final,Single game,Penjamin Koi Fish,Tall Men,Tall Men,0,1,,,,,Andres Marquez,Kennedy Nguyen,Yanai Hamel-Sasson,Drew Davis
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Quarter-final,Single game,Predestined,[PLACEHOLDER],[PLACEHOLDER],13,21,,,,,William Rowe,Calvin Smith,Brandon Fung,Pat Marinich
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Quarter-final,Single game,Highly Mid,Jabroni’s,Jabroni’s,17,21,,,,,Alan Gao,Jason Mcgrath,Dean Russo,Matthew Rusinyak
+Bracket Play,4.0 Open (Contender),Bracket A,Semi-final,Best of 3,"🥇 Come, 1st Serve",Balls to the Walls,"🥇 Come, 1st Serve",21,14,21,16,,,Evan Liao,Caedon Gibson,James Pollock,Zach Young
+Bracket Play,4.0 Open (Contender),Bracket A,Semi-final,Best of 3,Washed premier,Gentle Servers,Washed premier,21,16,21,14,,,Joseph Yu,Hayden Goedert,Brooks Weeks,Ryan Lacilla
+Bracket Play,4.0 Open (Contender),Bracket A,P5: Semi-final,Best of 3,Spikerdoodle Supreme,Abu Ghareeb Nawaz,Abu Ghareeb Nawaz,17,21,21,13,14,21,Derek Fisher,Layne Miller,Tahseen Robbani,Tab Dayani
+Bracket Play,4.0 Open (Contender),Bracket A,P5: Semi-final,Best of 3,Twin Peaks,Defensive touch,Twin Peaks,13,21,21,15,21,17,Noah Malewicki,Jacob Lamontagne,Isaac Haynes,Josh Puffenberger
+Bracket Play,4.0 Open (Contender),Bracket A,P9: Semi-final,Single game,Monkey shirt,Sean/Travis,Sean/Travis,-2,0,,,,,Charles Labarge,Soren Brown,Sean Sullivan,Travis Flynn
+Bracket Play,4.0 Open (Contender),Bracket A,P9: Semi-final,Single game,Ace Card Never Declines,Codswallop,Codswallop,20,22,,,,,Scotty McCabe,Sam Kautzman,Myles Coleman,Aman Khemka
+Bracket Play,4.0 Open (Contender),Bracket A,P13: Semi-final,Single game,Lil Booties,Zay2Sweet,Lil Booties,0,-1,,,,,Sean Santos,Ryland Holdren,Owen Wallace,Sebastian Grant
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Semi-final,Single game,The dynamic tuahs,Jabroni’s,Jabroni’s,-1,0,,,,,Brock Lodato,Brian Perlson,Dean Russo,Matthew Rusinyak
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Semi-final,Single game,Tall Men,[PLACEHOLDER],Tall Men,22,20,,,,,Yanai Hamel-Sasson,Drew Davis,Brandon Fung,Pat Marinich
+Bracket Play,4.0 Open (Contender),Bracket A,P21: Semi-final,Single game,Predestined,Penjamin Koi Fish,Penjamin Koi Fish,0,1,,,,,William Rowe,Calvin Smith,Andres Marquez,Kennedy Nguyen
+Bracket Play,4.0 Open (Contender),Bracket A,Final,Best of 3,"🥇 Come, 1st Serve",Washed premier,"🥇 Come, 1st Serve",17,21,21,14,21,9,Evan Liao,Caedon Gibson,Joseph Yu,Hayden Goedert
+Bracket Play,4.0 Open (Contender),Bracket A,P7: Final,Single game,Defensive touch,Spikerdoodle Supreme,Spikerdoodle Supreme,18,21,,,,,Isaac Haynes,Josh Puffenberger,Derek Fisher,Layne Miller
+Bracket Play,4.0 Open (Contender),Bracket A,P17: Final,Single game,Jabroni’s,Tall Men,Tall Men,0,1,,,,,Dean Russo,Matthew Rusinyak,Yanai Hamel-Sasson,Drew Davis
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 32,Single game,Benne and Michele,Rishi & Fatin SBU,Benne and Michele,21,18,,,,,Ben Jacobsen,Michael Ramsey,Rishi Ghatta,Fatin Ishteaaque
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 32,Single game,Wrong Server,Tommy and Tony,Tommy and Tony,19,21,,,,,Jobin Binu Daniel,Riley Chenard,Anthony Rentsch,Tommy Dessecker
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 32,Single game,Chris + Alex SBU,125%,125%,24,25,,,,,Alex Ofgang,Christopher Rella,Thomas Li,Nick Pham
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 32,Single game,Lanky Lefties,The Yin-Yang Gang,The Yin-Yang Gang,16,21,,,,,Jason Rea,Max Ofgang,Alex Vilela,Brendan Walker
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 32,Single game,Same Hand Drop,"Flood ace ","Flood ace ",15,21,,,,,Jason Montgomery,William Fan,Mark Fedio,Benjamin Colao
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 32,Single game,六-七,Last second,Last second,18,21,,,,,Vijay Moorthy,William Louis,Thomas Ross,Benigno Mckain
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 32,Single game,Slim Pickens,Drew’s Daddies,Drew’s Daddies,13,21,,,,,Max Cavallaro,Evan Kaskawits,Jacob Carlson,Tyler Ruhl
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 16,Best of 3,Front Pocket,Drew’s Daddies,Front Pocket,21,15,21,14,,,Michael Tracey,James Halpin,Jacob Carlson,Tyler Ruhl
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 16,Best of 3,The Empire Spikes Back MU,Last second,The Empire Spikes Back MU,21,14,21,7,,,Wyatt Smucker,Corey McCommon,Thomas Ross,Benigno Mckain
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 16,Best of 3,19.5 fingers crossed,"Flood ace ",19.5 fingers crossed,18,21,21,19,21,16,Jake Stoller,Bassil Chughtai,Mark Fedio,Benjamin Colao
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 16,Best of 3,Big Z and Chicken Joe,The Yin-Yang Gang,Big Z and Chicken Joe,21,17,21,17,,,Parker Mckinney,Joseph Gibson,Alex Vilela,Brendan Walker
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 16,Best of 3,Recession Pop!,125%,Recession Pop!,21,17,21,15,,,Luke Snyder,Jeremy Illut,Thomas Li,Nick Pham
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 16,Best of 3,Spikebool,Tommy and Tony,Spikebool,21,19,21,17,,,Will Janusz,Luka Eaton,Anthony Rentsch,Tommy Dessecker
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 16,Best of 3,We have no idea,Benne and Michele,Benne and Michele,17,21,13,21,,,Michael Borja,Keegan Barry,Ben Jacobsen,Michael Ramsey
+Bracket Play,4.0 Open (Contender),Bracket B,Round of 16,Best of 3,Moonballers,Mad Ting!,Moonballers,21,16,23,21,,,Tanuj Alapati,Jacob Sandler,Paul Pierre-Louis,Jack Lot Raghav
+Bracket Play,4.0 Open (Contender),Bracket B,Quarter-final,Best of 3,Front Pocket,Moonballers,Front Pocket,21,16,23,21,,,Michael Tracey,James Halpin,Tanuj Alapati,Jacob Sandler
+Bracket Play,4.0 Open (Contender),Bracket B,Quarter-final,Best of 3,The Empire Spikes Back MU,Benne and Michele,Benne and Michele,13,21,17,21,,,Wyatt Smucker,Corey McCommon,Ben Jacobsen,Michael Ramsey
+Bracket Play,4.0 Open (Contender),Bracket B,Quarter-final,Best of 3,19.5 fingers crossed,Spikebool,19.5 fingers crossed,21,13,25,27,21,13,Jake Stoller,Bassil Chughtai,Will Janusz,Luka Eaton
+Bracket Play,4.0 Open (Contender),Bracket B,Quarter-final,Best of 3,Big Z and Chicken Joe,Recession Pop!,Recession Pop!,16,21,18,21,,,Parker Mckinney,Joseph Gibson,Luke Snyder,Jeremy Illut
+Bracket Play,4.0 Open (Contender),Bracket B,P9: Quarter-final,Single game,Mad Ting!,Drew’s Daddies,Mad Ting!,21,10,,,,,Paul Pierre-Louis,Jack Lot Raghav,Jacob Carlson,Tyler Ruhl
+Bracket Play,4.0 Open (Contender),Bracket B,P9: Quarter-final,Single game,125%,The Yin-Yang Gang,The Yin-Yang Gang,-1,0,,,,,Thomas Li,Nick Pham,Alex Vilela,Brendan Walker
+Bracket Play,4.0 Open (Contender),Bracket B,P17: Quarter-final,Single game,六-七,Rishi & Fatin SBU,Rishi & Fatin SBU,19,21,,,,,Vijay Moorthy,William Louis,Rishi Ghatta,Fatin Ishteaaque
+Bracket Play,4.0 Open (Contender),Bracket B,P17: Quarter-final,Single game,Same Hand Drop,Wrong Server,Wrong Server,12,21,,,,,Jason Montgomery,William Fan,Jobin Binu Daniel,Riley Chenard
+Bracket Play,4.0 Open (Contender),Bracket B,P17: Quarter-final,Single game,Lanky Lefties,Chris + Alex SBU,Lanky Lefties,21,18,,,,,Jason Rea,Max Ofgang,Alex Ofgang,Christopher Rella
+Bracket Play,4.0 Open (Contender),Bracket B,Semi-final,Best of 3,Front Pocket,Recession Pop!,Recession Pop!,16,21,21,19,15,21,Michael Tracey,James Halpin,Luke Snyder,Jeremy Illut
+Bracket Play,4.0 Open (Contender),Bracket B,Semi-final,Best of 3,Benne and Michele,19.5 fingers crossed,Benne and Michele,21,14,21,14,,,Ben Jacobsen,Michael Ramsey,Jake Stoller,Bassil Chughtai
+Bracket Play,4.0 Open (Contender),Bracket B,P5: Semi-final,Single game,Big Z and Chicken Joe,Moonballers,Big Z and Chicken Joe,0,-1,,,,,Parker Mckinney,Joseph Gibson,Tanuj Alapati,Jacob Sandler
+Bracket Play,4.0 Open (Contender),Bracket B,P9: Semi-final,Single game,Mad Ting!,The Yin-Yang Gang,The Yin-Yang Gang,10,21,,,,,Paul Pierre-Louis,Jack Lot Raghav,Alex Vilela,Brendan Walker
+Bracket Play,4.0 Open (Contender),Bracket B,P17: Semi-final,Single game,Slim Pickens,Lanky Lefties,Lanky Lefties,16,21,,,,,Max Cavallaro,Evan Kaskawits,Jason Rea,Max Ofgang
+Bracket Play,4.0 Open (Contender),Bracket B,P17: Semi-final,Single game,Rishi & Fatin SBU,Wrong Server,Wrong Server,17,21,,,,,Rishi Ghatta,Fatin Ishteaaque,Jobin Binu Daniel,Riley Chenard
+Bracket Play,4.0 Open (Contender),Bracket B,P21: Semi-final,Single game,Same Hand Drop,六-七,六-七,-1,0,,,,,Jason Montgomery,William Fan,Vijay Moorthy,William Louis
+Bracket Play,4.0 Open (Contender),Bracket B,Final,Best of 3,Recession Pop!,Benne and Michele,Benne and Michele,11,15,13,15,,,Luke Snyder,Jeremy Illut,Ben Jacobsen,Michael Ramsey
+Bracket Play,4.0 Open (Contender),Bracket B,P3: Final,Best of 3,19.5 fingers crossed,Front Pocket,19.5 fingers crossed,0,-1,0,-1,,,Jake Stoller,Bassil Chughtai,Michael Tracey,James Halpin
+Bracket Play,4.0 Open (Contender),Bracket B,P17: Final,Single game,Lanky Lefties,Wrong Server,Wrong Server,17,21,,,,,Jason Rea,Max Ofgang,Jobin Binu Daniel,Riley Chenard
+Bracket Play,4.0 Open (Contender),Bracket B,P19: Final,Single game,Rishi & Fatin SBU,Slim Pickens,Rishi & Fatin SBU,50,48,,,,,Rishi Ghatta,Fatin Ishteaaque,Max Cavallaro,Evan Kaskawits
+Pool Play,4.0 Women's Advanced,Group A,1,Single game,the riffraff,Breakfield / Viado,the riffraff,21,15,,,,,Christina Nikas,Hannah Radell,lauren viado,Hannahlisa Breakfield
+Pool Play,4.0 Women's Advanced,Group A,1,Single game,Throw Net,First time’s the charm,Throw Net,21,7,,,,,Abby Norris,Maddie Johnston,Erica Weiler,Madeleine Hammack
+Pool Play,4.0 Women's Advanced,Group B,1,Single game,Gobby Girls,Motión,Gobby Girls,21,0,,,,,Sara Bradshaw,Jordan Hemmen,Sarah Bocian,Abigail Bayog
+Pool Play,4.0 Women's Advanced,Group B,1,Single game,southern charm🤠,screaming goats,southern charm🤠,21,13,,,,,Audrey Denmark,Courtney Coppage,Abigail Lannetti,Mackenzie Vogt
+Pool Play,4.0 Women's Advanced,Group A,2,Single game,the riffraff,First time’s the charm,the riffraff,21,6,,,,,Christina Nikas,Hannah Radell,Erica Weiler,Madeleine Hammack
+Pool Play,4.0 Women's Advanced,Group A,2,Single game,Full send,Breakfield / Viado,Breakfield / Viado,13,21,,,,,Hui Ying Stradiot,Sophia Manning,lauren viado,Hannahlisa Breakfield
+Pool Play,4.0 Women's Advanced,Group B,2,Single game,Gobby Girls,screaming goats,Gobby Girls,21,4,,,,,Sara Bradshaw,Jordan Hemmen,Abigail Lannetti,Mackenzie Vogt
+Pool Play,4.0 Women's Advanced,Group B,2,Single game,Bite Me Up,Motión,Bite Me Up,21,6,,,,,Rosie Craven,Bel Belvedere,Sarah Bocian,Abigail Bayog
+Pool Play,4.0 Women's Advanced,Group A,3,Single game,the riffraff,Full send,the riffraff,21,19,,,,,Christina Nikas,Hannah Radell,Hui Ying Stradiot,Sophia Manning
+Pool Play,4.0 Women's Advanced,Group A,3,Single game,Throw Net,Breakfield / Viado,Throw Net,21,18,,,,,Abby Norris,Maddie Johnston,lauren viado,Hannahlisa Breakfield
+Pool Play,4.0 Women's Advanced,Group B,3,Single game,Gobby Girls,Bite Me Up,Gobby Girls,21,17,,,,,Sara Bradshaw,Jordan Hemmen,Rosie Craven,Bel Belvedere
+Pool Play,4.0 Women's Advanced,Group B,3,Single game,southern charm🤠,Motión,southern charm🤠,21,12,,,,,Audrey Denmark,Courtney Coppage,Sarah Bocian,Abigail Bayog
+Pool Play,4.0 Women's Advanced,Group A,4,Single game,Throw Net,Full send,Throw Net,21,15,,,,,Abby Norris,Maddie Johnston,Hui Ying Stradiot,Sophia Manning
+Pool Play,4.0 Women's Advanced,Group A,4,Single game,First time’s the charm,Breakfield / Viado,Breakfield / Viado,11,21,,,,,Erica Weiler,Madeleine Hammack,lauren viado,Hannahlisa Breakfield
+Pool Play,4.0 Women's Advanced,Group B,4,Single game,southern charm🤠,Bite Me Up,Bite Me Up,15,21,,,,,Audrey Denmark,Courtney Coppage,Rosie Craven,Bel Belvedere
+Pool Play,4.0 Women's Advanced,Group B,4,Single game,screaming goats,Motión,screaming goats,21,19,,,,,Abigail Lannetti,Mackenzie Vogt,Sarah Bocian,Abigail Bayog
+Pool Play,4.0 Women's Advanced,Group A,5,Single game,the riffraff,Throw Net,Throw Net,14,21,,,,,Christina Nikas,Hannah Radell,Abby Norris,Maddie Johnston
+Pool Play,4.0 Women's Advanced,Group A,5,Single game,Full send,First time’s the charm,Full send,21,15,,,,,Hui Ying Stradiot,Sophia Manning,Erica Weiler,Madeleine Hammack
+Pool Play,4.0 Women's Advanced,Group B,5,Single game,Gobby Girls,southern charm🤠,Gobby Girls,21,16,,,,,Sara Bradshaw,Jordan Hemmen,Audrey Denmark,Courtney Coppage
+Pool Play,4.0 Women's Advanced,Group B,5,Single game,Bite Me Up,screaming goats,Bite Me Up,21,11,,,,,Rosie Craven,Bel Belvedere,Abigail Lannetti,Mackenzie Vogt
+Bracket Play,4.0 Women's Advanced,Bracket A,Round of 16,Best of 3,Full send,Motión,Full send,21,10,21,8,,,Hui Ying Stradiot,Sophia Manning,Sarah Bocian,Abigail Bayog
+Bracket Play,4.0 Women's Advanced,Bracket A,Round of 16,Best of 3,screaming goats,First time’s the charm,First time’s the charm,19,21,18,21,,,Abigail Lannetti,Mackenzie Vogt,Erica Weiler,Madeleine Hammack
+Bracket Play,4.0 Women's Advanced,Bracket A,Quarter-final,Best of 3,Gobby Girls,First time’s the charm,Gobby Girls,21,12,21,12,,,Sara Bradshaw,Jordan Hemmen,Erica Weiler,Madeleine Hammack
+Bracket Play,4.0 Women's Advanced,Bracket A,Quarter-final,Best of 3,Throw Net,Full send,Throw Net,21,18,25,23,,,Abby Norris,Maddie Johnston,Hui Ying Stradiot,Sophia Manning
+Bracket Play,4.0 Women's Advanced,Bracket A,Quarter-final,Best of 3,Bite Me Up,southern charm🤠,Bite Me Up,23,21,21,15,,,Rosie Craven,Bel Belvedere,Audrey Denmark,Courtney Coppage
+Bracket Play,4.0 Women's Advanced,Bracket A,Quarter-final,Best of 3,the riffraff,Breakfield / Viado,the riffraff,21,18,21,19,,,Christina Nikas,Hannah Radell,lauren viado,Hannahlisa Breakfield
+Bracket Play,4.0 Women's Advanced,Bracket A,Semi-final,Best of 3,Gobby Girls,the riffraff,the riffraff,21,14,17,21,20,22,Sara Bradshaw,Jordan Hemmen,Christina Nikas,Hannah Radell
+Bracket Play,4.0 Women's Advanced,Bracket A,Semi-final,Best of 3,Throw Net,Bite Me Up,Throw Net,21,15,21,18,,,Abby Norris,Maddie Johnston,Rosie Craven,Bel Belvedere
+Bracket Play,4.0 Women's Advanced,Bracket A,P5: Semi-final,Single game,Breakfield / Viado,First time’s the charm,Breakfield / Viado,21,4,,,,,lauren viado,Hannahlisa Breakfield,Erica Weiler,Madeleine Hammack
+Bracket Play,4.0 Women's Advanced,Bracket A,P5: Semi-final,Single game,southern charm🤠,Full send,southern charm🤠,0,-1,,,,,Audrey Denmark,Courtney Coppage,Hui Ying Stradiot,Sophia Manning
+Bracket Play,4.0 Women's Advanced,Bracket A,Final,Best of 3,the riffraff,Throw Net,Throw Net,14,21,21,17,15,21,Christina Nikas,Hannah Radell,Abby Norris,Maddie Johnston
+Bracket Play,4.0 Women's Advanced,Bracket A,P3: Final,Best of 3,Bite Me Up,Gobby Girls,Gobby Girls,14,21,17,21,,,Rosie Craven,Bel Belvedere,Sara Bradshaw,Jordan Hemmen
+Bracket Play,4.0 Women's Advanced,Bracket A,P5: Final,Single game,Breakfield / Viado,southern charm🤠,Breakfield / Viado,21,8,,,,,lauren viado,Hannahlisa Breakfield,Audrey Denmark,Courtney Coppage
+Bracket Play,4.0 Women's Advanced,Bracket A,P7: Final,Single game,Full send,First time’s the charm,First time’s the charm,-1,0,,,,,Hui Ying Stradiot,Sophia Manning,Erica Weiler,Madeleine Hammack
+Pool Play,4.5 Open Bronze+,Group A,1,Single game,VB⚡️NJ,IZAK & GEORGE :P,VB⚡️NJ,21,15,,,,,James Mitchum,Demitri Forand,izak krajeski,george reagan
+Pool Play,4.5 Open Bronze+,Group A,1,Single game,Birds of Prey,Flick Around and Find Out,Flick Around and Find Out,20,21,,,,,Colin Hobart,Kenny Velu,Maxwell Riseman,Amrit Hingorani
+Pool Play,4.5 Open Bronze+,Group A,1,Single game,Rehanhatespickleball,Status Doesn't Matter,Status Doesn't Matter,15,21,,,,,Rehan Kabir,Max Bird,Jerry Hao,Eric Tay
+Pool Play,4.5 Open Bronze+,Group B,1,Single game,"Charlie’s Make A Wish Adventure ",Right Hand Rule,"Charlie’s Make A Wish Adventure ",21,12,,,,,Xande Plaisted,Charlie Bratsman,Tripp Griffith,Eric Guan
+Pool Play,4.5 Open Bronze+,Group B,1,Single game,what.the.flick?,Medical Intervention,what.the.flick?,21,17,,,,,Taaron Rudzitis,Joren Rudzitis,Riyan Farhat,John Muirhead
+Pool Play,4.5 Open Bronze+,Group B,1,Single game,Dual Citiez,Out of Pocket,Out of Pocket,20,22,,,,,Eoin O'Gara,Connor Prelich,Eli Canon,Spencer Sexton
+Pool Play,4.5 Open Bronze+,Group C,1,Single game,The Beans,Two Blind Men,Two Blind Men,-2,0,,,,,Jackson Carpenter,Salvatore Guagenti,Vince Hackl,Sreesai Katiki
+Pool Play,4.5 Open Bronze+,Group C,1,Single game,I will rig this game,Summers on the Farm,I will rig this game,21,16,,,,,Drew Weaver,Rohil Senapati,Brent Summers,Nathan Montgomery
+Pool Play,4.5 Open Bronze+,Group C,1,Single game,Optimal,Bang for Your Buck,Bang for Your Buck,16,21,,,,,Austin Niles,Hampton Chappell,Nic Albornoz,Michael Yung
+Pool Play,4.5 Open Bronze+,Group D,1,Single game,Ivysaur,DoubleThreat,DoubleThreat,17,21,,,,,Michael Capobianco,Samuel Corey,Siddhant Desai,Dylan Rehman
+Pool Play,4.5 Open Bronze+,Group D,1,Single game,Midwest Nice,A**y,Midwest Nice,21,20,,,,,Mitch Kelley,Louie Simbajon,Thomas Pence,Hunter Koth
+Pool Play,4.5 Open Bronze+,Group D,1,Single game,Dumb n’ dumber,Big Ten Alumni Association,Dumb n’ dumber,21,17,,,,,Jose Knight,Sam Aven,Ian Timan,Tyler Keener
+Pool Play,4.5 Open Bronze+,Group A,2,Single game,VB⚡️NJ,Flick Around and Find Out,VB⚡️NJ,21,15,,,,,James Mitchum,Demitri Forand,Maxwell Riseman,Amrit Hingorani
+Pool Play,4.5 Open Bronze+,Group A,2,Single game,Birds of Prey,Rehanhatespickleball,Rehanhatespickleball,16,21,,,,,Colin Hobart,Kenny Velu,Rehan Kabir,Max Bird
+Pool Play,4.5 Open Bronze+,Group A,2,Single game,Status Doesn't Matter,IZAK & GEORGE :P,Status Doesn't Matter,21,11,,,,,Jerry Hao,Eric Tay,izak krajeski,george reagan
+Pool Play,4.5 Open Bronze+,Group B,2,Single game,"Charlie’s Make A Wish Adventure ",Medical Intervention,"Charlie’s Make A Wish Adventure ",21,17,,,,,Xande Plaisted,Charlie Bratsman,Riyan Farhat,John Muirhead
+Pool Play,4.5 Open Bronze+,Group B,2,Single game,what.the.flick?,Dual Citiez,what.the.flick?,21,15,,,,,Taaron Rudzitis,Joren Rudzitis,Eoin O'Gara,Connor Prelich
+Pool Play,4.5 Open Bronze+,Group B,2,Single game,Out of Pocket,Right Hand Rule,Right Hand Rule,16,21,,,,,Eli Canon,Spencer Sexton,Tripp Griffith,Eric Guan
+Pool Play,4.5 Open Bronze+,Group C,2,Single game,The Beans,Summers on the Farm,Summers on the Farm,-2,0,,,,,Jackson Carpenter,Salvatore Guagenti,Brent Summers,Nathan Montgomery
+Pool Play,4.5 Open Bronze+,Group C,2,Single game,I will rig this game,Optimal,Optimal,16,21,,,,,Drew Weaver,Rohil Senapati,Austin Niles,Hampton Chappell
+Pool Play,4.5 Open Bronze+,Group C,2,Single game,Bang for Your Buck,Two Blind Men,Bang for Your Buck,21,14,,,,,Nic Albornoz,Michael Yung,Vince Hackl,Sreesai Katiki
+Pool Play,4.5 Open Bronze+,Group D,2,Single game,Ivysaur,A**y,Ivysaur,21,15,,,,,Michael Capobianco,Samuel Corey,Thomas Pence,Hunter Koth
+Pool Play,4.5 Open Bronze+,Group D,2,Single game,Midwest Nice,Dumb n’ dumber,Dumb n’ dumber,18,21,,,,,Mitch Kelley,Louie Simbajon,Jose Knight,Sam Aven
+Pool Play,4.5 Open Bronze+,Group D,2,Single game,Big Ten Alumni Association,DoubleThreat,Big Ten Alumni Association,21,16,,,,,Ian Timan,Tyler Keener,Siddhant Desai,Dylan Rehman
+Pool Play,4.5 Open Bronze+,Group A,3,Single game,VB⚡️NJ,Status Doesn't Matter,Status Doesn't Matter,18,21,,,,,James Mitchum,Demitri Forand,Jerry Hao,Eric Tay
+Pool Play,4.5 Open Bronze+,Group A,3,Single game,Birds of Prey,IZAK & GEORGE :P,Birds of Prey,21,17,,,,,Colin Hobart,Kenny Velu,izak krajeski,george reagan
+Pool Play,4.5 Open Bronze+,Group A,3,Single game,Rehanhatespickleball,Flick Around and Find Out,Rehanhatespickleball,21,17,,,,,Rehan Kabir,Max Bird,Maxwell Riseman,Amrit Hingorani
+Pool Play,4.5 Open Bronze+,Group B,3,Single game,"Charlie’s Make A Wish Adventure ",Out of Pocket,"Charlie’s Make A Wish Adventure ",21,17,,,,,Xande Plaisted,Charlie Bratsman,Eli Canon,Spencer Sexton
+Pool Play,4.5 Open Bronze+,Group B,3,Single game,what.the.flick?,Right Hand Rule,what.the.flick?,21,15,,,,,Taaron Rudzitis,Joren Rudzitis,Tripp Griffith,Eric Guan
+Pool Play,4.5 Open Bronze+,Group B,3,Single game,Dual Citiez,Medical Intervention,Dual Citiez,21,18,,,,,Eoin O'Gara,Connor Prelich,Riyan Farhat,John Muirhead
+Pool Play,4.5 Open Bronze+,Group C,3,Single game,The Beans,Bang for Your Buck,Bang for Your Buck,-2,0,,,,,Jackson Carpenter,Salvatore Guagenti,Nic Albornoz,Michael Yung
+Pool Play,4.5 Open Bronze+,Group C,3,Single game,I will rig this game,Two Blind Men,Two Blind Men,18,21,,,,,Drew Weaver,Rohil Senapati,Vince Hackl,Sreesai Katiki
+Pool Play,4.5 Open Bronze+,Group C,3,Single game,Optimal,Summers on the Farm,Summers on the Farm,19,21,,,,,Austin Niles,Hampton Chappell,Brent Summers,Nathan Montgomery
+Pool Play,4.5 Open Bronze+,Group D,3,Single game,Ivysaur,Big Ten Alumni Association,Big Ten Alumni Association,16,21,,,,,Michael Capobianco,Samuel Corey,Ian Timan,Tyler Keener
+Pool Play,4.5 Open Bronze+,Group D,3,Single game,Midwest Nice,DoubleThreat,DoubleThreat,18,21,,,,,Mitch Kelley,Louie Simbajon,Siddhant Desai,Dylan Rehman
+Pool Play,4.5 Open Bronze+,Group D,3,Single game,Dumb n’ dumber,A**y,Dumb n’ dumber,21,20,,,,,Jose Knight,Sam Aven,Thomas Pence,Hunter Koth
+Pool Play,4.5 Open Bronze+,Group A,4,Single game,VB⚡️NJ,Rehanhatespickleball,VB⚡️NJ,21,19,,,,,James Mitchum,Demitri Forand,Rehan Kabir,Max Bird
+Pool Play,4.5 Open Bronze+,Group A,4,Single game,Birds of Prey,Status Doesn't Matter,Status Doesn't Matter,11,21,,,,,Colin Hobart,Kenny Velu,Jerry Hao,Eric Tay
+Pool Play,4.5 Open Bronze+,Group A,4,Single game,Flick Around and Find Out,IZAK & GEORGE :P,Flick Around and Find Out,21,14,,,,,Maxwell Riseman,Amrit Hingorani,izak krajeski,george reagan
+Pool Play,4.5 Open Bronze+,Group B,4,Single game,"Charlie’s Make A Wish Adventure ",Dual Citiez,"Charlie’s Make A Wish Adventure ",21,15,,,,,Xande Plaisted,Charlie Bratsman,Eoin O'Gara,Connor Prelich
+Pool Play,4.5 Open Bronze+,Group B,4,Single game,what.the.flick?,Out of Pocket,what.the.flick?,21,16,,,,,Taaron Rudzitis,Joren Rudzitis,Eli Canon,Spencer Sexton
+Pool Play,4.5 Open Bronze+,Group B,4,Single game,Medical Intervention,Right Hand Rule,Right Hand Rule,13,21,,,,,Riyan Farhat,John Muirhead,Tripp Griffith,Eric Guan
+Pool Play,4.5 Open Bronze+,Group C,4,Single game,The Beans,Optimal,Optimal,-2,0,,,,,Jackson Carpenter,Salvatore Guagenti,Austin Niles,Hampton Chappell
+Pool Play,4.5 Open Bronze+,Group C,4,Single game,I will rig this game,Bang for Your Buck,I will rig this game,21,20,,,,,Drew Weaver,Rohil Senapati,Nic Albornoz,Michael Yung
+Pool Play,4.5 Open Bronze+,Group C,4,Single game,Summers on the Farm,Two Blind Men,Two Blind Men,18,21,,,,,Brent Summers,Nathan Montgomery,Vince Hackl,Sreesai Katiki
+Pool Play,4.5 Open Bronze+,Group D,4,Single game,Ivysaur,Dumb n’ dumber,Dumb n’ dumber,19,21,,,,,Michael Capobianco,Samuel Corey,Jose Knight,Sam Aven
+Pool Play,4.5 Open Bronze+,Group D,4,Single game,Midwest Nice,Big Ten Alumni Association,Big Ten Alumni Association,14,21,,,,,Mitch Kelley,Louie Simbajon,Ian Timan,Tyler Keener
+Pool Play,4.5 Open Bronze+,Group D,4,Single game,A**y,DoubleThreat,DoubleThreat,19,21,,,,,Thomas Pence,Hunter Koth,Siddhant Desai,Dylan Rehman
+Pool Play,4.5 Open Bronze+,Group A,5,Single game,VB⚡️NJ,Birds of Prey,VB⚡️NJ,21,20,,,,,James Mitchum,Demitri Forand,Colin Hobart,Kenny Velu
+Pool Play,4.5 Open Bronze+,Group A,5,Single game,Rehanhatespickleball,IZAK & GEORGE :P,IZAK & GEORGE :P,19,21,,,,,Rehan Kabir,Max Bird,izak krajeski,george reagan
+Pool Play,4.5 Open Bronze+,Group A,5,Single game,Status Doesn't Matter,Flick Around and Find Out,Status Doesn't Matter,21,13,,,,,Jerry Hao,Eric Tay,Maxwell Riseman,Amrit Hingorani
+Pool Play,4.5 Open Bronze+,Group B,5,Single game,"Charlie’s Make A Wish Adventure ",what.the.flick?,"Charlie’s Make A Wish Adventure ",21,15,,,,,Xande Plaisted,Charlie Bratsman,Taaron Rudzitis,Joren Rudzitis
+Pool Play,4.5 Open Bronze+,Group B,5,Single game,Dual Citiez,Right Hand Rule,Right Hand Rule,15,21,,,,,Eoin O'Gara,Connor Prelich,Tripp Griffith,Eric Guan
+Pool Play,4.5 Open Bronze+,Group B,5,Single game,Out of Pocket,Medical Intervention,Out of Pocket,21,15,,,,,Eli Canon,Spencer Sexton,Riyan Farhat,John Muirhead
+Pool Play,4.5 Open Bronze+,Group C,5,Single game,The Beans,I will rig this game,I will rig this game,-2,0,,,,,Jackson Carpenter,Salvatore Guagenti,Drew Weaver,Rohil Senapati
+Pool Play,4.5 Open Bronze+,Group C,5,Single game,Optimal,Two Blind Men,Two Blind Men,17,21,,,,,Austin Niles,Hampton Chappell,Vince Hackl,Sreesai Katiki
+Pool Play,4.5 Open Bronze+,Group C,5,Single game,Bang for Your Buck,Summers on the Farm,Bang for Your Buck,21,13,,,,,Nic Albornoz,Michael Yung,Brent Summers,Nathan Montgomery
+Pool Play,4.5 Open Bronze+,Group D,5,Single game,Ivysaur,Midwest Nice,Ivysaur,21,19,,,,,Michael Capobianco,Samuel Corey,Mitch Kelley,Louie Simbajon
+Pool Play,4.5 Open Bronze+,Group D,5,Single game,Dumb n’ dumber,DoubleThreat,Dumb n’ dumber,21,15,,,,,Jose Knight,Sam Aven,Siddhant Desai,Dylan Rehman
+Pool Play,4.5 Open Bronze+,Group D,5,Single game,Big Ten Alumni Association,A**y,A**y,12,21,,,,,Ian Timan,Tyler Keener,Thomas Pence,Hunter Koth
+Bracket Play,4.5 Open Bronze+,Bracket A,Round of 16,Best of 3,Status Doesn't Matter,Summers on the Farm,Status Doesn't Matter,21,15,21,16,,,Jerry Hao,Eric Tay,Brent Summers,Nathan Montgomery
+Bracket Play,4.5 Open Bronze+,Bracket A,Round of 16,Best of 3,"Charlie’s Make A Wish Adventure ",Flick Around and Find Out,"Charlie’s Make A Wish Adventure ",21,14,21,14,,,Xande Plaisted,Charlie Bratsman,Maxwell Riseman,Amrit Hingorani
+Bracket Play,4.5 Open Bronze+,Bracket A,Round of 16,Best of 3,Dumb n’ dumber,Out of Pocket,Out of Pocket,19,21,21,17,23,25,Jose Knight,Sam Aven,Eli Canon,Spencer Sexton
+Bracket Play,4.5 Open Bronze+,Bracket A,Round of 16,Best of 3,Bang for Your Buck,Ivysaur,Bang for Your Buck,18,21,21,16,21,19,Nic Albornoz,Michael Yung,Michael Capobianco,Samuel Corey
+Bracket Play,4.5 Open Bronze+,Bracket A,Round of 16,Best of 3,what.the.flick?,Rehanhatespickleball,what.the.flick?,21,18,21,14,,,Taaron Rudzitis,Joren Rudzitis,Rehan Kabir,Max Bird
+Bracket Play,4.5 Open Bronze+,Bracket A,Round of 16,Best of 3,VB⚡️NJ,DoubleThreat,VB⚡️NJ,21,15,21,17,,,James Mitchum,Demitri Forand,Siddhant Desai,Dylan Rehman
+Bracket Play,4.5 Open Bronze+,Bracket A,Round of 16,Best of 3,Two Blind Men,I will rig this game,Two Blind Men,21,16,18,21,33,31,Vince Hackl,Sreesai Katiki,Drew Weaver,Rohil Senapati
+Bracket Play,4.5 Open Bronze+,Bracket A,Round of 16,Best of 3,Big Ten Alumni Association,Right Hand Rule,Right Hand Rule,15,21,19,21,,,Ian Timan,Tyler Keener,Tripp Griffith,Eric Guan
+Bracket Play,4.5 Open Bronze+,Bracket A,Quarter-final,Best of 3,Status Doesn't Matter,Right Hand Rule,Right Hand Rule,25,27,16,21,,,Jerry Hao,Eric Tay,Tripp Griffith,Eric Guan
+Bracket Play,4.5 Open Bronze+,Bracket A,Quarter-final,Best of 3,"Charlie’s Make A Wish Adventure ",Two Blind Men,"Charlie’s Make A Wish Adventure ",21,12,21,14,,,Xande Plaisted,Charlie Bratsman,Vince Hackl,Sreesai Katiki
+Bracket Play,4.5 Open Bronze+,Bracket A,Quarter-final,Best of 3,Out of Pocket,VB⚡️NJ,VB⚡️NJ,19,21,21,19,19,21,Eli Canon,Spencer Sexton,James Mitchum,Demitri Forand
+Bracket Play,4.5 Open Bronze+,Bracket A,Quarter-final,Best of 3,Bang for Your Buck,what.the.flick?,what.the.flick?,21,14,16,21,16,21,Nic Albornoz,Michael Yung,Taaron Rudzitis,Joren Rudzitis
+Bracket Play,4.5 Open Bronze+,Bracket A,P9: Quarter-final,Single game,Big Ten Alumni Association,Summers on the Farm,Big Ten Alumni Association,21,16,,,,,Ian Timan,Tyler Keener,Brent Summers,Nathan Montgomery
+Bracket Play,4.5 Open Bronze+,Bracket A,P9: Quarter-final,Single game,I will rig this game,Flick Around and Find Out,Flick Around and Find Out,-1,0,,,,,Drew Weaver,Rohil Senapati,Maxwell Riseman,Amrit Hingorani
+Bracket Play,4.5 Open Bronze+,Bracket A,P9: Quarter-final,Single game,DoubleThreat,Dumb n’ dumber,DoubleThreat,21,14,,,,,Siddhant Desai,Dylan Rehman,Jose Knight,Sam Aven
+Bracket Play,4.5 Open Bronze+,Bracket A,P9: Quarter-final,Single game,Rehanhatespickleball,Ivysaur,Ivysaur,19,21,,,,,Rehan Kabir,Max Bird,Michael Capobianco,Samuel Corey
+Bracket Play,4.5 Open Bronze+,Bracket A,Semi-final,Best of 3,Right Hand Rule,what.the.flick?,what.the.flick?,18,21,17,21,,,Tripp Griffith,Eric Guan,Taaron Rudzitis,Joren Rudzitis
+Bracket Play,4.5 Open Bronze+,Bracket A,Semi-final,Best of 3,"Charlie’s Make A Wish Adventure ",VB⚡️NJ,"Charlie’s Make A Wish Adventure ",0,-1,0,-1,,,Xande Plaisted,Charlie Bratsman,James Mitchum,Demitri Forand
+Bracket Play,4.5 Open Bronze+,Bracket A,P5: Semi-final,Single game,Bang for Your Buck,Status Doesn't Matter,Status Doesn't Matter,15,21,,,,,Nic Albornoz,Michael Yung,Jerry Hao,Eric Tay
+Bracket Play,4.5 Open Bronze+,Bracket A,P5: Semi-final,Single game,Out of Pocket,Two Blind Men,Two Blind Men,15,21,,,,,Eli Canon,Spencer Sexton,Vince Hackl,Sreesai Katiki
+Bracket Play,4.5 Open Bronze+,Bracket A,P9: Semi-final,Single game,Big Ten Alumni Association,Ivysaur,Ivysaur,19,21,,,,,Ian Timan,Tyler Keener,Michael Capobianco,Samuel Corey
+Bracket Play,4.5 Open Bronze+,Bracket A,P9: Semi-final,Single game,Flick Around and Find Out,DoubleThreat,Flick Around and Find Out,22,20,,,,,Maxwell Riseman,Amrit Hingorani,Siddhant Desai,Dylan Rehman
+Bracket Play,4.5 Open Bronze+,Bracket A,P13: Semi-final,Single game,Rehanhatespickleball,Summers on the Farm,Rehanhatespickleball,21,18,,,,,Rehan Kabir,Max Bird,Brent Summers,Nathan Montgomery
+Bracket Play,4.5 Open Bronze+,Bracket A,P13: Semi-final,Single game,Dumb n’ dumber,I will rig this game,Dumb n’ dumber,0,-1,,,,,Jose Knight,Sam Aven,Drew Weaver,Rohil Senapati
+Bracket Play,4.5 Open Bronze+,Bracket A,Final,Best of 3,what.the.flick?,"Charlie’s Make A Wish Adventure ","Charlie’s Make A Wish Adventure ",12,21,20,22,,,Taaron Rudzitis,Joren Rudzitis,Xande Plaisted,Charlie Bratsman
+Bracket Play,4.5 Open Bronze+,Bracket A,P3: Final,Best of 3,VB⚡️NJ,Right Hand Rule,Right Hand Rule,-1,0,-1,0,,,James Mitchum,Demitri Forand,Tripp Griffith,Eric Guan
+Bracket Play,4.5 Open Bronze+,Bracket A,P5: Final,Single game,Status Doesn't Matter,Two Blind Men,Status Doesn't Matter,21,18,,,,,Jerry Hao,Eric Tay,Vince Hackl,Sreesai Katiki
+Bracket Play,4.5 Open Bronze+,Bracket A,P7: Final,Single game,Out of Pocket,Bang for Your Buck,Bang for Your Buck,15,21,,,,,Eli Canon,Spencer Sexton,Nic Albornoz,Michael Yung
+Bracket Play,4.5 Open Bronze+,Bracket A,P9: Final,Single game,Ivysaur,Flick Around and Find Out,Flick Around and Find Out,0,1,,,,,Michael Capobianco,Samuel Corey,Maxwell Riseman,Amrit Hingorani
+Bracket Play,4.5 Open Bronze+,Bracket A,P11: Final,Single game,DoubleThreat,Big Ten Alumni Association,DoubleThreat,0,-2,,,,,Siddhant Desai,Dylan Rehman,Ian Timan,Tyler Keener
+Bracket Play,4.5 Open Bronze+,Bracket B,Quarter-final,Best of 3,Optimal,Medical Intervention,Optimal,1,0,1,0,,,Austin Niles,Hampton Chappell,Riyan Farhat,John Muirhead
+Bracket Play,4.5 Open Bronze+,Bracket B,Quarter-final,Best of 3,A**y,The Beans,A**y,0,-1,0,-1,,,Thomas Pence,Hunter Koth,Jackson Carpenter,Salvatore Guagenti
+Bracket Play,4.5 Open Bronze+,Bracket B,Quarter-final,Best of 3,Birds of Prey,IZAK & GEORGE :P,Birds of Prey,21,17,21,19,,,Colin Hobart,Kenny Velu,izak krajeski,george reagan
+Bracket Play,4.5 Open Bronze+,Bracket B,Quarter-final,Best of 3,Midwest Nice,Dual Citiez,Dual Citiez,19,21,18,21,21,0,Mitch Kelley,Louie Simbajon,Eoin O'Gara,Connor Prelich
+Bracket Play,4.5 Open Bronze+,Bracket B,Semi-final,Best of 3,Optimal,Dual Citiez,Dual Citiez,0,1,0,1,,,Austin Niles,Hampton Chappell,Eoin O'Gara,Connor Prelich
+Bracket Play,4.5 Open Bronze+,Bracket B,Semi-final,Best of 3,A**y,Birds of Prey,Birds of Prey,17,21,21,19,21,23,Thomas Pence,Hunter Koth,Colin Hobart,Kenny Velu
+Bracket Play,4.5 Open Bronze+,Bracket B,P5: Semi-final,Single game,Midwest Nice,Medical Intervention,Medical Intervention,-2,0,,,,,Mitch Kelley,Louie Simbajon,Riyan Farhat,John Muirhead
+Bracket Play,4.5 Open Bronze+,Bracket B,P5: Semi-final,Single game,IZAK & GEORGE :P,The Beans,IZAK & GEORGE :P,0,-1,,,,,izak krajeski,george reagan,Jackson Carpenter,Salvatore Guagenti
+Bracket Play,4.5 Open Bronze+,Bracket B,Final,Best of 3,Dual Citiez,Birds of Prey,Birds of Prey,16,21,-1,0,0,0,Eoin O'Gara,Connor Prelich,Colin Hobart,Kenny Velu
+Bracket Play,4.5 Open Bronze+,Bracket B,P5: Final,Single game,Medical Intervention,IZAK & GEORGE :P,Medical Intervention,1,0,,,,,Riyan Farhat,John Muirhead,izak krajeski,george reagan
+Bracket Play,4.5 Open Bronze+,Bracket B,P7: Final,Single game,The Beans,Midwest Nice,Midwest Nice,0,1,,,,,Jackson Carpenter,Salvatore Guagenti,Mitch Kelley,Louie Simbajon
+Pool Play,5.0 Open Silver+,Group A,1,Single game,Clutch Boost,who do u think u r i am,Clutch Boost,21,12,,,,,Justin Shaytar,fredric hinkle,Lindros Beard,Chase Bremner
+Pool Play,5.0 Open Silver+,Group A,1,Single game,Steal Da Moon,Hitters Digest,Steal Da Moon,21,20,,,,,Michael Moniz,Henry Pleszkoch,Benjamin Bunze,Sam Bunze
+Pool Play,5.0 Open Silver+,Group A,1,Single game,no mats,Thermal,Thermal,20,21,,,,,Charles Tipton,Bryan Grullon,Drew Ryder,John Mankowich
+Pool Play,5.0 Open Silver+,Group B,1,Single game,Inspection,Freak Sauce,Inspection,21,12,,,,,Jake Dooley,John Buchanan,Prady Vijayakumar,Ethan Ferland
+Pool Play,5.0 Open Silver+,Group B,1,Single game,Chocolate Milk,Venenosa,Chocolate Milk,21,15,,,,,Dakota Wheeler,Caleb White,Patricio Duran,Juan Moscoso
+Pool Play,5.0 Open Silver+,Group B,1,Single game,Jinx,Screaming Goats,Screaming Goats,19,21,,,,,Noah Elconin,Charlie Cavallaro,Sean Caufield,Kurt Lannetti
+Pool Play,5.0 Open Silver+,Group C,1,Single game,Centros,Gapmeister,Centros,21,20,,,,,Jaxon Gonzalez,Jon Esposo,Sidney Mathues,Diego Lopez
+Pool Play,5.0 Open Silver+,Group C,1,Single game,PBR Dabbeup,Great Wall,Great Wall,19,21,,,,,A.j. Martin,Jacob Arzaga,Kevin Chen,Ricky Santiago
+Pool Play,5.0 Open Silver+,Group C,1,Single game,Party time,Slow Jamz,Slow Jamz,13,21,,,,,Josh Esposo,Caleb Brock,Isaac Mixon,Andrew Yancey
+Pool Play,5.0 Open Silver+,Group D,1,Single game,Patten/Marshall,Special Teams,Patten/Marshall,21,15,,,,,Grant Marshall,Daniel Patten,Liam Keegan,Matthew Rodriguez
+Pool Play,5.0 Open Silver+,Group D,1,Single game,Yum Yum Shop,Charlie Brown,Charlie Brown,16,21,,,,,Brandon Stokes,Dalton Gilder,Declan Brown,Charlie Freeman
+Pool Play,5.0 Open Silver+,Group D,1,Single game,Deep Dive,Divine Touches,Divine Touches,18,21,,,,,Maciah Aldrich,Hayden Carlson,Manish Nagireddy,Mitchell Carter
+Pool Play,5.0 Open Silver+,Group A,2,Single game,Clutch Boost,Hitters Digest,Clutch Boost,21,13,,,,,Justin Shaytar,fredric hinkle,Benjamin Bunze,Sam Bunze
+Pool Play,5.0 Open Silver+,Group A,2,Single game,Steal Da Moon,no mats,Steal Da Moon,21,16,,,,,Michael Moniz,Henry Pleszkoch,Charles Tipton,Bryan Grullon
+Pool Play,5.0 Open Silver+,Group A,2,Single game,Thermal,who do u think u r i am,Thermal,21,18,,,,,Drew Ryder,John Mankowich,Lindros Beard,Chase Bremner
+Pool Play,5.0 Open Silver+,Group B,2,Single game,Inspection,Venenosa,Inspection,21,16,,,,,Jake Dooley,John Buchanan,Patricio Duran,Juan Moscoso
+Pool Play,5.0 Open Silver+,Group B,2,Single game,Chocolate Milk,Jinx,Chocolate Milk,21,18,,,,,Dakota Wheeler,Caleb White,Noah Elconin,Charlie Cavallaro
+Pool Play,5.0 Open Silver+,Group B,2,Single game,Screaming Goats,Freak Sauce,Screaming Goats,21,19,,,,,Sean Caufield,Kurt Lannetti,Prady Vijayakumar,Ethan Ferland
+Pool Play,5.0 Open Silver+,Group C,2,Single game,Centros,Great Wall,Great Wall,18,21,,,,,Jaxon Gonzalez,Jon Esposo,Kevin Chen,Ricky Santiago
+Pool Play,5.0 Open Silver+,Group C,2,Single game,PBR Dabbeup,Party time,Party time,19,21,,,,,A.j. Martin,Jacob Arzaga,Josh Esposo,Caleb Brock
+Pool Play,5.0 Open Silver+,Group C,2,Single game,Slow Jamz,Gapmeister,Slow Jamz,21,17,,,,,Isaac Mixon,Andrew Yancey,Sidney Mathues,Diego Lopez
+Pool Play,5.0 Open Silver+,Group D,2,Single game,Patten/Marshall,Charlie Brown,Patten/Marshall,21,15,,,,,Grant Marshall,Daniel Patten,Declan Brown,Charlie Freeman
+Pool Play,5.0 Open Silver+,Group D,2,Single game,Yum Yum Shop,Deep Dive,Deep Dive,19,21,,,,,Brandon Stokes,Dalton Gilder,Maciah Aldrich,Hayden Carlson
+Pool Play,5.0 Open Silver+,Group D,2,Single game,Divine Touches,Special Teams,Special Teams,19,21,,,,,Manish Nagireddy,Mitchell Carter,Liam Keegan,Matthew Rodriguez
+Pool Play,5.0 Open Silver+,Group A,3,Single game,Clutch Boost,Thermal,Clutch Boost,21,15,,,,,Justin Shaytar,fredric hinkle,Drew Ryder,John Mankowich
+Pool Play,5.0 Open Silver+,Group A,3,Single game,Steal Da Moon,who do u think u r i am,Steal Da Moon,21,10,,,,,Michael Moniz,Henry Pleszkoch,Lindros Beard,Chase Bremner
+Pool Play,5.0 Open Silver+,Group A,3,Single game,no mats,Hitters Digest,no mats,21,16,,,,,Charles Tipton,Bryan Grullon,Benjamin Bunze,Sam Bunze
+Pool Play,5.0 Open Silver+,Group B,3,Single game,Inspection,Screaming Goats,Screaming Goats,19,21,,,,,Jake Dooley,John Buchanan,Sean Caufield,Kurt Lannetti
+Pool Play,5.0 Open Silver+,Group B,3,Single game,Chocolate Milk,Freak Sauce,Chocolate Milk,21,15,,,,,Dakota Wheeler,Caleb White,Prady Vijayakumar,Ethan Ferland
+Pool Play,5.0 Open Silver+,Group B,3,Single game,Jinx,Venenosa,Venenosa,16,21,,,,,Noah Elconin,Charlie Cavallaro,Patricio Duran,Juan Moscoso
+Pool Play,5.0 Open Silver+,Group C,3,Single game,Centros,Slow Jamz,Centros,21,19,,,,,Jaxon Gonzalez,Jon Esposo,Isaac Mixon,Andrew Yancey
+Pool Play,5.0 Open Silver+,Group C,3,Single game,PBR Dabbeup,Gapmeister,PBR Dabbeup,21,19,,,,,A.j. Martin,Jacob Arzaga,Sidney Mathues,Diego Lopez
+Pool Play,5.0 Open Silver+,Group C,3,Single game,Party time,Great Wall,Great Wall,13,21,,,,,Josh Esposo,Caleb Brock,Kevin Chen,Ricky Santiago
+Pool Play,5.0 Open Silver+,Group D,3,Single game,Patten/Marshall,Divine Touches,Divine Touches,18,21,,,,,Grant Marshall,Daniel Patten,Manish Nagireddy,Mitchell Carter
+Pool Play,5.0 Open Silver+,Group D,3,Single game,Yum Yum Shop,Special Teams,Special Teams,18,21,,,,,Brandon Stokes,Dalton Gilder,Liam Keegan,Matthew Rodriguez
+Pool Play,5.0 Open Silver+,Group D,3,Single game,Deep Dive,Charlie Brown,Charlie Brown,19,21,,,,,Maciah Aldrich,Hayden Carlson,Declan Brown,Charlie Freeman
+Pool Play,5.0 Open Silver+,Group A,4,Single game,Clutch Boost,no mats,Clutch Boost,21,18,,,,,Justin Shaytar,fredric hinkle,Charles Tipton,Bryan Grullon
+Pool Play,5.0 Open Silver+,Group A,4,Single game,Steal Da Moon,Thermal,Steal Da Moon,21,18,,,,,Michael Moniz,Henry Pleszkoch,Drew Ryder,John Mankowich
+Pool Play,5.0 Open Silver+,Group A,4,Single game,Hitters Digest,who do u think u r i am,who do u think u r i am,19,21,,,,,Benjamin Bunze,Sam Bunze,Lindros Beard,Chase Bremner
+Pool Play,5.0 Open Silver+,Group B,4,Single game,Inspection,Jinx,Inspection,21,12,,,,,Jake Dooley,John Buchanan,Noah Elconin,Charlie Cavallaro
+Pool Play,5.0 Open Silver+,Group B,4,Single game,Chocolate Milk,Screaming Goats,Screaming Goats,18,21,,,,,Dakota Wheeler,Caleb White,Sean Caufield,Kurt Lannetti
+Pool Play,5.0 Open Silver+,Group B,4,Single game,Venenosa,Freak Sauce,Venenosa,21,15,,,,,Patricio Duran,Juan Moscoso,Prady Vijayakumar,Ethan Ferland
+Pool Play,5.0 Open Silver+,Group C,4,Single game,Centros,Party time,Centros,21,20,,,,,Jaxon Gonzalez,Jon Esposo,Josh Esposo,Caleb Brock
+Pool Play,5.0 Open Silver+,Group C,4,Single game,PBR Dabbeup,Slow Jamz,Slow Jamz,19,21,,,,,A.j. Martin,Jacob Arzaga,Isaac Mixon,Andrew Yancey
+Pool Play,5.0 Open Silver+,Group C,4,Single game,Great Wall,Gapmeister,Great Wall,21,15,,,,,Kevin Chen,Ricky Santiago,Sidney Mathues,Diego Lopez
+Pool Play,5.0 Open Silver+,Group D,4,Single game,Patten/Marshall,Deep Dive,Patten/Marshall,21,19,,,,,Grant Marshall,Daniel Patten,Maciah Aldrich,Hayden Carlson
+Pool Play,5.0 Open Silver+,Group D,4,Single game,Yum Yum Shop,Divine Touches,Yum Yum Shop,21,11,,,,,Brandon Stokes,Dalton Gilder,Manish Nagireddy,Mitchell Carter
+Pool Play,5.0 Open Silver+,Group D,4,Single game,Charlie Brown,Special Teams,Charlie Brown,21,19,,,,,Declan Brown,Charlie Freeman,Liam Keegan,Matthew Rodriguez
+Pool Play,5.0 Open Silver+,Group A,5,Single game,Clutch Boost,Steal Da Moon,Clutch Boost,21,19,,,,,Justin Shaytar,fredric hinkle,Michael Moniz,Henry Pleszkoch
+Pool Play,5.0 Open Silver+,Group A,5,Single game,no mats,who do u think u r i am,no mats,21,19,,,,,Charles Tipton,Bryan Grullon,Lindros Beard,Chase Bremner
+Pool Play,5.0 Open Silver+,Group A,5,Single game,Thermal,Hitters Digest,Thermal,21,12,,,,,Drew Ryder,John Mankowich,Benjamin Bunze,Sam Bunze
+Pool Play,5.0 Open Silver+,Group B,5,Single game,Inspection,Chocolate Milk,Inspection,21,18,,,,,Jake Dooley,John Buchanan,Dakota Wheeler,Caleb White
+Pool Play,5.0 Open Silver+,Group B,5,Single game,Jinx,Freak Sauce,Jinx,21,18,,,,,Noah Elconin,Charlie Cavallaro,Prady Vijayakumar,Ethan Ferland
+Pool Play,5.0 Open Silver+,Group B,5,Single game,Screaming Goats,Venenosa,Screaming Goats,21,14,,,,,Sean Caufield,Kurt Lannetti,Patricio Duran,Juan Moscoso
+Pool Play,5.0 Open Silver+,Group C,5,Single game,Centros,PBR Dabbeup,Centros,21,18,,,,,Jaxon Gonzalez,Jon Esposo,A.j. Martin,Jacob Arzaga
+Pool Play,5.0 Open Silver+,Group C,5,Single game,Party time,Gapmeister,Gapmeister,17,21,,,,,Josh Esposo,Caleb Brock,Sidney Mathues,Diego Lopez
+Pool Play,5.0 Open Silver+,Group C,5,Single game,Slow Jamz,Great Wall,Great Wall,19,21,,,,,Isaac Mixon,Andrew Yancey,Kevin Chen,Ricky Santiago
+Pool Play,5.0 Open Silver+,Group D,5,Single game,Patten/Marshall,Yum Yum Shop,Yum Yum Shop,18,21,,,,,Grant Marshall,Daniel Patten,Brandon Stokes,Dalton Gilder
+Pool Play,5.0 Open Silver+,Group D,5,Single game,Deep Dive,Special Teams,Deep Dive,21,20,,,,,Maciah Aldrich,Hayden Carlson,Liam Keegan,Matthew Rodriguez
+Pool Play,5.0 Open Silver+,Group D,5,Single game,Divine Touches,Charlie Brown,Charlie Brown,13,21,,,,,Manish Nagireddy,Mitchell Carter,Declan Brown,Charlie Freeman
+Bracket Play,5.0 Open Silver+,Bracket A,Round of 16,Best of 3,Clutch Boost,Gapmeister,Clutch Boost,21,12,21,17,,,Justin Shaytar,fredric hinkle,Sidney Mathues,Diego Lopez
+Bracket Play,5.0 Open Silver+,Bracket A,Round of 16,Best of 3,Great Wall,Venenosa,Venenosa,18,21,11,21,,,Kevin Chen,Ricky Santiago,Patricio Duran,Juan Moscoso
+Bracket Play,5.0 Open Silver+,Bracket A,Round of 16,Best of 3,Screaming Goats,Special Teams,Screaming Goats,21,18,21,18,,,Sean Caufield,Kurt Lannetti,Liam Keegan,Matthew Rodriguez
+Bracket Play,5.0 Open Silver+,Bracket A,Round of 16,Best of 3,Inspection,Deep Dive,Inspection,21,19,25,23,,,Jake Dooley,John Buchanan,Maciah Aldrich,Hayden Carlson
+Bracket Play,5.0 Open Silver+,Bracket A,Round of 16,Best of 3,Steal Da Moon,no mats,Steal Da Moon,19,21,21,15,21,18,Michael Moniz,Henry Pleszkoch,Charles Tipton,Bryan Grullon
+Bracket Play,5.0 Open Silver+,Bracket A,Round of 16,Best of 3,Charlie Brown,Thermal,Charlie Brown,15,21,21,18,21,14,Declan Brown,Charlie Freeman,Drew Ryder,John Mankowich
+Bracket Play,5.0 Open Silver+,Bracket A,Round of 16,Best of 3,Centros,Patten/Marshall,Centros,21,16,21,16,,,Jaxon Gonzalez,Jon Esposo,Grant Marshall,Daniel Patten
+Bracket Play,5.0 Open Silver+,Bracket A,Round of 16,Best of 3,Slow Jamz,Chocolate Milk,Slow Jamz,21,19,21,13,,,Isaac Mixon,Andrew Yancey,Dakota Wheeler,Caleb White
+Bracket Play,5.0 Open Silver+,Bracket A,Quarter-final,Best of 3,Clutch Boost,Slow Jamz,Slow Jamz,19,21,16,21,,,Justin Shaytar,fredric hinkle,Isaac Mixon,Andrew Yancey
+Bracket Play,5.0 Open Silver+,Bracket A,Quarter-final,Best of 3,Venenosa,Centros,Centros,19,21,17,21,,,Patricio Duran,Juan Moscoso,Jaxon Gonzalez,Jon Esposo
+Bracket Play,5.0 Open Silver+,Bracket A,Quarter-final,Best of 3,Screaming Goats,Charlie Brown,Screaming Goats,21,18,21,17,,,Sean Caufield,Kurt Lannetti,Declan Brown,Charlie Freeman
+Bracket Play,5.0 Open Silver+,Bracket A,Quarter-final,Best of 3,Inspection,Steal Da Moon,Inspection,21,14,21,19,,,Jake Dooley,John Buchanan,Michael Moniz,Henry Pleszkoch
+Bracket Play,5.0 Open Silver+,Bracket A,P9: Quarter-final,Single game,Chocolate Milk,Gapmeister,Chocolate Milk,21,12,,,,,Dakota Wheeler,Caleb White,Sidney Mathues,Diego Lopez
+Bracket Play,5.0 Open Silver+,Bracket A,P9: Quarter-final,Single game,Patten/Marshall,Great Wall,Patten/Marshall,21,19,,,,,Grant Marshall,Daniel Patten,Kevin Chen,Ricky Santiago
+Bracket Play,5.0 Open Silver+,Bracket A,P9: Quarter-final,Single game,Thermal,Special Teams,Thermal,21,10,,,,,Drew Ryder,John Mankowich,Liam Keegan,Matthew Rodriguez
+Bracket Play,5.0 Open Silver+,Bracket A,P9: Quarter-final,Single game,no mats,Deep Dive,Deep Dive,19,21,,,,,Charles Tipton,Bryan Grullon,Maciah Aldrich,Hayden Carlson
+Bracket Play,5.0 Open Silver+,Bracket A,Semi-final,Best of 3,Slow Jamz,Inspection,Inspection,0,1,1,0,14,21,Isaac Mixon,Andrew Yancey,Jake Dooley,John Buchanan
+Bracket Play,5.0 Open Silver+,Bracket A,Semi-final,Best of 3,Centros,Screaming Goats,Centros,9,21,21,14,21,17,Jaxon Gonzalez,Jon Esposo,Sean Caufield,Kurt Lannetti
+Bracket Play,5.0 Open Silver+,Bracket A,P5: Semi-final,Single game,Steal Da Moon,Clutch Boost,Steal Da Moon,0,-1,,,,,Michael Moniz,Henry Pleszkoch,Justin Shaytar,fredric hinkle
+Bracket Play,5.0 Open Silver+,Bracket A,P5: Semi-final,Single game,Charlie Brown,Venenosa,Charlie Brown,21,19,,,,,Declan Brown,Charlie Freeman,Patricio Duran,Juan Moscoso
+Bracket Play,5.0 Open Silver+,Bracket A,P9: Semi-final,Single game,Patten/Marshall,Thermal,Patten/Marshall,21,18,,,,,Grant Marshall,Daniel Patten,Drew Ryder,John Mankowich
+Bracket Play,5.0 Open Silver+,Bracket A,P13: Semi-final,Single game,no mats,Gapmeister,no mats,0,-1,,,,,Charles Tipton,Bryan Grullon,Sidney Mathues,Diego Lopez
+Bracket Play,5.0 Open Silver+,Bracket A,P13: Semi-final,Single game,Special Teams,Great Wall,Great Wall,18,21,,,,,Liam Keegan,Matthew Rodriguez,Kevin Chen,Ricky Santiago
+Bracket Play,5.0 Open Silver+,Bracket A,Final,Best of 3,Inspection,Centros,Centros,18,21,19,21,,,Jake Dooley,John Buchanan,Jaxon Gonzalez,Jon Esposo
+Bracket Play,5.0 Open Silver+,Bracket A,P3: Final,Best of 3,Screaming Goats,Slow Jamz,Screaming Goats,1,0,0,1,1,0,Sean Caufield,Kurt Lannetti,Isaac Mixon,Andrew Yancey
+Bracket Play,5.0 Open Silver+,Bracket A,P5: Final,Single game,Steal Da Moon,Charlie Brown,Charlie Brown,-1,0,,,,,Michael Moniz,Henry Pleszkoch,Declan Brown,Charlie Freeman
+Bracket Play,5.0 Open Silver+,Bracket A,P7: Final,Single game,Venenosa,Clutch Boost,Venenosa,0,-1,,,,,Patricio Duran,Juan Moscoso,Justin Shaytar,fredric hinkle
+Bracket Play,5.0 Open Silver+,Bracket A,P13: Final,Single game,no mats,Great Wall,no mats,21,19,,,,,Charles Tipton,Bryan Grullon,Kevin Chen,Ricky Santiago
+Bracket Play,5.0 Open Silver+,Bracket B,Quarter-final,Best of 3,Yum Yum Shop,Freak Sauce,Yum Yum Shop,21,18,22,20,,,Brandon Stokes,Dalton Gilder,Prady Vijayakumar,Ethan Ferland
+Bracket Play,5.0 Open Silver+,Bracket B,Quarter-final,Best of 3,Divine Touches,Hitters Digest,Divine Touches,21,19,21,18,,,Manish Nagireddy,Mitchell Carter,Benjamin Bunze,Sam Bunze
+Bracket Play,5.0 Open Silver+,Bracket B,Quarter-final,Best of 3,PBR Dabbeup,who do u think u r i am,PBR Dabbeup,19,21,21,18,21,18,A.j. Martin,Jacob Arzaga,Lindros Beard,Chase Bremner
+Bracket Play,5.0 Open Silver+,Bracket B,Quarter-final,Best of 3,Jinx,Party time,Party time,17,21,21,10,19,21,Noah Elconin,Charlie Cavallaro,Josh Esposo,Caleb Brock
+Bracket Play,5.0 Open Silver+,Bracket B,Semi-final,Best of 3,Yum Yum Shop,Party time,Party time,15,21,16,21,,,Brandon Stokes,Dalton Gilder,Josh Esposo,Caleb Brock
+Bracket Play,5.0 Open Silver+,Bracket B,Semi-final,Best of 3,Divine Touches,PBR Dabbeup,PBR Dabbeup,21,18,19,21,21,23,Manish Nagireddy,Mitchell Carter,A.j. Martin,Jacob Arzaga
+Bracket Play,5.0 Open Silver+,Bracket B,P5: Semi-final,Single game,Jinx,Freak Sauce,Freak Sauce,27,29,,,,,Noah Elconin,Charlie Cavallaro,Prady Vijayakumar,Ethan Ferland
+Bracket Play,5.0 Open Silver+,Bracket B,P5: Semi-final,Single game,who do u think u r i am,Hitters Digest,Hitters Digest,12,21,,,,,Lindros Beard,Chase Bremner,Benjamin Bunze,Sam Bunze
+Bracket Play,5.0 Open Silver+,Bracket B,Final,Best of 3,Party time,PBR Dabbeup,PBR Dabbeup,20,22,0,1,,,Josh Esposo,Caleb Brock,A.j. Martin,Jacob Arzaga
+Bracket Play,5.0 Open Silver+,Bracket B,P3: Final,Best of 3,Divine Touches,Yum Yum Shop,Divine Touches,0,-2,0,-2,,,Manish Nagireddy,Mitchell Carter,Brandon Stokes,Dalton Gilder
+Bracket Play,5.0 Open Silver+,Bracket B,P5: Final,Single game,Freak Sauce,Hitters Digest,Hitters Digest,19,21,,,,,Prady Vijayakumar,Ethan Ferland,Benjamin Bunze,Sam Bunze
+Bracket Play,5.0 Open Silver+,Bracket B,P7: Final,Single game,who do u think u r i am,Jinx,Jinx,-1,0,,,,,Lindros Beard,Chase Bremner,Noah Elconin,Charlie Cavallaro
+Pool Play,6.0 Women's Pro,Group A,1,Single game,11:1,legen...DARY,11:1,21,11,,,,,Kalin Morgan,Julia Timan,Rachel Dolan,Ally Kula
+Pool Play,6.0 Women's Pro,Group A,1,Single game,ABG Scale Theory,meowdy purrtners😸🤠,ABG Scale Theory,21,19,,,,,Karah Hui,Elle Lowe,Tiff Ding,Tess Dolan
+Pool Play,6.0 Women's Pro,Group B,1,Single game,Carry Set,Capyballers,Carry Set,21,11,,,,,Abigale Lamontagne,Malia Wanderer,Alex Veron,Ally Chou
+Pool Play,6.0 Women's Pro,Group B,1,Single game,don't give a gaf,"flat tire 🛞 ",don't give a gaf,21,8,,,,,Joanna Gould,Katheleen Phan,Samantha Barklow,Stef Ding
+Pool Play,6.0 Women's Pro,Group A,2,Single game,11:1,meowdy purrtners😸🤠,meowdy purrtners😸🤠,16,21,,,,,Kalin Morgan,Julia Timan,Tiff Ding,Tess Dolan
+Pool Play,6.0 Women's Pro,Group A,2,Single game,ABG Scale Theory,legen...DARY,ABG Scale Theory,21,9,,,,,Karah Hui,Elle Lowe,Rachel Dolan,Ally Kula
+Pool Play,6.0 Women's Pro,Group B,2,Single game,Carry Set,"flat tire 🛞 ",Carry Set,21,13,,,,,Abigale Lamontagne,Malia Wanderer,Samantha Barklow,Stef Ding
+Pool Play,6.0 Women's Pro,Group B,2,Single game,don't give a gaf,Capyballers,don't give a gaf,21,12,,,,,Joanna Gould,Katheleen Phan,Alex Veron,Ally Chou
+Pool Play,6.0 Women's Pro,Group A,3,Single game,11:1,ABG Scale Theory,ABG Scale Theory,11,21,,,,,Kalin Morgan,Julia Timan,Karah Hui,Elle Lowe
+Pool Play,6.0 Women's Pro,Group A,3,Single game,meowdy purrtners😸🤠,legen...DARY,meowdy purrtners😸🤠,21,11,,,,,Tiff Ding,Tess Dolan,Rachel Dolan,Ally Kula
+Pool Play,6.0 Women's Pro,Group B,3,Single game,Carry Set,don't give a gaf,don't give a gaf,18,21,,,,,Abigale Lamontagne,Malia Wanderer,Joanna Gould,Katheleen Phan
+Pool Play,6.0 Women's Pro,Group B,3,Single game,"flat tire 🛞 ",Capyballers,"flat tire 🛞 ",21,20,,,,,Samantha Barklow,Stef Ding,Alex Veron,Ally Chou
+Pool Play,6.0 Women's Pro,Group A,4,Single game,11:1,legen...DARY,11:1,21,16,,,,,Kalin Morgan,Julia Timan,Rachel Dolan,Ally Kula
+Pool Play,6.0 Women's Pro,Group A,4,Single game,ABG Scale Theory,meowdy purrtners😸🤠,ABG Scale Theory,21,15,,,,,Karah Hui,Elle Lowe,Tiff Ding,Tess Dolan
+Pool Play,6.0 Women's Pro,Group B,4,Single game,Carry Set,Capyballers,Carry Set,21,13,,,,,Abigale Lamontagne,Malia Wanderer,Alex Veron,Ally Chou
+Pool Play,6.0 Women's Pro,Group B,4,Single game,don't give a gaf,"flat tire 🛞 ",don't give a gaf,21,9,,,,,Joanna Gould,Katheleen Phan,Samantha Barklow,Stef Ding
+Pool Play,6.0 Women's Pro,Group A,5,Single game,11:1,meowdy purrtners😸🤠,meowdy purrtners😸🤠,20,21,,,,,Kalin Morgan,Julia Timan,Tiff Ding,Tess Dolan
+Pool Play,6.0 Women's Pro,Group A,5,Single game,ABG Scale Theory,legen...DARY,ABG Scale Theory,21,7,,,,,Karah Hui,Elle Lowe,Rachel Dolan,Ally Kula
+Pool Play,6.0 Women's Pro,Group B,5,Single game,Carry Set,"flat tire 🛞 ",Carry Set,21,13,,,,,Abigale Lamontagne,Malia Wanderer,Samantha Barklow,Stef Ding
+Pool Play,6.0 Women's Pro,Group B,5,Single game,don't give a gaf,Capyballers,don't give a gaf,21,7,,,,,Joanna Gould,Katheleen Phan,Alex Veron,Ally Chou
+Pool Play,6.0 Women's Pro,Group A,6,Single game,11:1,ABG Scale Theory,ABG Scale Theory,18,21,,,,,Kalin Morgan,Julia Timan,Karah Hui,Elle Lowe
+Pool Play,6.0 Women's Pro,Group A,6,Single game,meowdy purrtners😸🤠,legen...DARY,meowdy purrtners😸🤠,21,12,,,,,Tiff Ding,Tess Dolan,Rachel Dolan,Ally Kula
+Pool Play,6.0 Women's Pro,Group B,6,Single game,Carry Set,don't give a gaf,don't give a gaf,19,21,,,,,Abigale Lamontagne,Malia Wanderer,Joanna Gould,Katheleen Phan
+Pool Play,6.0 Women's Pro,Group B,6,Single game,"flat tire 🛞 ",Capyballers,Capyballers,15,21,,,,,Samantha Barklow,Stef Ding,Alex Veron,Ally Chou
+Bracket Play,6.0 Women's Pro,Bracket A,Quarter-final,Best of 3,don't give a gaf,legen...DARY,don't give a gaf,21,17,21,13,,,Joanna Gould,Katheleen Phan,Rachel Dolan,Ally Kula
+Bracket Play,6.0 Women's Pro,Bracket A,Quarter-final,Best of 3,ABG Scale Theory,"flat tire 🛞 ",ABG Scale Theory,21,15,22,20,,,Karah Hui,Elle Lowe,Samantha Barklow,Stef Ding
+Bracket Play,6.0 Women's Pro,Bracket A,Quarter-final,Best of 3,Carry Set,11:1,11:1,19,21,21,14,14,21,Abigale Lamontagne,Malia Wanderer,Kalin Morgan,Julia Timan
+Bracket Play,6.0 Women's Pro,Bracket A,Quarter-final,Best of 3,meowdy purrtners😸🤠,Capyballers,meowdy purrtners😸🤠,21,19,26,24,,,Tiff Ding,Tess Dolan,Alex Veron,Ally Chou
+Bracket Play,6.0 Women's Pro,Bracket A,Semi-final,Best of 3,don't give a gaf,meowdy purrtners😸🤠,don't give a gaf,21,18,21,17,,,Joanna Gould,Katheleen Phan,Tiff Ding,Tess Dolan
+Bracket Play,6.0 Women's Pro,Bracket A,Semi-final,Best of 3,ABG Scale Theory,11:1,ABG Scale Theory,21,16,19,21,21,16,Karah Hui,Elle Lowe,Kalin Morgan,Julia Timan
+Bracket Play,6.0 Women's Pro,Bracket A,P5: Semi-final,Single game,Capyballers,legen...DARY,Capyballers,21,18,,,,,Alex Veron,Ally Chou,Rachel Dolan,Ally Kula
+Bracket Play,6.0 Women's Pro,Bracket A,P5: Semi-final,Single game,Carry Set,"flat tire 🛞 ",Carry Set,1,0,,,,,Abigale Lamontagne,Malia Wanderer,Samantha Barklow,Stef Ding
+Bracket Play,6.0 Women's Pro,Bracket A,Final,Best of 3,don't give a gaf,ABG Scale Theory,ABG Scale Theory,19,21,11,21,,,Joanna Gould,Katheleen Phan,Karah Hui,Elle Lowe
+Bracket Play,6.0 Women's Pro,Bracket A,P3: Final,Best of 3,11:1,meowdy purrtners😸🤠,11:1,21,18,21,13,,,Kalin Morgan,Julia Timan,Tiff Ding,Tess Dolan
+Pool Play,6.0 Open Pro,Group A,1,Single game,Rogue,Somewhere between the mountain & the Ant,Rogue,21,19,,,,,Thomas Hamilton,Ryan Marino,Ryan Gross,Gabe Finocchi
+Pool Play,6.0 Open Pro,Group A,1,Single game,Drawing Dead,NEM Seazonal,NEM Seazonal,14,21,,,,,Tyler Fernandez,Kieran Rose,Zach Snover,Jacob Summers
+Pool Play,6.0 Open Pro,Group B,1,Single game,J.A.R.V.I.S.,Party Fowl,Party Fowl,16,21,,,,,Josh Fragiacomo,Connor Nelson,Cole Maddox,Kyle Fowler
+Pool Play,6.0 Open Pro,Group B,1,Single game,"TRP Abrams/ Picone ☀️🚿 ",Snarl,"TRP Abrams/ Picone ☀️🚿 ",21,16,,,,,Dan Abrams,Will Picone,Ben Savage,Dawson Morgan
+Pool Play,6.0 Open Pro,Group C,1,Single game,LL Come & Go,NEM Huge Hitbox,LL Come & Go,21,13,,,,,Mike Garrett,Jake Mottershead,Josh Hutko,Matt Spolarich
+Pool Play,6.0 Open Pro,Group C,1,Single game,Manna,Clip Farm,Manna,21,18,,,,,Aleks Essen,Jackson Wood,Andrew Greer,Polk Denmark
+Pool Play,6.0 Open Pro,Group D,1,Single game,foolish,Solar Storm,foolish,21,19,,,,,Lucas Pruett,Sunny Gu,Solomon Berry,Blake Van Den Top
+Pool Play,6.0 Open Pro,Group D,1,Single game,neal love dog🥢🐶🍚,Bang bang lighty boys,neal love dog🥢🐶🍚,21,17,,,,,Joey Reynolds,Neal Bergman,Jackson Biggs,Sam Diani
+Pool Play,6.0 Open Pro,Group E,1,Single game,The Diamond Dogs,Tranzit,The Diamond Dogs,21,18,,,,,Bennett Anderson,Reid Pfutzenreuter,Bradley Clark,Peyton Stack
+Pool Play,6.0 Open Pro,Group E,1,Single game,FreeELO,The Fragrance,The Fragrance,14,21,,,,,Clifford Amadeo LeVeque,Nick Evanko,Jacob Narayan,Paq Clifford
+Pool Play,6.0 Open Pro,Group F,1,Single game,Fourth Dimension,Locked,Fourth Dimension,21,16,,,,,Jake Woolley,Caleb Cummings,Andrew Nee,Matt Wallach
+Pool Play,6.0 Open Pro,Group F,1,Single game,Automatic,Walkie-Talkie,Automatic,21,18,,,,,Alex Newton,Riley Nassour,Jake Young,Jai Parera
+Pool Play,6.0 Open Pro,Group A,2,Single game,Rogue,NEM Seazonal,NEM Seazonal,7,21,,,,,Thomas Hamilton,Ryan Marino,Zach Snover,Jacob Summers
+Pool Play,6.0 Open Pro,Group A,2,Single game,Drawing Dead,Somewhere between the mountain & the Ant,Drawing Dead,21,18,,,,,Tyler Fernandez,Kieran Rose,Ryan Gross,Gabe Finocchi
+Pool Play,6.0 Open Pro,Group B,2,Single game,J.A.R.V.I.S.,Snarl,J.A.R.V.I.S.,21,19,,,,,Josh Fragiacomo,Connor Nelson,Ben Savage,Dawson Morgan
+Pool Play,6.0 Open Pro,Group B,2,Single game,"TRP Abrams/ Picone ☀️🚿 ",Party Fowl,"TRP Abrams/ Picone ☀️🚿 ",21,19,,,,,Dan Abrams,Will Picone,Cole Maddox,Kyle Fowler
+Pool Play,6.0 Open Pro,Group C,2,Single game,LL Come & Go,Clip Farm,LL Come & Go,21,15,,,,,Mike Garrett,Jake Mottershead,Andrew Greer,Polk Denmark
+Pool Play,6.0 Open Pro,Group C,2,Single game,Manna,NEM Huge Hitbox,Manna,21,19,,,,,Aleks Essen,Jackson Wood,Josh Hutko,Matt Spolarich
+Pool Play,6.0 Open Pro,Group D,2,Single game,foolish,Bang bang lighty boys,foolish,21,13,,,,,Lucas Pruett,Sunny Gu,Jackson Biggs,Sam Diani
+Pool Play,6.0 Open Pro,Group D,2,Single game,neal love dog🥢🐶🍚,Solar Storm,neal love dog🥢🐶🍚,21,16,,,,,Joey Reynolds,Neal Bergman,Solomon Berry,Blake Van Den Top
+Pool Play,6.0 Open Pro,Group E,2,Single game,The Diamond Dogs,The Fragrance,The Fragrance,15,21,,,,,Bennett Anderson,Reid Pfutzenreuter,Jacob Narayan,Paq Clifford
+Pool Play,6.0 Open Pro,Group E,2,Single game,FreeELO,Tranzit,Tranzit,16,21,,,,,Clifford Amadeo LeVeque,Nick Evanko,Bradley Clark,Peyton Stack
+Pool Play,6.0 Open Pro,Group F,2,Single game,Fourth Dimension,Walkie-Talkie,Fourth Dimension,21,8,,,,,Jake Woolley,Caleb Cummings,Jake Young,Jai Parera
+Pool Play,6.0 Open Pro,Group F,2,Single game,Automatic,Locked,Automatic,21,12,,,,,Alex Newton,Riley Nassour,Andrew Nee,Matt Wallach
+Pool Play,6.0 Open Pro,Group A,3,Single game,Rogue,Drawing Dead,Drawing Dead,14,21,,,,,Thomas Hamilton,Ryan Marino,Tyler Fernandez,Kieran Rose
+Pool Play,6.0 Open Pro,Group A,3,Single game,NEM Seazonal,Somewhere between the mountain & the Ant,Somewhere between the mountain & the Ant,18,21,,,,,Zach Snover,Jacob Summers,Ryan Gross,Gabe Finocchi
+Pool Play,6.0 Open Pro,Group B,3,Single game,J.A.R.V.I.S.,"TRP Abrams/ Picone ☀️🚿 ",J.A.R.V.I.S.,21,16,,,,,Josh Fragiacomo,Connor Nelson,Dan Abrams,Will Picone
+Pool Play,6.0 Open Pro,Group B,3,Single game,Snarl,Party Fowl,Party Fowl,11,21,,,,,Ben Savage,Dawson Morgan,Cole Maddox,Kyle Fowler
+Pool Play,6.0 Open Pro,Group C,3,Single game,LL Come & Go,Manna,Manna,20,21,,,,,Mike Garrett,Jake Mottershead,Aleks Essen,Jackson Wood
+Pool Play,6.0 Open Pro,Group C,3,Single game,Clip Farm,NEM Huge Hitbox,Clip Farm,21,17,,,,,Andrew Greer,Polk Denmark,Josh Hutko,Matt Spolarich
+Pool Play,6.0 Open Pro,Group D,3,Single game,foolish,neal love dog🥢🐶🍚,neal love dog🥢🐶🍚,20,21,,,,,Lucas Pruett,Sunny Gu,Joey Reynolds,Neal Bergman
+Pool Play,6.0 Open Pro,Group D,3,Single game,Bang bang lighty boys,Solar Storm,Bang bang lighty boys,21,8,,,,,Jackson Biggs,Sam Diani,Solomon Berry,Blake Van Den Top
+Pool Play,6.0 Open Pro,Group E,3,Single game,The Diamond Dogs,FreeELO,FreeELO,19,21,,,,,Bennett Anderson,Reid Pfutzenreuter,Clifford Amadeo LeVeque,Nick Evanko
+Pool Play,6.0 Open Pro,Group E,3,Single game,The Fragrance,Tranzit,The Fragrance,21,20,,,,,Jacob Narayan,Paq Clifford,Bradley Clark,Peyton Stack
+Pool Play,6.0 Open Pro,Group F,3,Single game,Fourth Dimension,Automatic,Fourth Dimension,21,13,,,,,Jake Woolley,Caleb Cummings,Alex Newton,Riley Nassour
+Pool Play,6.0 Open Pro,Group F,3,Single game,Walkie-Talkie,Locked,Locked,16,21,,,,,Jake Young,Jai Parera,Andrew Nee,Matt Wallach
+Pool Play,6.0 Open Pro,Group A,4,Single game,Rogue,Somewhere between the mountain & the Ant,Somewhere between the mountain & the Ant,20,22,,,,,Thomas Hamilton,Ryan Marino,Ryan Gross,Gabe Finocchi
+Pool Play,6.0 Open Pro,Group A,4,Single game,Drawing Dead,NEM Seazonal,Drawing Dead,21,18,,,,,Tyler Fernandez,Kieran Rose,Zach Snover,Jacob Summers
+Pool Play,6.0 Open Pro,Group B,4,Single game,J.A.R.V.I.S.,Party Fowl,J.A.R.V.I.S.,21,19,,,,,Josh Fragiacomo,Connor Nelson,Cole Maddox,Kyle Fowler
+Pool Play,6.0 Open Pro,Group B,4,Single game,"TRP Abrams/ Picone ☀️🚿 ",Snarl,Snarl,17,21,,,,,Dan Abrams,Will Picone,Ben Savage,Dawson Morgan
+Pool Play,6.0 Open Pro,Group C,4,Single game,LL Come & Go,NEM Huge Hitbox,LL Come & Go,21,18,,,,,Mike Garrett,Jake Mottershead,Josh Hutko,Matt Spolarich
+Pool Play,6.0 Open Pro,Group C,4,Single game,Manna,Clip Farm,Clip Farm,15,21,,,,,Aleks Essen,Jackson Wood,Andrew Greer,Polk Denmark
+Pool Play,6.0 Open Pro,Group D,4,Single game,foolish,Solar Storm,foolish,21,18,,,,,Lucas Pruett,Sunny Gu,Solomon Berry,Blake Van Den Top
+Pool Play,6.0 Open Pro,Group D,4,Single game,neal love dog🥢🐶🍚,Bang bang lighty boys,Bang bang lighty boys,13,21,,,,,Joey Reynolds,Neal Bergman,Jackson Biggs,Sam Diani
+Pool Play,6.0 Open Pro,Group E,4,Single game,The Diamond Dogs,Tranzit,The Diamond Dogs,21,18,,,,,Bennett Anderson,Reid Pfutzenreuter,Bradley Clark,Peyton Stack
+Pool Play,6.0 Open Pro,Group E,4,Single game,FreeELO,The Fragrance,The Fragrance,15,21,,,,,Clifford Amadeo LeVeque,Nick Evanko,Jacob Narayan,Paq Clifford
+Pool Play,6.0 Open Pro,Group F,4,Single game,Fourth Dimension,Locked,Fourth Dimension,21,12,,,,,Jake Woolley,Caleb Cummings,Andrew Nee,Matt Wallach
+Pool Play,6.0 Open Pro,Group F,4,Single game,Automatic,Walkie-Talkie,Automatic,21,16,,,,,Alex Newton,Riley Nassour,Jake Young,Jai Parera
+Pool Play,6.0 Open Pro,Group A,5,Single game,Rogue,NEM Seazonal,Rogue,22,20,,,,,Thomas Hamilton,Ryan Marino,Zach Snover,Jacob Summers
+Pool Play,6.0 Open Pro,Group A,5,Single game,Drawing Dead,Somewhere between the mountain & the Ant,Somewhere between the mountain & the Ant,11,21,,,,,Tyler Fernandez,Kieran Rose,Ryan Gross,Gabe Finocchi
+Pool Play,6.0 Open Pro,Group B,5,Single game,J.A.R.V.I.S.,Snarl,J.A.R.V.I.S.,21,17,,,,,Josh Fragiacomo,Connor Nelson,Ben Savage,Dawson Morgan
+Pool Play,6.0 Open Pro,Group B,5,Single game,"TRP Abrams/ Picone ☀️🚿 ",Party Fowl,Party Fowl,20,21,,,,,Dan Abrams,Will Picone,Cole Maddox,Kyle Fowler
+Pool Play,6.0 Open Pro,Group C,5,Single game,LL Come & Go,Clip Farm,LL Come & Go,25,24,,,,,Mike Garrett,Jake Mottershead,Andrew Greer,Polk Denmark
+Pool Play,6.0 Open Pro,Group C,5,Single game,Manna,NEM Huge Hitbox,NEM Huge Hitbox,13,21,,,,,Aleks Essen,Jackson Wood,Josh Hutko,Matt Spolarich
+Pool Play,6.0 Open Pro,Group D,5,Single game,foolish,Bang bang lighty boys,foolish,21,15,,,,,Lucas Pruett,Sunny Gu,Jackson Biggs,Sam Diani
+Pool Play,6.0 Open Pro,Group D,5,Single game,neal love dog🥢🐶🍚,Solar Storm,neal love dog🥢🐶🍚,21,16,,,,,Joey Reynolds,Neal Bergman,Solomon Berry,Blake Van Den Top
+Pool Play,6.0 Open Pro,Group E,5,Single game,The Diamond Dogs,The Fragrance,The Fragrance,19,21,,,,,Bennett Anderson,Reid Pfutzenreuter,Jacob Narayan,Paq Clifford
+Pool Play,6.0 Open Pro,Group E,5,Single game,FreeELO,Tranzit,FreeELO,21,19,,,,,Clifford Amadeo LeVeque,Nick Evanko,Bradley Clark,Peyton Stack
+Pool Play,6.0 Open Pro,Group F,5,Single game,Fourth Dimension,Walkie-Talkie,Fourth Dimension,21,11,,,,,Jake Woolley,Caleb Cummings,Jake Young,Jai Parera
+Pool Play,6.0 Open Pro,Group F,5,Single game,Automatic,Locked,Automatic,21,14,,,,,Alex Newton,Riley Nassour,Andrew Nee,Matt Wallach
+Pool Play,6.0 Open Pro,Group A,6,Single game,Rogue,Drawing Dead,Drawing Dead,17,21,,,,,Thomas Hamilton,Ryan Marino,Tyler Fernandez,Kieran Rose
+Pool Play,6.0 Open Pro,Group A,6,Single game,NEM Seazonal,Somewhere between the mountain & the Ant,Somewhere between the mountain & the Ant,21,23,,,,,Zach Snover,Jacob Summers,Ryan Gross,Gabe Finocchi
+Pool Play,6.0 Open Pro,Group B,6,Single game,J.A.R.V.I.S.,"TRP Abrams/ Picone ☀️🚿 ","TRP Abrams/ Picone ☀️🚿 ",20,21,,,,,Josh Fragiacomo,Connor Nelson,Dan Abrams,Will Picone
+Pool Play,6.0 Open Pro,Group B,6,Single game,Snarl,Party Fowl,Party Fowl,12,21,,,,,Ben Savage,Dawson Morgan,Cole Maddox,Kyle Fowler
+Pool Play,6.0 Open Pro,Group C,6,Single game,LL Come & Go,Manna,LL Come & Go,21,16,,,,,Mike Garrett,Jake Mottershead,Aleks Essen,Jackson Wood
+Pool Play,6.0 Open Pro,Group C,6,Single game,Clip Farm,NEM Huge Hitbox,Clip Farm,21,16,,,,,Andrew Greer,Polk Denmark,Josh Hutko,Matt Spolarich
+Pool Play,6.0 Open Pro,Group D,6,Single game,foolish,neal love dog🥢🐶🍚,neal love dog🥢🐶🍚,15,21,,,,,Lucas Pruett,Sunny Gu,Joey Reynolds,Neal Bergman
+Pool Play,6.0 Open Pro,Group D,6,Single game,Bang bang lighty boys,Solar Storm,Bang bang lighty boys,21,18,,,,,Jackson Biggs,Sam Diani,Solomon Berry,Blake Van Den Top
+Pool Play,6.0 Open Pro,Group E,6,Single game,The Diamond Dogs,FreeELO,The Diamond Dogs,21,16,,,,,Bennett Anderson,Reid Pfutzenreuter,Clifford Amadeo LeVeque,Nick Evanko
+Pool Play,6.0 Open Pro,Group E,6,Single game,The Fragrance,Tranzit,The Fragrance,21,15,,,,,Jacob Narayan,Paq Clifford,Bradley Clark,Peyton Stack
+Pool Play,6.0 Open Pro,Group F,6,Single game,Fourth Dimension,Automatic,Fourth Dimension,21,13,,,,,Jake Woolley,Caleb Cummings,Alex Newton,Riley Nassour
+Pool Play,6.0 Open Pro,Group F,6,Single game,Walkie-Talkie,Locked,Walkie-Talkie,21,19,,,,,Jake Young,Jai Parera,Andrew Nee,Matt Wallach
+Bracket Play,6.0 Open Pro,Bracket A,Round of 32,Single game,Fourth Dimension,Solar Storm,Fourth Dimension,21,15,,,,,Jake Woolley,Caleb Cummings,Solomon Berry,Blake Van Den Top
+Bracket Play,6.0 Open Pro,Bracket A,Round of 32,Single game,The Fragrance,Walkie-Talkie,The Fragrance,21,19,,,,,Jacob Narayan,Paq Clifford,Jake Young,Jai Parera
+Bracket Play,6.0 Open Pro,Bracket A,Round of 32,Single game,LL Come & Go,Locked,LL Come & Go,21,11,,,,,Mike Garrett,Jake Mottershead,Andrew Nee,Matt Wallach
+Bracket Play,6.0 Open Pro,Bracket A,Round of 32,Single game,neal love dog🥢🐶🍚,NEM Huge Hitbox,NEM Huge Hitbox,17,21,,,,,Joey Reynolds,Neal Bergman,Josh Hutko,Matt Spolarich
+Bracket Play,6.0 Open Pro,Bracket A,Round of 32,Single game,foolish,Tranzit,Tranzit,17,21,,,,,Lucas Pruett,Sunny Gu,Bradley Clark,Peyton Stack
+Bracket Play,6.0 Open Pro,Bracket A,Round of 32,Single game,Automatic,FreeELO,Automatic,21,16,,,,,Alex Newton,Riley Nassour,Clifford Amadeo LeVeque,Nick Evanko
+Bracket Play,6.0 Open Pro,Bracket A,Round of 32,Single game,Bang bang lighty boys,Manna,Manna,18,21,,,,,Jackson Biggs,Sam Diani,Aleks Essen,Jackson Wood
+Bracket Play,6.0 Open Pro,Bracket A,Round of 32,Single game,Clip Farm,The Diamond Dogs,The Diamond Dogs,19,21,,,,,Andrew Greer,Polk Denmark,Bennett Anderson,Reid Pfutzenreuter
+Bracket Play,6.0 Open Pro,Bracket A,Round of 16,Best of 3,Party Fowl,The Diamond Dogs,Party Fowl,21,18,7,21,21,16,Cole Maddox,Kyle Fowler,Bennett Anderson,Reid Pfutzenreuter
+Bracket Play,6.0 Open Pro,Bracket A,Round of 16,Best of 3,Somewhere between the mountain & the Ant,Manna,Somewhere between the mountain & the Ant,21,17,21,13,,,Ryan Gross,Gabe Finocchi,Aleks Essen,Jackson Wood
+Bracket Play,6.0 Open Pro,Bracket A,Round of 16,Best of 3,J.A.R.V.I.S.,Automatic,J.A.R.V.I.S.,21,17,21,14,,,Josh Fragiacomo,Connor Nelson,Alex Newton,Riley Nassour
+Bracket Play,6.0 Open Pro,Bracket A,Round of 16,Best of 3,Drawing Dead,Tranzit,Drawing Dead,19,21,21,14,21,12,Tyler Fernandez,Kieran Rose,Bradley Clark,Peyton Stack
+Bracket Play,6.0 Open Pro,Bracket A,Round of 16,Best of 3,"TRP Abrams/ Picone ☀️🚿 ",NEM Huge Hitbox,"TRP Abrams/ Picone ☀️🚿 ",21,17,31,29,,,Dan Abrams,Will Picone,Josh Hutko,Matt Spolarich
+Bracket Play,6.0 Open Pro,Bracket A,Round of 16,Best of 3,NEM Seazonal,LL Come & Go,NEM Seazonal,19,21,24,22,21,14,Zach Snover,Jacob Summers,Mike Garrett,Jake Mottershead
+Bracket Play,6.0 Open Pro,Bracket A,Round of 16,Best of 3,Rogue,The Fragrance,Rogue,21,15,21,14,,,Thomas Hamilton,Ryan Marino,Jacob Narayan,Paq Clifford
+Bracket Play,6.0 Open Pro,Bracket A,Round of 16,Best of 3,Snarl,Fourth Dimension,Fourth Dimension,17,21,21,19,17,21,Ben Savage,Dawson Morgan,Jake Woolley,Caleb Cummings
+Bracket Play,6.0 Open Pro,Bracket A,Quarter-final,Best of 3,Party Fowl,Fourth Dimension,Party Fowl,21,14,21,14,,,Cole Maddox,Kyle Fowler,Jake Woolley,Caleb Cummings
+Bracket Play,6.0 Open Pro,Bracket A,Quarter-final,Best of 3,Somewhere between the mountain & the Ant,Rogue,Rogue,18,21,21,18,14,21,Ryan Gross,Gabe Finocchi,Thomas Hamilton,Ryan Marino
+Bracket Play,6.0 Open Pro,Bracket A,Quarter-final,Best of 3,J.A.R.V.I.S.,NEM Seazonal,J.A.R.V.I.S.,25,23,21,19,,,Josh Fragiacomo,Connor Nelson,Zach Snover,Jacob Summers
+Bracket Play,6.0 Open Pro,Bracket A,Quarter-final,Best of 3,Drawing Dead,"TRP Abrams/ Picone ☀️🚿 ",Drawing Dead,21,12,24,26,22,20,Tyler Fernandez,Kieran Rose,Dan Abrams,Will Picone
+Bracket Play,6.0 Open Pro,Bracket A,P9: Quarter-final,Single game,Snarl,The Diamond Dogs,Snarl,21,14,,,,,Ben Savage,Dawson Morgan,Bennett Anderson,Reid Pfutzenreuter
+Bracket Play,6.0 Open Pro,Bracket A,P9: Quarter-final,Single game,The Fragrance,Manna,Manna,-1,0,,,,,Jacob Narayan,Paq Clifford,Aleks Essen,Jackson Wood
+Bracket Play,6.0 Open Pro,Bracket A,P9: Quarter-final,Single game,LL Come & Go,Automatic,Automatic,16,21,,,,,Mike Garrett,Jake Mottershead,Alex Newton,Riley Nassour
+Bracket Play,6.0 Open Pro,Bracket A,P9: Quarter-final,Single game,NEM Huge Hitbox,Tranzit,Tranzit,-1,0,,,,,Josh Hutko,Matt Spolarich,Bradley Clark,Peyton Stack
+Bracket Play,6.0 Open Pro,Bracket A,P17: Quarter-final,Single game,Clip Farm,Solar Storm,Solar Storm,15,21,,,,,Andrew Greer,Polk Denmark,Solomon Berry,Blake Van Den Top
+Bracket Play,6.0 Open Pro,Bracket A,P17: Quarter-final,Single game,Bang bang lighty boys,Walkie-Talkie,Walkie-Talkie,19,21,,,,,Jackson Biggs,Sam Diani,Jake Young,Jai Parera
+Bracket Play,6.0 Open Pro,Bracket A,P17: Quarter-final,Single game,FreeELO,Locked,Locked,20,22,,,,,Clifford Amadeo LeVeque,Nick Evanko,Andrew Nee,Matt Wallach
+Bracket Play,6.0 Open Pro,Bracket A,P17: Quarter-final,Single game,foolish,neal love dog🥢🐶🍚,foolish,35,33,,,,,Lucas Pruett,Sunny Gu,Joey Reynolds,Neal Bergman
+Bracket Play,6.0 Open Pro,Bracket A,Semi-final,Best of 3,Party Fowl,Drawing Dead,Drawing Dead,19,21,21,19,21,23,Cole Maddox,Kyle Fowler,Tyler Fernandez,Kieran Rose
+Bracket Play,6.0 Open Pro,Bracket A,Semi-final,Best of 3,Rogue,J.A.R.V.I.S.,Rogue,22,20,21,17,,,Thomas Hamilton,Ryan Marino,Josh Fragiacomo,Connor Nelson
+Bracket Play,6.0 Open Pro,Bracket A,P5: Semi-final,Single game,"TRP Abrams/ Picone ☀️🚿 ",Fourth Dimension,Fourth Dimension,17,21,,,,,Dan Abrams,Will Picone,Jake Woolley,Caleb Cummings
+Bracket Play,6.0 Open Pro,Bracket A,P5: Semi-final,Single game,NEM Seazonal,Somewhere between the mountain & the Ant,NEM Seazonal,21,18,,,,,Zach Snover,Jacob Summers,Ryan Gross,Gabe Finocchi
+Bracket Play,6.0 Open Pro,Bracket A,P9: Semi-final,Single game,Snarl,Tranzit,Snarl,0,-1,,,,,Ben Savage,Dawson Morgan,Bradley Clark,Peyton Stack
+Bracket Play,6.0 Open Pro,Bracket A,P9: Semi-final,Single game,Manna,Automatic,Manna,21,18,,,,,Aleks Essen,Jackson Wood,Alex Newton,Riley Nassour
+Bracket Play,6.0 Open Pro,Bracket A,P17: Semi-final,Single game,Solar Storm,foolish,Solar Storm,0,-1,,,,,Solomon Berry,Blake Van Den Top,Lucas Pruett,Sunny Gu
+Bracket Play,6.0 Open Pro,Bracket A,P17: Semi-final,Single game,Walkie-Talkie,Locked,Locked,18,21,,,,,Jake Young,Jai Parera,Andrew Nee,Matt Wallach
+Bracket Play,6.0 Open Pro,Bracket A,Final,Best of 3,Drawing Dead,Rogue,Rogue,18,21,22,24,,,Tyler Fernandez,Kieran Rose,Thomas Hamilton,Ryan Marino
+Bracket Play,6.0 Open Pro,Bracket A,P5: Final,Single game,Fourth Dimension,NEM Seazonal,Fourth Dimension,21,18,,,,,Jake Woolley,Caleb Cummings,Zach Snover,Jacob Summers
+Bracket Play,6.0 Open Pro,Bracket A,P9: Final,Single game,Snarl,Manna,Manna,19,21,,,,,Ben Savage,Dawson Morgan,Aleks Essen,Jackson Wood
+Bracket Play,6.0 Open Pro,Bracket A,P17: Final,Single game,Solar Storm,Locked,,-1,-1,,,,,Solomon Berry,Blake Van Den Top,Andrew Nee,Matt Wallach
+Bracket Play,6.0 Open Pro,Bracket A,P19: Final,Single game,Walkie-Talkie,foolish,Walkie-Talkie,1,0,,,,,Jake Young,Jai Parera,Lucas Pruett,Sunny Gu
