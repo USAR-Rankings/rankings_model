@@ -20,7 +20,7 @@ normalize_text <- function(x) {
     stri_trans_general("Latin-ASCII") %>%              # Removes accents: É → E
     toupper()                                          # Standard casing
 }
-div_cols <- c("Open.Division.1", "Open.Division.2", "Open.Division.3", "Women.Division.1")
+div_cols <- c("Open.Division.1", "Open.Division.2", "Open.Division.3", "Open.Division.4", "Women.Division.1","Women.Division.2")
 sheet_scrape2[div_cols] <- lapply(sheet_scrape2[div_cols], normalize_text)
 
 for(d in 1:2){
@@ -28,8 +28,8 @@ for(d in 1:2){
 # Here we determine which tournaments/divisions should count towards the model.
 qual_tourneys = sheet_scrape2 %>%
   filter(`For.Model.Use` == 'X') %>%
-  {if(gender == 'open') select(., Date, tourney, `Open.Division.1`:`Open.Division.3`) else .} %>%
-  {if(gender == 'women') select(., Date, tourney, `Women.Division.1`) else .} %>%
+  {if(gender == 'open') select(., Date, tourney, `Open.Division.1`:`Open.Division.4`) else .} %>%
+  {if(gender == 'women') select(., Date, tourney, `Women.Division.1`,`Women.Division.2`) else .} %>%
   pivot_longer(!c(tourney, Date), names_to = 'd', values_to = 'Division') %>%
   filter(Division != '') %>%
   select(Date, tourney, Division) %>%
