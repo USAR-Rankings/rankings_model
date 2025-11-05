@@ -1,0 +1,127 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Expert,Group A,1,Single game,Bergman/Fowler,Get Lei’d 🌺,Bergman/Fowler,21,10,,,,,Neal Bergman,Kyle Fowler,Sam Bunze,Austin Niles
+Pool Play,Expert,Group A,1,Single game,Martially Inclined,Gengar Goons,Gengar Goons,20,21,,,,,Jeremy Lee,Grant Marshall,Jack Walker,Jacob Narayan
+Pool Play,Expert,Group B,1,Single game,KAB Honey Jar,Summertime Blues,KAB Honey Jar,21,15,,,,,Ben Savage,Peyton Stack,Justin Goldman,Hampton Chappell
+Pool Play,Expert,Group B,1,Single game,Caufield/Gould,i’m tired of this grandpa,i’m tired of this grandpa,20,21,,,,,Joanna Gould,Sean Caufield,Bradley Clark,Noah Elconin
+Pool Play,Expert,Group C,1,Single game,Clifford/Yancey,History Buff,Clifford/Yancey,21,11,,,,,Andrew Yancey,Paq Clifford,Blake Van Den Top,Ben Landes
+Pool Play,Expert,Group C,1,Single game,Largemouth,Dumb n’ dumber,Largemouth,21,15,,,,,Harrison Baisden,Owen Bass,Sam Aven,Jose Knight
+Pool Play,Expert,Group A,2,Single game,Bergman/Fowler,Gengar Goons,Bergman/Fowler,21,5,,,,,Neal Bergman,Kyle Fowler,Jack Walker,Jacob Narayan
+Pool Play,Expert,Group A,2,Single game,Martially Inclined,Get Lei’d 🌺,Martially Inclined,21,15,,,,,Jeremy Lee,Grant Marshall,Sam Bunze,Austin Niles
+Pool Play,Expert,Group B,2,Single game,KAB Honey Jar,i’m tired of this grandpa,KAB Honey Jar,21,16,,,,,Ben Savage,Peyton Stack,Bradley Clark,Noah Elconin
+Pool Play,Expert,Group B,2,Single game,Caufield/Gould,Summertime Blues,Caufield/Gould,21,15,,,,,Joanna Gould,Sean Caufield,Justin Goldman,Hampton Chappell
+Pool Play,Expert,Group C,2,Single game,Clifford/Yancey,Dumb n’ dumber,Clifford/Yancey,21,6,,,,,Andrew Yancey,Paq Clifford,Sam Aven,Jose Knight
+Pool Play,Expert,Group C,2,Single game,Largemouth,History Buff,Largemouth,21,17,,,,,Harrison Baisden,Owen Bass,Blake Van Den Top,Ben Landes
+Pool Play,Expert,Group A,3,Single game,Bergman/Fowler,Martially Inclined,Bergman/Fowler,21,8,,,,,Neal Bergman,Kyle Fowler,Jeremy Lee,Grant Marshall
+Pool Play,Expert,Group A,3,Single game,Gengar Goons,Get Lei’d 🌺,Gengar Goons,21,17,,,,,Jack Walker,Jacob Narayan,Sam Bunze,Austin Niles
+Pool Play,Expert,Group B,3,Single game,KAB Honey Jar,Caufield/Gould,KAB Honey Jar,21,13,,,,,Ben Savage,Peyton Stack,Joanna Gould,Sean Caufield
+Pool Play,Expert,Group B,3,Single game,i’m tired of this grandpa,Summertime Blues,Summertime Blues,18,21,,,,,Bradley Clark,Noah Elconin,Justin Goldman,Hampton Chappell
+Pool Play,Expert,Group C,3,Single game,Clifford/Yancey,Largemouth,Clifford/Yancey,21,9,,,,,Andrew Yancey,Paq Clifford,Harrison Baisden,Owen Bass
+Pool Play,Expert,Group C,3,Single game,Dumb n’ dumber,History Buff,Dumb n’ dumber,21,13,,,,,Sam Aven,Jose Knight,Blake Van Den Top,Ben Landes
+Bracket Play,Expert,Bracket A,Round of 16,Best of 3,Gengar Goons,History Buff,History Buff,21,15,12,21,17,21,Jack Walker,Jacob Narayan,Blake Van Den Top,Ben Landes
+Bracket Play,Expert,Bracket A,Round of 16,Best of 3,Caufield/Gould,Get Lei’d 🌺,Caufield/Gould,0,1,1,0,1,0,Joanna Gould,Sean Caufield,Sam Bunze,Austin Niles
+Bracket Play,Expert,Bracket A,Round of 16,Best of 3,i’m tired of this grandpa,Dumb n’ dumber,Dumb n’ dumber,11,21,21,18,19,21,Bradley Clark,Noah Elconin,Sam Aven,Jose Knight
+Bracket Play,Expert,Bracket A,Round of 16,Best of 3,Martially Inclined,Summertime Blues,Martially Inclined,21,17,21,18,,,Jeremy Lee,Grant Marshall,Justin Goldman,Hampton Chappell
+Bracket Play,Expert,Bracket A,Quarter-final,Best of 3,Bergman/Fowler,Martially Inclined,Bergman/Fowler,21,15,21,12,,,Neal Bergman,Kyle Fowler,Jeremy Lee,Grant Marshall
+Bracket Play,Expert,Bracket A,Quarter-final,Best of 3,Clifford/Yancey,Dumb n’ dumber,Clifford/Yancey,21,10,21,9,,,Andrew Yancey,Paq Clifford,Sam Aven,Jose Knight
+Bracket Play,Expert,Bracket A,Quarter-final,Best of 3,KAB Honey Jar,Caufield/Gould,KAB Honey Jar,21,14,21,11,,,Ben Savage,Peyton Stack,Joanna Gould,Sean Caufield
+Bracket Play,Expert,Bracket A,Quarter-final,Best of 3,Largemouth,History Buff,History Buff,15,21,29,27,19,21,Harrison Baisden,Owen Bass,Blake Van Den Top,Ben Landes
+Bracket Play,Expert,Bracket A,Semi-final,Best of 3,Bergman/Fowler,History Buff,Bergman/Fowler,21,12,21,9,,,Neal Bergman,Kyle Fowler,Blake Van Den Top,Ben Landes
+Bracket Play,Expert,Bracket A,Semi-final,Best of 3,Clifford/Yancey,KAB Honey Jar,Clifford/Yancey,14,21,21,19,21,11,Andrew Yancey,Paq Clifford,Ben Savage,Peyton Stack
+Bracket Play,Expert,Bracket A,P9: Semi-final,Single game,Summertime Blues,Gengar Goons,Summertime Blues,1,0,,,,,Justin Goldman,Hampton Chappell,Jack Walker,Jacob Narayan
+Bracket Play,Expert,Bracket A,P9: Semi-final,Single game,i’m tired of this grandpa,Get Lei’d 🌺,Get Lei’d 🌺,0,1,,,,,Bradley Clark,Noah Elconin,Sam Bunze,Austin Niles
+Bracket Play,Expert,Bracket A,Final,Best of 3,Bergman/Fowler,Clifford/Yancey,Clifford/Yancey,19,21,21,16,19,21,Neal Bergman,Kyle Fowler,Andrew Yancey,Paq Clifford
+Bracket Play,Expert,Bracket A,P3: Final,Best of 3,KAB Honey Jar,History Buff,KAB Honey Jar,21,9,21,13,,,Ben Savage,Peyton Stack,Blake Van Den Top,Ben Landes
+Bracket Play,Expert,Bracket A,P9: Final,Single game,Summertime Blues,Get Lei’d 🌺,Summertime Blues,1,0,,,,,Justin Goldman,Hampton Chappell,Sam Bunze,Austin Niles
+Pool Play,Contender,Group A,1,Single game,pramodh n henry,Luke Nettles’ Minions,pramodh n henry,21,0,,,,,Pramodh Sundarshrii,Henry Raman,Addyson Cobb,Daniel Vincent
+Pool Play,Contender,Group A,1,Single game,Ekklesia,Football School,Ekklesia,21,20,,,,,Bryan Sanchez,Levi Campbell,Jack Larson,Miles Butler
+Pool Play,Contender,Group B,1,Single game,"*Twisted* ",athletically pleasing,"*Twisted* ",21,1,,,,,Cole Solomon,Cody Peterson,Mark Hall,Isabella Higman
+Pool Play,Contender,Group B,1,Single game,Scooby dooby duo,Perlson / Viado,Scooby dooby duo,21,18,,,,,Jack McGuffage,Joshua Carpenter,Brian Perlson,lauren viado
+Pool Play,Contender,Group C,1,Single game,Oval Office,Big Nuts,Oval Office,21,18,,,,,Will Blass,Anthony Schenk,John Lambremont,Jack Raabe
+Pool Play,Contender,Group C,1,Single game,can you SET me Higher?,WE SPEAK FOR DA TREES,can you SET me Higher?,21,14,,,,,Avery Barron,Derrick Zehr,Chris Suhr,Samantha Sanchez
+Pool Play,Contender,Group D,1,Single game,Justin/Sean,Derek & Collin,Justin/Sean,21,9,,,,,Justin Ah Chow,Sean Santos,Derek Zochowski,Collin Ireland
+Pool Play,Contender,Group D,1,Single game,craven the ocean,Barber Shop Haircut,Barber Shop Haircut,14,21,,,,,Ocean Chang,Rosie Craven,Carson Kurdys,Jackson Smith
+Pool Play,Contender,Group E,1,Single game,Survivors,Wizards,Survivors,21,0,,,,,Zeke Beckford,Hudson Powers,Alex Pohl,Nile Dorsey
+Pool Play,Contender,Group E,1,Single game,I Got Short,Fuck Pramodh,Fuck Pramodh,20,21,,,,,Jack  Roberts,Spencer Sexton,Sachin Kathir,Joshua Hevelow
+Pool Play,Contender,Group F,1,Single game,Labu Labu,The sigmas,Labu Labu,21,9,,,,,Brock Lodato,Tiff Ding,Keegan Luisi-Robinson,Tucker Bailey
+Pool Play,Contender,Group F,1,Single game,Unagi,Teague Time,Unagi,21,7,,,,,Joseph Gibson,Christina Nikas,Trent Minton,Ben Herring
+Pool Play,Contender,Group G,1,Single game,Up on Cripple Creek,The Fellows,Up on Cripple Creek,21,11,,,,,Ian Matthews,Clay Stephens,Eli McFadden,Caleb Kendrick
+Pool Play,Contender,Group G,1,Single game,Kennessee Boys,Spikeball Team,Kennessee Boys,21,4,,,,,Parker Smith,Garret Chaffins,Andrew F,Aidan Gao
+Pool Play,Contender,Group H,1,Single game,Cowabunga 🤙🏼,Josh & John Paul,Cowabunga 🤙🏼,21,5,,,,,Parker Mckinney,Connar Kloehn,Josh Bushart,John Paul Pokorny
+Pool Play,Contender,Group H,1,Single game,Jake & Dave,Italian Heroes,Jake & Dave,21,5,,,,,David Gonzales,Jake Kelley,Drew Fatter,Josh Malizzo
+Pool Play,Contender,Group A,2,Single game,pramodh n henry,Football School,pramodh n henry,21,15,,,,,Pramodh Sundarshrii,Henry Raman,Jack Larson,Miles Butler
+Pool Play,Contender,Group A,2,Single game,Ekklesia,Luke Nettles’ Minions,Ekklesia,21,0,,,,,Bryan Sanchez,Levi Campbell,Addyson Cobb,Daniel Vincent
+Pool Play,Contender,Group B,2,Single game,"*Twisted* ",Perlson / Viado,"*Twisted* ",21,7,,,,,Cole Solomon,Cody Peterson,Brian Perlson,lauren viado
+Pool Play,Contender,Group B,2,Single game,Scooby dooby duo,athletically pleasing,Scooby dooby duo,21,8,,,,,Jack McGuffage,Joshua Carpenter,Mark Hall,Isabella Higman
+Pool Play,Contender,Group C,2,Single game,Oval Office,WE SPEAK FOR DA TREES,Oval Office,21,4,,,,,Will Blass,Anthony Schenk,Chris Suhr,Samantha Sanchez
+Pool Play,Contender,Group C,2,Single game,can you SET me Higher?,Big Nuts,can you SET me Higher?,21,11,,,,,Avery Barron,Derrick Zehr,John Lambremont,Jack Raabe
+Pool Play,Contender,Group D,2,Single game,Justin/Sean,Barber Shop Haircut,Justin/Sean,21,18,,,,,Justin Ah Chow,Sean Santos,Carson Kurdys,Jackson Smith
+Pool Play,Contender,Group D,2,Single game,craven the ocean,Derek & Collin,craven the ocean,21,18,,,,,Ocean Chang,Rosie Craven,Derek Zochowski,Collin Ireland
+Pool Play,Contender,Group E,2,Single game,Survivors,Fuck Pramodh,Survivors,21,8,,,,,Zeke Beckford,Hudson Powers,Sachin Kathir,Joshua Hevelow
+Pool Play,Contender,Group E,2,Single game,I Got Short,Wizards,I Got Short,21,5,,,,,Jack  Roberts,Spencer Sexton,Alex Pohl,Nile Dorsey
+Pool Play,Contender,Group F,2,Single game,Labu Labu,Teague Time,Labu Labu,21,12,,,,,Brock Lodato,Tiff Ding,Trent Minton,Ben Herring
+Pool Play,Contender,Group F,2,Single game,Unagi,The sigmas,Unagi,21,8,,,,,Joseph Gibson,Christina Nikas,Keegan Luisi-Robinson,Tucker Bailey
+Pool Play,Contender,Group G,2,Single game,Up on Cripple Creek,Spikeball Team,Up on Cripple Creek,21,8,,,,,Ian Matthews,Clay Stephens,Andrew F,Aidan Gao
+Pool Play,Contender,Group G,2,Single game,Kennessee Boys,The Fellows,Kennessee Boys,21,5,,,,,Parker Smith,Garret Chaffins,Eli McFadden,Caleb Kendrick
+Pool Play,Contender,Group H,2,Single game,Cowabunga 🤙🏼,Italian Heroes,Cowabunga 🤙🏼,21,11,,,,,Parker Mckinney,Connar Kloehn,Drew Fatter,Josh Malizzo
+Pool Play,Contender,Group H,2,Single game,Jake & Dave,Josh & John Paul,Jake & Dave,21,7,,,,,David Gonzales,Jake Kelley,Josh Bushart,John Paul Pokorny
+Pool Play,Contender,Group A,3,Single game,pramodh n henry,Ekklesia,pramodh n henry,21,14,,,,,Pramodh Sundarshrii,Henry Raman,Bryan Sanchez,Levi Campbell
+Pool Play,Contender,Group A,3,Single game,Football School,Luke Nettles’ Minions,Football School,21,0,,,,,Jack Larson,Miles Butler,Addyson Cobb,Daniel Vincent
+Pool Play,Contender,Group B,3,Single game,"*Twisted* ",Scooby dooby duo,"*Twisted* ",21,11,,,,,Cole Solomon,Cody Peterson,Jack McGuffage,Joshua Carpenter
+Pool Play,Contender,Group B,3,Single game,Perlson / Viado,athletically pleasing,Perlson / Viado,21,5,,,,,Brian Perlson,lauren viado,Mark Hall,Isabella Higman
+Pool Play,Contender,Group C,3,Single game,Oval Office,can you SET me Higher?,Oval Office,21,11,,,,,Will Blass,Anthony Schenk,Avery Barron,Derrick Zehr
+Pool Play,Contender,Group C,3,Single game,WE SPEAK FOR DA TREES,Big Nuts,Big Nuts,11,21,,,,,Chris Suhr,Samantha Sanchez,John Lambremont,Jack Raabe
+Pool Play,Contender,Group D,3,Single game,Justin/Sean,craven the ocean,Justin/Sean,21,9,,,,,Justin Ah Chow,Sean Santos,Ocean Chang,Rosie Craven
+Pool Play,Contender,Group D,3,Single game,Barber Shop Haircut,Derek & Collin,Barber Shop Haircut,21,5,,,,,Carson Kurdys,Jackson Smith,Derek Zochowski,Collin Ireland
+Pool Play,Contender,Group E,3,Single game,Survivors,I Got Short,Survivors,21,13,,,,,Zeke Beckford,Hudson Powers,Jack  Roberts,Spencer Sexton
+Pool Play,Contender,Group E,3,Single game,Fuck Pramodh,Wizards,Fuck Pramodh,21,6,,,,,Sachin Kathir,Joshua Hevelow,Alex Pohl,Nile Dorsey
+Pool Play,Contender,Group F,3,Single game,Labu Labu,Unagi,Unagi,19,21,,,,,Brock Lodato,Tiff Ding,Joseph Gibson,Christina Nikas
+Pool Play,Contender,Group F,3,Single game,Teague Time,The sigmas,Teague Time,21,7,,,,,Trent Minton,Ben Herring,Keegan Luisi-Robinson,Tucker Bailey
+Pool Play,Contender,Group G,3,Single game,Up on Cripple Creek,Kennessee Boys,Up on Cripple Creek,21,12,,,,,Ian Matthews,Clay Stephens,Parker Smith,Garret Chaffins
+Pool Play,Contender,Group G,3,Single game,Spikeball Team,The Fellows,The Fellows,20,21,,,,,Andrew F,Aidan Gao,Eli McFadden,Caleb Kendrick
+Pool Play,Contender,Group H,3,Single game,Cowabunga 🤙🏼,Jake & Dave,Cowabunga 🤙🏼,21,14,,,,,Parker Mckinney,Connar Kloehn,David Gonzales,Jake Kelley
+Pool Play,Contender,Group H,3,Single game,Italian Heroes,Josh & John Paul,Italian Heroes,21,11,,,,,Drew Fatter,Josh Malizzo,Josh Bushart,John Paul Pokorny
+Bracket Play,Contender,Bracket A,Round of 16,Best of 3,"*Twisted* ",Fuck Pramodh,"*Twisted* ",21,7,21,7,,,Cole Solomon,Cody Peterson,Sachin Kathir,Joshua Hevelow
+Bracket Play,Contender,Bracket A,Round of 16,Best of 3,Survivors,Scooby dooby duo,Survivors,21,14,22,20,,,Zeke Beckford,Hudson Powers,Jack McGuffage,Joshua Carpenter
+Bracket Play,Contender,Bracket A,Round of 16,Best of 3,pramodh n henry,can you SET me Higher?,pramodh n henry,21,17,21,16,,,Pramodh Sundarshrii,Henry Raman,Avery Barron,Derrick Zehr
+Bracket Play,Contender,Bracket A,Round of 16,Best of 3,Cowabunga 🤙🏼,Ekklesia,Cowabunga 🤙🏼,1,0,1,0,,,Parker Mckinney,Connar Kloehn,Bryan Sanchez,Levi Campbell
+Bracket Play,Contender,Bracket A,Round of 16,Best of 3,Up on Cripple Creek,Labu Labu,Up on Cripple Creek,21,17,19,21,21,13,Ian Matthews,Clay Stephens,Brock Lodato,Tiff Ding
+Bracket Play,Contender,Bracket A,Round of 16,Best of 3,Oval Office,Barber Shop Haircut,Oval Office,21,9,21,11,,,Will Blass,Anthony Schenk,Carson Kurdys,Jackson Smith
+Bracket Play,Contender,Bracket A,Round of 16,Best of 3,Unagi,Jake & Dave,Jake & Dave,1,0,0,1,0,1,Joseph Gibson,Christina Nikas,David Gonzales,Jake Kelley
+Bracket Play,Contender,Bracket A,Round of 16,Best of 3,Justin/Sean,Kennessee Boys,Justin/Sean,1,0,1,0,,,Justin Ah Chow,Sean Santos,Parker Smith,Garret Chaffins
+Bracket Play,Contender,Bracket A,Quarter-final,Best of 3,"*Twisted* ",Justin/Sean,Justin/Sean,19,21,21,12,14,21,Cole Solomon,Cody Peterson,Justin Ah Chow,Sean Santos
+Bracket Play,Contender,Bracket A,Quarter-final,Best of 3,Survivors,Jake & Dave,Survivors,0,1,1,0,1,0,Zeke Beckford,Hudson Powers,David Gonzales,Jake Kelley
+Bracket Play,Contender,Bracket A,Quarter-final,Best of 3,pramodh n henry,Oval Office,Oval Office,19,21,15,21,,,Pramodh Sundarshrii,Henry Raman,Will Blass,Anthony Schenk
+Bracket Play,Contender,Bracket A,Quarter-final,Best of 3,Cowabunga 🤙🏼,Up on Cripple Creek,Cowabunga 🤙🏼,21,18,22,20,,,Parker Mckinney,Connar Kloehn,Ian Matthews,Clay Stephens
+Bracket Play,Contender,Bracket A,P9: Quarter-final,Single game,Kennessee Boys,Fuck Pramodh,Kennessee Boys,21,7,,,,,Parker Smith,Garret Chaffins,Sachin Kathir,Joshua Hevelow
+Bracket Play,Contender,Bracket A,P9: Quarter-final,Single game,Unagi,Scooby dooby duo,Scooby dooby duo,18,21,,,,,Joseph Gibson,Christina Nikas,Jack McGuffage,Joshua Carpenter
+Bracket Play,Contender,Bracket A,P9: Quarter-final,Single game,Barber Shop Haircut,can you SET me Higher?,Barber Shop Haircut,21,19,,,,,Carson Kurdys,Jackson Smith,Avery Barron,Derrick Zehr
+Bracket Play,Contender,Bracket A,Semi-final,Best of 3,Justin/Sean,Cowabunga 🤙🏼,Justin/Sean,1,0,0,1,1,0,Justin Ah Chow,Sean Santos,Parker Mckinney,Connar Kloehn
+Bracket Play,Contender,Bracket A,Semi-final,Best of 3,Survivors,Oval Office,Oval Office,17,21,9,21,,,Zeke Beckford,Hudson Powers,Will Blass,Anthony Schenk
+Bracket Play,Contender,Bracket A,P5: Semi-final,Single game,Up on Cripple Creek,"*Twisted* ",Up on Cripple Creek,1,0,,,,,Ian Matthews,Clay Stephens,Cole Solomon,Cody Peterson
+Bracket Play,Contender,Bracket A,P5: Semi-final,Single game,pramodh n henry,Jake & Dave,Jake & Dave,0,1,,,,,Pramodh Sundarshrii,Henry Raman,David Gonzales,Jake Kelley
+Bracket Play,Contender,Bracket A,Final,Best of 3,Justin/Sean,Oval Office,Justin/Sean,22,20,22,20,,,Justin Ah Chow,Sean Santos,Will Blass,Anthony Schenk
+Bracket Play,Contender,Bracket A,P3: Final,Single game,Survivors,Cowabunga 🤙🏼,Survivors,1,0,,,,,Zeke Beckford,Hudson Powers,Parker Mckinney,Connar Kloehn
+Bracket Play,Contender,Bracket A,P5: Final,Single game,Up on Cripple Creek,Jake & Dave,Jake & Dave,0,1,,,,,Ian Matthews,Clay Stephens,David Gonzales,Jake Kelley
+Bracket Play,Contender,Bracket B,Round of 16,Best of 3,Football School,Luke Nettles’ Minions,Football School,1,0,1,0,,,Jack Larson,Miles Butler,Addyson Cobb,Daniel Vincent
+Bracket Play,Contender,Bracket B,Round of 16,Best of 3,I Got Short,Wizards,I Got Short,21,5,1,0,,,Jack  Roberts,Spencer Sexton,Alex Pohl,Nile Dorsey
+Bracket Play,Contender,Bracket B,Round of 16,Best of 3,Perlson / Viado,athletically pleasing,Perlson / Viado,21,7,21,12,,,Brian Perlson,lauren viado,Mark Hall,Isabella Higman
+Bracket Play,Contender,Bracket B,Round of 16,Best of 3,Big Nuts,Josh & John Paul,Big Nuts,1,0,1,0,,,John Lambremont,Jack Raabe,Josh Bushart,John Paul Pokorny
+Bracket Play,Contender,Bracket B,Round of 16,Best of 3,Teague Time,The sigmas,Teague Time,21,12,21,12,,,Trent Minton,Ben Herring,Keegan Luisi-Robinson,Tucker Bailey
+Bracket Play,Contender,Bracket B,Round of 16,Best of 3,craven the ocean,WE SPEAK FOR DA TREES,craven the ocean,0,-1,0,-1,,,Ocean Chang,Rosie Craven,Chris Suhr,Samantha Sanchez
+Bracket Play,Contender,Bracket B,Round of 16,Best of 3,Italian Heroes,Derek & Collin,Derek & Collin,21,15,13,21,14,21,Drew Fatter,Josh Malizzo,Derek Zochowski,Collin Ireland
+Bracket Play,Contender,Bracket B,Round of 16,Best of 3,The Fellows,Spikeball Team,The Fellows,21,18,21,17,,,Eli McFadden,Caleb Kendrick,Andrew F,Aidan Gao
+Bracket Play,Contender,Bracket B,Quarter-final,Best of 3,Football School,The Fellows,Football School,21,16,21,15,,,Jack Larson,Miles Butler,Eli McFadden,Caleb Kendrick
+Bracket Play,Contender,Bracket B,Quarter-final,Best of 3,I Got Short,Derek & Collin,I Got Short,21,13,21,17,,,Jack  Roberts,Spencer Sexton,Derek Zochowski,Collin Ireland
+Bracket Play,Contender,Bracket B,Quarter-final,Best of 3,Perlson / Viado,craven the ocean,Perlson / Viado,21,11,17,21,21,10,Brian Perlson,lauren viado,Ocean Chang,Rosie Craven
+Bracket Play,Contender,Bracket B,Quarter-final,Best of 3,Big Nuts,Teague Time,Teague Time,1,0,0,1,0,1,John Lambremont,Jack Raabe,Trent Minton,Ben Herring
+Bracket Play,Contender,Bracket B,P9: Quarter-final,Single game,Spikeball Team,Luke Nettles’ Minions,Spikeball Team,1,0,,,,,Andrew F,Aidan Gao,Addyson Cobb,Daniel Vincent
+Bracket Play,Contender,Bracket B,P9: Quarter-final,Single game,Italian Heroes,Wizards,Wizards,0,1,,,,,Drew Fatter,Josh Malizzo,Alex Pohl,Nile Dorsey
+Bracket Play,Contender,Bracket B,P9: Quarter-final,Single game,WE SPEAK FOR DA TREES,athletically pleasing,athletically pleasing,0,1,,,,,Chris Suhr,Samantha Sanchez,Mark Hall,Isabella Higman
+Bracket Play,Contender,Bracket B,P9: Quarter-final,Single game,The sigmas,Josh & John Paul,Josh & John Paul,0,1,,,,,Keegan Luisi-Robinson,Tucker Bailey,Josh Bushart,John Paul Pokorny
+Bracket Play,Contender,Bracket B,Semi-final,Best of 3,Football School,Teague Time,Teague Time,0,1,0,1,,,Jack Larson,Miles Butler,Trent Minton,Ben Herring
+Bracket Play,Contender,Bracket B,Semi-final,Best of 3,I Got Short,Perlson / Viado,Perlson / Viado,19,21,16,21,,,Jack  Roberts,Spencer Sexton,Brian Perlson,lauren viado
+Bracket Play,Contender,Bracket B,P5: Semi-final,Single game,Big Nuts,The Fellows,Big Nuts,1,0,,,,,John Lambremont,Jack Raabe,Eli McFadden,Caleb Kendrick
+Bracket Play,Contender,Bracket B,P5: Semi-final,Single game,craven the ocean,Derek & Collin,Derek & Collin,17,21,,,,,Ocean Chang,Rosie Craven,Derek Zochowski,Collin Ireland
+Bracket Play,Contender,Bracket B,Final,Best of 3,Teague Time,Perlson / Viado,Perlson / Viado,12,21,12,21,,,Trent Minton,Ben Herring,Brian Perlson,lauren viado
+Bracket Play,Contender,Bracket B,P5: Final,Single game,Big Nuts,Derek & Collin,Big Nuts,21,11,,,,,John Lambremont,Jack Raabe,Derek Zochowski,Collin Ireland
+Bracket Play,Contender,Bracket B,P7: Final,Single game,craven the ocean,The Fellows,craven the ocean,0,-1,,,,,Ocean Chang,Rosie Craven,Eli McFadden,Caleb Kendrick
