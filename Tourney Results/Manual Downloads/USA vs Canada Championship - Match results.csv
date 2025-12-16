@@ -1,0 +1,132 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Open 2.0-3.0,Group A,1,Single game,Happy 2 be here,Thing 1 and thing 2,Thing 1 and thing 2,7,21,,,,,Samantha Crawford,Jacob Sim,Alejandro Serna,Daniel Ospina
+Pool Play,Open 2.0-3.0,Group A,1,Single game,"Scotchies ",Pasta La vista,"Scotchies ",21,15,,,,,Mason Hansen,katie evans,Luca Benanti,Michael Giordano
+Pool Play,Open 2.0-3.0,Group A,2,Single game,Happy 2 be here,Pasta La vista,Pasta La vista,15,21,,,,,Samantha Crawford,Jacob Sim,Luca Benanti,Michael Giordano
+Pool Play,Open 2.0-3.0,Group A,2,Single game,"Scotchies ",Thing 1 and thing 2,Thing 1 and thing 2,13,21,,,,,Mason Hansen,katie evans,Alejandro Serna,Daniel Ospina
+Pool Play,Open 2.0-3.0,Group A,3,Single game,Happy 2 be here,"Scotchies ","Scotchies ",6,21,,,,,Samantha Crawford,Jacob Sim,Mason Hansen,katie evans
+Pool Play,Open 2.0-3.0,Group A,3,Single game,Pasta La vista,Thing 1 and thing 2,Thing 1 and thing 2,9,21,,,,,Luca Benanti,Michael Giordano,Alejandro Serna,Daniel Ospina
+Bracket Stage,Open 2.0-3.0,Bracket A,Quarter-final,Best of 3,Pasta La vista,Happy 2 be here,Pasta La vista,21,18,1,0,,,Luca Benanti,Michael Giordano,Samantha Crawford,Jacob Sim
+Bracket Stage,Open 2.0-3.0,Bracket A,Semi-final,Best of 3,Thing 1 and thing 2,Pasta La vista,Thing 1 and thing 2,21,13,21,10,,,Alejandro Serna,Daniel Ospina,Luca Benanti,Michael Giordano
+Bracket Stage,Open 2.0-3.0,Bracket A,Semi-final,Best of 3,"Scotchies ","Here to Slay ","Here to Slay ",19,21,9,21,,,Mason Hansen,katie evans,Emma Wosik,Anjali Patel
+Bracket Stage,Open 2.0-3.0,Bracket A,Final,Best of 3,Thing 1 and thing 2,"Here to Slay ",Thing 1 and thing 2,21,16,21,12,,,Alejandro Serna,Daniel Ospina,Emma Wosik,Anjali Patel
+Bracket Stage,Open 2.0-3.0,Bracket A,P3: Final,Best of 3,"Scotchies ",Pasta La vista,Pasta La vista,16,21,21,16,17,21,Mason Hansen,katie evans,Luca Benanti,Michael Giordano
+Pool Play,Open 4.0-4.5,Group A,1,Single game,Dooley Ding,Spikeballogists,Dooley Ding,13,5,,,,,Stef Ding,Jake Dooley,Jeremy Wing,Daniel Greco
+Pool Play,Open 4.0-4.5,Group A,1,Single game,ｃｕｔｔｌｅｆｉｓｈ 🐙,Freight Trains,ｃｕｔｔｌｅｆｉｓｈ 🐙,13,1,,,,,Richard Lam,Tim Yip,Matthew Delasandro,Josh Sullivan
+Pool Play,Open 4.0-4.5,Group B,1,Single game,Goblin Gang,Fearless,Fearless,8,13,,,,,Dante Maldonado,Brian Zatkos,Colin Carr,Murray McAuliffe
+Pool Play,Open 4.0-4.5,Group C,1,Single game,evdeenio,"Here to Slay ",evdeenio,13,4,,,,,Evan Leatherbarrow,Alden Nash,Emma Wosik,Anjali Patel
+Pool Play,Open 4.0-4.5,Group C,1,Single game,Out of Pocket,Cha Cha Time,Out of Pocket,13,8,,,,,Zachary Sanders,Sam Kautzman,Joshua Chan,Quentin Chiu
+Pool Play,Open 4.0-4.5,Group D,1,Single game,Unc and Unccer,AK's Apprentices,Unc and Unccer,13,6,,,,,Nic Albornoz,Spencer Argenna,Noah Smith,Roark Baker
+Pool Play,Open 4.0-4.5,Group D,1,Single game,Hungry?,Deanie Babies,Deanie Babies,12,14,,,,,Zach Regas,Logan Pallo,,
+Pool Play,Open 4.0-4.5,Group A,2,Single game,Dooley Ding,Freight Trains,Dooley Ding,13,2,,,,,Stef Ding,Jake Dooley,Matthew Delasandro,Josh Sullivan
+Pool Play,Open 4.0-4.5,Group B,2,Single game,Serving Cut,SpikeOps,Serving Cut,13,3,,,,,Ally Chou,Abby Norris,Jack Gradzewicz,Joseph Artikuski
+Pool Play,Open 4.0-4.5,Group C,2,Single game,evdeenio,Cha Cha Time,evdeenio,13,3,,,,,Evan Leatherbarrow,Alden Nash,Joshua Chan,Quentin Chiu
+Pool Play,Open 4.0-4.5,Group C,2,Single game,Vallée/Lapointe-Ray,"Here to Slay ",Vallée/Lapointe-Ray,13,3,,,,,Adele Lapointe-Roy,Laurence Vallée,Emma Wosik,Anjali Patel
+Pool Play,Open 4.0-4.5,Group D,2,Single game,Unc and Unccer,Deanie Babies,Unc and Unccer,13,9,,,,,Nic Albornoz,Spencer Argenna,,
+Pool Play,Open 4.0-4.5,Group D,2,Single game,Hungry?,AK's Apprentices,Hungry?,13,7,,,,,Zach Regas,Logan Pallo,Noah Smith,Roark Baker
+Pool Play,Open 4.0-4.5,Group A,3,Single game,ｃｕｔｔｌｅｆｉｓｈ 🐙,Spikeballogists,ｃｕｔｔｌｅｆｉｓｈ 🐙,13,1,,,,,Richard Lam,Tim Yip,Jeremy Wing,Daniel Greco
+Pool Play,Open 4.0-4.5,Group B,3,Single game,Goblin Gang,SpikeOps,SpikeOps,4,13,,,,,Dante Maldonado,Brian Zatkos,Jack Gradzewicz,Joseph Artikuski
+Pool Play,Open 4.0-4.5,Group C,3,Single game,evdeenio,Vallée/Lapointe-Ray,Vallée/Lapointe-Ray,9,13,,,,,Evan Leatherbarrow,Alden Nash,Adele Lapointe-Roy,Laurence Vallée
+Pool Play,Open 4.0-4.5,Group C,3,Single game,Out of Pocket,"Here to Slay ",Out of Pocket,13,5,,,,,Zachary Sanders,Sam Kautzman,Emma Wosik,Anjali Patel
+Pool Play,Open 4.0-4.5,Group D,3,Single game,Unc and Unccer,Hungry?,Unc and Unccer,14,12,,,,,Nic Albornoz,Spencer Argenna,Zach Regas,Logan Pallo
+Pool Play,Open 4.0-4.5,Group D,3,Single game,Deanie Babies,AK's Apprentices,AK's Apprentices,11,13,,,,,,,Noah Smith,Roark Baker
+Pool Play,Open 4.0-4.5,Group A,4,Single game,Freight Trains,Spikeballogists,Spikeballogists,12,13,,,,,Matthew Delasandro,Josh Sullivan,Jeremy Wing,Daniel Greco
+Pool Play,Open 4.0-4.5,Group B,4,Single game,Goblin Gang,Serving Cut,Serving Cut,4,13,,,,,Dante Maldonado,Brian Zatkos,Ally Chou,Abby Norris
+Pool Play,Open 4.0-4.5,Group B,4,Single game,Fearless,SpikeOps,SpikeOps,10,13,,,,,Colin Carr,Murray McAuliffe,Jack Gradzewicz,Joseph Artikuski
+Pool Play,Open 4.0-4.5,Group C,4,Single game,Out of Pocket,Vallée/Lapointe-Ray,Out of Pocket,13,6,,,,,Zachary Sanders,Sam Kautzman,Adele Lapointe-Roy,Laurence Vallée
+Pool Play,Open 4.0-4.5,Group C,4,Single game,Cha Cha Time,"Here to Slay ",Cha Cha Time,13,4,,,,,Joshua Chan,Quentin Chiu,Emma Wosik,Anjali Patel
+Pool Play,Open 4.0-4.5,Group A,5,Single game,Dooley Ding,ｃｕｔｔｌｅｆｉｓｈ 🐙,ｃｕｔｔｌｅｆｉｓｈ 🐙,9,13,,,,,Stef Ding,Jake Dooley,Richard Lam,Tim Yip
+Pool Play,Open 4.0-4.5,Group B,5,Single game,Serving Cut,Fearless,Serving Cut,13,1,,,,,Ally Chou,Abby Norris,Colin Carr,Murray McAuliffe
+Pool Play,Open 4.0-4.5,Group C,5,Single game,evdeenio,Out of Pocket,Out of Pocket,11,13,,,,,Evan Leatherbarrow,Alden Nash,Zachary Sanders,Sam Kautzman
+Pool Play,Open 4.0-4.5,Group C,5,Single game,Vallée/Lapointe-Ray,Cha Cha Time,Vallée/Lapointe-Ray,13,8,,,,,Adele Lapointe-Roy,Laurence Vallée,Joshua Chan,Quentin Chiu
+Bracket Stage,Open 4.0-4.5,Bracket A,Round of 16,Best of 3,Serving Cut,Freight Trains,Serving Cut,17,8,17,5,,,Ally Chou,Abby Norris,Matthew Delasandro,Josh Sullivan
+Bracket Stage,Open 4.0-4.5,Bracket A,Round of 16,Best of 3,ｃｕｔｔｌｅｆｉｓｈ 🐙,Goblin Gang,ｃｕｔｔｌｅｆｉｓｈ 🐙,17,5,17,7,,,Richard Lam,Tim Yip,Dante Maldonado,Brian Zatkos
+Bracket Stage,Open 4.0-4.5,Bracket A,Round of 16,Best of 3,Out of Pocket,Cha Cha Time,Cha Cha Time,15,17,9,17,,,Zachary Sanders,Sam Kautzman,Joshua Chan,Quentin Chiu
+Bracket Stage,Open 4.0-4.5,Bracket A,Round of 16,Best of 3,Unc and Unccer,Spikeballogists,Unc and Unccer,17,5,17,6,,,Nic Albornoz,Spencer Argenna,Jeremy Wing,Daniel Greco
+Bracket Stage,Open 4.0-4.5,Bracket A,Round of 16,Best of 3,Dooley Ding,AK's Apprentices,Dooley Ding,17,11,17,13,,,Stef Ding,Jake Dooley,Noah Smith,Roark Baker
+Bracket Stage,Open 4.0-4.5,Bracket A,Round of 16,Best of 3,Vallée/Lapointe-Ray,Fearless,Vallée/Lapointe-Ray,17,9,17,6,,,Adele Lapointe-Roy,Laurence Vallée,Colin Carr,Murray McAuliffe
+Bracket Stage,Open 4.0-4.5,Bracket A,Round of 16,Best of 3,SpikeOps,Deanie Babies,Deanie Babies,14,17,8,17,,,Jack Gradzewicz,Joseph Artikuski,,
+Bracket Stage,Open 4.0-4.5,Bracket A,Round of 16,Best of 3,evdeenio,Hungry?,evdeenio,17,14,17,11,,,Evan Leatherbarrow,Alden Nash,Zach Regas,Logan Pallo
+Bracket Stage,Open 4.0-4.5,Bracket A,Quarter-final,Best of 3,Serving Cut,evdeenio,evdeenio,13,21,17,21,,,Ally Chou,Abby Norris,Evan Leatherbarrow,Alden Nash
+Bracket Stage,Open 4.0-4.5,Bracket A,Quarter-final,Best of 3,ｃｕｔｔｌｅｆｉｓｈ 🐙,Deanie Babies,ｃｕｔｔｌｅｆｉｓｈ 🐙,21,23,21,7,21,12,Richard Lam,Tim Yip,,
+Bracket Stage,Open 4.0-4.5,Bracket A,Quarter-final,Best of 3,Cha Cha Time,Vallée/Lapointe-Ray,Vallée/Lapointe-Ray,13,17,10,17,,,Joshua Chan,Quentin Chiu,Adele Lapointe-Roy,Laurence Vallée
+Bracket Stage,Open 4.0-4.5,Bracket A,Quarter-final,Best of 3,Unc and Unccer,Dooley Ding,Unc and Unccer,19,21,21,17,21,19,Nic Albornoz,Spencer Argenna,Stef Ding,Jake Dooley
+Bracket Stage,Open 4.0-4.5,Bracket A,P9: Quarter-final,Single game,Hungry?,Freight Trains,Hungry?,21,8,,,,,Zach Regas,Logan Pallo,Matthew Delasandro,Josh Sullivan
+Bracket Stage,Open 4.0-4.5,Bracket A,P9: Quarter-final,Single game,SpikeOps,Goblin Gang,SpikeOps,21,12,,,,,Jack Gradzewicz,Joseph Artikuski,Dante Maldonado,Brian Zatkos
+Bracket Stage,Open 4.0-4.5,Bracket A,P9: Quarter-final,Single game,Fearless,Out of Pocket,Out of Pocket,6,21,,,,,Colin Carr,Murray McAuliffe,Zachary Sanders,Sam Kautzman
+Bracket Stage,Open 4.0-4.5,Bracket A,P9: Quarter-final,Single game,AK's Apprentices,Spikeballogists,AK's Apprentices,21,10,,,,,Noah Smith,Roark Baker,Jeremy Wing,Daniel Greco
+Bracket Stage,Open 4.0-4.5,Bracket A,Semi-final,Best of 3,evdeenio,Unc and Unccer,Unc and Unccer,6,21,19,21,,,Evan Leatherbarrow,Alden Nash,Nic Albornoz,Spencer Argenna
+Bracket Stage,Open 4.0-4.5,Bracket A,Semi-final,Best of 3,ｃｕｔｔｌｅｆｉｓｈ 🐙,Vallée/Lapointe-Ray,ｃｕｔｔｌｅｆｉｓｈ 🐙,21,15,21,12,,,Richard Lam,Tim Yip,Adele Lapointe-Roy,Laurence Vallée
+Bracket Stage,Open 4.0-4.5,Bracket A,P5: Semi-final,Best of 3,Dooley Ding,Serving Cut,Serving Cut,-1,0,-1,0,,,Stef Ding,Jake Dooley,Ally Chou,Abby Norris
+Bracket Stage,Open 4.0-4.5,Bracket A,P5: Semi-final,Best of 3,Cha Cha Time,Deanie Babies,Cha Cha Time,21,11,1,0,,,Joshua Chan,Quentin Chiu,,
+Bracket Stage,Open 4.0-4.5,Bracket A,P9: Semi-final,Single game,Hungry?,AK's Apprentices,Hungry?,21,19,,,,,Zach Regas,Logan Pallo,Noah Smith,Roark Baker
+Bracket Stage,Open 4.0-4.5,Bracket A,P9: Semi-final,Single game,SpikeOps,Out of Pocket,Out of Pocket,16,21,,,,,Jack Gradzewicz,Joseph Artikuski,Zachary Sanders,Sam Kautzman
+Bracket Stage,Open 4.0-4.5,Bracket A,P13: Semi-final,Single game,Spikeballogists,Freight Trains,Spikeballogists,21,18,,,,,Jeremy Wing,Daniel Greco,Matthew Delasandro,Josh Sullivan
+Bracket Stage,Open 4.0-4.5,Bracket A,P13: Semi-final,Single game,Fearless,Goblin Gang,Fearless,21,13,,,,,Colin Carr,Murray McAuliffe,Dante Maldonado,Brian Zatkos
+Bracket Stage,Open 4.0-4.5,Bracket A,Final,Best of 3,Unc and Unccer,ｃｕｔｔｌｅｆｉｓｈ 🐙,Unc and Unccer,21,12,21,16,,,Nic Albornoz,Spencer Argenna,Richard Lam,Tim Yip
+Bracket Stage,Open 4.0-4.5,Bracket A,P3: Final,Best of 3,Vallée/Lapointe-Ray,evdeenio,evdeenio,14,21,15,21,,,Adele Lapointe-Roy,Laurence Vallée,Evan Leatherbarrow,Alden Nash
+Bracket Stage,Open 4.0-4.5,Bracket A,P5: Final,Best of 3,Serving Cut,Cha Cha Time,Cha Cha Time,16,21,0,1,,,Ally Chou,Abby Norris,Joshua Chan,Quentin Chiu
+Bracket Stage,Open 4.0-4.5,Bracket A,P9: Final,Single game,Hungry?,Out of Pocket,Hungry?,21,19,,,,,Zach Regas,Logan Pallo,Zachary Sanders,Sam Kautzman
+Bracket Stage,Open 4.0-4.5,Bracket A,P13: Final,Single game,Spikeballogists,Fearless,Spikeballogists,31,30,,,,,Jeremy Wing,Daniel Greco,Colin Carr,Murray McAuliffe
+Bracket Stage,Open 4.0-4.5,Bracket A,P15: Final,Single game,Goblin Gang,Freight Trains,Freight Trains,14,21,,,,,Dante Maldonado,Brian Zatkos,Matthew Delasandro,Josh Sullivan
+Pool Play,Open 5.0+,Group A,1,Single game,Extra,Hit on 2,Extra,13,4,,,,,Jé Gagnon,Emerson Dean,Joshua Ang,Gavin De Moura
+Pool Play,Open 5.0+,Group A,1,Single game,Torque,John & Noah,Torque,13,9,,,,,Zach Snover,Caleb Cummings,Noah Lerner-Morelle,John Putney
+Pool Play,Open 5.0+,Group A,1,Single game,Leung/Gu,Swag,Leung/Gu,13,8,,,,,Eddy Leung,Sunny Gu,Chris Brown,Adam Hassan
+Pool Play,Open 5.0+,Group B,1,Single game,Gimme Boys,CAC Frostbite,Gimme Boys,13,4,,,,,Maxime Prince,Guillaume Bilodeau,Jordan Martin,Brock Leibold
+Pool Play,Open 5.0+,Group B,1,Single game,Stonks,Sugar Rush,Sugar Rush,11,13,,,,,Justin Shaytar,Riley Nassour,Kyle Fowler,Jacob Narayan
+Pool Play,Open 5.0+,Group C,1,Single game,Nelly Shuffle,Peace Treaty,Nelly Shuffle,13,3,,,,,Connor Nelson,Tyler Fernandez,Léo Guérin-Morneau,Charlie Cavallaro
+Pool Play,Open 5.0+,Group C,1,Single game,Numb,IZAK & GEORGE :P,Numb,13,3,,,,,Paq Clifford,Kieran Rose,izak krajeski,george reagan
+Pool Play,Open 5.0+,Group C,1,Single game,TLMG,Ries/Fevang,TLMG,13,7,,,,,Anthony St-Martin,Thomas Dery,Will Ries,Jason Fevang
+Pool Play,Open 5.0+,Group A,2,Single game,Extra,John & Noah,Extra,13,9,,,,,Jé Gagnon,Emerson Dean,Noah Lerner-Morelle,John Putney
+Pool Play,Open 5.0+,Group A,2,Single game,Torque,Leung/Gu,Leung/Gu,10,13,,,,,Zach Snover,Caleb Cummings,Eddy Leung,Sunny Gu
+Pool Play,Open 5.0+,Group A,2,Single game,Swag,Hit on 2,Swag,13,4,,,,,Chris Brown,Adam Hassan,Joshua Ang,Gavin De Moura
+Pool Play,Open 5.0+,Group B,2,Single game,The Jew and the Gentile,Stonks,The Jew and the Gentile,13,9,,,,,Dan Abrams,Gabe Finocchi,Justin Shaytar,Riley Nassour
+Pool Play,Open 5.0+,Group B,2,Single game,Sugar Rush,CAC Frostbite,Sugar Rush,13,5,,,,,Kyle Fowler,Jacob Narayan,Jordan Martin,Brock Leibold
+Pool Play,Open 5.0+,Group C,2,Single game,Nelly Shuffle,IZAK & GEORGE :P,Nelly Shuffle,13,5,,,,,Connor Nelson,Tyler Fernandez,izak krajeski,george reagan
+Pool Play,Open 5.0+,Group C,2,Single game,Numb,TLMG,Numb,13,7,,,,,Paq Clifford,Kieran Rose,Anthony St-Martin,Thomas Dery
+Pool Play,Open 5.0+,Group C,2,Single game,Ries/Fevang,Peace Treaty,Ries/Fevang,13,7,,,,,Will Ries,Jason Fevang,Léo Guérin-Morneau,Charlie Cavallaro
+Pool Play,Open 5.0+,Group A,3,Single game,Extra,Swag,Extra,13,6,,,,,Jé Gagnon,Emerson Dean,Chris Brown,Adam Hassan
+Pool Play,Open 5.0+,Group A,3,Single game,Torque,Hit on 2,Torque,14,12,,,,,Zach Snover,Caleb Cummings,Joshua Ang,Gavin De Moura
+Pool Play,Open 5.0+,Group A,3,Single game,Leung/Gu,John & Noah,Leung/Gu,13,8,,,,,Eddy Leung,Sunny Gu,Noah Lerner-Morelle,John Putney
+Pool Play,Open 5.0+,Group B,3,Single game,Gimme Boys,Sugar Rush,Gimme Boys,13,11,,,,,Maxime Prince,Guillaume Bilodeau,Kyle Fowler,Jacob Narayan
+Pool Play,Open 5.0+,Group B,3,Single game,The Jew and the Gentile,CAC Frostbite,The Jew and the Gentile,12,2,,,,,Dan Abrams,Gabe Finocchi,Jordan Martin,Brock Leibold
+Pool Play,Open 5.0+,Group C,3,Single game,Nelly Shuffle,Ries/Fevang,Nelly Shuffle,13,6,,,,,Connor Nelson,Tyler Fernandez,Will Ries,Jason Fevang
+Pool Play,Open 5.0+,Group C,3,Single game,Numb,Peace Treaty,Numb,13,2,,,,,Paq Clifford,Kieran Rose,Léo Guérin-Morneau,Charlie Cavallaro
+Pool Play,Open 5.0+,Group C,3,Single game,TLMG,IZAK & GEORGE :P,TLMG,13,3,,,,,Anthony St-Martin,Thomas Dery,izak krajeski,george reagan
+Pool Play,Open 5.0+,Group A,4,Single game,Extra,Leung/Gu,Extra,13,7,,,,,Jé Gagnon,Emerson Dean,Eddy Leung,Sunny Gu
+Pool Play,Open 5.0+,Group A,4,Single game,Torque,Swag,Torque,13,10,,,,,Zach Snover,Caleb Cummings,Chris Brown,Adam Hassan
+Pool Play,Open 5.0+,Group A,4,Single game,John & Noah,Hit on 2,Hit on 2,9,13,,,,,Noah Lerner-Morelle,John Putney,Joshua Ang,Gavin De Moura
+Pool Play,Open 5.0+,Group B,4,Single game,Gimme Boys,Stonks,Gimme Boys,13,8,,,,,Maxime Prince,Guillaume Bilodeau,Justin Shaytar,Riley Nassour
+Pool Play,Open 5.0+,Group B,4,Single game,The Jew and the Gentile,Sugar Rush,The Jew and the Gentile,13,11,,,,,Dan Abrams,Gabe Finocchi,Kyle Fowler,Jacob Narayan
+Pool Play,Open 5.0+,Group C,4,Single game,Nelly Shuffle,TLMG,Nelly Shuffle,13,8,,,,,Connor Nelson,Tyler Fernandez,Anthony St-Martin,Thomas Dery
+Pool Play,Open 5.0+,Group C,4,Single game,Numb,Ries/Fevang,Numb,13,9,,,,,Paq Clifford,Kieran Rose,Will Ries,Jason Fevang
+Pool Play,Open 5.0+,Group C,4,Single game,IZAK & GEORGE :P,Peace Treaty,IZAK & GEORGE :P,13,10,,,,,izak krajeski,george reagan,Léo Guérin-Morneau,Charlie Cavallaro
+Pool Play,Open 5.0+,Group A,5,Single game,Extra,Torque,Extra,13,7,,,,,Jé Gagnon,Emerson Dean,Zach Snover,Caleb Cummings
+Pool Play,Open 5.0+,Group A,5,Single game,Leung/Gu,Hit on 2,Leung/Gu,13,8,,,,,Eddy Leung,Sunny Gu,Joshua Ang,Gavin De Moura
+Pool Play,Open 5.0+,Group A,5,Single game,Swag,John & Noah,Swag,13,3,,,,,Chris Brown,Adam Hassan,Noah Lerner-Morelle,John Putney
+Pool Play,Open 5.0+,Group B,5,Single game,Gimme Boys,The Jew and the Gentile,Gimme Boys,13,8,,,,,Maxime Prince,Guillaume Bilodeau,Dan Abrams,Gabe Finocchi
+Pool Play,Open 5.0+,Group B,5,Single game,Stonks,CAC Frostbite,Stonks,13,8,,,,,Justin Shaytar,Riley Nassour,Jordan Martin,Brock Leibold
+Pool Play,Open 5.0+,Group C,5,Single game,Nelly Shuffle,Numb,Nelly Shuffle,15,14,,,,,Connor Nelson,Tyler Fernandez,Paq Clifford,Kieran Rose
+Pool Play,Open 5.0+,Group C,5,Single game,TLMG,Peace Treaty,TLMG,13,3,,,,,Anthony St-Martin,Thomas Dery,Léo Guérin-Morneau,Charlie Cavallaro
+Pool Play,Open 5.0+,Group C,5,Single game,Ries/Fevang,IZAK & GEORGE :P,Ries/Fevang,13,7,,,,,Will Ries,Jason Fevang,izak krajeski,george reagan
+Bracket Stage,Open 5.0+,Bracket A,Round of 16,Best of 3,The Jew and the Gentile,Stonks,The Jew and the Gentile,17,14,17,13,,,Dan Abrams,Gabe Finocchi,Justin Shaytar,Riley Nassour
+Bracket Stage,Open 5.0+,Bracket A,Round of 16,Best of 3,Leung/Gu,Ries/Fevang,Leung/Gu,17,12,17,4,,,Eddy Leung,Sunny Gu,Will Ries,Jason Fevang
+Bracket Stage,Open 5.0+,Bracket A,Round of 16,Best of 3,TLMG,Swag,TLMG,12,17,17,14,19,17,Anthony St-Martin,Thomas Dery,Chris Brown,Adam Hassan
+Bracket Stage,Open 5.0+,Bracket A,Round of 16,Best of 3,Sugar Rush,Torque,Torque,17,15,15,17,16,18,Kyle Fowler,Jacob Narayan,Zach Snover,Caleb Cummings
+Bracket Stage,Open 5.0+,Bracket A,Quarter-final,Best of 3,Extra,Torque,Extra,23,21,21,11,,,Jé Gagnon,Emerson Dean,Zach Snover,Caleb Cummings
+Bracket Stage,Open 5.0+,Bracket A,Quarter-final,Best of 3,Nelly Shuffle,TLMG,Nelly Shuffle,21,14,21,15,,,Connor Nelson,Tyler Fernandez,Anthony St-Martin,Thomas Dery
+Bracket Stage,Open 5.0+,Bracket A,Quarter-final,Best of 3,Gimme Boys,Leung/Gu,Gimme Boys,18,21,21,12,21,16,Maxime Prince,Guillaume Bilodeau,Eddy Leung,Sunny Gu
+Bracket Stage,Open 5.0+,Bracket A,Quarter-final,Best of 3,Numb,The Jew and the Gentile,Numb,21,19,21,17,,,Paq Clifford,Kieran Rose,Dan Abrams,Gabe Finocchi
+Bracket Stage,Open 5.0+,Bracket A,Semi-final,Best of 3,Extra,Numb,Numb,23,25,14,21,,,Jé Gagnon,Emerson Dean,Paq Clifford,Kieran Rose
+Bracket Stage,Open 5.0+,Bracket A,Semi-final,Best of 3,Nelly Shuffle,Gimme Boys,Nelly Shuffle,21,17,15,21,21,16,Connor Nelson,Tyler Fernandez,Maxime Prince,Guillaume Bilodeau
+Bracket Stage,Open 5.0+,Bracket A,P5: Semi-final,Single game,The Jew and the Gentile,Torque,Torque,-1,1,,,,,Dan Abrams,Gabe Finocchi,Zach Snover,Caleb Cummings
+Bracket Stage,Open 5.0+,Bracket A,P5: Semi-final,Single game,Leung/Gu,TLMG,TLMG,18,21,,,,,Eddy Leung,Sunny Gu,Anthony St-Martin,Thomas Dery
+Bracket Stage,Open 5.0+,Bracket A,P9: Semi-final,Single game,Sugar Rush,Stonks,Sugar Rush,21,12,,,,,Kyle Fowler,Jacob Narayan,Justin Shaytar,Riley Nassour
+Bracket Stage,Open 5.0+,Bracket A,P9: Semi-final,Single game,Swag,Ries/Fevang,Swag,21,16,,,,,Chris Brown,Adam Hassan,Will Ries,Jason Fevang
+Bracket Stage,Open 5.0+,Bracket A,Final,Best of 3,Numb,Nelly Shuffle,Nelly Shuffle,12,21,21,13,19,21,Paq Clifford,Kieran Rose,Connor Nelson,Tyler Fernandez
+Bracket Stage,Open 5.0+,Bracket A,P3: Final,Single game,Gimme Boys,Extra,,0,0,,,,,Maxime Prince,Guillaume Bilodeau,Jé Gagnon,Emerson Dean
+Bracket Stage,Open 5.0+,Bracket A,P5: Final,Single game,Torque,TLMG,TLMG,16,21,,,,,Zach Snover,Caleb Cummings,Anthony St-Martin,Thomas Dery
+Bracket Stage,Open 5.0+,Bracket A,P11: Final,Single game,Ries/Fevang,Stonks,Stonks,16,21,,,,,Will Ries,Jason Fevang,Justin Shaytar,Riley Nassour
+Bracket Stage,Open 5.0+,Bracket B,Quarter-final,Best of 3,John & Noah,Peace Treaty,John & Noah,21,11,17,21,21,17,Noah Lerner-Morelle,John Putney,Léo Guérin-Morneau,Charlie Cavallaro
+Bracket Stage,Open 5.0+,Bracket B,Semi-final,Best of 3,Hit on 2,John & Noah,John & Noah,21,12,17,21,17,21,Joshua Ang,Gavin De Moura,Noah Lerner-Morelle,John Putney
+Bracket Stage,Open 5.0+,Bracket B,Semi-final,Best of 3,IZAK & GEORGE :P,CAC Frostbite,IZAK & GEORGE :P,1,0,1,0,,,izak krajeski,george reagan,Jordan Martin,Brock Leibold
+Bracket Stage,Open 5.0+,Bracket B,Final,Best of 3,John & Noah,IZAK & GEORGE :P,John & Noah,17,21,21,9,21,16,Noah Lerner-Morelle,John Putney,izak krajeski,george reagan
