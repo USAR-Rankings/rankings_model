@@ -1,0 +1,107 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Premier,Group A,1,Single game,Dirty South,Better Bergsma,Dirty South,15,6,,,,,Chris Brown,Nicholas Puopolo,Nelson Bergsma,Adrian Garcea
+Pool Play,Premier,Group A,1,Single game,Swagged out Summer,🌲 BHAD Boys,🌲 BHAD Boys,13,15,,,,,Adam Hassan,sumer dass,Joey Renaud,Nethaniel Gabriel
+Pool Play,Premier,Group B,1,Single game,Point B,🌲 Heat Check,Point B,15,13,,,,,Trevor Fleming,Emerson Dean,Jordan Martin,Chris Loubert
+Pool Play,Premier,Group B,1,Single game,NEM Meticulous,PB & J,NEM Meticulous,15,8,,,,,Brock Leibold,Ben Pernfuss,Bryan Fonseca,Peter Lam
+Pool Play,Premier,Group A,2,Single game,Dirty South,🌲 BHAD Boys,Dirty South,15,8,,,,,Chris Brown,Nicholas Puopolo,Joey Renaud,Nethaniel Gabriel
+Pool Play,Premier,Group A,2,Single game,Swagged out Summer,Better Bergsma,Swagged out Summer,15,1,,,,,Adam Hassan,sumer dass,Nelson Bergsma,Adrian Garcea
+Pool Play,Premier,Group B,2,Single game,Point B,PB & J,Point B,15,10,,,,,Trevor Fleming,Emerson Dean,Bryan Fonseca,Peter Lam
+Pool Play,Premier,Group B,2,Single game,NEM Meticulous,🌲 Heat Check,NEM Meticulous,15,11,,,,,Brock Leibold,Ben Pernfuss,Jordan Martin,Chris Loubert
+Pool Play,Premier,Group A,3,Single game,Dirty South,Swagged out Summer,Swagged out Summer,8,15,,,,,Chris Brown,Nicholas Puopolo,Adam Hassan,sumer dass
+Pool Play,Premier,Group A,3,Single game,🌲 BHAD Boys,Better Bergsma,🌲 BHAD Boys,15,3,,,,,Joey Renaud,Nethaniel Gabriel,Nelson Bergsma,Adrian Garcea
+Pool Play,Premier,Group B,3,Single game,Point B,NEM Meticulous,Point B,15,11,,,,,Trevor Fleming,Emerson Dean,Brock Leibold,Ben Pernfuss
+Pool Play,Premier,Group B,3,Single game,PB & J,🌲 Heat Check,PB & J,15,13,,,,,Bryan Fonseca,Peter Lam,Jordan Martin,Chris Loubert
+Pool Play,Premier,Group A,4,Single game,Dirty South,Better Bergsma,Dirty South,15,11,,,,,Chris Brown,Nicholas Puopolo,Nelson Bergsma,Adrian Garcea
+Pool Play,Premier,Group A,4,Single game,Swagged out Summer,🌲 BHAD Boys,Swagged out Summer,15,13,,,,,Adam Hassan,sumer dass,Joey Renaud,Nethaniel Gabriel
+Pool Play,Premier,Group B,4,Single game,Point B,🌲 Heat Check,Point B,19,17,,,,,Trevor Fleming,Emerson Dean,Jordan Martin,Chris Loubert
+Pool Play,Premier,Group B,4,Single game,NEM Meticulous,PB & J,PB & J,9,15,,,,,Brock Leibold,Ben Pernfuss,Bryan Fonseca,Peter Lam
+Pool Play,Premier,Group A,5,Single game,Dirty South,🌲 BHAD Boys,Dirty South,15,12,,,,,Chris Brown,Nicholas Puopolo,Joey Renaud,Nethaniel Gabriel
+Pool Play,Premier,Group A,5,Single game,Swagged out Summer,Better Bergsma,Swagged out Summer,15,6,,,,,Adam Hassan,sumer dass,Nelson Bergsma,Adrian Garcea
+Pool Play,Premier,Group B,5,Single game,Point B,PB & J,Point B,15,8,,,,,Trevor Fleming,Emerson Dean,Bryan Fonseca,Peter Lam
+Pool Play,Premier,Group B,5,Single game,NEM Meticulous,🌲 Heat Check,NEM Meticulous,15,6,,,,,Brock Leibold,Ben Pernfuss,Jordan Martin,Chris Loubert
+Pool Play,Premier,Group A,6,Single game,Dirty South,Swagged out Summer,Dirty South,20,18,,,,,Chris Brown,Nicholas Puopolo,Adam Hassan,sumer dass
+Pool Play,Premier,Group A,6,Single game,🌲 BHAD Boys,Better Bergsma,🌲 BHAD Boys,15,4,,,,,Joey Renaud,Nethaniel Gabriel,Nelson Bergsma,Adrian Garcea
+Pool Play,Premier,Group B,6,Single game,Point B,NEM Meticulous,Point B,15,9,,,,,Trevor Fleming,Emerson Dean,Brock Leibold,Ben Pernfuss
+Pool Play,Premier,Group B,6,Single game,PB & J,🌲 Heat Check,PB & J,15,13,,,,,Bryan Fonseca,Peter Lam,Jordan Martin,Chris Loubert
+ Playoff Bracket,Premier,Bracket A,Quarter-final,Best of 3,Point B,Better Bergsma,Point B,21,11,21,13,,,Trevor Fleming,Emerson Dean,Nelson Bergsma,Adrian Garcea
+ Playoff Bracket,Premier,Bracket A,Quarter-final,Best of 3,Dirty South,🌲 Heat Check,Dirty South,21,14,21,15,,,Chris Brown,Nicholas Puopolo,Jordan Martin,Chris Loubert
+ Playoff Bracket,Premier,Bracket A,Quarter-final,Best of 3,NEM Meticulous,🌲 BHAD Boys,NEM Meticulous,21,10,21,9,,,Brock Leibold,Ben Pernfuss,Joey Renaud,Nethaniel Gabriel
+ Playoff Bracket,Premier,Bracket A,Quarter-final,Best of 3,Swagged out Summer,PB & J,Swagged out Summer,21,16,21,13,,,Adam Hassan,sumer dass,Bryan Fonseca,Peter Lam
+ Playoff Bracket,Premier,Bracket A,Semi-final,Best of 3,Point B,Swagged out Summer,Swagged out Summer,17,21,21,9,17,21,Trevor Fleming,Emerson Dean,Adam Hassan,sumer dass
+ Playoff Bracket,Premier,Bracket A,Semi-final,Best of 3,Dirty South,NEM Meticulous,Dirty South,21,18,18,21,21,12,Chris Brown,Nicholas Puopolo,Brock Leibold,Ben Pernfuss
+ Playoff Bracket,Premier,Bracket A,P5: Semi-final,Best of 3,PB & J,Better Bergsma,PB & J,21,11,21,11,,,Bryan Fonseca,Peter Lam,Nelson Bergsma,Adrian Garcea
+ Playoff Bracket,Premier,Bracket A,P5: Semi-final,Best of 3,🌲 BHAD Boys,🌲 Heat Check,🌲 BHAD Boys,21,14,21,14,,,Joey Renaud,Nethaniel Gabriel,Jordan Martin,Chris Loubert
+ Playoff Bracket,Premier,Bracket A,Final,Best of 3,Swagged out Summer,Dirty South,Dirty South,22,20,18,21,11,21,Adam Hassan,sumer dass,Chris Brown,Nicholas Puopolo
+ Playoff Bracket,Premier,Bracket A,P3: Final,Best of 3,NEM Meticulous,Point B,Point B,19,21,16,21,,,Brock Leibold,Ben Pernfuss,Trevor Fleming,Emerson Dean
+ Playoff Bracket,Premier,Bracket A,P5: Final,Best of 3,PB & J,🌲 BHAD Boys,PB & J,21,16,1,0,,,Bryan Fonseca,Peter Lam,Joey Renaud,Nethaniel Gabriel
+Pool Play,Contender,Group A,1,Single game,Cottagecore,The Manatees,Cottagecore,15,1,,,,,Ezra Campanelli,Brendan Reesor,Emma Robertson,Katie Robertson
+Pool Play,Contender,Group A,1,Single game,Reyes/Toews,Spiking For The Stars,Reyes/Toews,15,13,,,,,Nathan Toews,David Reyes,Quinten Martin,Ethan Weber
+Pool Play,Contender,Group B,1,Single game,Nathan/Gavin,Yang YANG!!!,Nathan/Gavin,15,6,,,,,Nathan Wong,Gavin De Moura,Rosemay Diaz,sophia yu
+Pool Play,Contender,Group B,1,Single game,Guiness book of world records,Team Reach,Guiness book of world records,15,12,,,,,Brendan Muggeridge,connor guinness,Ben Huebner,Owen Fretz
+Pool Play,Contender,Group A,2,Single game,Cottagecore,Spiking For The Stars,Cottagecore,15,4,,,,,Ezra Campanelli,Brendan Reesor,Quinten Martin,Ethan Weber
+Pool Play,Contender,Group A,2,Single game,Reyes/Toews,The Manatees,Reyes/Toews,15,11,,,,,Nathan Toews,David Reyes,Emma Robertson,Katie Robertson
+Pool Play,Contender,Group B,2,Single game,Nathan/Gavin,Team Reach,Team Reach,13,15,,,,,Nathan Wong,Gavin De Moura,Ben Huebner,Owen Fretz
+Pool Play,Contender,Group B,2,Single game,Guiness book of world records,Yang YANG!!!,Guiness book of world records,15,7,,,,,Brendan Muggeridge,connor guinness,Rosemay Diaz,sophia yu
+Pool Play,Contender,Group A,3,Single game,Cottagecore,Reyes/Toews,Cottagecore,15,3,,,,,Ezra Campanelli,Brendan Reesor,Nathan Toews,David Reyes
+Pool Play,Contender,Group A,3,Single game,Spiking For The Stars,The Manatees,Spiking For The Stars,15,11,,,,,Quinten Martin,Ethan Weber,Emma Robertson,Katie Robertson
+Pool Play,Contender,Group B,3,Single game,Nathan/Gavin,Guiness book of world records,Nathan/Gavin,15,1,,,,,Nathan Wong,Gavin De Moura,Brendan Muggeridge,connor guinness
+Pool Play,Contender,Group B,3,Single game,Team Reach,Yang YANG!!!,Team Reach,16,14,,,,,Ben Huebner,Owen Fretz,Rosemay Diaz,sophia yu
+Pool Play,Contender,Group A,4,Single game,Cottagecore,The Manatees,Cottagecore,15,4,,,,,Ezra Campanelli,Brendan Reesor,Emma Robertson,Katie Robertson
+Pool Play,Contender,Group A,4,Single game,Reyes/Toews,Spiking For The Stars,Reyes/Toews,15,7,,,,,Nathan Toews,David Reyes,Quinten Martin,Ethan Weber
+Pool Play,Contender,Group B,4,Single game,Nathan/Gavin,Yang YANG!!!,Nathan/Gavin,15,7,,,,,Nathan Wong,Gavin De Moura,Rosemay Diaz,sophia yu
+Pool Play,Contender,Group B,4,Single game,Guiness book of world records,Team Reach,Guiness book of world records,15,13,,,,,Brendan Muggeridge,connor guinness,Ben Huebner,Owen Fretz
+Pool Play,Contender,Group A,5,Single game,Cottagecore,Spiking For The Stars,Cottagecore,15,3,,,,,Ezra Campanelli,Brendan Reesor,Quinten Martin,Ethan Weber
+Pool Play,Contender,Group A,5,Single game,Reyes/Toews,The Manatees,Reyes/Toews,15,9,,,,,Nathan Toews,David Reyes,Emma Robertson,Katie Robertson
+Pool Play,Contender,Group B,5,Single game,Nathan/Gavin,Team Reach,Nathan/Gavin,15,7,,,,,Nathan Wong,Gavin De Moura,Ben Huebner,Owen Fretz
+Pool Play,Contender,Group B,5,Single game,Guiness book of world records,Yang YANG!!!,Yang YANG!!!,12,15,,,,,Brendan Muggeridge,connor guinness,Rosemay Diaz,sophia yu
+Pool Play,Contender,Group A,6,Single game,Cottagecore,Reyes/Toews,Cottagecore,15,12,,,,,Ezra Campanelli,Brendan Reesor,Nathan Toews,David Reyes
+Pool Play,Contender,Group A,6,Single game,Spiking For The Stars,The Manatees,Spiking For The Stars,15,8,,,,,Quinten Martin,Ethan Weber,Emma Robertson,Katie Robertson
+Pool Play,Contender,Group B,6,Single game,Nathan/Gavin,Guiness book of world records,Nathan/Gavin,15,7,,,,,Nathan Wong,Gavin De Moura,Brendan Muggeridge,connor guinness
+Pool Play,Contender,Group B,6,Single game,Team Reach,Yang YANG!!!,Team Reach,15,11,,,,,Ben Huebner,Owen Fretz,Rosemay Diaz,sophia yu
+ Playoff Bracket,Contender,Bracket A,Quarter-final,Best of 3,Cottagecore,Yang YANG!!!,Cottagecore,21,7,21,9,,,Ezra Campanelli,Brendan Reesor,Rosemay Diaz,sophia yu
+ Playoff Bracket,Contender,Bracket A,Quarter-final,Best of 3,Nathan/Gavin,The Manatees,Nathan/Gavin,21,19,21,9,,,Nathan Wong,Gavin De Moura,Emma Robertson,Katie Robertson
+ Playoff Bracket,Contender,Bracket A,Quarter-final,Best of 3,Reyes/Toews,Guiness book of world records,Guiness book of world records,21,17,16,21,19,21,Nathan Toews,David Reyes,Brendan Muggeridge,connor guinness
+ Playoff Bracket,Contender,Bracket A,Quarter-final,Best of 3,Team Reach,Spiking For The Stars,Team Reach,21,17,21,10,,,Ben Huebner,Owen Fretz,Quinten Martin,Ethan Weber
+ Playoff Bracket,Contender,Bracket A,Semi-final,Best of 3,Cottagecore,Team Reach,Cottagecore,21,10,21,11,,,Ezra Campanelli,Brendan Reesor,Ben Huebner,Owen Fretz
+ Playoff Bracket,Contender,Bracket A,Semi-final,Best of 3,Nathan/Gavin,Guiness book of world records,Nathan/Gavin,21,11,21,4,,,Nathan Wong,Gavin De Moura,Brendan Muggeridge,connor guinness
+ Playoff Bracket,Contender,Bracket A,P5: Semi-final,Single game,Spiking For The Stars,Yang YANG!!!,Spiking For The Stars,21,18,,,,,Quinten Martin,Ethan Weber,Rosemay Diaz,sophia yu
+ Playoff Bracket,Contender,Bracket A,P5: Semi-final,Single game,Reyes/Toews,The Manatees,Reyes/Toews,21,14,,,,,Nathan Toews,David Reyes,Emma Robertson,Katie Robertson
+ Playoff Bracket,Contender,Bracket A,Final,Best of 3,Cottagecore,Nathan/Gavin,Nathan/Gavin,13,21,22,20,19,21,Ezra Campanelli,Brendan Reesor,Nathan Wong,Gavin De Moura
+ Playoff Bracket,Contender,Bracket A,P3: Final,Best of 3,Guiness book of world records,Team Reach,Team Reach,17,21,20,22,,,Brendan Muggeridge,connor guinness,Ben Huebner,Owen Fretz
+ Playoff Bracket,Contender,Bracket A,P5: Final,Single game,Spiking For The Stars,Reyes/Toews,Spiking For The Stars,21,18,,,,,Quinten Martin,Ethan Weber,Nathan Toews,David Reyes
+Pool Play,Open,Group A,1,Single game,Smash Or Pass,🌲 Chocolate Gobblers,🌲 Chocolate Gobblers,9,15,,,,,Minhaj Syed,Hasnain Azam,Lois Radu,Jenna Denomme
+Pool Play,Open,Group A,1,Single game,Pocket Police,Net Profit,Net Profit,11,15,,,,,Samantha Crawford,Noah Smith,Mohammed Dar,Abdullah Imran
+Pool Play,Open,Group B,1,Single game,BHADDIES,Minority Squad,BHADDIES,15,3,,,,,Jaime Cunningham,Keltie Talbot,Nyah McQuillen,Andrew Pennant
+Pool Play,Open,Group B,1,Single game,Scott,Spike Tyson,Spike Tyson,4,15,,,,,Matthew Scott,Jared Scott,Mudassar Zia,Zuhair Mohamed
+Pool Play,Open,Group A,2,Single game,Smash Or Pass,Net Profit,Net Profit,12,15,,,,,Minhaj Syed,Hasnain Azam,Mohammed Dar,Abdullah Imran
+Pool Play,Open,Group A,2,Single game,Pocket Police,🌲 Chocolate Gobblers,🌲 Chocolate Gobblers,10,15,,,,,Samantha Crawford,Noah Smith,Lois Radu,Jenna Denomme
+Pool Play,Open,Group B,2,Single game,BHADDIES,Spike Tyson,BHADDIES,15,13,,,,,Jaime Cunningham,Keltie Talbot,Mudassar Zia,Zuhair Mohamed
+Pool Play,Open,Group B,2,Single game,Scott,Minority Squad,Scott,15,12,,,,,Matthew Scott,Jared Scott,Nyah McQuillen,Andrew Pennant
+Pool Play,Open,Group A,3,Single game,Smash Or Pass,Pocket Police,Pocket Police,8,15,,,,,Minhaj Syed,Hasnain Azam,Samantha Crawford,Noah Smith
+Pool Play,Open,Group A,3,Single game,Net Profit,🌲 Chocolate Gobblers,Net Profit,15,11,,,,,Mohammed Dar,Abdullah Imran,Lois Radu,Jenna Denomme
+Pool Play,Open,Group B,3,Single game,BHADDIES,Scott,BHADDIES,15,4,,,,,Jaime Cunningham,Keltie Talbot,Matthew Scott,Jared Scott
+Pool Play,Open,Group B,3,Single game,Spike Tyson,Minority Squad,Spike Tyson,15,10,,,,,Mudassar Zia,Zuhair Mohamed,Nyah McQuillen,Andrew Pennant
+Pool Play,Open,Group A,4,Single game,Smash Or Pass,🌲 Chocolate Gobblers,🌲 Chocolate Gobblers,12,15,,,,,Minhaj Syed,Hasnain Azam,Lois Radu,Jenna Denomme
+Pool Play,Open,Group A,4,Single game,Pocket Police,Net Profit,Net Profit,10,15,,,,,Samantha Crawford,Noah Smith,Mohammed Dar,Abdullah Imran
+Pool Play,Open,Group B,4,Single game,BHADDIES,Minority Squad,BHADDIES,15,3,,,,,Jaime Cunningham,Keltie Talbot,Nyah McQuillen,Andrew Pennant
+Pool Play,Open,Group B,4,Single game,Scott,Spike Tyson,Spike Tyson,5,15,,,,,Matthew Scott,Jared Scott,Mudassar Zia,Zuhair Mohamed
+Pool Play,Open,Group A,5,Single game,Smash Or Pass,Net Profit,Net Profit,10,15,,,,,Minhaj Syed,Hasnain Azam,Mohammed Dar,Abdullah Imran
+Pool Play,Open,Group A,5,Single game,Pocket Police,🌲 Chocolate Gobblers,🌲 Chocolate Gobblers,10,15,,,,,Samantha Crawford,Noah Smith,Lois Radu,Jenna Denomme
+Pool Play,Open,Group B,5,Single game,BHADDIES,Spike Tyson,BHADDIES,15,11,,,,,Jaime Cunningham,Keltie Talbot,Mudassar Zia,Zuhair Mohamed
+Pool Play,Open,Group B,5,Single game,Scott,Minority Squad,Scott,15,12,,,,,Matthew Scott,Jared Scott,Nyah McQuillen,Andrew Pennant
+Pool Play,Open,Group A,6,Single game,Smash Or Pass,Pocket Police,Pocket Police,6,15,,,,,Minhaj Syed,Hasnain Azam,Samantha Crawford,Noah Smith
+Pool Play,Open,Group A,6,Single game,Net Profit,🌲 Chocolate Gobblers,🌲 Chocolate Gobblers,4,15,,,,,Mohammed Dar,Abdullah Imran,Lois Radu,Jenna Denomme
+Pool Play,Open,Group B,6,Single game,BHADDIES,Scott,BHADDIES,15,8,,,,,Jaime Cunningham,Keltie Talbot,Matthew Scott,Jared Scott
+Pool Play,Open,Group B,6,Single game,Spike Tyson,Minority Squad,Spike Tyson,15,7,,,,,Mudassar Zia,Zuhair Mohamed,Nyah McQuillen,Andrew Pennant
+ Playoff Bracket,Open,Bracket A,Quarter-final,Best of 3,BHADDIES,Smash Or Pass,BHADDIES,21,11,21,7,,,Jaime Cunningham,Keltie Talbot,Minhaj Syed,Hasnain Azam
+ Playoff Bracket,Open,Bracket A,Quarter-final,Best of 3,🌲 Chocolate Gobblers,Minority Squad,🌲 Chocolate Gobblers,15,8,15,6,,,Lois Radu,Jenna Denomme,Nyah McQuillen,Andrew Pennant
+ Playoff Bracket,Open,Bracket A,Quarter-final,Best of 3,Spike Tyson,Pocket Police,Spike Tyson,21,16,21,19,,,Mudassar Zia,Zuhair Mohamed,Samantha Crawford,Noah Smith
+ Playoff Bracket,Open,Bracket A,Quarter-final,Best of 3,Net Profit,Scott,Net Profit,21,5,21,14,,,Mohammed Dar,Abdullah Imran,Matthew Scott,Jared Scott
+ Playoff Bracket,Open,Bracket A,Semi-final,Best of 3,BHADDIES,Net Profit,BHADDIES,21,17,21,17,,,Jaime Cunningham,Keltie Talbot,Mohammed Dar,Abdullah Imran
+ Playoff Bracket,Open,Bracket A,Semi-final,Best of 3,🌲 Chocolate Gobblers,Spike Tyson,🌲 Chocolate Gobblers,21,11,16,21,21,8,Lois Radu,Jenna Denomme,Mudassar Zia,Zuhair Mohamed
+ Playoff Bracket,Open,Bracket A,P5: Semi-final,Best of 3,Scott,Smash Or Pass,Smash Or Pass,0,1,0,1,,,Matthew Scott,Jared Scott,Minhaj Syed,Hasnain Azam
+ Playoff Bracket,Open,Bracket A,P5: Semi-final,Best of 3,Pocket Police,Minority Squad,Pocket Police,21,8,21,9,,,Samantha Crawford,Noah Smith,Nyah McQuillen,Andrew Pennant
+ Playoff Bracket,Open,Bracket A,Final,Best of 3,BHADDIES,🌲 Chocolate Gobblers,BHADDIES,21,17,17,21,21,17,Jaime Cunningham,Keltie Talbot,Lois Radu,Jenna Denomme
+ Playoff Bracket,Open,Bracket A,P3: Final,Best of 3,Spike Tyson,Net Profit,Spike Tyson,21,19,19,21,21,19,Mudassar Zia,Zuhair Mohamed,Mohammed Dar,Abdullah Imran
+ Playoff Bracket,Open,Bracket A,P5: Final,Best of 3,Smash Or Pass,Pocket Police,Pocket Police,16,21,21,19,11,21,Minhaj Syed,Hasnain Azam,Samantha Crawford,Noah Smith
+ Playoff Bracket,Open,Bracket A,P7: Final,Best of 3,Minority Squad,Scott,Minority Squad,1,0,1,0,,,Nyah McQuillen,Andrew Pennant,Matthew Scott,Jared Scott

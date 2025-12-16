@@ -129,7 +129,7 @@ Year,Date,For Model Use,Type,URL identifier,full URL,Scraped?,Fwango File Title,
 2024,8/3/24,X,Major,saltlakecity2024,https://fwango.io/saltlakecity2024,Manual Download,"Salt Lake City Major 2024 - Spikeball Tour Series - Match results - Bracket Stage,Group Stage",Open Pro 5.0+,Premier 5.0+,Contender 4.5+,NA,Women's Advanced 4.0+,NA,saltlakecity2024
 2024,8/10/24,X,USAR Sanctioned,wheeling24,https://fwango.io/wheeling24,Manual Download,Illinois State Championship,Expert(4.5+),NA,NA,NA,NA,NA,wheeling24
 2024,8/10/24,X,Challenger,ers24bos,https://fwango.io/ers24bos,Manual Download,ERS Boston 2024,Premier 5.0+,Open Contender 4.5+,NA,NA,Women's Advanced 4.5+,NA,ers24bos
-2024,8/17/24,X,Challenger,thepeopleschampionship2,https://fwango.io/thepeopleschampionship2,Manual Download,"BANG the peoples championship - Match results - Bracket Play ,Group Stage  - Womens,Premier,Contender,Intermediate,Coed",Premier,Contender,NA,NA,NA,NA,thepeopleschampionship2
+2024,8/17/24,X,Challenger,thepeopleschampionship2,https://fwango.io/thepeopleschampionship2,Manual Download,"BANG the peoples championship - Match results - Bracket Play ,Group Stage  - Womens,Premier,Contender,Intermediate,Coed",Premier,Contender,NA,NA,NA,NA,thepeopleschampionship2
 2024,9/7/24,X,USAR Sanctioned,ers24alb,https://fwango.io/ers24alb,Manual Download,Smoothie King Cup - ERS Albany 2024,BRACKET 1130 Open 4.5+,NA,NA,NA,NA,NA,ers24alb
 2024,9/7/24,X,Challenger,heatwave-vii,https://fwango.io/heatwave-vii,Manual Download,Heatwave Classic VII - Match results,Premier 5.0,Contender 4.5,NA,NA,NA,NA,heatwave-vii
 2024,10/5/24,X,USAR Sanctioned,casropen4,https://fwango.io/casropen4,Manual Download,California Roundnet Open #5- NorCal,5.0 Expert,NA,NA,NA,NA,NA,casropen4
@@ -172,3 +172,31 @@ Year,Date,For Model Use,Type,URL identifier,full URL,Scraped?,Fwango File Title,
 2025,9/13/25,X,USAR Sanctioned,crusarsectional,https://fwango.io/crusarsectional,Manual Download,USAR Sectional - Match results,Open Bronze (5.0+),Open Contender (4.0-4.5),NA,NA,NA,NA,crusarsectional
 2025,10/4/25,X,Championship,usar25nationals,https://fwango.io/usar25nationals,Manual Download,US Roundnet National Championship 2025 - Match results,6.0 Open Pro,5.0 Open Silver+,4.5 Open Bronze+,4.0 Open (Contender),6.0 Women's Pro,4.0 Women's Advanced,usar25nationals
 2025,11/1/25,X,USAR Sanctioned,prahalloween,https://fwango.io/prahalloween,Manual Download,PRA Halloween Tournament 2025 - Match results,Expert,Contender,NA,NA,NA,NA,prahalloween25
+2023,8/19/23,X,Canada,bcprov23,https://fwango.io/usar2025midwest,Manual Download,BC Provincials 2023_CSV,Elite/Premier,NA,NA,NA,NA,NA,bcprov23
+2024,9/14/24,X,Canada,bcprov24,https://fwango.io/usar2025midwest,Manual Download,BC Provincials 2024_CSV,Elite/Premier,NA,NA,NA,NA,NA,bcprov24
+2022,7/29/22,X,Canada,BC STS 2022,https://fwango.io/usar2025midwest,Manual Download,BC STS 2022_CSV,Premier 5.0+,Contender 4.5+,NA,NA,NA,NA,BC STS 2022
+2023,8/26/23,X,Canada,BC STS 2023,https://fwango.io/usar2025midwest,Manual Download,BC STS 2023_CSV,Premier 5.0+,Contender 4.5+,NA,NA,Women's Advanced 4.0+,NA,BC STS 2023
+2024,7/20/24,X,Canada,BC STS 2024,https://fwango.io/usar2025midwest,Manual Download,BC STS 2024_CSV,Premier 5.0+,Contender 4.5+,NA,NA,NA,NA,BC STS 2024
+2025,5/17/25,X,Canada,CRS 2025 Drummondville,https://fwango.io/usar2025midwest,Manual Download,CRS 2025 Drummondville_CSV ,5.0 - Premier,4.5 - Avancé+ / Contender,NA,NA,NA,NA,CRS 2025 Drummondville
+2025,6/14/25,X,Canada,CRS 2025 MAJOR#1,https://fwango.io/usar2025midwest,Manual Download,CRS 2025 MAJOR#1_CSV,5.0 - Premier,4.5 - Avancé+ / Contender,NA,NA,4.0 - Féminin Avancé,NA,CRS 2025 MAJOR#1
+2025,7/6/25,X,Canada,CRS 2025 Trois-Rivie_res,https://fwango.io/usar2025midwest,Manual Download,CRS 2025 Trois-Rivie_res_CSV,5.0 - Premier,4.5 - Avancé+ / Contender,NA,NA,NA,NA,CRS 2025 Trois-Rivie_res
+2025,6/7/25,X,Canada,CRS Burnaby 2025,https://fwango.io/usar2025midwest,Manual Download,CRS Burnaby 2025_CSV,Contender/Premier 4.0 - 5.0,NA,NA,NA,NA,NA,CRS Burnaby 2025
+2025,4/26/25,X,Canada,CRS East Van 2024,https://fwango.io/usar2025midwest,Manual Download,CRS East Van 2024_CSV,Contender/Premier 4.0 - 5.0,NA,NA,NA,NA,NA,CRS East Van 2024
+2025,4/17/25,X,Canada,CRS London 2025,https://fwango.io/usar2025midwest,Manual Download,CRS London 2025_CSV,Premier,Contender,NA,NA,NA,NA,CRS London 2025
+2025,7/12/25,X,Canada,CRS VAN MAJOR 2025,https://fwango.io/usar2025midwest,Manual Download,CRS VAN MAJOR 2025_CSV,Premier 5.0+,Contender 4.5,NA,NA,Women's Advanced 4.0+,NA,CRS VAN MAJOR 2025
+2025,6/7/25,X,Canada,CRS Waterloo 2025,https://fwango.io/usar2025midwest,Manual Download,CRS Waterloo 2025_CSV,Contender,NA,NA,NA,NA,NA,CRS Waterloo 2025
+2025,6/28/25,X,Canada,CRS Windsor 2025,https://fwango.io/usar2025midwest,Manual Download,CRS Windsor 2025_CSV,Elite,Open Contender,NA,NA,NA,NA,CRS Windsor 2025
+2022,10/1/22,X,Canada,Maple Cup 2022,https://fwango.io/usar2025midwest,Manual Download,Maple Cup 2022_CSV,Elite,NA,NA,NA,NA,NA,Maple Cup 2022
+2021,10/9/21,X,Canada,Nationals 2021,https://fwango.io/usar2025midwest,Manual Download,Nationals 2021_CSV,Men's Elite / Élite (masculin),Advanced / Avancé,NA,NA,Women's Elite / Élite (féminin),NA,Nationals 2021
+2023,9/2/23,X,Canada,Nationals 2023,https://fwango.io/usar2025midwest,Manual Download,Nationals 2023_CSV,Men's Elite / Élite (masculin),NA,NA,NA,Women's Elite / Élite (féminin),NA,Nationals 2023
+2023,9/23/23,X,Canada,ON Provincials 2023,https://fwango.io/usar2025midwest,Manual Download,ON Provincials 2023_CSV,Elite,Open Advanced,NA,NA,Women's Advanced,NA,ON Provincials 2023
+2024,9/21/24,X,Canada,ON Provincials 2024,https://fwango.io/usar2025midwest,Manual Download,ON Provincials 2024_CSV,Elite,Open Advanced,NA,NA,Women's Advanced,NA,ON Provincials 2024
+2022,7/30/22,X,Canada,ON STS 2022,https://fwango.io/usar2025midwest,Manual Download,ON STS 2022_CSV,Premier 5.0+,Contenders 4.5+,NA,NA,Women's Advanced 4.0+,NA,ON STS 2022
+2024,9/14/24,X,Canada,Quebec Provincials 2024,https://fwango.io/usar2025midwest,Manual Download,Quebec Provincials 2024_CSV,5.0 - Élite (avec NHZ),4.5 - Avancé+ (avec NHZ),NA,NA,4.0 - Féminin Avancé (avec NHZ),NA,Quebec Provincials 2024
+2024,7/6/24,X,Canada,Quebec STS 2024,https://fwango.io/usar2025midwest,Manual Download,Quebec STS 2024_CSV,5.0 - Premier + Élite Québec (avec NHZ),4.5 - Contender (avec NHZ),NA,NA,4.0 - Women's Advanced (avec NHZ),NA,Quebec STS 2024
+2022,4/7/22,X,Canada,STS 2022 - Toronto,https://fwango.io/usar2025midwest,Manual Download,"STS 2022 - Toronto - Match results - Pool Play,Bracket Stage - Women's Advanced 4.0+,Contenders 4.5+,Premier 5.0+,Advanced 4.0,Intermediate 3.0",Premier 5.0+,Contenders 4.5+,NA,NA,Women's Advanced 4.0+,NA,STS 2022 - Toronto
+2024,7/27/24,X,Canada,STS ON 2024,https://fwango.io/usar2025midwest,Manual Download,STS ON 2024_CSV,Premier 5.0,Contenders 4.5,NA,NA,Women's Advanced 4.0+,NA,STS ON 2024
+2022,7/2/22,X,Canada,TC Qual 2022 Van,https://fwango.io/usar2025midwest,Manual Download,TC Qual 2022 Van_CSV,Men's Elite / Élite (masculin),NA,NA,NA,Women's Elite / Élite (féminin),NA,TC Qual 2022 Van
+2022,4/4/22,X,Canada,TC Qual QC 2022,https://fwango.io/usar2025midwest,Manual Download,TC Qual QC 2022_CSV,Men's Elite / Élite (masculin),NA,NA,NA,Women's Elite / Élite (féminin),NA,TC Qual QC 2022
+2024,4/11/24,X,Canada,TC Selection 2024,https://fwango.io/usar2025midwest,Manual Download,TC Selection 2024_CSV,Men's Elite,Open Division,NA,NA,Women's Elite,NA,TC Selection 2024
+2025,12/6/25,X,USAR Sanctioned,castatefinals5,https://fwango.io/castatefinals5,Manual Download,California State Final 5- Match results,5.0 Expert Division,NA,NA,NA,4.5 Womens Division,NA,castatefinals5

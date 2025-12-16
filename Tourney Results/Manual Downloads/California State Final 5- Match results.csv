@@ -1,0 +1,86 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Expert Division,Group A,1,Single game,3 for 3 on 3rd,Tecca,3 for 3 on 3rd,21,6,,,,,Jake Woolley,Connor Nelson,Eric Najarro,Elijah Regan
+Group Stage,5.0 Expert Division,Group A,1,Single game,Firm foundation,Liam/Jonas,Firm foundation,21,17,,,,,Clifton Miller,Matt Ortlip,Jonas Frost,Liam Martinez
+Group Stage,5.0 Expert Division,Group B,1,Single game,Hospital Ball,Unideal Footwear,Hospital Ball,21,10,,,,,Lucas Pruett,Trevor Barbosa,Alex Veron,Cooper Patcheak
+Group Stage,5.0 Expert Division,Group B,1,Single game,Dinomite,My Only Sunshine 🌻,Dinomite,21,18,,,,,Sasha Mariniuk,Noah Saddik,Devon Lee,Eric Tay
+Group Stage,5.0 Expert Division,Group C,1,Single game,Tall & Taller,Finger Wizards,Tall & Taller,21,3,,,,,Josh Fragiacomo,Charlie Camarena,Michael Twersky,jackson rosol
+Group Stage,5.0 Expert Division,Group C,1,Single game,Father Son Bonding,♞ Get forked ♞,Father Son Bonding,21,11,,,,,Caleb Cummings,Hunter Koth,Dylan Styron,Michael Capobianco
+Group Stage,5.0 Expert Division,Group D,1,Single game,Competitive Racism,leo & lauren,Competitive Racism,21,4,,,,,Alec Galbo,Reece Greer,Lauren Eckert,Leo Albert
+Group Stage,5.0 Expert Division,Group D,1,Single game,GRANDES SALTEÑAS,Trent/Hongyi,GRANDES SALTEÑAS,21,14,,,,,Jacob Payer,David Gonzales,Hongyi Zhu,Trent Keeler
+Group Stage,5.0 Expert Division,Group D,1,Single game,Pending,RIPS only,RIPS only,18,21,,,,,James Lamkin,Calvin Chang,Ahren Gwynn,Gunnar Mueller
+Group Stage,5.0 Expert Division,Group A,2,Single game,3 for 3 on 3rd,Liam/Jonas,3 for 3 on 3rd,21,7,,,,,Jake Woolley,Connor Nelson,Jonas Frost,Liam Martinez
+Group Stage,5.0 Expert Division,Group A,2,Single game,Asians,Tecca,Asians,21,6,,,,,Reece Yoshizawa,Jake Young,Eric Najarro,Elijah Regan
+Group Stage,5.0 Expert Division,Group B,2,Single game,Hospital Ball,My Only Sunshine 🌻,Hospital Ball,21,16,,,,,Lucas Pruett,Trevor Barbosa,Devon Lee,Eric Tay
+Group Stage,5.0 Expert Division,Group B,2,Single game,Torque,Unideal Footwear,Torque,21,14,,,,,Schon Siguenza,Josh Cain,Alex Veron,Cooper Patcheak
+Group Stage,5.0 Expert Division,Group C,2,Single game,Tall & Taller,♞ Get forked ♞,Tall & Taller,21,15,,,,,Josh Fragiacomo,Charlie Camarena,Dylan Styron,Michael Capobianco
+Group Stage,5.0 Expert Division,Group C,2,Single game,Franz’s little helpers,Finger Wizards,Franz’s little helpers,21,2,,,,,Nathan Robertt,Gavin Hansen,Michael Twersky,jackson rosol
+Group Stage,5.0 Expert Division,Group D,2,Single game,Competitive Racism,Trent/Hongyi,Competitive Racism,21,7,,,,,Alec Galbo,Reece Greer,Hongyi Zhu,Trent Keeler
+Group Stage,5.0 Expert Division,Group D,2,Single game,GRANDES SALTEÑAS,Pending,Pending,18,21,,,,,Jacob Payer,David Gonzales,James Lamkin,Calvin Chang
+Group Stage,5.0 Expert Division,Group D,2,Single game,RIPS only,leo & lauren,RIPS only,21,9,,,,,Ahren Gwynn,Gunnar Mueller,Lauren Eckert,Leo Albert
+Group Stage,5.0 Expert Division,Group A,3,Single game,3 for 3 on 3rd,Asians,3 for 3 on 3rd,21,13,,,,,Jake Woolley,Connor Nelson,Reece Yoshizawa,Jake Young
+Group Stage,5.0 Expert Division,Group A,3,Single game,Firm foundation,Tecca,Firm foundation,21,11,,,,,Clifton Miller,Matt Ortlip,Eric Najarro,Elijah Regan
+Group Stage,5.0 Expert Division,Group B,3,Single game,Hospital Ball,Torque,Hospital Ball,21,11,,,,,Lucas Pruett,Trevor Barbosa,Schon Siguenza,Josh Cain
+Group Stage,5.0 Expert Division,Group B,3,Single game,Dinomite,Unideal Footwear,Dinomite,21,13,,,,,Sasha Mariniuk,Noah Saddik,Alex Veron,Cooper Patcheak
+Group Stage,5.0 Expert Division,Group C,3,Single game,Tall & Taller,Franz’s little helpers,Franz’s little helpers,13,21,,,,,Josh Fragiacomo,Charlie Camarena,Nathan Robertt,Gavin Hansen
+Group Stage,5.0 Expert Division,Group C,3,Single game,Father Son Bonding,Finger Wizards,Father Son Bonding,21,6,,,,,Caleb Cummings,Hunter Koth,Michael Twersky,jackson rosol
+Group Stage,5.0 Expert Division,Group D,3,Single game,Competitive Racism,RIPS only,Competitive Racism,21,15,,,,,Alec Galbo,Reece Greer,Ahren Gwynn,Gunnar Mueller
+Group Stage,5.0 Expert Division,Group D,3,Single game,GRANDES SALTEÑAS,leo & lauren,GRANDES SALTEÑAS,21,14,,,,,Jacob Payer,David Gonzales,Lauren Eckert,Leo Albert
+Group Stage,5.0 Expert Division,Group D,3,Single game,Pending,Trent/Hongyi,Pending,21,15,,,,,James Lamkin,Calvin Chang,Hongyi Zhu,Trent Keeler
+Group Stage,5.0 Expert Division,Group A,4,Single game,Firm foundation,Asians,Firm foundation,21,13,,,,,Clifton Miller,Matt Ortlip,Reece Yoshizawa,Jake Young
+Group Stage,5.0 Expert Division,Group A,4,Single game,Liam/Jonas,Tecca,Liam/Jonas,21,5,,,,,Jonas Frost,Liam Martinez,Eric Najarro,Elijah Regan
+Group Stage,5.0 Expert Division,Group B,4,Single game,Dinomite,Torque,Torque,18,21,,,,,Sasha Mariniuk,Noah Saddik,Schon Siguenza,Josh Cain
+Group Stage,5.0 Expert Division,Group B,4,Single game,My Only Sunshine 🌻,Unideal Footwear,My Only Sunshine 🌻,21,12,,,,,Devon Lee,Eric Tay,Alex Veron,Cooper Patcheak
+Group Stage,5.0 Expert Division,Group C,4,Single game,Father Son Bonding,Franz’s little helpers,Father Son Bonding,21,18,,,,,Caleb Cummings,Hunter Koth,Nathan Robertt,Gavin Hansen
+Group Stage,5.0 Expert Division,Group C,4,Single game,♞ Get forked ♞,Finger Wizards,♞ Get forked ♞,21,9,,,,,Dylan Styron,Michael Capobianco,Michael Twersky,jackson rosol
+Group Stage,5.0 Expert Division,Group D,4,Single game,Competitive Racism,Pending,Pending,16,21,,,,,Alec Galbo,Reece Greer,James Lamkin,Calvin Chang
+Group Stage,5.0 Expert Division,Group D,4,Single game,GRANDES SALTEÑAS,RIPS only,GRANDES SALTEÑAS,21,19,,,,,Jacob Payer,David Gonzales,Ahren Gwynn,Gunnar Mueller
+Group Stage,5.0 Expert Division,Group D,4,Single game,Trent/Hongyi,leo & lauren,Trent/Hongyi,21,11,,,,,Hongyi Zhu,Trent Keeler,Lauren Eckert,Leo Albert
+Group Stage,5.0 Expert Division,Group A,5,Single game,3 for 3 on 3rd,Firm foundation,3 for 3 on 3rd,21,6,,,,,Jake Woolley,Connor Nelson,Clifton Miller,Matt Ortlip
+Group Stage,5.0 Expert Division,Group A,5,Single game,Asians,Liam/Jonas,Asians,21,17,,,,,Reece Yoshizawa,Jake Young,Jonas Frost,Liam Martinez
+Group Stage,5.0 Expert Division,Group B,5,Single game,Hospital Ball,Dinomite,Hospital Ball,33,31,,,,,Lucas Pruett,Trevor Barbosa,Sasha Mariniuk,Noah Saddik
+Group Stage,5.0 Expert Division,Group B,5,Single game,Torque,My Only Sunshine 🌻,My Only Sunshine 🌻,19,21,,,,,Schon Siguenza,Josh Cain,Devon Lee,Eric Tay
+Group Stage,5.0 Expert Division,Group C,5,Single game,Tall & Taller,Father Son Bonding,Father Son Bonding,11,21,,,,,Josh Fragiacomo,Charlie Camarena,Caleb Cummings,Hunter Koth
+Group Stage,5.0 Expert Division,Group C,5,Single game,Franz’s little helpers,♞ Get forked ♞,Franz’s little helpers,21,15,,,,,Nathan Robertt,Gavin Hansen,Dylan Styron,Michael Capobianco
+Group Stage,5.0 Expert Division,Group D,5,Single game,Competitive Racism,GRANDES SALTEÑAS,Competitive Racism,21,11,,,,,Alec Galbo,Reece Greer,Jacob Payer,David Gonzales
+Group Stage,5.0 Expert Division,Group D,5,Single game,Pending,leo & lauren,Pending,21,8,,,,,James Lamkin,Calvin Chang,Lauren Eckert,Leo Albert
+Group Stage,5.0 Expert Division,Group D,5,Single game,RIPS only,Trent/Hongyi,RIPS only,21,11,,,,,Ahren Gwynn,Gunnar Mueller,Hongyi Zhu,Trent Keeler
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 32,Best of 3,My Only Sunshine 🌻,leo & lauren,My Only Sunshine 🌻,1,0,1,0,,,Devon Lee,Eric Tay,Lauren Eckert,Leo Albert
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 32,Best of 3,GRANDES SALTEÑAS,Finger Wizards,GRANDES SALTEÑAS,21,19,21,17,,,Jacob Payer,David Gonzales,Michael Twersky,jackson rosol
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 32,Best of 3,Torque,Tecca,Torque,1,0,1,0,,,Schon Siguenza,Josh Cain,Eric Najarro,Elijah Regan
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 32,Best of 3,Liam/Jonas,Unideal Footwear,Liam/Jonas,21,13,21,17,,,Jonas Frost,Liam Martinez,Alex Veron,Cooper Patcheak
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 32,Best of 3,♞ Get forked ♞,Trent/Hongyi,♞ Get forked ♞,21,9,21,11,,,Dylan Styron,Michael Capobianco,Hongyi Zhu,Trent Keeler
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 16,Best of 3,3 for 3 on 3rd,♞ Get forked ♞,3 for 3 on 3rd,21,7,21,8,,,Jake Woolley,Connor Nelson,Dylan Styron,Michael Capobianco
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 16,Best of 3,Father Son Bonding,Liam/Jonas,Father Son Bonding,21,15,21,13,,,Caleb Cummings,Hunter Koth,Jonas Frost,Liam Martinez
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 16,Best of 3,Hospital Ball,Torque,Hospital Ball,25,23,31,29,,,Lucas Pruett,Trevor Barbosa,Schon Siguenza,Josh Cain
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 16,Best of 3,Competitive Racism,GRANDES SALTEÑAS,Competitive Racism,21,15,21,13,,,Alec Galbo,Reece Greer,Jacob Payer,David Gonzales
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 16,Best of 3,Franz’s little helpers,My Only Sunshine 🌻,Franz’s little helpers,1,0,1,0,,,Nathan Robertt,Gavin Hansen,Devon Lee,Eric Tay
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 16,Best of 3,Pending,Asians,Pending,21,15,21,16,,,James Lamkin,Calvin Chang,Reece Yoshizawa,Jake Young
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 16,Best of 3,Firm foundation,Dinomite,Dinomite,21,19,19,21,23,25,Clifton Miller,Matt Ortlip,Sasha Mariniuk,Noah Saddik
+Bracket Stage,5.0 Expert Division,Bracket A,Round of 16,Best of 3,RIPS only,Tall & Taller,Tall & Taller,12,21,15,21,,,Ahren Gwynn,Gunnar Mueller,Josh Fragiacomo,Charlie Camarena
+Bracket Stage,5.0 Expert Division,Bracket A,Quarter-final,Best of 3,3 for 3 on 3rd,Tall & Taller,3 for 3 on 3rd,21,13,19,21,21,13,Jake Woolley,Connor Nelson,Josh Fragiacomo,Charlie Camarena
+Bracket Stage,5.0 Expert Division,Bracket A,Quarter-final,Best of 3,Father Son Bonding,Dinomite,Father Son Bonding,21,18,21,14,,,Caleb Cummings,Hunter Koth,Sasha Mariniuk,Noah Saddik
+Bracket Stage,5.0 Expert Division,Bracket A,Quarter-final,Best of 3,Hospital Ball,Pending,Hospital Ball,21,13,21,12,,,Lucas Pruett,Trevor Barbosa,James Lamkin,Calvin Chang
+Bracket Stage,5.0 Expert Division,Bracket A,Quarter-final,Best of 3,Competitive Racism,Franz’s little helpers,Competitive Racism,21,16,16,21,21,16,Alec Galbo,Reece Greer,Nathan Robertt,Gavin Hansen
+Bracket Stage,5.0 Expert Division,Bracket A,P9: Quarter-final,Best of 3,RIPS only,♞ Get forked ♞,RIPS only,21,15,21,19,,,Ahren Gwynn,Gunnar Mueller,Dylan Styron,Michael Capobianco
+Bracket Stage,5.0 Expert Division,Bracket A,P9: Quarter-final,Best of 3,My Only Sunshine 🌻,GRANDES SALTEÑAS,My Only Sunshine 🌻,1,0,0,-1,,,Devon Lee,Eric Tay,Jacob Payer,David Gonzales
+Bracket Stage,5.0 Expert Division,Bracket A,Semi-final,Best of 3,3 for 3 on 3rd,Competitive Racism,3 for 3 on 3rd,21,16,21,14,,,Jake Woolley,Connor Nelson,Alec Galbo,Reece Greer
+Bracket Stage,5.0 Expert Division,Bracket A,Semi-final,Best of 3,Father Son Bonding,Hospital Ball,Hospital Ball,17,21,21,23,,,Caleb Cummings,Hunter Koth,Lucas Pruett,Trevor Barbosa
+Bracket Stage,5.0 Expert Division,Bracket A,P9: Semi-final,Best of 3,RIPS only,My Only Sunshine 🌻,My Only Sunshine 🌻,0,1,-1,0,,,Ahren Gwynn,Gunnar Mueller,Devon Lee,Eric Tay
+Bracket Stage,5.0 Expert Division,Bracket A,Final,Best of 3,3 for 3 on 3rd,Hospital Ball,3 for 3 on 3rd,21,11,21,13,,,Jake Woolley,Connor Nelson,Lucas Pruett,Trevor Barbosa
+Bracket Stage,5.0 Expert Division,Bracket A,P3: Final,Best of 3,Father Son Bonding,Competitive Racism,,1,0,0,1,,,Caleb Cummings,Hunter Koth,Alec Galbo,Reece Greer
+Group Stage,4.5 Womens Division,Group A,1,Single game,ellelowe sebmarine,pekpek divers,ellelowe sebmarine,21,15,,,,,Elle Lowe,Sebastiani Kim,Cynthia Zhang,Karly Bigham
+Group Stage,4.5 Womens Division,Group A,1,Single game,Karazy rAllies,The West Spegg,Karazy rAllies,21,18,,,,,Ally Chou,Karah Hui,Joelle Nguyen,Sarah Allen
+Group Stage,4.5 Womens Division,Group A,2,Single game,ellelowe sebmarine,The West Spegg,ellelowe sebmarine,21,15,,,,,Elle Lowe,Sebastiani Kim,Joelle Nguyen,Sarah Allen
+Group Stage,4.5 Womens Division,Group A,2,Single game,Karazy rAllies,pekpek divers,Karazy rAllies,21,12,,,,,Ally Chou,Karah Hui,Cynthia Zhang,Karly Bigham
+Group Stage,4.5 Womens Division,Group A,3,Single game,ellelowe sebmarine,Karazy rAllies,Karazy rAllies,19,21,,,,,Elle Lowe,Sebastiani Kim,Ally Chou,Karah Hui
+Group Stage,4.5 Womens Division,Group A,3,Single game,The West Spegg,pekpek divers,The West Spegg,21,13,,,,,Joelle Nguyen,Sarah Allen,Cynthia Zhang,Karly Bigham
+Group Stage,4.5 Womens Division,Group A,4,Single game,ellelowe sebmarine,pekpek divers,ellelowe sebmarine,21,10,,,,,Elle Lowe,Sebastiani Kim,Cynthia Zhang,Karly Bigham
+Group Stage,4.5 Womens Division,Group A,4,Single game,Karazy rAllies,The West Spegg,Karazy rAllies,21,13,,,,,Ally Chou,Karah Hui,Joelle Nguyen,Sarah Allen
+Group Stage,4.5 Womens Division,Group A,5,Single game,ellelowe sebmarine,The West Spegg,The West Spegg,19,21,,,,,Elle Lowe,Sebastiani Kim,Joelle Nguyen,Sarah Allen
+Group Stage,4.5 Womens Division,Group A,5,Single game,Karazy rAllies,pekpek divers,Karazy rAllies,21,18,,,,,Ally Chou,Karah Hui,Cynthia Zhang,Karly Bigham
+Group Stage,4.5 Womens Division,Group A,6,Single game,ellelowe sebmarine,Karazy rAllies,ellelowe sebmarine,21,17,,,,,Elle Lowe,Sebastiani Kim,Ally Chou,Karah Hui
+Group Stage,4.5 Womens Division,Group A,6,Single game,The West Spegg,pekpek divers,The West Spegg,21,19,,,,,Joelle Nguyen,Sarah Allen,Cynthia Zhang,Karly Bigham
+Bracket Stage,4.5 Womens Division,Bracket A,Semi-final,Best of 3,Karazy rAllies,pekpek divers,Karazy rAllies,21,15,21,18,,,Ally Chou,Karah Hui,Cynthia Zhang,Karly Bigham
+Bracket Stage,4.5 Womens Division,Bracket A,Semi-final,Best of 3,ellelowe sebmarine,The West Spegg,ellelowe sebmarine,14,21,21,12,23,21,Elle Lowe,Sebastiani Kim,Joelle Nguyen,Sarah Allen
+Bracket Stage,4.5 Womens Division,Bracket A,Final,Best of 3,Karazy rAllies,ellelowe sebmarine,ellelowe sebmarine,15,21,16,21,,,Ally Chou,Karah Hui,Elle Lowe,Sebastiani Kim
+Bracket Stage,4.5 Womens Division,Bracket A,P3: Final,Best of 3,The West Spegg,pekpek divers,The West Spegg,21,14,21,19,,,Joelle Nguyen,Sarah Allen,Cynthia Zhang,Karly Bigham

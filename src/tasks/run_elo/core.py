@@ -533,6 +533,7 @@ class ELO_Model:
             combos_t= combos[combos["order"]==j].reset_index(drop=True)
             #print(combos_t["tourney"][0])
             for i in range(0,len(combos_t)):
+                print(combos_t.loc[i,"tourney"],combos_t.loc[i,"Division"])
                 if "AVG_ELO" in combos_t.columns:
                     self.record_tourney(data,combos_t.loc[i,"tourney"],combos_t.loc[i,"Division"],combos_t.loc[i,"Date"],avg_elo=combos_t.loc[i,"AVG_ELO"])
                 else:

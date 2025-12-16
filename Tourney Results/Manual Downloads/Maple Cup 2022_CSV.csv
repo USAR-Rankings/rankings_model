@@ -1,0 +1,98 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+ELITE GROUP STAGE,Elite,Group A,1,Single game,Père et Fils,16-35mm,Père et Fils,21,15,,,,,Vincent Mathieu,Olivier Laurin,Adrian Garcea,Keaton Kirchner
+ELITE GROUP STAGE,Elite,Group A,1,Single game,Sensure,Équipe Mrgence,Sensure,21,16,,,,,Vincent Bastrash,Thomas Lemieux,Simon Toupin,Maxime Rome-Gosselin
+ELITE GROUP STAGE,Elite,Group A,1,Single game,X-LARGE,Kokiri,Kokiri,19,21,,,,,Karl Pominville,Élie Pilon,Liam Read,Carlin Vicera
+ELITE GROUP STAGE,Elite,Group B,1,Single game,Wesburn,NEM Aced by Vinny,Wesburn,21,15,,,,,Eddy Leung,Ivan Zeng,Justin Cho,Brock Leibold
+ELITE GROUP STAGE,Elite,Group B,1,Single game,Sub-Zero,Great White Shark 🦈,Sub-Zero,22,20,,,,,Gabriel Monfette,Olivier Aglot,Etienne Cote,Shardul Ghuge
+ELITE GROUP STAGE,Elite,Group A,2,Single game,Père et Fils,Équipe Mrgence,Père et Fils,21,11,,,,,Vincent Mathieu,Olivier Laurin,Simon Toupin,Maxime Rome-Gosselin
+ELITE GROUP STAGE,Elite,Group A,2,Single game,Sensure,X-LARGE,Sensure,21,17,,,,,Vincent Bastrash,Thomas Lemieux,Karl Pominville,Élie Pilon
+ELITE GROUP STAGE,Elite,Group A,2,Single game,Kokiri,16-35mm,16-35mm,16,21,,,,,Liam Read,Carlin Vicera,Adrian Garcea,Keaton Kirchner
+ELITE GROUP STAGE,Elite,Group B,2,Single game,Wesburn,Great White Shark 🦈,Wesburn,21,18,,,,,Eddy Leung,Ivan Zeng,Etienne Cote,Shardul Ghuge
+ELITE GROUP STAGE,Elite,Group B,2,Single game,Salt & Pepper,NEM Aced by Vinny,Salt & Pepper,21,14,,,,,Philip Drouin,Scott Pasiechnyk,Justin Cho,Brock Leibold
+ELITE GROUP STAGE,Elite,Group A,3,Single game,Père et Fils,Kokiri,Père et Fils,21,5,,,,,Vincent Mathieu,Olivier Laurin,Liam Read,Carlin Vicera
+ELITE GROUP STAGE,Elite,Group A,3,Single game,Sensure,16-35mm,Sensure,21,14,,,,,Vincent Bastrash,Thomas Lemieux,Adrian Garcea,Keaton Kirchner
+ELITE GROUP STAGE,Elite,Group A,3,Single game,X-LARGE,Équipe Mrgence,X-LARGE,21,10,,,,,Karl Pominville,Élie Pilon,Simon Toupin,Maxime Rome-Gosselin
+ELITE GROUP STAGE,Elite,Group B,3,Single game,Wesburn,Salt & Pepper,Wesburn,21,18,,,,,Eddy Leung,Ivan Zeng,Philip Drouin,Scott Pasiechnyk
+ELITE GROUP STAGE,Elite,Group B,3,Single game,Sub-Zero,NEM Aced by Vinny,Sub-Zero,21,12,,,,,Gabriel Monfette,Olivier Aglot,Justin Cho,Brock Leibold
+ELITE GROUP STAGE,Elite,Group A,4,Single game,Père et Fils,X-LARGE,Père et Fils,21,15,,,,,Vincent Mathieu,Olivier Laurin,Karl Pominville,Élie Pilon
+ELITE GROUP STAGE,Elite,Group A,4,Single game,Sensure,Kokiri,Sensure,21,15,,,,,Vincent Bastrash,Thomas Lemieux,Liam Read,Carlin Vicera
+ELITE GROUP STAGE,Elite,Group A,4,Single game,Équipe Mrgence,16-35mm,16-35mm,19,21,,,,,Simon Toupin,Maxime Rome-Gosselin,Adrian Garcea,Keaton Kirchner
+ELITE GROUP STAGE,Elite,Group B,4,Single game,Sub-Zero,Salt & Pepper,Sub-Zero,21,17,,,,,Gabriel Monfette,Olivier Aglot,Philip Drouin,Scott Pasiechnyk
+ELITE GROUP STAGE,Elite,Group B,4,Single game,Great White Shark 🦈,NEM Aced by Vinny,Great White Shark 🦈,21,10,,,,,Etienne Cote,Shardul Ghuge,Justin Cho,Brock Leibold
+ELITE GROUP STAGE,Elite,Group A,5,Single game,Père et Fils,Sensure,Père et Fils,21,19,,,,,Vincent Mathieu,Olivier Laurin,Vincent Bastrash,Thomas Lemieux
+ELITE GROUP STAGE,Elite,Group A,5,Single game,X-LARGE,16-35mm,16-35mm,19,21,,,,,Karl Pominville,Élie Pilon,Adrian Garcea,Keaton Kirchner
+ELITE GROUP STAGE,Elite,Group A,5,Single game,Kokiri,Équipe Mrgence,Kokiri,21,14,,,,,Liam Read,Carlin Vicera,Simon Toupin,Maxime Rome-Gosselin
+ELITE GROUP STAGE,Elite,Group B,5,Single game,Wesburn,Sub-Zero,Sub-Zero,22,24,,,,,Eddy Leung,Ivan Zeng,Gabriel Monfette,Olivier Aglot
+ELITE GROUP STAGE,Elite,Group B,5,Single game,Salt & Pepper,Great White Shark 🦈,Great White Shark 🦈,20,21,,,,,Philip Drouin,Scott Pasiechnyk,Etienne Cote,Shardul Ghuge
+Bracket Stage,Elite,Bracket A,Round of 16,Best of 3,16-35mm,Équipe Mrgence,16-35mm,21,15,21,16,,,Adrian Garcea,Keaton Kirchner,Simon Toupin,Maxime Rome-Gosselin
+Bracket Stage,Elite,Bracket A,Round of 16,Best of 3,Salt & Pepper,NEM Aced by Vinny,Salt & Pepper,21,17,22,20,,,Philip Drouin,Scott Pasiechnyk,Justin Cho,Brock Leibold
+Bracket Stage,Elite,Bracket A,Round of 16,Best of 3,Kokiri,X-LARGE,X-LARGE,13,21,14,21,,,Liam Read,Carlin Vicera,Karl Pominville,Élie Pilon
+Bracket Stage,Elite,Bracket A,Quarter-final,Best of 3,Père et Fils,X-LARGE,Père et Fils,21,14,21,12,,,Vincent Mathieu,Olivier Laurin,Karl Pominville,Élie Pilon
+Bracket Stage,Elite,Bracket A,Quarter-final,Best of 3,Sub-Zero,Salt & Pepper,Sub-Zero,21,16,21,16,,,Gabriel Monfette,Olivier Aglot,Philip Drouin,Scott Pasiechnyk
+Bracket Stage,Elite,Bracket A,Quarter-final,Best of 3,Sensure,16-35mm,Sensure,19,21,21,15,21,17,Vincent Bastrash,Thomas Lemieux,Adrian Garcea,Keaton Kirchner
+Bracket Stage,Elite,Bracket A,Quarter-final,Best of 3,Wesburn,Great White Shark 🦈,Wesburn,21,11,21,16,,,Eddy Leung,Ivan Zeng,Etienne Cote,Shardul Ghuge
+Bracket Stage,Elite,Bracket A,Semi-final,Best of 3,Père et Fils,Wesburn,Père et Fils,21,17,21,12,,,Vincent Mathieu,Olivier Laurin,Eddy Leung,Ivan Zeng
+Bracket Stage,Elite,Bracket A,Semi-final,Best of 3,Sub-Zero,Sensure,Sub-Zero,19,21,21,19,24,22,Gabriel Monfette,Olivier Aglot,Vincent Bastrash,Thomas Lemieux
+Bracket Stage,Elite,Bracket A,P5: Semi-final,Single game,Great White Shark 🦈,X-LARGE,X-LARGE,15,21,,,,,Etienne Cote,Shardul Ghuge,Karl Pominville,Élie Pilon
+Bracket Stage,Elite,Bracket A,P5: Semi-final,Single game,16-35mm,Salt & Pepper,Salt & Pepper,18,21,,,,,Adrian Garcea,Keaton Kirchner,Philip Drouin,Scott Pasiechnyk
+Bracket Stage,Elite,Bracket A,P9: Semi-final,Single game,NEM Aced by Vinny,Équipe Mrgence,Équipe Mrgence,17,21,,,,,Justin Cho,Brock Leibold,Simon Toupin,Maxime Rome-Gosselin
+Bracket Stage,Elite,Bracket A,Final,Best of 3,Père et Fils,Sub-Zero,Père et Fils,21,19,12,21,21,19,Vincent Mathieu,Olivier Laurin,Gabriel Monfette,Olivier Aglot
+Bracket Stage,Elite,Bracket A,P3: Final,Best of 3,Sensure,Wesburn,Wesburn,1,0,0,1,0,1,Vincent Bastrash,Thomas Lemieux,Eddy Leung,Ivan Zeng
+Bracket Stage,Elite,Bracket A,P5: Final,Single game,X-LARGE,Salt & Pepper,X-LARGE,21,15,,,,,Karl Pominville,Élie Pilon,Philip Drouin,Scott Pasiechnyk
+Bracket Stage,Elite,Bracket A,P9: Final,Single game,Kokiri,Équipe Mrgence,Équipe Mrgence,19,21,,,,,Liam Read,Carlin Vicera,Simon Toupin,Maxime Rome-Gosselin
+ELITE GROUP STAGE,Advance,Group A,1,Single game,Goal Digger,Beauty & The Prince,Beauty & The Prince,18,21,,,,,Marc-Antoine Boutin,Jean-sébastien Boutin,David Reyes,Jessie Desrosiers
+ELITE GROUP STAGE,Advance,Group A,1,Single game,Milk Men,Impeccable💎,Milk Men,21,19,,,,,Brendan Reesor,Derek Soetemans,Pierre-André Gaumond,Charles Desgens
+ELITE GROUP STAGE,Advance,Group B,1,Single game,Pole Position,Free Agents,Pole Position,21,11,,,,,Simon Guillemette,Jé Gagnon,Christopher Phaneuf,Patrick Lefort
+ELITE GROUP STAGE,Advance,Group B,1,Single game,Double faute,Lemon Drops,Lemon Drops,13,21,,,,,Francois Desautels,Mikaël Liebner,Joshua Ang,Derek Jiacong
+ELITE GROUP STAGE,Advance,Group C,1,Single game,DANG,Kulture,DANG,21,13,,,,,Dylan Mark,Jared Ang,Thomas Langlois,William Chenier
+ELITE GROUP STAGE,Advance,Group C,1,Single game,The boys,Grands garcons,Grands garcons,13,21,,,,,Tommy Ricard,Laurent-Olivier Dumont,Émile Marcotte,Yannick Serres
+ELITE GROUP STAGE,Advance,Group A,2,Single game,Goal Digger,Impeccable💎,Impeccable💎,17,21,,,,,Marc-Antoine Boutin,Jean-sébastien Boutin,Pierre-André Gaumond,Charles Desgens
+ELITE GROUP STAGE,Advance,Group A,2,Single game,The Porcupines,Beauty & The Prince,Beauty & The Prince,9,21,,,,,Noah Baccin,Pascal Léger,David Reyes,Jessie Desrosiers
+ELITE GROUP STAGE,Advance,Group B,2,Single game,Pole Position,Lemon Drops,Pole Position,21,19,,,,,Simon Guillemette,Jé Gagnon,Joshua Ang,Derek Jiacong
+ELITE GROUP STAGE,Advance,Group B,2,Single game,Les cloches,Free Agents,Free Agents,11,21,,,,,Jacob Lauzon,Andrew Drapeau,Christopher Phaneuf,Patrick Lefort
+ELITE GROUP STAGE,Advance,Group C,2,Single game,DANG,Grands garcons,Grands garcons,20,22,,,,,Dylan Mark,Jared Ang,Émile Marcotte,Yannick Serres
+ELITE GROUP STAGE,Advance,Group C,2,Single game,WongCon,Kulture,Kulture,17,21,,,,,Isaac Wong,Eugene Contreras,Thomas Langlois,William Chenier
+ELITE GROUP STAGE,Advance,Group A,3,Single game,Goal Digger,The Porcupines,Goal Digger,21,11,,,,,Marc-Antoine Boutin,Jean-sébastien Boutin,Noah Baccin,Pascal Léger
+ELITE GROUP STAGE,Advance,Group A,3,Single game,Milk Men,Beauty & The Prince,Milk Men,21,13,,,,,Brendan Reesor,Derek Soetemans,David Reyes,Jessie Desrosiers
+ELITE GROUP STAGE,Advance,Group B,3,Single game,Pole Position,Les cloches,Pole Position,21,11,,,,,Simon Guillemette,Jé Gagnon,Jacob Lauzon,Andrew Drapeau
+ELITE GROUP STAGE,Advance,Group B,3,Single game,Double faute,Free Agents,Free Agents,14,21,,,,,Francois Desautels,Mikaël Liebner,Christopher Phaneuf,Patrick Lefort
+ELITE GROUP STAGE,Advance,Group C,3,Single game,DANG,WongCon,DANG,21,11,,,,,Dylan Mark,Jared Ang,Isaac Wong,Eugene Contreras
+ELITE GROUP STAGE,Advance,Group C,3,Single game,The boys,Kulture,Kulture,17,21,,,,,Tommy Ricard,Laurent-Olivier Dumont,Thomas Langlois,William Chenier
+ELITE GROUP STAGE,Advance,Group A,4,Single game,Milk Men,The Porcupines,Milk Men,21,8,,,,,Brendan Reesor,Derek Soetemans,Noah Baccin,Pascal Léger
+ELITE GROUP STAGE,Advance,Group A,4,Single game,Impeccable💎,Beauty & The Prince,Impeccable💎,21,19,,,,,Pierre-André Gaumond,Charles Desgens,David Reyes,Jessie Desrosiers
+ELITE GROUP STAGE,Advance,Group B,4,Single game,Double faute,Les cloches,Double faute,21,19,,,,,Francois Desautels,Mikaël Liebner,Jacob Lauzon,Andrew Drapeau
+ELITE GROUP STAGE,Advance,Group B,4,Single game,Lemon Drops,Free Agents,Free Agents,18,21,,,,,Joshua Ang,Derek Jiacong,Christopher Phaneuf,Patrick Lefort
+ELITE GROUP STAGE,Advance,Group C,4,Single game,The boys,WongCon,The boys,21,19,,,,,Tommy Ricard,Laurent-Olivier Dumont,Isaac Wong,Eugene Contreras
+ELITE GROUP STAGE,Advance,Group C,4,Single game,Grands garcons,Kulture,Kulture,22,24,,,,,Émile Marcotte,Yannick Serres,Thomas Langlois,William Chenier
+ELITE GROUP STAGE,Advance,Group A,5,Single game,Goal Digger,Milk Men,Milk Men,12,21,,,,,Marc-Antoine Boutin,Jean-sébastien Boutin,Brendan Reesor,Derek Soetemans
+ELITE GROUP STAGE,Advance,Group A,5,Single game,The Porcupines,Impeccable💎,Impeccable💎,7,21,,,,,Noah Baccin,Pascal Léger,Pierre-André Gaumond,Charles Desgens
+ELITE GROUP STAGE,Advance,Group B,5,Single game,Pole Position,Double faute,Pole Position,21,7,,,,,Simon Guillemette,Jé Gagnon,Francois Desautels,Mikaël Liebner
+ELITE GROUP STAGE,Advance,Group B,5,Single game,Les cloches,Lemon Drops,Lemon Drops,18,21,,,,,Jacob Lauzon,Andrew Drapeau,Joshua Ang,Derek Jiacong
+ELITE GROUP STAGE,Advance,Group C,5,Single game,DANG,The boys,DANG,21,15,,,,,Dylan Mark,Jared Ang,Tommy Ricard,Laurent-Olivier Dumont
+ELITE GROUP STAGE,Advance,Group C,5,Single game,WongCon,Grands garcons,Grands garcons,17,21,,,,,Isaac Wong,Eugene Contreras,Émile Marcotte,Yannick Serres
+Bracket Stage,Advance,Bracket A,Round of 16,Best of 3,Milk Men,The Porcupines,Milk Men,21,8,21,13,,,Brendan Reesor,Derek Soetemans,Noah Baccin,Pascal Léger
+Bracket Stage,Advance,Bracket A,Round of 16,Best of 3,DANG,Les cloches,DANG,21,16,21,10,,,Dylan Mark,Jared Ang,Jacob Lauzon,Andrew Drapeau
+Bracket Stage,Advance,Bracket A,Round of 16,Best of 3,Impeccable💎,WongCon,Impeccable💎,21,13,21,14,,,Pierre-André Gaumond,Charles Desgens,Isaac Wong,Eugene Contreras
+Bracket Stage,Advance,Bracket A,Round of 16,Best of 3,Grands garcons,Double faute,Grands garcons,21,14,21,17,,,Émile Marcotte,Yannick Serres,Francois Desautels,Mikaël Liebner
+Bracket Stage,Advance,Bracket A,Round of 16,Best of 3,Free Agents,The boys,Free Agents,21,14,16,21,21,17,Christopher Phaneuf,Patrick Lefort,Tommy Ricard,Laurent-Olivier Dumont
+Bracket Stage,Advance,Bracket A,Round of 16,Best of 3,Kulture,Goal Digger,Kulture,21,14,15,21,21,17,Thomas Langlois,William Chenier,Marc-Antoine Boutin,Jean-sébastien Boutin
+Bracket Stage,Advance,Bracket A,Round of 16,Best of 3,Lemon Drops,Beauty & The Prince,Lemon Drops,18,21,21,18,21,19,Joshua Ang,Derek Jiacong,David Reyes,Jessie Desrosiers
+Bracket Stage,Advance,Bracket A,Quarter-final,Best of 3,Pole Position,Lemon Drops,Pole Position,21,13,21,6,,,Simon Guillemette,Jé Gagnon,Joshua Ang,Derek Jiacong
+Bracket Stage,Advance,Bracket A,Quarter-final,Best of 3,Milk Men,Kulture,Milk Men,21,11,21,12,,,Brendan Reesor,Derek Soetemans,Thomas Langlois,William Chenier
+Bracket Stage,Advance,Bracket A,Quarter-final,Best of 3,DANG,Free Agents,DANG,21,10,21,11,,,Dylan Mark,Jared Ang,Christopher Phaneuf,Patrick Lefort
+Bracket Stage,Advance,Bracket A,Quarter-final,Best of 3,Impeccable💎,Grands garcons,Grands garcons,19,21,15,21,,,Pierre-André Gaumond,Charles Desgens,Émile Marcotte,Yannick Serres
+Bracket Stage,Advance,Bracket A,P9: Quarter-final,Single game,Goal Digger,The Porcupines,Goal Digger,21,15,,,,,Marc-Antoine Boutin,Jean-sébastien Boutin,Noah Baccin,Pascal Léger
+Bracket Stage,Advance,Bracket A,P9: Quarter-final,Single game,The boys,Les cloches,The boys,21,18,,,,,Tommy Ricard,Laurent-Olivier Dumont,Jacob Lauzon,Andrew Drapeau
+Bracket Stage,Advance,Bracket A,P9: Quarter-final,Single game,Double faute,WongCon,WongCon,0,1,,,,,Francois Desautels,Mikaël Liebner,Isaac Wong,Eugene Contreras
+Bracket Stage,Advance,Bracket A,Semi-final,Best of 3,Pole Position,Grands garcons,Pole Position,21,15,21,13,,,Simon Guillemette,Jé Gagnon,Émile Marcotte,Yannick Serres
+Bracket Stage,Advance,Bracket A,Semi-final,Best of 3,Milk Men,DANG,DANG,18,21,18,21,,,Brendan Reesor,Derek Soetemans,Dylan Mark,Jared Ang
+Bracket Stage,Advance,Bracket A,P5: Semi-final,Single game,Impeccable💎,Lemon Drops,Impeccable💎,100,99,,,,,Pierre-André Gaumond,Charles Desgens,Joshua Ang,Derek Jiacong
+Bracket Stage,Advance,Bracket A,P5: Semi-final,Single game,Free Agents,Kulture,Kulture,13,21,,,,,Christopher Phaneuf,Patrick Lefort,Thomas Langlois,William Chenier
+Bracket Stage,Advance,Bracket A,P9: Semi-final,Single game,Beauty & The Prince,WongCon,WongCon,0,1,,,,,David Reyes,Jessie Desrosiers,Isaac Wong,Eugene Contreras
+Bracket Stage,Advance,Bracket A,P9: Semi-final,Single game,Goal Digger,The boys,Goal Digger,21,12,,,,,Marc-Antoine Boutin,Jean-sébastien Boutin,Tommy Ricard,Laurent-Olivier Dumont
+Bracket Stage,Advance,Bracket A,P13: Semi-final,Single game,Les cloches,The Porcupines,Les cloches,21,18,,,,,Jacob Lauzon,Andrew Drapeau,Noah Baccin,Pascal Léger
+Bracket Stage,Advance,Bracket A,Final,Best of 3,Pole Position,DANG,Pole Position,21,13,21,16,,,Simon Guillemette,Jé Gagnon,Dylan Mark,Jared Ang
+Bracket Stage,Advance,Bracket A,P3: Final,Best of 3,Milk Men,Grands garcons,Milk Men,1,0,1,0,,,Brendan Reesor,Derek Soetemans,Émile Marcotte,Yannick Serres
+Bracket Stage,Advance,Bracket A,P5: Final,Single game,Impeccable💎,Kulture,Kulture,19,21,,,,,Pierre-André Gaumond,Charles Desgens,Thomas Langlois,William Chenier
+Bracket Stage,Advance,Bracket A,P7: Final,Single game,Free Agents,Lemon Drops,Free Agents,1,0,,,,,Christopher Phaneuf,Patrick Lefort,Joshua Ang,Derek Jiacong
+Bracket Stage,Advance,Bracket A,P11: Final,Single game,The boys,Beauty & The Prince,Beauty & The Prince,18,21,,,,,Tommy Ricard,Laurent-Olivier Dumont,David Reyes,Jessie Desrosiers
