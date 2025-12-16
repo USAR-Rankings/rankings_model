@@ -1,0 +1,80 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Bracket Stage,Elite/Premier,Bracket A,Quarter-final,Best of 3,Belgian Waffles ,Breaking Bad,Belgian Waffles ,21,18,24,22,,,Etienne Cote,Bram Declercq,Justin White,Carlos Nakamura
+Bracket Stage,Elite/Premier,Bracket A,Quarter-final,Best of 3,Groovy,Out of system,Groovy,14,21,21,15,21,12,Will Ries,Carlin Vicera,Mikey Wiebe,Kolton Falk
+Bracket Stage,Elite/Premier,Bracket A,Quarter-final,Best of 3,Spike Wazowski,Anti Serveball Serveball Club,Spike Wazowski,21,17,21,9,,,Tyus De Vries,Josiah Hoeppner,Segeon Jang,Mattias Cipriano
+Bracket Stage,Elite/Premier,Bracket A,Semi-final,Best of 3,Thirst Trap,Spike Wazowski,Thirst Trap,21,9,21,19,,,Blake Bosak,Elijah Kim,Tyus De Vries,Josiah Hoeppner
+Bracket Stage,Elite/Premier,Bracket A,Semi-final,Best of 3,Belgian Waffles ,Groovy,Belgian Waffles ,19,21,21,18,21,18,Etienne Cote,Bram Declercq,Will Ries,Carlin Vicera
+Bracket Stage,Elite/Premier,Bracket A,P5: Semi-final,Best of 3,Out of system,Breaking Bad,Breaking Bad,0,1,0,1,,,Mikey Wiebe,Kolton Falk,Justin White,Carlos Nakamura
+Bracket Stage,Elite/Premier,Bracket A,Final,Best of 3,Thirst Trap,Belgian Waffles ,Thirst Trap,20,22,21,16,23,21,Blake Bosak,Elijah Kim,Etienne Cote,Bram Declercq
+Bracket Stage,Elite/Premier,Bracket A,P3: Final,Best of 3,Groovy,Spike Wazowski,Groovy,21,16,21,19,,,Will Ries,Carlin Vicera,Tyus De Vries,Josiah Hoeppner
+Bracket Stage,Elite/Premier,Bracket A,P5: Final,Best of 3,Anti Serveball Serveball Club,Breaking Bad,Breaking Bad,,,0,1,0,1,Segeon Jang,Mattias Cipriano,Justin White,Carlos Nakamura
+Group Stage,Elite/Premier,Group A,1,Single game,Thirst Trap,Anti Serveball Serveball Club,Thirst Trap,21,9,,,,,Blake Bosak,Elijah Kim,Segeon Jang,Mattias Cipriano
+Group Stage,Elite/Premier,Group A,1,Single game,Belgian Waffles ,Spike Wazowski,Belgian Waffles ,21,9,,,,,Etienne Cote,Bram Declercq,Tyus De Vries,Josiah Hoeppner
+Group Stage,Elite/Premier,Group A,1,Single game,Groovy,Out of system,Groovy,21,14,,,,,Will Ries,Carlin Vicera,Mikey Wiebe,Kolton Falk
+Group Stage,Elite/Premier,Group A,2,Single game,Thirst Trap,Spike Wazowski,Thirst Trap,21,12,,,,,Blake Bosak,Elijah Kim,Tyus De Vries,Josiah Hoeppner
+Group Stage,Elite/Premier,Group A,2,Single game,Belgian Waffles ,Breaking Bad,Belgian Waffles ,21,13,,,,,Etienne Cote,Bram Declercq,Justin White,Carlos Nakamura
+Group Stage,Elite/Premier,Group A,2,Single game,Out of system,Anti Serveball Serveball Club,Anti Serveball Serveball Club,18,21,,,,,Mikey Wiebe,Kolton Falk,Segeon Jang,Mattias Cipriano
+Group Stage,Elite/Premier,Group A,3,Single game,Thirst Trap,Out of system,Thirst Trap,21,11,,,,,Blake Bosak,Elijah Kim,Mikey Wiebe,Kolton Falk
+Group Stage,Elite/Premier,Group A,3,Single game,Belgian Waffles ,Groovy,Belgian Waffles ,21,17,,,,,Etienne Cote,Bram Declercq,Will Ries,Carlin Vicera
+Group Stage,Elite/Premier,Group A,3,Single game,Breaking Bad,Spike Wazowski,Spike Wazowski,17,21,,,,,Justin White,Carlos Nakamura,Tyus De Vries,Josiah Hoeppner
+Group Stage,Elite/Premier,Group A,4,Single game,Thirst Trap,Breaking Bad,Thirst Trap,21,7,,,,,Blake Bosak,Elijah Kim,Justin White,Carlos Nakamura
+Group Stage,Elite/Premier,Group A,4,Single game,Belgian Waffles ,Anti Serveball Serveball Club,Belgian Waffles ,21,10,,,,,Etienne Cote,Bram Declercq,Segeon Jang,Mattias Cipriano
+Group Stage,Elite/Premier,Group A,4,Single game,Groovy,Spike Wazowski,Groovy,21,14,,,,,Will Ries,Carlin Vicera,Tyus De Vries,Josiah Hoeppner
+Group Stage,Elite/Premier,Group A,5,Single game,Belgian Waffles ,Out of system,Belgian Waffles ,21,7,,,,,Etienne Cote,Bram Declercq,Mikey Wiebe,Kolton Falk
+Group Stage,Elite/Premier,Group A,5,Single game,Groovy,Breaking Bad,Groovy,21,20,,,,,Will Ries,Carlin Vicera,Justin White,Carlos Nakamura
+Group Stage,Elite/Premier,Group A,5,Single game,Spike Wazowski,Anti Serveball Serveball Club,Spike Wazowski,21,20,,,,,Tyus De Vries,Josiah Hoeppner,Segeon Jang,Mattias Cipriano
+Group Stage,Elite/Premier,Group A,6,Single game,Thirst Trap,Groovy,Thirst Trap,21,11,,,,,Blake Bosak,Elijah Kim,Will Ries,Carlin Vicera
+Group Stage,Elite/Premier,Group A,6,Single game,Breaking Bad,Anti Serveball Serveball Club,Breaking Bad,21,18,,,,,Justin White,Carlos Nakamura,Segeon Jang,Mattias Cipriano
+Group Stage,Elite/Premier,Group A,6,Single game,Out of system,Spike Wazowski,Spike Wazowski,15,21,,,,,Mikey Wiebe,Kolton Falk,Tyus De Vries,Josiah Hoeppner
+Group Stage,Elite/Premier,Group A,7,Single game,Thirst Trap,Belgian Waffles ,Thirst Trap,21,11,,,,,Blake Bosak,Elijah Kim,Etienne Cote,Bram Declercq
+Group Stage,Elite/Premier,Group A,7,Single game,Groovy,Anti Serveball Serveball Club,Anti Serveball Serveball Club,16,21,,,,,Will Ries,Carlin Vicera,Segeon Jang,Mattias Cipriano
+Group Stage,Elite/Premier,Group A,7,Single game,Breaking Bad,Out of system,Out of system,12,21,,,,,Justin White,Carlos Nakamura,Mikey Wiebe,Kolton Falk
+Bracket Stage,Advanced,Bracket A,Round of 16,Single game,RoBetty,Alessio/Sara,RoBetty,21,12,,,,,Robert Nelson,Betty Yan,Alessio Midrigan,Sara Y.
+Bracket Stage,Advanced,Bracket A,Round of 16,Single game,Slam Poetry,The Manthers,The Manthers,22,24,,,,,Curtis Nelson,Fabian Tryggvesson,Trevor Robertson,Robbie Carley
+Bracket Stage,Advanced,Bracket A,Quarter-final,Single game,TBD,The Manthers,TBD,2,0,,,,,Jonathan De Jong,Legy Horak,Trevor Robertson,Robbie Carley
+Bracket Stage,Advanced,Bracket A,Quarter-final,Single game,Boom Ballers,RoBetty,Boom Ballers,2,0,,,,,Dayton Mah,Ethan Lo,Robert Nelson,Betty Yan
+Bracket Stage,Advanced,Bracket A,Quarter-final,Single game,Jess & Some Guy,"The Good, The Bad, The Ugly","The Good, The Bad, The Ugly",1,2,,,,,Jessica Freebairn,Zach Fafard,Thai Do,Almog Rotem
+Bracket Stage,Advanced,Bracket A,Quarter-final,Single game,Toggle Mode,Shaggy & Scoopy,Toggle Mode,2,1,,,,,Cesare Scarpone,Ryan Harrison,Riley Foster,Quentin Funk-Foster
+Bracket Stage,Advanced,Bracket A,Semi-final,Single game,TBD,Toggle Mode,TBD,2,0,,,,,Jonathan De Jong,Legy Horak,Cesare Scarpone,Ryan Harrison
+Bracket Stage,Advanced,Bracket A,Semi-final,Single game,Boom Ballers,"The Good, The Bad, The Ugly",Boom Ballers,2,0,,,,,Dayton Mah,Ethan Lo,Thai Do,Almog Rotem
+Bracket Stage,Advanced,Bracket A,P5: Semi-final,Single game,Shaggy & Scoopy,The Manthers,Shaggy & Scoopy,2,0,,,,,Riley Foster,Quentin Funk-Foster,Trevor Robertson,Robbie Carley
+Bracket Stage,Advanced,Bracket A,P5: Semi-final,Single game,Jess & Some Guy,RoBetty,Jess & Some Guy,1,0,,,,,Jessica Freebairn,Zach Fafard,Robert Nelson,Betty Yan
+Bracket Stage,Advanced,Bracket A,Final,Single game,TBD,Boom Ballers,TBD,2,1,,,,,Jonathan De Jong,Legy Horak,Dayton Mah,Ethan Lo
+Bracket Stage,Advanced,Bracket A,P3: Final,Single game,"The Good, The Bad, The Ugly",Toggle Mode,Toggle Mode,0,2,,,,,Thai Do,Almog Rotem,Cesare Scarpone,Ryan Harrison
+Bracket Stage,Advanced,Bracket A,P5: Final,Single game,Shaggy & Scoopy,Jess & Some Guy,Shaggy & Scoopy,1,0,,,,,Riley Foster,Quentin Funk-Foster,Jessica Freebairn,Zach Fafard
+Group Stage,Advanced,Group A,1,Single game,TBD,The Manthers,TBD,15,8,,,,,Jonathan De Jong,Legy Horak,Trevor Robertson,Robbie Carley
+Group Stage,Advanced,Group A,1,Single game,Toggle Mode,Slam Poetry,Toggle Mode,15,5,,,,,Cesare Scarpone,Ryan Harrison,Curtis Nelson,Fabian Tryggvesson
+Group Stage,Advanced,Group A,1,Single game,"The Good, The Bad, The Ugly",Shaggy & Scoopy,Shaggy & Scoopy,10,15,,,,,Thai Do,Almog Rotem,Riley Foster,Quentin Funk-Foster
+Group Stage,Advanced,Group A,1,Single game,Boom Ballers,RoBetty,Boom Ballers,15,9,,,,,Dayton Mah,Ethan Lo,Robert Nelson,Betty Yan
+Group Stage,Advanced,Group A,2,Single game,TBD,Slam Poetry,TBD,15,7,,,,,Jonathan De Jong,Legy Horak,Curtis Nelson,Fabian Tryggvesson
+Group Stage,Advanced,Group A,2,Single game,Toggle Mode,RoBetty,Toggle Mode,15,13,,,,,Cesare Scarpone,Ryan Harrison,Robert Nelson,Betty Yan
+Group Stage,Advanced,Group A,2,Single game,"The Good, The Bad, The Ugly",Jess & Some Guy,"The Good, The Bad, The Ugly",15,13,,,,,Thai Do,Almog Rotem,Jessica Freebairn,Zach Fafard
+Group Stage,Advanced,Group A,2,Single game,Shaggy & Scoopy,The Manthers,Shaggy & Scoopy,15,4,,,,,Riley Foster,Quentin Funk-Foster,Trevor Robertson,Robbie Carley
+Group Stage,Advanced,Group A,3,Single game,TBD,Shaggy & Scoopy,TBD,15,7,,,,,Jonathan De Jong,Legy Horak,Riley Foster,Quentin Funk-Foster
+Group Stage,Advanced,Group A,3,Single game,"The Good, The Bad, The Ugly",Boom Ballers,Boom Ballers,5,15,,,,,Thai Do,Almog Rotem,Dayton Mah,Ethan Lo
+Group Stage,Advanced,Group A,3,Single game,Jess & Some Guy,The Manthers,Jess & Some Guy,15,4,,,,,Jessica Freebairn,Zach Fafard,Trevor Robertson,Robbie Carley
+Group Stage,Advanced,Group A,3,Single game,RoBetty,Slam Poetry,Slam Poetry,15,17,,,,,Robert Nelson,Betty Yan,Curtis Nelson,Fabian Tryggvesson
+Group Stage,Advanced,Group A,4,Single game,TBD,RoBetty,TBD,15,10,,,,,Jonathan De Jong,Legy Horak,Robert Nelson,Betty Yan
+Group Stage,Advanced,Group A,4,Single game,Toggle Mode,"The Good, The Bad, The Ugly",Toggle Mode,15,11,,,,,Cesare Scarpone,Ryan Harrison,Thai Do,Almog Rotem
+Group Stage,Advanced,Group A,4,Single game,Boom Ballers,The Manthers,Boom Ballers,15,5,,,,,Dayton Mah,Ethan Lo,Trevor Robertson,Robbie Carley
+Group Stage,Advanced,Group A,4,Single game,Jess & Some Guy,Shaggy & Scoopy,Jess & Some Guy,15,10,,,,,Jessica Freebairn,Zach Fafard,Riley Foster,Quentin Funk-Foster
+Group Stage,Advanced,Group A,5,Single game,TBD,Jess & Some Guy,TBD,15,5,,,,,Jonathan De Jong,Legy Horak,Jessica Freebairn,Zach Fafard
+Group Stage,Advanced,Group A,5,Single game,Toggle Mode,The Manthers,Toggle Mode,15,12,,,,,Cesare Scarpone,Ryan Harrison,Trevor Robertson,Robbie Carley
+Group Stage,Advanced,Group A,5,Single game,"The Good, The Bad, The Ugly",Slam Poetry,"The Good, The Bad, The Ugly",15,4,,,,,Thai Do,Almog Rotem,Curtis Nelson,Fabian Tryggvesson
+Group Stage,Advanced,Group A,5,Single game,Boom Ballers,Shaggy & Scoopy,Boom Ballers,15,8,,,,,Dayton Mah,Ethan Lo,Riley Foster,Quentin Funk-Foster
+Group Stage,Advanced,Group A,6,Single game,Toggle Mode,Shaggy & Scoopy,Shaggy & Scoopy,11,15,,,,,Cesare Scarpone,Ryan Harrison,Riley Foster,Quentin Funk-Foster
+Group Stage,Advanced,Group A,6,Single game,"The Good, The Bad, The Ugly",RoBetty,"The Good, The Bad, The Ugly",15,13,,,,,Thai Do,Almog Rotem,Robert Nelson,Betty Yan
+Group Stage,Advanced,Group A,6,Single game,Boom Ballers,Jess & Some Guy,Boom Ballers,15,9,,,,,Dayton Mah,Ethan Lo,Jessica Freebairn,Zach Fafard
+Group Stage,Advanced,Group A,6,Single game,Slam Poetry,The Manthers,Slam Poetry,15,7,,,,,Curtis Nelson,Fabian Tryggvesson,Trevor Robertson,Robbie Carley
+Group Stage,Advanced,Group A,7,Single game,TBD,Boom Ballers,TBD,15,10,,,,,Jonathan De Jong,Legy Horak,Dayton Mah,Ethan Lo
+Group Stage,Advanced,Group A,7,Single game,Toggle Mode,Jess & Some Guy,Jess & Some Guy,15,17,,,,,Cesare Scarpone,Ryan Harrison,Jessica Freebairn,Zach Fafard
+Group Stage,Advanced,Group A,7,Single game,RoBetty,The Manthers,RoBetty,15,11,,,,,Robert Nelson,Betty Yan,Trevor Robertson,Robbie Carley
+Group Stage,Advanced,Group A,7,Single game,Shaggy & Scoopy,Slam Poetry,Shaggy & Scoopy,15,6,,,,,Riley Foster,Quentin Funk-Foster,Curtis Nelson,Fabian Tryggvesson
+Group Stage,Advanced,Group A,8,Single game,TBD,"The Good, The Bad, The Ugly",TBD,15,6,,,,,Jonathan De Jong,Legy Horak,Thai Do,Almog Rotem
+Group Stage,Advanced,Group A,8,Single game,Toggle Mode,Boom Ballers,Boom Ballers,13,15,,,,,Cesare Scarpone,Ryan Harrison,Dayton Mah,Ethan Lo
+Group Stage,Advanced,Group A,8,Single game,Jess & Some Guy,Slam Poetry,Jess & Some Guy,15,12,,,,,Jessica Freebairn,Zach Fafard,Curtis Nelson,Fabian Tryggvesson
+Group Stage,Advanced,Group A,8,Single game,RoBetty,Shaggy & Scoopy,RoBetty,15,4,,,,,Robert Nelson,Betty Yan,Riley Foster,Quentin Funk-Foster
+Group Stage,Advanced,Group A,9,Single game,TBD,Toggle Mode,TBD,15,13,,,,,Jonathan De Jong,Legy Horak,Cesare Scarpone,Ryan Harrison
+Group Stage,Advanced,Group A,9,Single game,"The Good, The Bad, The Ugly",The Manthers,"The Good, The Bad, The Ugly",15,6,,,,,Thai Do,Almog Rotem,Trevor Robertson,Robbie Carley
+Group Stage,Advanced,Group A,9,Single game,Boom Ballers,Slam Poetry,Boom Ballers,15,5,,,,,Dayton Mah,Ethan Lo,Curtis Nelson,Fabian Tryggvesson
+Group Stage,Advanced,Group A,9,Single game,Jess & Some Guy,RoBetty,Jess & Some Guy,15,10,,,,,Jessica Freebairn,Zach Fafard,Robert Nelson,Betty Yan
