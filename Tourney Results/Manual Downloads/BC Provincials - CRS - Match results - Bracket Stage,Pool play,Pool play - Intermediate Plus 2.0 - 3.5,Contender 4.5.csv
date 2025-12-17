@@ -1,0 +1,63 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,1,Single game,Worm Early,Free Agents,Worm Early,21,9,,,,,Agnes Pang,Thai Do,Julien Beaudoin-Mercier,Evelyn Hootman
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,1,Single game,Alex/Aidan,Curry Cartel,Alex/Aidan,21,10,,,,,Aidan Erickson,Alex Chekina,David Joseph,Pablo Garcia
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,1,Single game,Bing Bong,Raspberry Sauce,Raspberry Sauce,17,21,,,,,Darwin Marzo,Taylor Bailey,Rachel Cheung,Stacy Yu
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,2,Single game,Worm Early,Curry Cartel,Worm Early,21,14,,,,,Agnes Pang,Thai Do,David Joseph,Pablo Garcia
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,2,Single game,Alex/Aidan,Bing Bong,Alex/Aidan,21,8,,,,,Aidan Erickson,Alex Chekina,Darwin Marzo,Taylor Bailey
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,2,Single game,Raspberry Sauce,Free Agents,Raspberry Sauce,21,13,,,,,Rachel Cheung,Stacy Yu,Julien Beaudoin-Mercier,Evelyn Hootman
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,3,Single game,Worm Early,Raspberry Sauce,Worm Early,21,8,,,,,Agnes Pang,Thai Do,Rachel Cheung,Stacy Yu
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,3,Single game,Alex/Aidan,Free Agents,Free Agents,20,22,,,,,Aidan Erickson,Alex Chekina,Julien Beaudoin-Mercier,Evelyn Hootman
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,3,Single game,Bing Bong,Curry Cartel,Bing Bong,21,16,,,,,Darwin Marzo,Taylor Bailey,David Joseph,Pablo Garcia
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,4,Single game,Worm Early,Bing Bong,Worm Early,21,14,,,,,Agnes Pang,Thai Do,Darwin Marzo,Taylor Bailey
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,4,Single game,Alex/Aidan,Raspberry Sauce,Alex/Aidan,21,18,,,,,Aidan Erickson,Alex Chekina,Rachel Cheung,Stacy Yu
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,4,Single game,Curry Cartel,Free Agents,Free Agents,9,21,,,,,David Joseph,Pablo Garcia,Julien Beaudoin-Mercier,Evelyn Hootman
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,5,Single game,Worm Early,Alex/Aidan,Worm Early,21,14,,,,,Agnes Pang,Thai Do,Aidan Erickson,Alex Chekina
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,5,Single game,Bing Bong,Free Agents,Bing Bong,21,18,,,,,Darwin Marzo,Taylor Bailey,Julien Beaudoin-Mercier,Evelyn Hootman
+Pool play,Intermediate Plus 2.0 - 3.5,Group A,5,Single game,Raspberry Sauce,Curry Cartel,Raspberry Sauce,21,10,,,,,Rachel Cheung,Stacy Yu,David Joseph,Pablo Garcia
+Bracket Stage,Intermediate Plus 2.0 - 3.5,Bracket A,Quarter-final,Best of 3,Raspberry Sauce,Curry Cartel,Raspberry Sauce,21,9,21,13,,,Rachel Cheung,Stacy Yu,David Joseph,Pablo Garcia
+Bracket Stage,Intermediate Plus 2.0 - 3.5,Bracket A,Quarter-final,Best of 3,Free Agents,Bing Bong,Free Agents,18,21,21,16,21,15,Julien Beaudoin-Mercier,Evelyn Hootman,Darwin Marzo,Taylor Bailey
+Bracket Stage,Intermediate Plus 2.0 - 3.5,Bracket A,Semi-final,Best of 3,Worm Early,Free Agents,Worm Early,21,14,21,17,,,Agnes Pang,Thai Do,Julien Beaudoin-Mercier,Evelyn Hootman
+Bracket Stage,Intermediate Plus 2.0 - 3.5,Bracket A,Semi-final,Best of 3,Alex/Aidan,Raspberry Sauce,Alex/Aidan,21,19,21,10,,,Aidan Erickson,Alex Chekina,Rachel Cheung,Stacy Yu
+Bracket Stage,Intermediate Plus 2.0 - 3.5,Bracket A,Final,Best of 3,Worm Early,Alex/Aidan,Worm Early,21,16,21,16,,,Agnes Pang,Thai Do,Aidan Erickson,Alex Chekina
+Bracket Stage,Intermediate Plus 2.0 - 3.5,Bracket A,P3: Final,Best of 3,Raspberry Sauce,Free Agents,Raspberry Sauce,1,0,1,0,,,Rachel Cheung,Stacy Yu,Julien Beaudoin-Mercier,Evelyn Hootman
+Bracket Stage,Intermediate Plus 2.0 - 3.5,Bracket A,P5: Final,Best of 3,Bing Bong,Curry Cartel,Bing Bong,1,0,1,0,,,Darwin Marzo,Taylor Bailey,David Joseph,Pablo Garcia
+Pool play,Contender 4.5,Group A,1,Single game,Mustache men,"KF ""Prostagma?""",Mustache men,21,8,,,,,Nick Wideman,Jason Fevang,Dallin James,Andrew Samson
+Pool play,Contender 4.5,Group A,1,Single game,Groovy,Jeff/Erick,Groovy,21,13,,,,,Carlin Vicera,Will Ries,Jeffrey Cheng,Erick Ostheimer
+Pool play,Contender 4.5,Group B,1,Single game,Wes Coast,Miyagi-Do Karate,Wes Coast,21,14,,,,,Joshua Grant,Wesley Joyce,Caleb Chow,Matthew Liao
+Pool play,Contender 4.5,Group B,1,Single game,Jekko,JC-squared,Jekko,21,10,,,,,Jaian Nichols,Ekko Weaver,Jacky Chen,Joshua Chan
+Pool play,Contender 4.5,Group C,1,Single game,The Wood Brothers,this one’s cutting,The Wood Brothers,21,16,,,,,Nick Wood,Peter Wood,Timothy HAN,Edward Cheng
+Pool play,Contender 4.5,Group C,1,Single game,New West Neighbours,L.A shell,L.A shell,9,21,,,,,Dayton Mah,Quentin Chiu,Lichel Hirakawa-Kao,La John
+Pool play,Contender 4.5,Group A,2,Single game,Mustache men,Jeff/Erick,Mustache men,21,18,,,,,Nick Wideman,Jason Fevang,Jeffrey Cheng,Erick Ostheimer
+Pool play,Contender 4.5,Group A,2,Single game,KB24,"KF ""Prostagma?""","KF ""Prostagma?""",15,21,,,,,Mattias Cipriano,Ishraq Joarder,Dallin James,Andrew Samson
+Pool play,Contender 4.5,Group B,2,Single game,Wes Coast,JC-squared,Wes Coast,21,12,,,,,Joshua Grant,Wesley Joyce,Jacky Chen,Joshua Chan
+Pool play,Contender 4.5,Group B,2,Single game,Jekko,Miyagi-Do Karate,Jekko,21,18,,,,,Jaian Nichols,Ekko Weaver,Caleb Chow,Matthew Liao
+Pool play,Contender 4.5,Group C,2,Single game,The Wood Brothers,L.A shell,L.A shell,17,21,,,,,Nick Wood,Peter Wood,Lichel Hirakawa-Kao,La John
+Pool play,Contender 4.5,Group C,2,Single game,New West Neighbours,this one’s cutting,New West Neighbours,21,14,,,,,Dayton Mah,Quentin Chiu,Timothy HAN,Edward Cheng
+Pool play,Contender 4.5,Group A,3,Single game,Mustache men,KB24,Mustache men,21,18,,,,,Nick Wideman,Jason Fevang,Mattias Cipriano,Ishraq Joarder
+Pool play,Contender 4.5,Group A,3,Single game,Groovy,"KF ""Prostagma?""",Groovy,21,11,,,,,Carlin Vicera,Will Ries,Dallin James,Andrew Samson
+Pool play,Contender 4.5,Group B,3,Single game,Wes Coast,Jekko,Wes Coast,21,15,,,,,Joshua Grant,Wesley Joyce,Jaian Nichols,Ekko Weaver
+Pool play,Contender 4.5,Group B,3,Single game,JC-squared,Miyagi-Do Karate,Miyagi-Do Karate,19,21,,,,,Jacky Chen,Joshua Chan,Caleb Chow,Matthew Liao
+Pool play,Contender 4.5,Group C,3,Single game,The Wood Brothers,New West Neighbours,The Wood Brothers,21,12,,,,,Nick Wood,Peter Wood,Dayton Mah,Quentin Chiu
+Pool play,Contender 4.5,Group C,3,Single game,L.A shell,this one’s cutting,L.A shell,21,16,,,,,Lichel Hirakawa-Kao,La John,Timothy HAN,Edward Cheng
+Pool play,Contender 4.5,Group A,4,Single game,Groovy,KB24,Groovy,21,16,,,,,Carlin Vicera,Will Ries,Mattias Cipriano,Ishraq Joarder
+Pool play,Contender 4.5,Group A,4,Single game,Jeff/Erick,"KF ""Prostagma?""",Jeff/Erick,21,13,,,,,Jeffrey Cheng,Erick Ostheimer,Dallin James,Andrew Samson
+Pool play,Contender 4.5,Group A,5,Single game,Mustache men,Groovy,Groovy,19,21,,,,,Nick Wideman,Jason Fevang,Carlin Vicera,Will Ries
+Pool play,Contender 4.5,Group A,5,Single game,KB24,Jeff/Erick,KB24,21,19,,,,,Mattias Cipriano,Ishraq Joarder,Jeffrey Cheng,Erick Ostheimer
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,KB24,JC-squared,KB24,21,10,21,14,,,Mattias Cipriano,Ishraq Joarder,Jacky Chen,Joshua Chan
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,"KF ""Prostagma?""",this one’s cutting,"KF ""Prostagma?""",21,17,22,20,,,Dallin James,Andrew Samson,Timothy HAN,Edward Cheng
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,Wes Coast,New West Neighbours,Wes Coast,21,16,21,9,,,Joshua Grant,Wesley Joyce,Dayton Mah,Quentin Chiu
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,L.A shell,Miyagi-Do Karate,L.A shell,17,21,21,14,23,21,Lichel Hirakawa-Kao,La John,Caleb Chow,Matthew Liao
+Bracket Stage,Contender 4.5,Bracket A,Round of 16,Best of 3,The Wood Brothers,Jekko,The Wood Brothers,19,21,22,20,21,10,Nick Wood,Peter Wood,Jaian Nichols,Ekko Weaver
+Bracket Stage,Contender 4.5,Bracket A,Quarter-final,Best of 3,Groovy,The Wood Brothers,Groovy,1,0,1,0,,,Carlin Vicera,Will Ries,Nick Wood,Peter Wood
+Bracket Stage,Contender 4.5,Bracket A,Quarter-final,Best of 3,Mustache men,L.A shell,Mustache men,21,6,21,7,,,Nick Wideman,Jason Fevang,Lichel Hirakawa-Kao,La John
+Bracket Stage,Contender 4.5,Bracket A,Quarter-final,Best of 3,Jeff/Erick,Wes Coast,Jeff/Erick,18,21,21,11,21,13,Jeffrey Cheng,Erick Ostheimer,Joshua Grant,Wesley Joyce
+Bracket Stage,Contender 4.5,Bracket A,Quarter-final,Best of 3,KB24,"KF ""Prostagma?""","KF ""Prostagma?""",21,17,17,21,20,22,Mattias Cipriano,Ishraq Joarder,Dallin James,Andrew Samson
+Bracket Stage,Contender 4.5,Bracket A,Semi-final,Best of 3,Groovy,"KF ""Prostagma?""",Groovy,21,15,21,15,,,Carlin Vicera,Will Ries,Dallin James,Andrew Samson
+Bracket Stage,Contender 4.5,Bracket A,Semi-final,Best of 3,Mustache men,Jeff/Erick,Mustache men,21,14,0,-1,,,Nick Wideman,Jason Fevang,Jeffrey Cheng,Erick Ostheimer
+Bracket Stage,Contender 4.5,Bracket A,P5: Semi-final,Best of 3,KB24,The Wood Brothers,The Wood Brothers,0,1,0,1,,,Mattias Cipriano,Ishraq Joarder,Nick Wood,Peter Wood
+Bracket Stage,Contender 4.5,Bracket A,P5: Semi-final,Best of 3,Wes Coast,L.A shell,Wes Coast,21,12,21,19,,,Joshua Grant,Wesley Joyce,Lichel Hirakawa-Kao,La John
+Bracket Stage,Contender 4.5,Bracket A,P9: Semi-final,Best of 3,Miyagi-Do Karate,New West Neighbours,New West Neighbours,0,1,0,1,,,Caleb Chow,Matthew Liao,Dayton Mah,Quentin Chiu
+Bracket Stage,Contender 4.5,Bracket A,Final,Best of 3,Groovy,Mustache men,Mustache men,19,21,15,21,,,Carlin Vicera,Will Ries,Nick Wideman,Jason Fevang
+Bracket Stage,Contender 4.5,Bracket A,P3: Final,Best of 3,Jeff/Erick,"KF ""Prostagma?""",Jeff/Erick,21,19,25,23,,,Jeffrey Cheng,Erick Ostheimer,Dallin James,Andrew Samson
+Bracket Stage,Contender 4.5,Bracket A,P5: Final,Best of 3,The Wood Brothers,Wes Coast,Wes Coast,15,21,23,21,14,21,Nick Wood,Peter Wood,Joshua Grant,Wesley Joyce
+Bracket Stage,Contender 4.5,Bracket A,P7: Final,Best of 3,L.A shell,KB24,L.A shell,1,0,1,0,,,Lichel Hirakawa-Kao,La John,Mattias Cipriano,Ishraq Joarder
