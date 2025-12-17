@@ -6,10 +6,10 @@ write_csvs = T
 source('Scripts/Preload.R')
 
 # Read in Tournament list
-sheet_scrape2 = read.csv('Tourney List.csv', as.is = T, fileEncoding = "UTF-8")
+sheet_scrape2 = read.csv('Tourney List.csv', as.is = T, fileEncoding = "latin1")
 
 #Perform Player Corrections
-all_cors = read.csv('Players/name_corrections.csv', as.is = T,fileEncoding = "UTF-8") %>%
+all_cors = read.csv('Players/name_corrections.csv', as.is = T,fileEncoding = "latin1") %>%
   select(-Tourney) %>%
   mutate_all(toupper)
 
