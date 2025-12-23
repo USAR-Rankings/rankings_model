@@ -187,6 +187,7 @@ Year,Date,For Model Use,Type,URL identifier,full URL,Scraped?,Fwango File Title,
 2025,7/12/25,X,Canada,CRS VAN MAJOR 2025,https://fwango.io/usar2025midwest,Manual Download,CRS VAN MAJOR 2025_CSV,Premier 5.0+,Contender 4.5,NA,NA,Women's Advanced 4.0+,NA,CRS VAN MAJOR 2025
 2025,7/19/25,X,USAR Regional,usar2025midwest,https://fwango.io/usar2025midwest,Manual Download,USAR Midwest Regionals 2025,5.0 Open Bronze+,4.0 Open,NA,NA,4.5+ Women's,NA,usar2025midwest
 2025,7/26/25,X,USAR Sanctioned,ers25md,https://fwango.io/ers25md,Manual Download,ERS MD - National Series Sectional - Match results,5.0 Open Bronze+,4.0 Open Contender,NA,NA,NA,NA,ers25md
+2025,7/26/25,X,Canada,mississaugamajor,https://fwango.io/mississaugamajor,Manual Download,"CRS Mississauga Major - River Cup 7.0 - Match results - Bracket Stage,Group Stage - Open Advanced,Contender,Premier,Women's Advanced",Premier,Contender,NA,NA,Women's Advanced,NA,mississaugamajor
 2025,8/2/25,X,USAR Sanctioned,ilstatechamp2025,https://fwango.io/ilstatechamp2025,Manual Download,ILR State Championship 2025 - Match results,Expert(4.5+)12:40 Bracket,NA,NA,NA,NA,NA,ilstatechamp2025
 2025,8/9/25,X,USAR Sanctioned,livonia25,https://fwango.io/livonia25,Manual Download,BANG! Livonia MRS_USAR Sectional - Match results,5.0 Premier/Bronze+,4.0 Contender,NA,NA,NA,NA,livonia25
 2025,8/9/25,X,USAR Sanctioned,norcalregionals,https://fwango.io/norcalregionals,Manual Download,CASR Norcal Regionals #2(USAR Sectional) - Match results,5.0 Expert,4.5 Contender,NA,NA,NA,NA,norcalregionals
@@ -194,6 +195,7 @@ Year,Date,For Model Use,Type,URL identifier,full URL,Scraped?,Fwango File Title,
 2025,8/16/25,X,USAR Sanctioned,ers25nj,https://fwango.io/ers25nj,Manual Download,ERS New Jersey 2025 - USAR Sectional - Match results,Open Bronze/Premier 5.0+,Contender 4.5+,NA,NA,NA,NA,ers25nj
 2025,8/23/25,X,USAR Sanctioned,kcroundnet,https://fwango.io/kcroundnet,Manual Download,Kansas City Classic - Match results,The Cool Kids,NA,NA,NA,NA,NA,kcroundnet
 2025,8/23/25,X,USAR Sanctioned,ers25ma,https://fwango.io/ers25ma,Manual Download,USAR Boston Sectional 2025 - Match results,Open 5.0 (Bronze+/Premier),Open 4.5+ (Contender),NA,NA,Women's Advanced 4.5+,NA,ers25ma
+2025,8/23/25,X,Canada,bcprovincials,https://fwango.io/bcprovincials,Manual Download,"BC Provincials - CRS - Match results - Bracket Stage,Pool play,Pool play - Intermediate Plus 2.0 - 3.5,Contender 4.5",Contender 4.5,NA,NA,NA,NA,NA,bcprovincials
 2025,9/13/25,X,USAR Sanctioned,mrschampionship25,https://fwango.io/mrschampionship25,Manual Download,MRS Championship_MRS Co-Ed Championship 2025 - Match results,5.0 Premier/Bronze+,4.0 Contender,NA,NA,NA,NA,mrschampionship25
 2025,9/13/25,X,USAR Sanctioned,skcup25,https://fwango.io/skcup25,Manual Download,Smoothie King Cup 2025 - USAR Sectional - ERS Major - Match results,Open Premier/Bronze+,4.0-4.5 Open/Contender,NA,NA,NA,NA,skcup25
 2025,9/13/25,X,USAR Sanctioned,crusarsectional,https://fwango.io/crusarsectional,Manual Download,USAR Sectional - Match results,Open Bronze (5.0+),Open Contender (4.0-4.5),NA,NA,NA,NA,crusarsectional
@@ -201,5 +203,4 @@ Year,Date,For Model Use,Type,URL identifier,full URL,Scraped?,Fwango File Title,
 2025,11/1/25,X,USAR Sanctioned,prahalloween,https://fwango.io/prahalloween,Manual Download,PRA Halloween Tournament 2025 - Match results,Expert,Contender,NA,NA,NA,NA,prahalloween25
 2025,11/8/25,X,USAR Sanctioned,usa-can-2025,https://fwango.io/usa-can-2025,Manual Download,USA vs Canada Championship - Match results,Open 5.0+,Open 4.0-4.5,NA,NA,NA,NA,usa-can-2025
 2025,12/6/25,X,USAR Sanctioned,castatefinals5,https://fwango.io/castatefinals5,Manual Download,California State Final 5- Match results,5.0 Expert Division,NA,NA,NA,4.5 Womens Division,NA,castatefinals5
-2025,8/23/25,X,Canada,bcprovincials,https://fwango.io/bcprovincials,Manual Download,"BC Provincials - CRS - Match results - Bracket Stage,Pool play,Pool play - Intermediate Plus 2.0 - 3.5,Contender 4.5",Contender 4.5,NA,NA,NA,NA,NA,bcprovincials
-2025,7/26/25,X,Canada,mississaugamajor,https://fwango.io/mississaugamajor,Manual Download,"CRS Mississauga Major - River Cup 7.0 - Match results - Bracket Stage,Group Stage - Open Advanced,Contender,Premier,Women's Advanced",Premier,Contender,NA,NA,Women's Advanced,NA,mississaugamajor
+2025,12/20/25,X,USAR Sanctioned,ers25championship,https://fwango.io/ers25championship,Manual Download,ERS Championship 2025 - The 9th Christmas Classic - Match results,5.0+ Open,4.0 Open Contender,NA,NA,NA,NA,ers25championship
