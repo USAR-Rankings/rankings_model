@@ -36,7 +36,7 @@ WOMENS_P= {
 "DE":425,
 "SEP":2000,
 "DECAY":True,
-"DECAY_ARRAY":[0,0,0,0],
+"DECAY_ARRAY":[0,0,20,35],
 "REMOVE": True,
 "START_PER": 30,
 
