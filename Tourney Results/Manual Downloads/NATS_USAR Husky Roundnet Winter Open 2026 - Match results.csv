@@ -1,0 +1,85 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Bronze+/Premier (5.0+),Group A,1,Single game,Algorithm,More Nice,Algorithm,21,14,,,,,Solomon Berry,Juan Moscoso,Jensen Elsemore,Max Nice
+Group Stage,Bronze+/Premier (5.0+),Group A,1,Single game,Back Spinnies for the Winnies,Dumb & Dumber,Back Spinnies for the Winnies,23,21,,,,,Dallin James,Conner Bradshaw,Erick Ostheimer,Hernestor Ramirez diaz
+Group Stage,Bronze+/Premier (5.0+),Group A,2,Single game,Algorithm,Dumb & Dumber,Algorithm,21,16,,,,,Solomon Berry,Juan Moscoso,Erick Ostheimer,Hernestor Ramirez diaz
+Group Stage,Bronze+/Premier (5.0+),Group A,2,Single game,Casablanca Express,More Nice,More Nice,18,21,,,,,Kavan Dharia,Josh Wozniak,Jensen Elsemore,Max Nice
+Group Stage,Bronze+/Premier (5.0+),Group A,3,Single game,Algorithm,Casablanca Express,Algorithm,21,14,,,,,Solomon Berry,Juan Moscoso,Kavan Dharia,Josh Wozniak
+Group Stage,Bronze+/Premier (5.0+),Group A,3,Single game,Back Spinnies for the Winnies,More Nice,More Nice,15,21,,,,,Dallin James,Conner Bradshaw,Jensen Elsemore,Max Nice
+Group Stage,Bronze+/Premier (5.0+),Group A,4,Single game,Back Spinnies for the Winnies,Casablanca Express,Back Spinnies for the Winnies,21,14,,,,,Dallin James,Conner Bradshaw,Kavan Dharia,Josh Wozniak
+Group Stage,Bronze+/Premier (5.0+),Group A,4,Single game,Dumb & Dumber,More Nice,Dumb & Dumber,21,19,,,,,Erick Ostheimer,Hernestor Ramirez diaz,Jensen Elsemore,Max Nice
+Group Stage,Bronze+/Premier (5.0+),Group A,5,Single game,Algorithm,Back Spinnies for the Winnies,Back Spinnies for the Winnies,21,23,,,,,Solomon Berry,Juan Moscoso,Dallin James,Conner Bradshaw
+Group Stage,Bronze+/Premier (5.0+),Group A,5,Single game,Casablanca Express,Dumb & Dumber,Casablanca Express,21,11,,,,,Kavan Dharia,Josh Wozniak,Erick Ostheimer,Hernestor Ramirez diaz
+Bracket Stage,Bronze+/Premier (5.0+),Bracket A,Quarter-final,Best of 3,Casablanca Express,Dumb & Dumber,Casablanca Express,21,15,21,13,,,Kavan Dharia,Josh Wozniak,Erick Ostheimer,Hernestor Ramirez diaz
+Bracket Stage,Bronze+/Premier (5.0+),Bracket A,Semi-final,Best of 3,Algorithm,Casablanca Express,Algorithm,21,17,21,15,,,Solomon Berry,Juan Moscoso,Kavan Dharia,Josh Wozniak
+Bracket Stage,Bronze+/Premier (5.0+),Bracket A,Semi-final,Best of 3,Back Spinnies for the Winnies,More Nice,Back Spinnies for the Winnies,22,20,21,23,22,20,Dallin James,Conner Bradshaw,Jensen Elsemore,Max Nice
+Bracket Stage,Bronze+/Premier (5.0+),Bracket A,Final,Best of 3,Algorithm,Back Spinnies for the Winnies,Algorithm,21,13,21,14,,,Solomon Berry,Juan Moscoso,Dallin James,Conner Bradshaw
+Bracket Stage,Bronze+/Premier (5.0+),Bracket A,P3: Final,Best of 3,More Nice,Casablanca Express,More Nice,21,16,22,20,,,Jensen Elsemore,Max Nice,Kavan Dharia,Josh Wozniak
+Group Stage,Contender (4.5),Group A,1,Single game,Firkland Kog,Kirkland Youth Spikeball,Firkland Kog,21,5,,,,,Zachary Abas,Andrew Nakahara,Patrick McManus,Alek Kato
+Group Stage,Contender (4.5),Group A,1,Single game,Kayla gets her Griff together,Shnu and Andy,Kayla gets her Griff together,21,10,,,,,Kayla Ngai,Griffin Righi,Andy Cahill,Vishnu Bhasker
+Group Stage,Contender (4.5),Group B,1,Single game,Upi&Unc,sballers,Upi&Unc,21,19,,,,,Edward Cheng,Andrew Samson,Jaxsen Pascual,Liam Wallace
+Group Stage,Contender (4.5),Group B,1,Single game,Zero Spice Pad Thai,Jane and Elena,Zero Spice Pad Thai,21,4,,,,,Evan Cox,Jacob Marshall,Jane von der Sitt,Elena Friedl
+Group Stage,Contender (4.5),Group C,1,Single game,Cai-pitol Hill,"Team Rocket 🚀 ",Cai-pitol Hill,21,9,,,,,Jake Hill,Calvin Cai,Joey Stocco,Miles Taranto
+Group Stage,Contender (4.5),Group C,1,Single game,利 Twins,We’ve got balls,利 Twins,21,8,,,,,Ada Lee,Annabelle Lee,Evelyn Hootman,Caroline Chin
+Group Stage,Contender (4.5),Group D,1,Single game,Small and Smaller,Gate keep Zach,Small and Smaller,21,9,,,,,Jason Small,Maia Small,Chris Concha,Therrin James
+Group Stage,Contender (4.5),Group D,1,Single game,Lefty Dinkers,Boom + Davy,Boom + Davy,19,21,,,,,Hathaway Bush,Sophia Friedl,Logan Garwood,Davis Jung
+Group Stage,Contender (4.5),Group A,2,Single game,Firkland Kog,Shnu and Andy,Firkland Kog,21,9,,,,,Zachary Abas,Andrew Nakahara,Andy Cahill,Vishnu Bhasker
+Group Stage,Contender (4.5),Group A,2,Single game,Twin Spikers,Kirkland Youth Spikeball,Twin Spikers,21,14,,,,,Collin Thayer,Michael W,Patrick McManus,Alek Kato
+Group Stage,Contender (4.5),Group B,2,Single game,Upi&Unc,Jane and Elena,Upi&Unc,21,11,,,,,Edward Cheng,Andrew Samson,Jane von der Sitt,Elena Friedl
+Group Stage,Contender (4.5),Group B,2,Single game,Snovermaxxing,sballers,Snovermaxxing,21,9,,,,,Gavin Gibson,Zach Patterson,Jaxsen Pascual,Liam Wallace
+Group Stage,Contender (4.5),Group C,2,Single game,Cai-pitol Hill,We’ve got balls,Cai-pitol Hill,21,2,,,,,Jake Hill,Calvin Cai,Evelyn Hootman,Caroline Chin
+Group Stage,Contender (4.5),Group C,2,Single game,Born to Ahn 2,"Team Rocket 🚀 ",Born to Ahn 2,21,6,,,,,Richard Ahn,Scott Hilborn,Joey Stocco,Miles Taranto
+Group Stage,Contender (4.5),Group D,2,Single game,Small and Smaller,Boom + Davy,Boom + Davy,13,21,,,,,Jason Small,Maia Small,Logan Garwood,Davis Jung
+Group Stage,Contender (4.5),Group D,2,Single game,Lefty Dinkers,Gate keep Zach,Lefty Dinkers,21,12,,,,,Hathaway Bush,Sophia Friedl,Chris Concha,Therrin James
+Group Stage,Contender (4.5),Group A,3,Single game,Firkland Kog,Twin Spikers,Firkland Kog,21,10,,,,,Zachary Abas,Andrew Nakahara,Collin Thayer,Michael W
+Group Stage,Contender (4.5),Group A,3,Single game,Kayla gets her Griff together,Kirkland Youth Spikeball,Kayla gets her Griff together,21,13,,,,,Kayla Ngai,Griffin Righi,Patrick McManus,Alek Kato
+Group Stage,Contender (4.5),Group B,3,Single game,Upi&Unc,Snovermaxxing,Snovermaxxing,15,21,,,,,Edward Cheng,Andrew Samson,Gavin Gibson,Zach Patterson
+Group Stage,Contender (4.5),Group B,3,Single game,Zero Spice Pad Thai,sballers,Zero Spice Pad Thai,21,13,,,,,Evan Cox,Jacob Marshall,Jaxsen Pascual,Liam Wallace
+Group Stage,Contender (4.5),Group C,3,Single game,Cai-pitol Hill,Born to Ahn 2,Born to Ahn 2,12,21,,,,,Jake Hill,Calvin Cai,Richard Ahn,Scott Hilborn
+Group Stage,Contender (4.5),Group C,3,Single game,利 Twins,"Team Rocket 🚀 ","Team Rocket 🚀 ",16,21,,,,,Ada Lee,Annabelle Lee,Joey Stocco,Miles Taranto
+Group Stage,Contender (4.5),Group D,3,Single game,Small and Smaller,Lefty Dinkers,Lefty Dinkers,19,21,,,,,Jason Small,Maia Small,Hathaway Bush,Sophia Friedl
+Group Stage,Contender (4.5),Group D,3,Single game,Boom + Davy,Gate keep Zach,Boom + Davy,21,4,,,,,Logan Garwood,Davis Jung,Chris Concha,Therrin James
+Group Stage,Contender (4.5),Group A,4,Single game,Kayla gets her Griff together,Twin Spikers,Kayla gets her Griff together,21,17,,,,,Kayla Ngai,Griffin Righi,Collin Thayer,Michael W
+Group Stage,Contender (4.5),Group A,4,Single game,Shnu and Andy,Kirkland Youth Spikeball,Shnu and Andy,21,11,,,,,Andy Cahill,Vishnu Bhasker,Patrick McManus,Alek Kato
+Group Stage,Contender (4.5),Group B,4,Single game,Zero Spice Pad Thai,Snovermaxxing,Zero Spice Pad Thai,21,19,,,,,Evan Cox,Jacob Marshall,Gavin Gibson,Zach Patterson
+Group Stage,Contender (4.5),Group B,4,Single game,Jane and Elena,sballers,sballers,6,21,,,,,Jane von der Sitt,Elena Friedl,Jaxsen Pascual,Liam Wallace
+Group Stage,Contender (4.5),Group C,4,Single game,利 Twins,Born to Ahn 2,Born to Ahn 2,7,21,,,,,Ada Lee,Annabelle Lee,Richard Ahn,Scott Hilborn
+Group Stage,Contender (4.5),Group C,4,Single game,We’ve got balls,"Team Rocket 🚀 ","Team Rocket 🚀 ",18,21,,,,,Evelyn Hootman,Caroline Chin,Joey Stocco,Miles Taranto
+Group Stage,Contender (4.5),Group A,5,Single game,Firkland Kog,Kayla gets her Griff together,Firkland Kog,21,15,,,,,Zachary Abas,Andrew Nakahara,Kayla Ngai,Griffin Righi
+Group Stage,Contender (4.5),Group A,5,Single game,Twin Spikers,Shnu and Andy,Twin Spikers,21,16,,,,,Collin Thayer,Michael W,Andy Cahill,Vishnu Bhasker
+Group Stage,Contender (4.5),Group B,5,Single game,Upi&Unc,Zero Spice Pad Thai,Zero Spice Pad Thai,4,21,,,,,Edward Cheng,Andrew Samson,Evan Cox,Jacob Marshall
+Group Stage,Contender (4.5),Group B,5,Single game,Snovermaxxing,Jane and Elena,Snovermaxxing,21,0,,,,,Gavin Gibson,Zach Patterson,Jane von der Sitt,Elena Friedl
+Group Stage,Contender (4.5),Group C,5,Single game,Cai-pitol Hill,利 Twins,Cai-pitol Hill,21,6,,,,,Jake Hill,Calvin Cai,Ada Lee,Annabelle Lee
+Group Stage,Contender (4.5),Group C,5,Single game,Born to Ahn 2,We’ve got balls,Born to Ahn 2,21,2,,,,,Richard Ahn,Scott Hilborn,Evelyn Hootman,Caroline Chin
+Bracket Stage,Contender (4.5),Bracket A,Round of 32,Best of 3,Shnu and Andy,Jane and Elena,Shnu and Andy,21,11,21,13,,,Andy Cahill,Vishnu Bhasker,Jane von der Sitt,Elena Friedl
+Bracket Stage,Contender (4.5),Bracket A,Round of 32,Best of 3,利 Twins,We’ve got balls,利 Twins,21,7,21,9,,,Ada Lee,Annabelle Lee,Evelyn Hootman,Caroline Chin
+Bracket Stage,Contender (4.5),Bracket A,Round of 32,Best of 3,Kirkland Youth Spikeball,Gate keep Zach,Kirkland Youth Spikeball,1,0,1,0,,,Patrick McManus,Alek Kato,Chris Concha,Therrin James
+Bracket Stage,Contender (4.5),Bracket A,Round of 16,Best of 3,Born to Ahn 2,Kirkland Youth Spikeball,Born to Ahn 2,21,5,21,9,,,Richard Ahn,Scott Hilborn,Patrick McManus,Alek Kato
+Bracket Stage,Contender (4.5),Bracket A,Round of 16,Best of 3,Firkland Kog,利 Twins,Firkland Kog,21,9,21,11,,,Zachary Abas,Andrew Nakahara,Ada Lee,Annabelle Lee
+Bracket Stage,Contender (4.5),Bracket A,Round of 16,Best of 3,Zero Spice Pad Thai,Shnu and Andy,Zero Spice Pad Thai,21,8,21,11,,,Evan Cox,Jacob Marshall,Andy Cahill,Vishnu Bhasker
+Bracket Stage,Contender (4.5),Bracket A,Round of 16,Best of 3,Boom + Davy,sballers,Boom + Davy,21,14,21,8,,,Logan Garwood,Davis Jung,Jaxsen Pascual,Liam Wallace
+Bracket Stage,Contender (4.5),Bracket A,Round of 16,Best of 3,Cai-pitol Hill,Small and Smaller,Cai-pitol Hill,21,13,21,16,,,Jake Hill,Calvin Cai,Jason Small,Maia Small
+Bracket Stage,Contender (4.5),Bracket A,Round of 16,Best of 3,Snovermaxxing,"Team Rocket 🚀 ",Snovermaxxing,21,17,21,6,,,Gavin Gibson,Zach Patterson,Joey Stocco,Miles Taranto
+Bracket Stage,Contender (4.5),Bracket A,Round of 16,Best of 3,Kayla gets her Griff together,Upi&Unc,Kayla gets her Griff together,22,20,21,14,,,Kayla Ngai,Griffin Righi,Edward Cheng,Andrew Samson
+Bracket Stage,Contender (4.5),Bracket A,Round of 16,Best of 3,Lefty Dinkers,Twin Spikers,Twin Spikers,15,21,18,21,,,Hathaway Bush,Sophia Friedl,Collin Thayer,Michael W
+Bracket Stage,Contender (4.5),Bracket A,Quarter-final,Best of 3,Born to Ahn 2,Twin Spikers,Born to Ahn 2,21,12,21,8,,,Richard Ahn,Scott Hilborn,Collin Thayer,Michael W
+Bracket Stage,Contender (4.5),Bracket A,Quarter-final,Best of 3,Firkland Kog,Kayla gets her Griff together,Firkland Kog,21,12,20,22,21,10,Zachary Abas,Andrew Nakahara,Kayla Ngai,Griffin Righi
+Bracket Stage,Contender (4.5),Bracket A,Quarter-final,Best of 3,Zero Spice Pad Thai,Snovermaxxing,Zero Spice Pad Thai,21,16,21,16,,,Evan Cox,Jacob Marshall,Gavin Gibson,Zach Patterson
+Bracket Stage,Contender (4.5),Bracket A,Quarter-final,Best of 3,Boom + Davy,Cai-pitol Hill,Boom + Davy,21,17,21,14,,,Logan Garwood,Davis Jung,Jake Hill,Calvin Cai
+Bracket Stage,Contender (4.5),Bracket A,P9: Quarter-final,Best of 3,Lefty Dinkers,Kirkland Youth Spikeball,Lefty Dinkers,17,21,21,18,21,15,Hathaway Bush,Sophia Friedl,Patrick McManus,Alek Kato
+Bracket Stage,Contender (4.5),Bracket A,P9: Quarter-final,Best of 3,Upi&Unc,利 Twins,Upi&Unc,21,18,21,9,,,Edward Cheng,Andrew Samson,Ada Lee,Annabelle Lee
+Bracket Stage,Contender (4.5),Bracket A,P9: Quarter-final,Best of 3,"Team Rocket 🚀 ",Shnu and Andy,"Team Rocket 🚀 ",22,20,21,19,,,Joey Stocco,Miles Taranto,Andy Cahill,Vishnu Bhasker
+Bracket Stage,Contender (4.5),Bracket A,P9: Quarter-final,Best of 3,Small and Smaller,sballers,Small and Smaller,21,15,18,21,21,15,Jason Small,Maia Small,Jaxsen Pascual,Liam Wallace
+Bracket Stage,Contender (4.5),Bracket A,Semi-final,Best of 3,Born to Ahn 2,Boom + Davy,Boom + Davy,13,21,21,17,23,25,Richard Ahn,Scott Hilborn,Logan Garwood,Davis Jung
+Bracket Stage,Contender (4.5),Bracket A,Semi-final,Best of 3,Firkland Kog,Zero Spice Pad Thai,Zero Spice Pad Thai,23,25,20,22,,,Zachary Abas,Andrew Nakahara,Evan Cox,Jacob Marshall
+Bracket Stage,Contender (4.5),Bracket A,P5: Semi-final,Best of 3,Cai-pitol Hill,Twin Spikers,Cai-pitol Hill,21,10,21,9,,,Jake Hill,Calvin Cai,Collin Thayer,Michael W
+Bracket Stage,Contender (4.5),Bracket A,P5: Semi-final,Best of 3,Snovermaxxing,Kayla gets her Griff together,Kayla gets her Griff together,18,21,0,1,,,Gavin Gibson,Zach Patterson,Kayla Ngai,Griffin Righi
+Bracket Stage,Contender (4.5),Bracket A,P9: Semi-final,Best of 3,Lefty Dinkers,Small and Smaller,Small and Smaller,21,23,16,21,,,Hathaway Bush,Sophia Friedl,Jason Small,Maia Small
+Bracket Stage,Contender (4.5),Bracket A,P9: Semi-final,Best of 3,Upi&Unc,"Team Rocket 🚀 ",Upi&Unc,14,21,22,20,21,15,Edward Cheng,Andrew Samson,Joey Stocco,Miles Taranto
+Bracket Stage,Contender (4.5),Bracket A,P13: Semi-final,Best of 3,Shnu and Andy,利 Twins,Shnu and Andy,21,17,21,12,,,Andy Cahill,Vishnu Bhasker,Ada Lee,Annabelle Lee
+Bracket Stage,Contender (4.5),Bracket A,P17: Semi-final,Best of 3,We’ve got balls,Jane and Elena,We’ve got balls,21,8,21,10,,,Evelyn Hootman,Caroline Chin,Jane von der Sitt,Elena Friedl
+Bracket Stage,Contender (4.5),Bracket A,Final,Best of 3,Boom + Davy,Zero Spice Pad Thai,Zero Spice Pad Thai,0,1,0,1,,,Logan Garwood,Davis Jung,Evan Cox,Jacob Marshall
+Bracket Stage,Contender (4.5),Bracket A,P3: Final,Best of 3,Firkland Kog,Born to Ahn 2,Firkland Kog,1,0,1,0,,,Zachary Abas,Andrew Nakahara,Richard Ahn,Scott Hilborn
+Bracket Stage,Contender (4.5),Bracket A,P5: Final,Best of 3,Cai-pitol Hill,Kayla gets her Griff together,Cai-pitol Hill,22,20,1,0,,,Jake Hill,Calvin Cai,Kayla Ngai,Griffin Righi
+Bracket Stage,Contender (4.5),Bracket A,P7: Final,Best of 3,Snovermaxxing,Twin Spikers,Snovermaxxing,21,12,1,0,,,Gavin Gibson,Zach Patterson,Collin Thayer,Michael W
+Bracket Stage,Contender (4.5),Bracket A,P9: Final,Best of 3,Small and Smaller,Upi&Unc,Small and Smaller,21,16,21,16,,,Jason Small,Maia Small,Edward Cheng,Andrew Samson
+Bracket Stage,Contender (4.5),Bracket A,P17: Final,Best of 3,Gate keep Zach,We’ve got balls,We’ve got balls,9,21,13,21,,,Chris Concha,Therrin James,Evelyn Hootman,Caroline Chin
