@@ -168,7 +168,7 @@ Year,Date,For Model Use,Type,URL identifier,full URL,Scraped?,Fwango File Title,
 2025,5/10/25,X,USAR Sanctioned,mrschicago25,https://fwango.io/mrschicago25,Manual Download,MRS_USAR Chicago Sectional - Match results,5.0 Premier/Bronze+(12:10 bracket start),4.0 Contender(12pm bracket start),NA,NA,NA,NA,mrschicago25
 2025,5/17/25,X,USAR Regional,usar2025west,https://fwango.io/usar2025west,Manual Download,USA Roundnet West Regionals 2025 - Match results,5.0 Open Bronze+,4.0 Open/Contender,NA,NA,4.5+ Women's,NA,usar2025west
 2025,5/17/25,X,USAR Sanctioned,usarraleigh,https://fwango.io/usarraleigh,Manual Download,"USAR Raleigh Sectional 2025 - Match results - Pool Play,Bracket Play - Premier 5.0+,Contender 4.0+",Premier 5.0+,NA,NA,NA,NA,NA,usarraleigh2025
-2025,5/17/25,X,Canada,CRS 2025 Drummondville,https://fwango.io/usar2025midwest,Manual Download,CRS 2025 Drummondville_CSV�,5.0 - Premier,4.5 - Avanc�+ / Contender,NA,NA,NA,NA,CRS 2025 Drummondville
+2025,5/17/25,X,Canada,CRS 2025 Drummondville,https://fwango.io/usar2025midwest,Manual Download,CRS 2025 Drummondville_CSV,5.0 - Premier,4.5 - Avanc�+ / Contender,NA,NA,NA,NA,CRS 2025 Drummondville
 2025,5/31/25,X,USAR Sanctioned,seattle-usar,https://fwango.io/seattle-usar,Manual Download,"USAR Seattle Sectional 2025 - Match results - Bracket Stage,Pool Play",Premier (5.0+),Contender (4.5),NA,NA,NA,NA,seattle-usar-25
 2025,6/7/25,X,USAR Sanctioned,sjopen,https://fwango.io/sjopen,Manual Download,CASR SJ Open #3 - Match results,5.0 Expert,NA,NA,NA,NA,NA,sjopen
 2025,6/7/25,X,USAR Sanctioned,atlslam2025,https://fwango.io/atlslam2025,Manual Download,Atlanta Slam 2025 - USAR Sectional - Match results,(5.0) Premier/ Bronze+,Contenders (4.0),NA,NA,NA,NA,atlslam2025
@@ -181,7 +181,7 @@ Year,Date,For Model Use,Type,URL identifier,full URL,Scraped?,Fwango File Title,
 2025,6/21/25,X,USAR Regional,usar2025northeast,https://fwango.io/usar2025northeast,Manual Download,USA Northeast Regionals,5.0 Open Bronze+,4.0 Open,NA,NA,4.5+ Women's,NA,usar2025northeast
 2025,6/28/25,X,USAR Sanctioned,mnr-usar-2025,https://fwango.io/mnr-usar-2025,Manual Download,"USAR Minneapolis Sectional 2025 - Match results - Pool Play,Bracket Stage - Open Contender_Premier (4.0-5.0)",Open Contender/Premier (4.0-5.0),NA,NA,NA,NA,NA,mnr-usar-2025
 2025,6/28/25,X,Canada,CRS Windsor 2025,https://fwango.io/usar2025midwest,Manual Download,CRS Windsor 2025_CSV,Elite,Open Contender,NA,NA,NA,NA,CRS Windsor 2025
-2025,7/6/25,X,Canada,CRS 2025 Trois-Rivie_res,https://fwango.io/usar2025midwest,Manual Download,CRS 2025 Trois-Rivie_res_CSV,5.0 - Premier,4.5 - Avanc�+ / Contender,NA,NA,NA,NA,CRS 2025 Trois-Rivie_res
+2025,7/6/25,X,Canada,CRS 2025 Trois-Rivie_res,https://fwango.io/usar2025midwest,Manual Download,CRS 2025 Trois-Rivieres_CSV,5.0 - Premier,4.5 - Avancé+ / Contender,NA,NA,NA,NA,CRS 2025 Trois-Rivieres
 2025,7/12/25,X,USAR Sanctioned,mrscolumbus,https://fwango.io/mrscolumbus,Manual Download,MRS_USAR Columbus Sectional,5.0 Premier/Bronze+,4.0 Contender,NA,NA,NA,NA,mrscolumbus
 2025,7/12/25,X,USAR Sanctioned,2025af,https://fwango.io/2025af,Manual Download,"AF Steel Days Spike Major - Match results - Pool Play,Bracket Stage - 3.0 Recreational,4.5 Elite",4.5 Elite,NA,NA,NA,NA,NA,2025af
 2025,7/12/25,X,Canada,CRS VAN MAJOR 2025,https://fwango.io/usar2025midwest,Manual Download,CRS VAN MAJOR 2025_CSV,Premier 5.0+,Contender 4.5,NA,NA,Women's Advanced 4.0+,NA,CRS VAN MAJOR 2025
@@ -204,4 +204,6 @@ Year,Date,For Model Use,Type,URL identifier,full URL,Scraped?,Fwango File Title,
 2025,11/8/25,X,USAR Sanctioned,usa-can-2025,https://fwango.io/usa-can-2025,Manual Download,USA vs Canada Championship - Match results,Open 5.0+,Open 4.0-4.5,NA,NA,NA,NA,usa-can-2025
 2025,12/6/25,X,USAR Sanctioned,castatefinals5,https://fwango.io/castatefinals5,Manual Download,California State Final 5- Match results,5.0 Expert Division,NA,NA,NA,4.5 Womens Division,NA,castatefinals5
 2025,12/20/25,X,USAR Sanctioned,ers25championship,https://fwango.io/ers25championship,Manual Download,ERS Championship 2025 - The 9th Christmas Classic - Match results,5.0+ Open,4.0 Open Contender,NA,NA,NA,NA,ers25championship
-2025,2/7/26,X,USAR Sanctioned,hrcwinter2026,https://fwango.io/hrcwinter2026,Manual Download,NATS_USAR Husky Roundnet Winter Open 2026 - Match results,Bronze+/Premier (5.0+),Contender (4.5),NA,NA,NA,NA,hrcwinter2026
+2026,2/7/26,X,USAR Sanctioned,hrcwinter2026,https://fwango.io/hrcwinter2026,Manual Download,NATS_USAR Husky Roundnet Winter Open 2026 - Match results,Bronze+/Premier (5.0+),Contender (4.5),NA,NA,NA,NA,hrcwinter2026
+2025,9/13/25,X,Canada,crs_granby,https://fwango.io/usar2025midwest,Manual Download,Granby - Championnat Provincial - Circuit Quebecois #6 - Match results,5.0 - Premier (avec NHZ),4.5 - Avancé+ / Contender (avec NHZ),NA,NA,4.0 - Féminin Avancé (avec NHZ),NA,crs_granby
+2025,8/23/25,X,Canada,crs_quebecios,https://fwango.io/usar2025midwest,Manual Download,Quebec (Circuit Quebecois #4 + CRS Major) - Match results,5.0 - Premier,4.5 - Avancé+ / Contender,NA,NA,NA,NA,crs_quebecios
