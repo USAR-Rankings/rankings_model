@@ -1,0 +1,73 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,4.0 Contender+,Group A,1,Single game,We're In Debt,Seven-Duece Offsuit,We're In Debt,21,13,,,,,Tyler Fernandez,Micah Allin,Iason Hayes,Nathan Garcia
+Group Stage,4.0 Contender+,Group A,1,Single game,JP/Rohil,"One, Two, Brick","One, Two, Brick",18,21,,,,,Rohil Senapati,JP Chincuanco,jacob gansle,Felipe Martinez
+Group Stage,4.0 Contender+,Group B,1,Single game,The WySpiker and the Wannabe,Net-flicks and Chill,The WySpiker and the Wannabe,21,15,,,,,Brandon Arledge,Luke Mowry,parker hall,Aidan Riley
+Group Stage,4.0 Contender+,Group B,1,Single game,New Rules?,Balls in Play,New Rules?,21,13,,,,,Noah Beinart,Andrew Christmas,Evan Deragon,David Z
+Group Stage,4.0 Contender+,Group C,1,Single game,Carnage,Team Explosion,Carnage,21,12,,,,,Rahul Murthy,Luke Marshall,Cormac Alonzo,Francesco Mauro
+Group Stage,4.0 Contender+,Group C,1,Single game,Johnny Bravo,blank,Johnny Bravo,22,20,,,,,Luis Orozco,Garrett Ashton,Lucas Bustos,JJ Vela
+Group Stage,4.0 Contender+,Group A,2,Single game,We're In Debt,"One, Two, Brick",We're In Debt,21,5,,,,,Tyler Fernandez,Micah Allin,jacob gansle,Felipe Martinez
+Group Stage,4.0 Contender+,Group A,2,Single game,JP/Rohil,Seven-Duece Offsuit,JP/Rohil,21,15,,,,,Rohil Senapati,JP Chincuanco,Iason Hayes,Nathan Garcia
+Group Stage,4.0 Contender+,Group B,2,Single game,The WySpiker and the Wannabe,Balls in Play,The WySpiker and the Wannabe,21,15,,,,,Brandon Arledge,Luke Mowry,Evan Deragon,David Z
+Group Stage,4.0 Contender+,Group B,2,Single game,Banged Up,Net-flicks and Chill,Net-flicks and Chill,18,21,,,,,James Ledbetter IV,Kelom Siller,parker hall,Aidan Riley
+Group Stage,4.0 Contender+,Group C,2,Single game,Carnage,blank,Carnage,21,4,,,,,Rahul Murthy,Luke Marshall,Lucas Bustos,JJ Vela
+Group Stage,4.0 Contender+,Group C,2,Single game,Johnny Bravo,Team Explosion,Johnny Bravo,21,14,,,,,Luis Orozco,Garrett Ashton,Cormac Alonzo,Francesco Mauro
+Group Stage,4.0 Contender+,Group A,3,Single game,We're In Debt,JP/Rohil,We're In Debt,21,13,,,,,Tyler Fernandez,Micah Allin,Rohil Senapati,JP Chincuanco
+Group Stage,4.0 Contender+,Group A,3,Single game,"One, Two, Brick",Seven-Duece Offsuit,Seven-Duece Offsuit,10,21,,,,,jacob gansle,Felipe Martinez,Iason Hayes,Nathan Garcia
+Group Stage,4.0 Contender+,Group B,3,Single game,The WySpiker and the Wannabe,Banged Up,The WySpiker and the Wannabe,21,15,,,,,Brandon Arledge,Luke Mowry,James Ledbetter IV,Kelom Siller
+Group Stage,4.0 Contender+,Group B,3,Single game,New Rules?,Net-flicks and Chill,New Rules?,21,13,,,,,Noah Beinart,Andrew Christmas,parker hall,Aidan Riley
+Group Stage,4.0 Contender+,Group C,3,Single game,Carnage,Johnny Bravo,Carnage,21,18,,,,,Rahul Murthy,Luke Marshall,Luis Orozco,Garrett Ashton
+Group Stage,4.0 Contender+,Group C,3,Single game,blank,Team Explosion,blank,21,15,,,,,Lucas Bustos,JJ Vela,Cormac Alonzo,Francesco Mauro
+Group Stage,4.0 Contender+,Group B,4,Single game,New Rules?,Banged Up,New Rules?,21,15,,,,,Noah Beinart,Andrew Christmas,James Ledbetter IV,Kelom Siller
+Group Stage,4.0 Contender+,Group B,4,Single game,Balls in Play,Net-flicks and Chill,Balls in Play,21,16,,,,,Evan Deragon,David Z,parker hall,Aidan Riley
+Group Stage,4.0 Contender+,Group B,5,Single game,The WySpiker and the Wannabe,New Rules?,New Rules?,18,21,,,,,Brandon Arledge,Luke Mowry,Noah Beinart,Andrew Christmas
+Group Stage,4.0 Contender+,Group B,5,Single game,Banged Up,Balls in Play,Banged Up,21,14,,,,,James Ledbetter IV,Kelom Siller,Evan Deragon,David Z
+Bracket Stage,4.0 Contender+,Bracket A,Round of 16,Best of 3,The WySpiker and the Wannabe,Team Explosion,The WySpiker and the Wannabe,21,12,21,14,,,Brandon Arledge,Luke Mowry,Cormac Alonzo,Francesco Mauro
+Bracket Stage,4.0 Contender+,Bracket A,Round of 16,Best of 3,Johnny Bravo,"One, Two, Brick","One, Two, Brick",21,13,11,21,18,21,Luis Orozco,Garrett Ashton,jacob gansle,Felipe Martinez
+Bracket Stage,4.0 Contender+,Bracket A,Round of 16,Best of 3,Seven-Duece Offsuit,Balls in Play,Seven-Duece Offsuit,16,21,23,21,26,24,Iason Hayes,Nathan Garcia,Evan Deragon,David Z
+Bracket Stage,4.0 Contender+,Bracket A,Round of 16,Best of 3,JP/Rohil,Net-flicks and Chill,JP/Rohil,21,16,17,21,21,10,Rohil Senapati,JP Chincuanco,parker hall,Aidan Riley
+Bracket Stage,4.0 Contender+,Bracket A,Round of 16,Best of 3,Banged Up,blank,Banged Up,21,19,21,13,,,James Ledbetter IV,Kelom Siller,Lucas Bustos,JJ Vela
+Bracket Stage,4.0 Contender+,Bracket A,Quarter-final,Best of 3,We're In Debt,Banged Up,We're In Debt,21,6,21,10,,,Tyler Fernandez,Micah Allin,James Ledbetter IV,Kelom Siller
+Bracket Stage,4.0 Contender+,Bracket A,Quarter-final,Best of 3,Carnage,JP/Rohil,Carnage,21,15,21,12,,,Rahul Murthy,Luke Marshall,Rohil Senapati,JP Chincuanco
+Bracket Stage,4.0 Contender+,Bracket A,Quarter-final,Best of 3,New Rules?,Seven-Duece Offsuit,New Rules?,21,9,23,21,,,Noah Beinart,Andrew Christmas,Iason Hayes,Nathan Garcia
+Bracket Stage,4.0 Contender+,Bracket A,Quarter-final,Best of 3,The WySpiker and the Wannabe,"One, Two, Brick",The WySpiker and the Wannabe,21,19,21,18,,,Brandon Arledge,Luke Mowry,jacob gansle,Felipe Martinez
+Bracket Stage,4.0 Contender+,Bracket A,P9: Quarter-final,Single game,Johnny Bravo,Team Explosion,Johnny Bravo,21,10,,,,,Luis Orozco,Garrett Ashton,Cormac Alonzo,Francesco Mauro
+Bracket Stage,4.0 Contender+,Bracket A,Semi-final,Best of 3,We're In Debt,The WySpiker and the Wannabe,We're In Debt,21,19,22,20,,,Tyler Fernandez,Micah Allin,Brandon Arledge,Luke Mowry
+Bracket Stage,4.0 Contender+,Bracket A,Semi-final,Best of 3,Carnage,New Rules?,New Rules?,22,24,18,21,,,Rahul Murthy,Luke Marshall,Noah Beinart,Andrew Christmas
+Bracket Stage,4.0 Contender+,Bracket A,P5: Semi-final,Single game,"One, Two, Brick",Banged Up,"One, Two, Brick",2,0,,,,,jacob gansle,Felipe Martinez,James Ledbetter IV,Kelom Siller
+Bracket Stage,4.0 Contender+,Bracket A,P5: Semi-final,Single game,Seven-Duece Offsuit,JP/Rohil,JP/Rohil,-1,0,,,,,Iason Hayes,Nathan Garcia,Rohil Senapati,JP Chincuanco
+Bracket Stage,4.0 Contender+,Bracket A,Final,Best of 3,We're In Debt,New Rules?,We're In Debt,21,19,21,16,,,Tyler Fernandez,Micah Allin,Noah Beinart,Andrew Christmas
+Bracket Stage,4.0 Contender+,Bracket A,P3: Final,Single game,Carnage,The WySpiker and the Wannabe,The WySpiker and the Wannabe,-1,0,,,,,Rahul Murthy,Luke Marshall,Brandon Arledge,Luke Mowry
+Bracket Stage,4.0 Contender+,Bracket A,P5: Final,Single game,"One, Two, Brick",JP/Rohil,"One, Two, Brick",0,-1,,,,,jacob gansle,Felipe Martinez,Rohil Senapati,JP Chincuanco
+Group Stage,3.0 Advanced/Intermediate,Group A,1,Single game,Ain & Bear,The Specialists,The Specialists,13,21,,,,,Sarah Bui,Ainsley Ford,Robinson Davis,Logan Baker
+Group Stage,3.0 Advanced/Intermediate,Group A,1,Single game,Dumb and dumber,South Philly Roundnet Organization,South Philly Roundnet Organization,18,21,,,,,Patrick Dinh,Sam Green,Peyton Hood,Jake Bleacher
+Group Stage,3.0 Advanced/Intermediate,Group B,1,Single game,"Devious Dawgs ",Year of the Horse,Year of the Horse,9,21,,,,,Mateo Bower,Ross Lochbaum,Henry Weinberg,Bennett Parker
+Group Stage,3.0 Advanced/Intermediate,Group B,1,Single game,MI 6,Spike Girls,MI 6,21,13,,,,,Isaac Chew,Matthew Xu,Lee Forbes,Katherine Burnett
+Group Stage,3.0 Advanced/Intermediate,Group A,2,Single game,Ain & Bear,South Philly Roundnet Organization,South Philly Roundnet Organization,12,21,,,,,Sarah Bui,Ainsley Ford,Peyton Hood,Jake Bleacher
+Group Stage,3.0 Advanced/Intermediate,Group A,2,Single game,Pizza Hut,The Specialists,Pizza Hut,21,10,,,,,Robert Dabney,Davis D,Robinson Davis,Logan Baker
+Group Stage,3.0 Advanced/Intermediate,Group B,2,Single game,"Devious Dawgs ",Spike Girls,Spike Girls,11,21,,,,,Mateo Bower,Ross Lochbaum,Lee Forbes,Katherine Burnett
+Group Stage,3.0 Advanced/Intermediate,Group B,2,Single game,Sith Spikers,Year of the Horse,Year of the Horse,11,21,,,,,Preston Shaw,Joshua Wilson,Henry Weinberg,Bennett Parker
+Group Stage,3.0 Advanced/Intermediate,Group A,3,Single game,Ain & Bear,Pizza Hut,Pizza Hut,11,21,,,,,Sarah Bui,Ainsley Ford,Robert Dabney,Davis D
+Group Stage,3.0 Advanced/Intermediate,Group A,3,Single game,Dumb and dumber,The Specialists,Dumb and dumber,21,12,,,,,Patrick Dinh,Sam Green,Robinson Davis,Logan Baker
+Group Stage,3.0 Advanced/Intermediate,Group B,3,Single game,"Devious Dawgs ",Sith Spikers,"Devious Dawgs ",21,16,,,,,Mateo Bower,Ross Lochbaum,Preston Shaw,Joshua Wilson
+Group Stage,3.0 Advanced/Intermediate,Group B,3,Single game,MI 6,Year of the Horse,MI 6,21,16,,,,,Isaac Chew,Matthew Xu,Henry Weinberg,Bennett Parker
+Group Stage,3.0 Advanced/Intermediate,Group A,4,Single game,Dumb and dumber,Pizza Hut,Pizza Hut,19,21,,,,,Patrick Dinh,Sam Green,Robert Dabney,Davis D
+Group Stage,3.0 Advanced/Intermediate,Group A,4,Single game,South Philly Roundnet Organization,The Specialists,South Philly Roundnet Organization,21,10,,,,,Peyton Hood,Jake Bleacher,Robinson Davis,Logan Baker
+Group Stage,3.0 Advanced/Intermediate,Group B,4,Single game,MI 6,Sith Spikers,MI 6,21,11,,,,,Isaac Chew,Matthew Xu,Preston Shaw,Joshua Wilson
+Group Stage,3.0 Advanced/Intermediate,Group B,4,Single game,Spike Girls,Year of the Horse,Year of the Horse,19,21,,,,,Lee Forbes,Katherine Burnett,Henry Weinberg,Bennett Parker
+Group Stage,3.0 Advanced/Intermediate,Group A,5,Single game,Ain & Bear,Dumb and dumber,Dumb and dumber,13,21,,,,,Sarah Bui,Ainsley Ford,Patrick Dinh,Sam Green
+Group Stage,3.0 Advanced/Intermediate,Group A,5,Single game,Pizza Hut,South Philly Roundnet Organization,South Philly Roundnet Organization,17,21,,,,,Robert Dabney,Davis D,Peyton Hood,Jake Bleacher
+Group Stage,3.0 Advanced/Intermediate,Group B,5,Single game,"Devious Dawgs ",MI 6,MI 6,20,22,,,,,Mateo Bower,Ross Lochbaum,Isaac Chew,Matthew Xu
+Group Stage,3.0 Advanced/Intermediate,Group B,5,Single game,Sith Spikers,Spike Girls,Sith Spikers,21,17,,,,,Preston Shaw,Joshua Wilson,Lee Forbes,Katherine Burnett
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Round of 16,Best of 3,"Devious Dawgs ",Ain & Bear,"Devious Dawgs ",21,14,21,14,,,Mateo Bower,Ross Lochbaum,Sarah Bui,Ainsley Ford
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Round of 16,Best of 3,Sith Spikers,The Specialists,Sith Spikers,21,14,21,12,,,Preston Shaw,Joshua Wilson,Robinson Davis,Logan Baker
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,South Philly Roundnet Organization,Sith Spikers,South Philly Roundnet Organization,21,19,21,15,,,Peyton Hood,Jake Bleacher,Preston Shaw,Joshua Wilson
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,MI 6,"Devious Dawgs ",MI 6,21,11,21,16,,,Isaac Chew,Matthew Xu,Mateo Bower,Ross Lochbaum
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,Pizza Hut,Spike Girls,Spike Girls,10,21,16,21,,,Robert Dabney,Davis D,Lee Forbes,Katherine Burnett
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,Year of the Horse,Dumb and dumber,Year of the Horse,21,14,21,16,,,Henry Weinberg,Bennett Parker,Patrick Dinh,Sam Green
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Semi-final,Best of 3,South Philly Roundnet Organization,Year of the Horse,Year of the Horse,15,21,17,21,,,Peyton Hood,Jake Bleacher,Henry Weinberg,Bennett Parker
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Semi-final,Best of 3,MI 6,Spike Girls,MI 6,21,19,21,16,,,Isaac Chew,Matthew Xu,Lee Forbes,Katherine Burnett
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,P5: Semi-final,Single game,Dumb and dumber,Sith Spikers,Dumb and dumber,21,1,,,,,Patrick Dinh,Sam Green,Preston Shaw,Joshua Wilson
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,P5: Semi-final,Single game,Pizza Hut,"Devious Dawgs ",Pizza Hut,21,10,,,,,Robert Dabney,Davis D,Mateo Bower,Ross Lochbaum
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Final,Best of 3,Year of the Horse,MI 6,MI 6,21,18,15,21,13,21,Henry Weinberg,Bennett Parker,Isaac Chew,Matthew Xu
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,P3: Final,Single game,Spike Girls,South Philly Roundnet Organization,Spike Girls,21,0,,,,,Lee Forbes,Katherine Burnett,Peyton Hood,Jake Bleacher
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,P5: Final,Single game,Dumb and dumber,Pizza Hut,Dumb and dumber,21,11,,,,,Patrick Dinh,Sam Green,Robert Dabney,Davis D
