@@ -530,8 +530,6 @@ class ELO_Model:
                     self.record_tourney(data,combos_t.loc[i,"tourney"],combos_t.loc[i,"Division"],combos_t.loc[i,"Date"],avg_elo=combos_t.loc[i,"AVG_ELO"])
                 else:
                     self.record_tourney(data,combos_t.loc[i,"tourney"],combos_t.loc[i,"Division"],combos_t.loc[i,"Date"])
-            # Update tourney level results
-            self.players_total = pd.concat([self.players_total, self.give_players_df(combos_t.loc[i,"tourney"], combos_t.loc[i,"Date"])], ignore_index=True)
             
             #Update days since played and decay ratings
             if self.decay==True:
