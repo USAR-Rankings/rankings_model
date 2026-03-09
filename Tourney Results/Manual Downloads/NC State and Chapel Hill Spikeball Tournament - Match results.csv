@@ -1,0 +1,73 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Expert,Group A,1,Single game,Franklin's Friends,Slap Happy,Franklin's Friends,17,13,,,,,Cole Ciemniecki,James Brock,Dale Leibee,Camden Leibee
+Pool Play,Expert,Group A,1,Single game,Fountain Lovers,Grub Lords,Fountain Lovers,19,17,,,,,Alex DuBois,Jonah Walker,Hugh Telke,Sophia Manning
+Pool Play,Expert,Group B,1,Single game,Mosley/Burnette,Lloyd & Mosley Penetration Services,Mosley/Burnette,17,12,,,,,Eli Mosley,James Burnette,Caleb Mosley,Grayson Lloyd
+Pool Play,Expert,Group B,1,Single game,Gooding /Simpson,Bevin,Gooding /Simpson,18,16,,,,,Aaron Simpson,Vaughn Gooding,Ben Celestino,Evan Grabarczyk
+Pool Play,Expert,Group A,2,Single game,Franklin's Friends,Grub Lords,Franklin's Friends,21,19,,,,,Cole Ciemniecki,James Brock,Hugh Telke,Sophia Manning
+Pool Play,Expert,Group A,2,Single game,Fountain Lovers,Slap Happy,Fountain Lovers,17,12,,,,,Alex DuBois,Jonah Walker,Dale Leibee,Camden Leibee
+Pool Play,Expert,Group B,2,Single game,Mosley/Burnette,Bevin,Mosley/Burnette,18,16,,,,,Eli Mosley,James Burnette,Ben Celestino,Evan Grabarczyk
+Pool Play,Expert,Group B,2,Single game,Gooding /Simpson,Lloyd & Mosley Penetration Services,Gooding /Simpson,17,5,,,,,Aaron Simpson,Vaughn Gooding,Caleb Mosley,Grayson Lloyd
+Pool Play,Expert,Group A,3,Single game,Franklin's Friends,Fountain Lovers,Fountain Lovers,14,17,,,,,Cole Ciemniecki,James Brock,Alex DuBois,Jonah Walker
+Pool Play,Expert,Group A,3,Single game,Grub Lords,Slap Happy,Grub Lords,17,15,,,,,Hugh Telke,Sophia Manning,Dale Leibee,Camden Leibee
+Pool Play,Expert,Group B,3,Single game,Mosley/Burnette,Gooding /Simpson,Mosley/Burnette,17,13,,,,,Eli Mosley,James Burnette,Aaron Simpson,Vaughn Gooding
+Pool Play,Expert,Group B,3,Single game,Bevin,Lloyd & Mosley Penetration Services,Bevin,17,6,,,,,Ben Celestino,Evan Grabarczyk,Caleb Mosley,Grayson Lloyd
+Pool Play,Expert,Group A,4,Single game,Franklin's Friends,Slap Happy,Franklin's Friends,17,11,,,,,Cole Ciemniecki,James Brock,Dale Leibee,Camden Leibee
+Pool Play,Expert,Group A,4,Single game,Fountain Lovers,Grub Lords,Fountain Lovers,17,14,,,,,Alex DuBois,Jonah Walker,Hugh Telke,Sophia Manning
+Pool Play,Expert,Group B,4,Single game,Mosley/Burnette,Lloyd & Mosley Penetration Services,Mosley/Burnette,17,12,,,,,Eli Mosley,James Burnette,Caleb Mosley,Grayson Lloyd
+Pool Play,Expert,Group B,4,Single game,Gooding /Simpson,Bevin,Gooding /Simpson,17,14,,,,,Aaron Simpson,Vaughn Gooding,Ben Celestino,Evan Grabarczyk
+Pool Play,Expert,Group A,5,Single game,Franklin's Friends,Grub Lords,Franklin's Friends,17,14,,,,,Cole Ciemniecki,James Brock,Hugh Telke,Sophia Manning
+Pool Play,Expert,Group A,5,Single game,Fountain Lovers,Slap Happy,Fountain Lovers,17,11,,,,,Alex DuBois,Jonah Walker,Dale Leibee,Camden Leibee
+Pool Play,Expert,Group B,5,Single game,Mosley/Burnette,Bevin,Mosley/Burnette,17,13,,,,,Eli Mosley,James Burnette,Ben Celestino,Evan Grabarczyk
+Pool Play,Expert,Group B,5,Single game,Gooding /Simpson,Lloyd & Mosley Penetration Services,Gooding /Simpson,17,5,,,,,Aaron Simpson,Vaughn Gooding,Caleb Mosley,Grayson Lloyd
+Pool Play,Expert,Group A,6,Single game,Franklin's Friends,Fountain Lovers,Fountain Lovers,10,17,,,,,Cole Ciemniecki,James Brock,Alex DuBois,Jonah Walker
+Pool Play,Expert,Group A,6,Single game,Grub Lords,Slap Happy,Slap Happy,14,17,,,,,Hugh Telke,Sophia Manning,Dale Leibee,Camden Leibee
+Pool Play,Expert,Group B,6,Single game,Mosley/Burnette,Gooding /Simpson,Gooding /Simpson,11,17,,,,,Eli Mosley,James Burnette,Aaron Simpson,Vaughn Gooding
+Pool Play,Expert,Group B,6,Single game,Bevin,Lloyd & Mosley Penetration Services,Bevin,17,7,,,,,Ben Celestino,Evan Grabarczyk,Caleb Mosley,Grayson Lloyd
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Fountain Lovers,Lloyd & Mosley Penetration Services,Fountain Lovers,21,10,21,18,,,Alex DuBois,Jonah Walker,Caleb Mosley,Grayson Lloyd
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Gooding /Simpson,Slap Happy,Gooding /Simpson,21,15,21,18,,,Aaron Simpson,Vaughn Gooding,Dale Leibee,Camden Leibee
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Mosley/Burnette,Grub Lords,Mosley/Burnette,21,15,25,23,,,Eli Mosley,James Burnette,Hugh Telke,Sophia Manning
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Franklin's Friends,Bevin,Bevin,21,13,17,21,15,21,Cole Ciemniecki,James Brock,Ben Celestino,Evan Grabarczyk
+Bracket Stage,Expert,Bracket A,Semi-final,Best of 3,Fountain Lovers,Bevin,Fountain Lovers,21,9,18,21,21,17,Alex DuBois,Jonah Walker,Ben Celestino,Evan Grabarczyk
+Bracket Stage,Expert,Bracket A,Semi-final,Best of 3,Gooding /Simpson,Mosley/Burnette,Gooding /Simpson,21,19,21,15,,,Aaron Simpson,Vaughn Gooding,Eli Mosley,James Burnette
+Bracket Stage,Expert,Bracket A,P5: Semi-final,Single game,Franklin's Friends,Lloyd & Mosley Penetration Services,Franklin's Friends,1,0,,,,,Cole Ciemniecki,James Brock,Caleb Mosley,Grayson Lloyd
+Bracket Stage,Expert,Bracket A,P5: Semi-final,Single game,Grub Lords,Slap Happy,Slap Happy,0,1,,,,,Hugh Telke,Sophia Manning,Dale Leibee,Camden Leibee
+Bracket Stage,Expert,Bracket A,Final,Best of 3,Fountain Lovers,Gooding /Simpson,Gooding /Simpson,17,21,19,21,,,Alex DuBois,Jonah Walker,Aaron Simpson,Vaughn Gooding
+Bracket Stage,Expert,Bracket A,P3: Final,Single game,Mosley/Burnette,Bevin,Bevin,0,1,,,,,Eli Mosley,James Burnette,Ben Celestino,Evan Grabarczyk
+Bracket Stage,Expert,Bracket A,P5: Final,Single game,Franklin's Friends,Slap Happy,Slap Happy,13,21,,,,,Cole Ciemniecki,James Brock,Dale Leibee,Camden Leibee
+Bracket Stage,Expert,Bracket A,P7: Final,Single game,Grub Lords,Lloyd & Mosley Penetration Services,,0,0,,,,,Hugh Telke,Sophia Manning,Caleb Mosley,Grayson Lloyd
+Pool Play,Intermediate,Group A,1,Single game,Dubois/Cohen,PLACEHOLDER,Dubois/Cohen,17,12,,,,,Aden cohen,Logan DuBois,Zeke Krumnacher,Matthew Whalen
+Pool Play,Intermediate,Group A,1,Single game,LeBlanc/Mvuendy,Hostetler/Valerius,Hostetler/Valerius,14,17,,,,,Meki Mvuendy,Emma Leblanc,Lauren Hostetler,Alexis Valerius
+Pool Play,Intermediate,Group B,1,Single game,K/P,Broken Mirror,K/P,17,13,,,,,Joseph Kolakowski,Jack Porter,Nicolas Bradham,Zac Wall
+Pool Play,Intermediate,Group B,1,Single game,Quad fault,"Sean and David ",Quad fault,17,1,,,,,Elijah Young,Spencer Marazita,Sean  Kneller,David Alvarez
+Pool Play,Intermediate,Group A,2,Single game,Dubois/Cohen,Hostetler/Valerius,Dubois/Cohen,17,10,,,,,Aden cohen,Logan DuBois,Lauren Hostetler,Alexis Valerius
+Pool Play,Intermediate,Group A,2,Single game,LeBlanc/Mvuendy,PLACEHOLDER,LeBlanc/Mvuendy,17,15,,,,,Meki Mvuendy,Emma Leblanc,Zeke Krumnacher,Matthew Whalen
+Pool Play,Intermediate,Group B,2,Single game,K/P,"Sean and David ",K/P,17,4,,,,,Joseph Kolakowski,Jack Porter,Sean  Kneller,David Alvarez
+Pool Play,Intermediate,Group B,2,Single game,Quad fault,Broken Mirror,Quad fault,17,8,,,,,Elijah Young,Spencer Marazita,Nicolas Bradham,Zac Wall
+Pool Play,Intermediate,Group A,3,Single game,Dubois/Cohen,LeBlanc/Mvuendy,Dubois/Cohen,18,16,,,,,Aden cohen,Logan DuBois,Meki Mvuendy,Emma Leblanc
+Pool Play,Intermediate,Group A,3,Single game,Hostetler/Valerius,PLACEHOLDER,Hostetler/Valerius,17,13,,,,,Lauren Hostetler,Alexis Valerius,Zeke Krumnacher,Matthew Whalen
+Pool Play,Intermediate,Group B,3,Single game,K/P,Quad fault,Quad fault,9,17,,,,,Joseph Kolakowski,Jack Porter,Elijah Young,Spencer Marazita
+Pool Play,Intermediate,Group B,3,Single game,"Sean and David ",Broken Mirror,Broken Mirror,8,17,,,,,Sean  Kneller,David Alvarez,Nicolas Bradham,Zac Wall
+Pool Play,Intermediate,Group A,4,Single game,Dubois/Cohen,PLACEHOLDER,Dubois/Cohen,17,14,,,,,Aden cohen,Logan DuBois,Zeke Krumnacher,Matthew Whalen
+Pool Play,Intermediate,Group A,4,Single game,LeBlanc/Mvuendy,Hostetler/Valerius,LeBlanc/Mvuendy,17,8,,,,,Meki Mvuendy,Emma Leblanc,Lauren Hostetler,Alexis Valerius
+Pool Play,Intermediate,Group B,4,Single game,K/P,Broken Mirror,K/P,17,10,,,,,Joseph Kolakowski,Jack Porter,Nicolas Bradham,Zac Wall
+Pool Play,Intermediate,Group B,4,Single game,Quad fault,"Sean and David ",Quad fault,17,8,,,,,Elijah Young,Spencer Marazita,Sean  Kneller,David Alvarez
+Pool Play,Intermediate,Group A,5,Single game,Dubois/Cohen,Hostetler/Valerius,Dubois/Cohen,17,10,,,,,Aden cohen,Logan DuBois,Lauren Hostetler,Alexis Valerius
+Pool Play,Intermediate,Group A,5,Single game,LeBlanc/Mvuendy,PLACEHOLDER,PLACEHOLDER,12,17,,,,,Meki Mvuendy,Emma Leblanc,Zeke Krumnacher,Matthew Whalen
+Pool Play,Intermediate,Group B,5,Single game,K/P,"Sean and David ",K/P,17,7,,,,,Joseph Kolakowski,Jack Porter,Sean  Kneller,David Alvarez
+Pool Play,Intermediate,Group B,5,Single game,Quad fault,Broken Mirror,Quad fault,17,9,,,,,Elijah Young,Spencer Marazita,Nicolas Bradham,Zac Wall
+Pool Play,Intermediate,Group A,6,Single game,Dubois/Cohen,LeBlanc/Mvuendy,Dubois/Cohen,18,16,,,,,Aden cohen,Logan DuBois,Meki Mvuendy,Emma Leblanc
+Pool Play,Intermediate,Group A,6,Single game,Hostetler/Valerius,PLACEHOLDER,PLACEHOLDER,15,17,,,,,Lauren Hostetler,Alexis Valerius,Zeke Krumnacher,Matthew Whalen
+Pool Play,Intermediate,Group B,6,Single game,K/P,Quad fault,K/P,17,11,,,,,Joseph Kolakowski,Jack Porter,Elijah Young,Spencer Marazita
+Pool Play,Intermediate,Group B,6,Single game,"Sean and David ",Broken Mirror,Broken Mirror,8,17,,,,,Sean  Kneller,David Alvarez,Nicolas Bradham,Zac Wall
+Bracket Stage,Intermediate,Bracket A,Quarter-final,Best of 3,Dubois/Cohen,"Sean and David ",Dubois/Cohen,21,11,21,13,,,Aden cohen,Logan DuBois,Sean  Kneller,David Alvarez
+Bracket Stage,Intermediate,Bracket A,Quarter-final,Best of 3,Quad fault,Hostetler/Valerius,Quad fault,21,10,21,10,,,Elijah Young,Spencer Marazita,Lauren Hostetler,Alexis Valerius
+Bracket Stage,Intermediate,Bracket A,Quarter-final,Best of 3,K/P,Broken Mirror,K/P,21,10,17,21,21,14,Joseph Kolakowski,Jack Porter,Nicolas Bradham,Zac Wall
+Bracket Stage,Intermediate,Bracket A,Quarter-final,Best of 3,LeBlanc/Mvuendy,PLACEHOLDER,PLACEHOLDER,22,20,16,21,23,25,Meki Mvuendy,Emma Leblanc,Zeke Krumnacher,Matthew Whalen
+Bracket Stage,Intermediate,Bracket A,Semi-final,Best of 3,Dubois/Cohen,PLACEHOLDER,Dubois/Cohen,20,22,21,16,21,16,Aden cohen,Logan DuBois,Zeke Krumnacher,Matthew Whalen
+Bracket Stage,Intermediate,Bracket A,Semi-final,Best of 3,Quad fault,K/P,Quad fault,21,19,21,11,,,Elijah Young,Spencer Marazita,Joseph Kolakowski,Jack Porter
+Bracket Stage,Intermediate,Bracket A,P5: Semi-final,Single game,LeBlanc/Mvuendy,"Sean and David ",LeBlanc/Mvuendy,21,11,,,,,Meki Mvuendy,Emma Leblanc,Sean  Kneller,David Alvarez
+Bracket Stage,Intermediate,Bracket A,P5: Semi-final,Single game,Broken Mirror,Hostetler/Valerius,Broken Mirror,1,0,,,,,Nicolas Bradham,Zac Wall,Lauren Hostetler,Alexis Valerius
+Bracket Stage,Intermediate,Bracket A,Final,Best of 3,Dubois/Cohen,Quad fault,Quad fault,19,21,16,21,,,Aden cohen,Logan DuBois,Elijah Young,Spencer Marazita
+Bracket Stage,Intermediate,Bracket A,P3: Final,Single game,K/P,PLACEHOLDER,K/P,21,13,,,,,Joseph Kolakowski,Jack Porter,Zeke Krumnacher,Matthew Whalen
+Bracket Stage,Intermediate,Bracket A,P5: Final,Single game,LeBlanc/Mvuendy,Broken Mirror,Broken Mirror,0,1,,,,,Meki Mvuendy,Emma Leblanc,Nicolas Bradham,Zac Wall
+Bracket Stage,Intermediate,Bracket A,P7: Final,Single game,Hostetler/Valerius,"Sean and David ",,0,0,,,,,Lauren Hostetler,Alexis Valerius,Sean  Kneller,David Alvarez
