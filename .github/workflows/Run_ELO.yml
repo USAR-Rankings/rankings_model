@@ -3,7 +3,6 @@ name: Format Tournaments and Run ELO
 on:
   push:
     branches:
-      - main
       - Jake_ELO
   workflow_dispatch:
 
