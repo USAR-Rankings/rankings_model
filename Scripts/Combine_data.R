@@ -1,4 +1,3 @@
-library(tidyverse)
 write_csvs = T
 
 # Preload----------------------
@@ -13,7 +12,6 @@ all_cors = read.csv('Players/name_corrections.csv', as.is = T,fileEncoding = "la
   select(-Tourney) %>%
   mutate_all(toupper)
 
-library(stringi)
 normalize_text <- function(x) {
   x %>%
     iconv(from = "", to = "UTF-8", sub = "") %>%       # Fixes encoding
