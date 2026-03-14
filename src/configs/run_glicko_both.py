@@ -37,6 +37,8 @@ OPEN_P= {
 
  # kept for compatibility (ignored in saturating mode)
 "convexity":0.70,
+"DE":450,
+"DC":625,
 
 
 # Export results filename
@@ -76,6 +78,8 @@ WOMENS_P= {
 
  # kept for compatibility (ignored in saturating mode)
 "convexity":0.70,
+"DE":575,
+"DC":625,
 
 
 # Export results filename

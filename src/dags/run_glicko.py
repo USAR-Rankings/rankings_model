@@ -60,6 +60,8 @@ def main():
 
             # kept for compatibility (ignored in saturating mode)
             convexity=param["convexity"],
+            de=param["DE"],
+            dc=param["DC"],
         )
         test.record_season_fast(west_r,west_r_c)
         print("Brier Score: ", test.brier_score(mg=20))

@@ -428,7 +428,7 @@ class GLICKO_ADD:
             if "PRO" in division:
                 div = 0
             baseline_mu = self.sep
-        elif any(x in division for x in ["EXPERT", "ELITE", "ADVANCED", "GOLD", "WOMEN"]):
+        elif any(x in division for x in ["EXPERT", "ELITE", "GOLD", "WOMEN"]):
             div = 2
             baseline_mu = self.sep - self.de
         else:
