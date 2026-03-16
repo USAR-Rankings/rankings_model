@@ -31,38 +31,47 @@ def main():
         
         # Run elo model for whole timeframe
         test = GLICKO_ADD(
-            sep=1500,
-            remove=param["remove"],
-            team_method=param["team_method"],
-            avg_mu=param["avg_mu"],
+        sep=param.get("SEP",1500),
+        remove=param["remove"],
+        team_method=param["team_method"],
+        avg_mu=param["avg_mu"],
 
-            # RD bounds
-            rd_min=param["RD_MIN"],      # ~80.36
+        # RD bounds
+        rd_min=param["RD_MIN"],
+        rd_max=param.get("RD_MAX",350),
+        entry_rd=param.get("ENTRY_RD",350),
 
+        # team uncertainty
+        team_var_alpha=param["team_var_alpha"],
+        inv_var_gamma=param["inv_var_gamma"],
 
-            # team uncertainty (inv-var)
-            team_var_alpha=param["team_var_alpha"],   # ~1.317
-            inv_var_gamma=param["inv_var_gamma"],
+        # RD shrink cap
+        cap_redux=param["cap_redux"],
+        max_reduction_frac=param["max_reduction_frac"],
 
-            # RD shrink cap
-            cap_redux=param["cap_redux"],
-            max_reduction_frac=param["max_reduction_frac"],  # ~0.6699
+        # volatility learning
+        tau=param["tau"],
 
-            # volatility learning
-            tau=param["tau"],  # ~0.491
+        # inactivity RD inflation
+        rd_inflation_mode=param["rd_inflation_mode"],
+        time_constant=param["time_constant"],
+        buffer_days=param["buffer_days"],
+        decay_tau_days=param["decay_tau_days"],
+        sat_power=param["sat_power"],
 
-            # inactivity RD inflation curve (your chosen saturating form)
-            rd_inflation_mode=param["rd_inflation_mode"],
-            time_constant=param["time_constant"],         # time_constant_phi
-            buffer_days=param["buffer_days"],
-            decay_tau_days=param["decay_tau_days"],   # 547.5
-            sat_power=param["sat_power"],
+        # compatibility
+        convexity=param["convexity"],
+        de=param["DE"],
+        dc=param["DC"],
 
-            # kept for compatibility (ignored in saturating mode)
-            convexity=param["convexity"],
-            de=param["DE"],
-            dc=param["DC"],
-        )
+        # optional entry blending (only used by open)
+        blend_entry=param.get("blend_entry",False),
+        blend_existing_k=param.get("blend_existing_k",6.0),
+        blend_max_weight=param.get("blend_max_weight",0.85),
+        blend_exclude_provisional=param.get("blend_exclude_provisional",True),
+        blend_min_div_players=param.get("blend_min_div_players",1)
+    )
+
         test.record_season_fast(west_r,west_r_c)
         print("Brier Score: ", test.brier_score(mg=20))
 

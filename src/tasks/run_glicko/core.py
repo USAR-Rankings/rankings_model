@@ -30,12 +30,18 @@ class Player_ADD:
         convexity: float = 1.75,
         rd_min: float = 50.0,
         rd_max: float = 350.0,
-        max_reduction_frac: float =0.15,
+        max_reduction_frac: float = 0.15,
         cap_redux=False,
-        rd_inflation_mode: str = "power",   # "power" (default) | "saturating"
-        buffer_days: float = 0.0,           # grace period before inflating RD
-        decay_tau_days: float = 90.0,       # saturating time constant (days)
-        sat_power: float = 1.0              # optional shape: <1 more concave after buffer
+        rd_inflation_mode: str = "power",
+        buffer_days: float = 0.0,
+        decay_tau_days: float = 90.0,
+        sat_power: float = 1.0,
+        provisional: bool = False,
+        provisional_min_tournaments: int = 2,
+        provisional_min_games: int = 8,
+        cap_provisional_update: bool = False,
+        provisional_cap_first_gain_elo: float = 75.0,
+        provisional_cap_second_gain_elo: float = 110.0,
     ):
         self.name = name
         self.glicko_scale = glicko_scale
@@ -53,31 +59,58 @@ class Player_ADD:
         self.convexity = convexity
 
         # buffers & bookkeeping
-        self._team_results: List[Tuple[float, float, float, float]] = []  # (delta, g_op, E, v)
+        self._team_results: List[Tuple[float, float, float, float]] = []
         self.highest_division = 10
+        self.entry_division = None
+        self.last_division = None
         self.games = games
         self.tournies: List[str] = []
         self.days_since_played = time_since_play
         self.last_played = None
         self.phi_last = self.phi
         self.max_reduction_frac = max_reduction_frac
-        self.cap_redux= cap_redux
+        self.cap_redux = cap_redux
         self.rd_inflation_mode = rd_inflation_mode
         self.buffer_days = float(buffer_days)
         self.decay_tau_days = float(decay_tau_days)
         self.sat_power = float(sat_power)
-        
+
+        self.provisional = bool(provisional)
+        self.provisional_min_tournaments = int(provisional_min_tournaments)
+        self.provisional_min_games = int(provisional_min_games)
+        self.cap_provisional_update = bool(cap_provisional_update)
+        self.provisional_cap_first_gain_elo = float(provisional_cap_first_gain_elo)
+        self.provisional_cap_second_gain_elo = float(provisional_cap_second_gain_elo)
+
+        self.entry_rating = float(starting_rating)
 
     @property
     def rating(self) -> float:
-        """Return Elo-scale rating for external display."""
         return 1500.0 + self.mu * self.glicko_scale
 
     @property
     def RD(self) -> float:
-        """Return Elo-scale RD for external display."""
         return self.phi * self.glicko_scale
 
+    @property
+    def tournaments_played(self) -> int:
+        return len(set(self.tournies))
+
+    def refresh_provisional_status(self):
+        """
+        Strict rule:
+        stay provisional until BOTH thresholds are met.
+        """
+        if not self.provisional:
+            return
+
+        min_t = max(0, int(self.provisional_min_tournaments))
+        min_g = max(0, int(self.provisional_min_games))
+
+        enough_tournaments = (self.tournaments_played >= min_t) if min_t > 0 else True
+        enough_games = (self.games >= min_g) if min_g > 0 else True
+
+        self.provisional = not (enough_tournaments and enough_games)
     # -------------------------
     # Tournament interaction
     # -------------------------
@@ -90,6 +123,16 @@ class Player_ADD:
         self.tournies.append(tourney)
 
     def add_division(self, div: int):
+        """
+        Track three division notions:
+        - entry_division: first division ever seen
+        - last_division: most recent division seen
+        - highest_division: best/highest division ever seen (lower code = higher division)
+        """
+        if self.entry_division is None:
+            self.entry_division = div
+
+        self.last_division = div
         self.highest_division = min(self.highest_division, div)
 
     def update_days_last_played(self, date):
@@ -234,11 +277,18 @@ class Player_ADD:
             self.update_rd()
             return
 
-        # Step 1: accumulate v_inv & delta_sum
+        # snapshot pre-update state for optional provisional gain cap
+        pre_rating = self.rating
+        was_provisional = bool(getattr(self, "provisional", False))
+        completed_tournaments = getattr(self, "tournaments_played", len(set(getattr(self, "tournies", []))))
+
+        # Step 1: accumulate weighted information & delta_sum
+        # IMPORTANT: use the stored per-match v so provisional team weighting
+        # carries through to phi / volatility as well as mu.
         v_inv = 0.0
         delta_sum = 0.0
-        for delta, g_op, E_val, v in self._team_results:
-            v_inv += (g_op ** 2) * E_val * (1.0 - E_val)
+        for delta, g_op, E_val, v_match in self._team_results:
+            v_inv += 1.0 / max(v_match, 1e-12)
             delta_sum += delta
 
         # guard
@@ -273,12 +323,26 @@ class Player_ADD:
         # Step 4: mu update
         self.mu += (self.phi**2) * delta_sum
 
+        if was_provisional and self.cap_provisional_update:
+            upside_cap = None
+            if completed_tournaments <= 1:
+                upside_cap = self.provisional_cap_first_gain_elo
+            elif completed_tournaments <= 2:
+                upside_cap = self.provisional_cap_second_gain_elo
+
+            if upside_cap is not None:
+                capped_rating = min(self.rating, pre_rating + upside_cap)
+                self.mu = (capped_rating - 1500.0) / self.glicko_scale
 
         # cleanup & housekeeping
         self._team_results = []
         self.phi = max(self.phi_min, self.phi)
         self.phi_last = self.phi
         self.update_time(date)
+        self.days_since_played = 0
+        # first tournament completed -> no longer provisional
+        if self.provisional:
+             self.refresh_provisional_status()
         
         
 
@@ -323,7 +387,35 @@ class GLICKO_ADD:
         rd_inflation_mode: str = "power",   # default = legacy convexity curve
         buffer_days: float = 0.0,
         decay_tau_days: float = 90.0,
-        sat_power: float = 1.0
+        sat_power: float = 1.0,
+        provisional_tag=False,
+        provisional_team_weight=0.35,
+        provisional_team_mode="mean",
+        provisional_min_tournaments: int = 2,
+        provisional_min_games: int = 8,
+        provisional_player_weight: float = 0.70,
+        cap_provisional_update: bool = False,
+        provisional_cap_first_gain_elo: float = 75.0,
+        provisional_cap_second_gain_elo: float = 110.0,
+
+        entry_rd: float = 350.0,
+
+        global_entry: bool = False,
+        fixed_entry_through_year: int = 2021,
+        global_entry_stat_mode: str = "p33",   # "p33" | "median"
+        global_entry_refresh_years: int = 1,
+        global_entry_min_players: int = 15,
+        global_entry_source_map: Optional[Dict[int, int]] = None,
+        global_entry_min_tournies: int = 3,
+        global_entry_division_basis: str = "highest",
+        global_entry_snapshot_mode: str = "first_eligible",
+
+        blend_entry: bool = False,
+        blend_existing_k: float = 6.0,
+        blend_max_weight: float = 0.85,
+        blend_exclude_provisional: bool = True,
+        blend_min_div_players: int = 10,
+
     ):
         self.sep = sep
         self.p_dict = {} if p_dict is None else p_dict
@@ -353,14 +445,74 @@ class GLICKO_ADD:
         self.team_var_alpha = team_var_alpha
         self.max_reduction_frac = max_reduction_frac
         self.cap_redux=cap_redux
+        self.entry_rd = float(entry_rd)
         # sanity
         assert team_method in ('sum', 'avg', 'inv_var')
         self.rd_inflation_mode = rd_inflation_mode
         self.buffer_days = float(buffer_days)
         self.decay_tau_days = float(decay_tau_days)
         self.sat_power = float(sat_power)
+        self.provisional_flag = provisional_tag
+        self.provisional_team_weight = provisional_team_weight
+        self.provisional_team_mode = provisional_team_mode
+        self.provisional_min_tournaments = int(provisional_min_tournaments)
+        self.provisional_min_games = int(provisional_min_games)
+        self.provisional_player_weight = float(provisional_player_weight)
+        self.cap_provisional_update = bool(cap_provisional_update)
+        self.provisional_cap_first_gain_elo = float(provisional_cap_first_gain_elo)
+        self.provisional_cap_second_gain_elo = float(provisional_cap_second_gain_elo)
+        
+
+        assert 0.0 < self.provisional_team_weight <= 1.0
+        assert 0.0 < self.provisional_player_weight <= 1.0
+        assert self.provisional_team_mode in ("mean", "any", "min", "product")
+        assert self.entry_rd >= self.rd_min and self.entry_rd <= self.rd_max
+
 
         assert self.rd_inflation_mode in ("power", "convexity", "saturating", "sat")
+        self.global_entry = bool(global_entry)
+        self.fixed_entry_through_year = int(fixed_entry_through_year)
+        self.global_entry_stat_mode = str(global_entry_stat_mode).lower()
+        self.global_entry_refresh_years = int(global_entry_refresh_years)
+        self.global_entry_min_players = int(global_entry_min_players)
+        self.global_entry_min_tournies = int(global_entry_min_tournies)
+        self.global_entry_division_basis = str(global_entry_division_basis).lower()
+        self.global_entry_snapshot_mode = str(global_entry_snapshot_mode).lower()
+
+
+        # Default men's post-cutoff mapping:
+        # Pro -> Pro, Premier -> Expert, Expert -> Expert, Contender -> Contender
+        if global_entry_source_map is None:
+            self.global_entry_source_map = {0: 0, 1: 2, 2: 2, 3: 3}
+        else:
+            self.global_entry_source_map = {int(k): int(v) for k, v in global_entry_source_map.items()}
+
+        # Cached global anchors, refreshed on demand
+        self._global_entry_cache: Dict[int, float] = {}
+        self._global_entry_cache_year: Optional[int] = None
+        self._global_entry_cache_history: Dict[int, Dict[int, float]] = {}
+        self._global_entry_count_history: Dict[int, Dict[int, int]] = {}
+
+        assert self.global_entry_stat_mode in ("p33", "median")
+        assert self.global_entry_refresh_years >= 1
+        assert self.global_entry_min_players >= 1
+        assert self.global_entry_min_tournies >= 1
+        assert self.global_entry_division_basis in ("highest", "last", "entry")
+        assert self.global_entry_snapshot_mode in ("first_eligible", "latest_preyear")
+
+        # Blending entry
+        self.blend_entry = bool(blend_entry)
+        self.blend_existing_k = float(blend_existing_k)
+        self.blend_max_weight = float(blend_max_weight)
+        self.blend_exclude_provisional = bool(blend_exclude_provisional)
+        self.blend_min_div_players = int(blend_min_div_players)
+
+        assert self.blend_existing_k > 0
+        assert 0.0 <= self.blend_max_weight <= 1.0
+        assert self.blend_min_div_players >= 1
+
+
+        
 
     # -------------------------
     # Team stats helpers
@@ -407,33 +559,410 @@ class GLICKO_ADD:
         else:
             return self._team_stats_inv_var(players)
 
+    def _player_reliability(self, player: Player_ADD) -> float:
+        """
+        Reliability used when this player's team is the *opponent*.
+        Established players count as 1.0; provisional players count less.
+        """
+        return self.provisional_team_weight if getattr(player, "provisional", False) else 1.0
+
+    def _team_reliability(self, players: List[Player_ADD]) -> float:
+        """
+        Converts player-level provisional status into team-level reliability.
+        Recommended default: mode='mean'
+          - one provisional + one established -> moderate discount
+          - both provisional -> strong discount
+        """
+        player_rels = [self._player_reliability(p) for p in players]
+        provisional_flags = [getattr(p, "provisional", False) for p in players]
+
+        if self.provisional_team_mode == "any":
+            return self.provisional_team_weight if any(provisional_flags) else 1.0
+        elif self.provisional_team_mode == "mean":
+            return float(sum(player_rels) / len(player_rels))
+        elif self.provisional_team_mode == "min":
+            return float(min(player_rels))
+        elif self.provisional_team_mode == "product":
+            out = 1.0
+            for r in player_rels:
+                out *= r
+            return float(out)
+        else:
+            raise ValueError(f"Unknown provisional_team_mode={self.provisional_team_mode}")
+
+    def _parse_division_code(self, division: str) -> int:
+        division = str(division).upper()
+        if ("PREMIER" in division) or ("PRO" in division):
+            return 0 if "PRO" in division else 1
+        elif any(x in division for x in ["EXPERT", "ELITE", "ADVANCED", "GOLD", "WOMEN"]):
+            return 2
+        else:
+            return 3
+
+    def _fixed_baseline_for_div(self, div: int) -> float:
+        if div in (0, 1):
+            return self.sep
+        elif div == 2:
+            return self.sep - self.de
+        else:
+            return self.sep - self.dc
+
+    def _legacy_local_starting_mu(self, player_array: List[str], baseline_mu: float) -> float:
+        """
+        Existing behavior for local/tournament-specific starts when avg_mu=True.
+        Kept unchanged for women's mode or pre-cutoff years.
+        """
+        starting_mu = baseline_mu
+        existing_mus = [self.p_dict[p].rating for p in player_array if p in self.p_dict]
+
+        if len(existing_mus) >= max(1, int(self.min_existing_for_stat)):
+            if self.avg_mode == "mean":
+                starting_mu = float(np.mean(existing_mus))
+            elif self.avg_mode in ("pct33", "p33", "33"):
+                starting_mu = float(np.percentile(existing_mus, 33))
+            elif self.avg_mode in ("median", "50", "pct50"):
+                starting_mu = float(np.percentile(existing_mus, 50))
+            else:
+                starting_mu = float(np.percentile(existing_mus, 50))
+
+        return starting_mu
+
+    def _should_use_global_entry_logic(self, date) -> bool:
+        """
+        New division-entry logic only applies when womens=False and the season/year
+        is after the fixed-baseline era.
+        """
+        if self.global_entry==False:
+            return False
+        year = pd.Timestamp(date).year
+        return year > self.fixed_entry_through_year
+
+    def _compute_global_entry_stat(self, ratings: List[float]) -> float:
+        if self.global_entry_stat_mode == "median":
+            return float(np.median(ratings))
+        return float(np.percentile(ratings, 33))
+
+    def _refresh_global_entry_cache(self, date, force: bool = False):
+        """
+        Compute annual global division anchors from historical snapshots, not just active players.
+
+        For anchor year Y:
+        - use players_total rows with Date < Jan 1 of Y
+        - require Tournaments_Played >= global_entry_min_tournies
+        - keep the latest eligible snapshot per player before Y
+        - group by the selected division basis
+        - compute anchor + contributor counts
+        """
+        year = pd.Timestamp(date).year
+
+        if (not force) and (self._global_entry_cache_year is not None):
+            if year < (self._global_entry_cache_year + self.global_entry_refresh_years):
+                return
+
+        cutoff_date = pd.Timestamp(year=year, month=1, day=1)
+
+        new_cache: Dict[int, float] = {}
+        new_counts: Dict[int, int] = {}
+
+        use_historical = (
+            hasattr(self, "players_total") and
+            isinstance(self.players_total, pd.DataFrame) and
+            (not self.players_total.empty)
+        )
+
+        if use_historical:
+            hist = self.players_total.copy()
+
+            if "Date" not in hist.columns:
+                use_historical = False
+            else:
+                hist["Date"] = pd.to_datetime(hist["Date"], errors="coerce")
+                basis_col = self._global_entry_basis_col()
+
+                if basis_col not in hist.columns:
+                    use_historical = False
+
+        if use_historical:
+            hist = hist.loc[
+                (hist["Date"].notna()) &
+                (hist["Date"] < cutoff_date) &
+                (hist["Tournaments_Played"] >= self.global_entry_min_tournies)
+            ].copy()
+
+            if not hist.empty:
+                if self.global_entry_snapshot_mode == "first_eligible":
+                    # Freeze each player's contribution at the first time they become established
+                    hist = hist.sort_values(["name", "Tournaments_Played", "Date", "rating"])
+                    hist = hist.drop_duplicates(subset=["name"], keep="first")
+                else:
+                    # Old behavior: latest eligible pre-year snapshot
+                    hist = hist.sort_values(["name", "Date", "Tournaments_Played", "rating"])
+                    hist = hist.drop_duplicates(subset=["name"], keep="last")
+
+                hist["division_code"] = self._global_entry_basis_divcode(
+                    hist[self._global_entry_basis_col()]
+                )
+
+                for div in [0, 1, 2, 3]:
+                    vals = hist.loc[hist["division_code"] == div, "rating"].dropna().tolist()
+                    n = len(vals)
+                    if n >= self.global_entry_min_players:
+                        new_cache[div] = self._compute_global_entry_stat(vals)
+                        new_counts[div] = n
+
+        # fallback if no historical snapshots exist yet for this year
+        if len(new_cache) == 0:
+            ratings_by_div = {0: [], 1: [], 2: [], 3: []}
+
+            for player in self.p_dict.values():
+                if not self._player_is_established_for_global_entry(player):
+                    continue
+
+                basis = getattr(self, "global_entry_division_basis", "highest").lower()
+                if basis == "entry":
+                    div = getattr(player, "entry_division", None)
+                elif basis == "last":
+                    div = getattr(player, "last_division", None)
+                else:
+                    div = getattr(player, "highest_division", None)
+
+                if div in ratings_by_div:
+                    ratings_by_div[div].append(player.rating)
+
+            for div, ratings in ratings_by_div.items():
+                if len(ratings) >= self.global_entry_min_players:
+                    new_cache[div] = self._compute_global_entry_stat(ratings)
+                    new_counts[div] = len(ratings)
+
+        self._global_entry_cache = new_cache
+        self._global_entry_cache_year = year
+        self._global_entry_cache_history[year] = dict(new_cache)
+        self._global_entry_count_history[year] = dict(new_counts)
+
+
+    def _global_starting_mu(self, div: int, date) -> float:
+        """
+        Post-cutoff global anchor. Uses source-map indirection so you can make
+        Premier and Expert both use Expert-only entry.
+        """
+        self._refresh_global_entry_cache(date)
+
+        source_div = self.global_entry_source_map.get(div, div)
+
+        # If the requested source division is missing, recompute once in case the pool changed
+        if source_div not in self._global_entry_cache:
+            self._refresh_global_entry_cache(date, force=True)
+
+        if source_div in self._global_entry_cache:
+            return self._global_entry_cache[source_div]
+
+        # Fallback to the fixed baseline of the SOURCE division, not the target division.
+        # This is important for Premier -> Expert mapping after cutoff.
+        return self._fixed_baseline_for_div(source_div)
+
+    def _player_is_established_for_global_entry(self, player: Player_ADD) -> bool:
+        """
+        A player counts toward the yearly global entry anchor only if they are established.
+        Current definition: at least `global_entry_min_tournies` tournaments played.
+        """
+        return len(getattr(player, "tournies", [])) >= self.global_entry_min_tournies
+
+    def _get_player_anchor_division(self, player: Player_ADD) -> Optional[int]:
+        """
+        Which division label should this player contribute to when building the
+        yearly global entry anchor cache?
+        - 'highest' -> highest_division
+        - 'last'    -> last_division
+        - 'entry'   -> entry_division
+        """
+        if self.global_entry_division_basis == "highest":
+            return getattr(player, "highest_division", None)
+        elif self.global_entry_division_basis == "last":
+            return getattr(player, "last_division", None)
+        elif self.global_entry_division_basis == "entry":
+            return getattr(player, "entry_division", None)
+        else:
+            raise ValueError(f"Unknown global_entry_division_basis={self.global_entry_division_basis}")
+
+    def _global_entry_basis_col(self) -> str:
+        """
+        Column name in players_total used to build yearly historical anchors.
+        Assumes give_players_df stores these columns.
+        """
+        basis = getattr(self, "global_entry_division_basis", "highest").lower()
+        if basis == "entry":
+            return "Entry_Division"
+        elif basis == "last":
+            return "Last_Division"
+        return "Highest_Division"
+
+
+    def _global_entry_basis_divcode(self, series: pd.Series) -> pd.Series:
+        """
+        Convert division labels in players_total back to model division codes.
+        players_total stores human-readable division names from _div_dict.
+        """
+        rev = {v: k for k, v in self._div_dict.items()}
+        return series.map(rev)
+
+    def _player_self_update_weight(self, player: Player_ADD) -> float:
+        """
+        Fixed self-damping:
+        - established player -> 1.0
+        - provisional player -> constant provisional_player_weight
+        """
+        if not getattr(player, "provisional", False):
+            return 1.0
+        return float(self.provisional_player_weight)
+
+
+    def get_global_entry_cache(self) -> pd.DataFrame:
+        rows = []
+
+        for cache_year in sorted(self._global_entry_cache_history.keys()):
+            cache = self._global_entry_cache_history.get(cache_year, {})
+            counts = self._global_entry_count_history.get(cache_year, {})
+
+            for div in sorted(cache.keys()):
+                rows.append({
+                    "cache_year": cache_year,
+                    "division_code": div,
+                    "division_name": self._div_dict.get(div, str(div)),
+                    "entry_anchor": cache[div],
+                    "contributors": counts.get(div, 0),
+                    "basis": getattr(self, "global_entry_division_basis", "highest")
+                })
+
+        return pd.DataFrame(rows)
+
+    def _append_tournament_snapshot_once(self, tourney: str, date):
+        """
+        Append exactly one full player snapshot per (Tournament, Date).
+        Safe to call repeatedly.
+        """
+        date_ts = pd.Timestamp(date)
+
+        if self.players_total.empty:
+            self.players_total = pd.concat(
+                [self.players_total, self.give_players_df(tourney, date)],
+                ignore_index=True
+            )
+            return
+
+        existing = self.players_total.copy()
+        existing["Date"] = pd.to_datetime(existing["Date"], errors="coerce")
+
+        already_logged = (
+            (existing["Tournament"] == tourney) &
+            (existing["Date"] == date_ts)
+        ).any()
+
+        if not already_logged:
+            self.players_total = pd.concat(
+                [self.players_total, self.give_players_df(tourney, date)],
+                ignore_index=True
+            )
+
+    def _live_division_ratings_for_source_div(self, source_div: int) -> List[float]:
+        """
+        Current live ratings from self.p_dict for the mapped source division.
+        Excludes provisional players by default.
+        """
+        ratings = []
+
+        for p in self.p_dict.values():
+            p_div = self._player_basis_div_code(p)
+            if p_div != source_div:
+                continue
+
+            if self.blend_exclude_provisional and getattr(p, "provisional", False):
+                continue
+
+            ratings.append(float(p.rating))
+
+        return ratings
+
+
+    def _count_existing_players_in_field(self, player_array: List[str]) -> int:
+        """
+        Count existing players already in the system for the current tournament field.
+        Excludes provisional players by default.
+        """
+        n = 0
+        for name in player_array:
+            if name not in self.p_dict:
+                continue
+            if self.blend_exclude_provisional and getattr(self.p_dict[name], "provisional", False):
+                continue
+            n += 1
+        return n
+
+
+    def _blended_live_division_starting_mu(self, div: int, player_array: List[str], baseline_mu: float) -> float:
+        """
+        Blend:
+        - local tournament p33 among EXISTING players in this division/tournament
+        - current GLOBAL live p33 of the mapped source division
+
+        Rules:
+        - If there are no live players globally in the mapped source division, use baseline_mu.
+        - If there are no existing players in this tournament/division, use global_p33.
+        - Otherwise blend local_tourney_p33 toward global_p33 based on the number of
+            existing players in the field.
+
+        Weight:
+            w_local = min(blend_max_weight, n_existing / (n_existing + blend_existing_k))
+
+        Final:
+            start = w_local * local_tourney_p33 + (1 - w_local) * global_p33
+        """
+        # global comparison pool uses the mapped source division
+        source_div = self.global_entry_source_map.get(int(div), int(div))
+        global_live_ratings = self._live_division_ratings_for_source_div(source_div)
+
+        # only use fixed baseline if there is no live global pool at all
+        if len(global_live_ratings) == 0:
+            return float(baseline_mu)
+
+        global_p33 = float(np.percentile(global_live_ratings, 33))
+
+        # local tournament pool = existing players already in the system in this field
+        local_existing_ratings = []
+        for name in player_array:
+            if name not in self.p_dict:
+                continue
+            p = self.p_dict[name]
+            if self.blend_exclude_provisional and getattr(p, "provisional", False):
+                continue
+            local_existing_ratings.append(float(p.rating))
+
+        # if no existing players in the tournament field, default low to the current global p33
+        if len(local_existing_ratings) == 0:
+            return global_p33
+
+        local_p33 = float(np.percentile(local_existing_ratings, 33))
+        n_existing = len(local_existing_ratings)
+
+        w_local = n_existing / (n_existing + self.blend_existing_k)
+        w_local = min(self.blend_max_weight, w_local)
+
+        return float(w_local * local_p33 + (1.0 - w_local) * global_p33)
     # -------------------------
-    # Player/Team creation (mirrors your original create_teams)
+    # Player/Team creation
     # -------------------------
     def create_teams(self, data: pd.DataFrame, tourney: str, division: str, date, avg_mu: bool = False):
         """
         Create or update players for `tourney`/`division`.
 
-        avg_mu: False | True | "mean" | "pct33"
-          - False: use division baseline (sep, sep-de, sep-dc)
-          - True: use division median of existing players (back-compat)
-          - "mean": use division mean of existing players
-          - "pct33": use 33rd percentile of existing players
-        Behavior: If fewer than self.min_existing_for_stat existing players are present
-        in the division, default to the division baseline (sep +/- de/dc).
+        Behavior:
+        - Pre-cutoff years (<= fixed_entry_through_year): keep current fixed-baseline logic,
+          optionally with local avg_mu if requested.
+        - Post-cutoff years (> fixed_entry_through_year): if global_entry=True, use global
+          division anchors refreshed every N years.
+        - When global_entry=False, skip the new logic entirely and keep current behavior.
         """
-        # map division string to integer div (0..3) and baseline starting_mu
-        if ("PREMIER" in division) or ("PRO" in division):
-            div = 1
-            if "PRO" in division:
-                div = 0
-            baseline_mu = self.sep
-        elif any(x in division for x in ["EXPERT", "ELITE", "GOLD", "WOMEN"]):
-            div = 2
-            baseline_mu = self.sep - self.de
-        else:
-            div = 3
-            baseline_mu = self.sep - self.dc
+        div = self._parse_division_code(division)
+        baseline_mu = self._fixed_baseline_for_div(div)
 
         # select players appearing in this tourney/division
         filt_tab = data[(data["tourney"] == tourney) & (data["Division"] == division)]
@@ -442,37 +971,24 @@ class GLICKO_ADD:
             list(filt_tab["mT2P1"]) + list(filt_tab["mT2P2"])
         ))
 
-        # decide division-level starting_mu from existing players if requested
-        starting_mu = baseline_mu
-        if avg_mu:
-            # collect existing players that are already in p_dict and appear in this tourney/division
-            existing_mus = []
-            for p in player_array:
-                if p in self.p_dict:
-                    # convert internal mu back to Elo-scale for compatibility with sep/de/dc
-                    existing_mus.append(self.p_dict[p].mu * self.GLICKO_SCALE + 1500.0)
+        # choose entrant prior
+        if self.blend_entry:
+            starting_mu = self._blended_live_division_starting_mu(div, player_array, baseline_mu)
+            
+        elif self._should_use_global_entry_logic(date):
+            starting_mu = self._global_starting_mu(div, date)
+        else:
+            starting_mu = baseline_mu
+            if avg_mu:
+                starting_mu = self._legacy_local_starting_mu(player_array, baseline_mu)
+                # create or update players
 
-            # only use the statistic if enough existing players are present
-            if len(existing_mus) >= max(1, int(self.min_existing_for_stat)):
-                if self.avg_mode == "mean":
-                    starting_mu = float(np.mean(existing_mus))
-                elif self.avg_mode in ("pct33", "p33", "33"):
-                    starting_mu = float(np.percentile(existing_mus, 33))
-                elif self.avg_mode in ("median", "50", "pct50"):
-                    starting_mu = float(np.percentile(existing_mus, 50))
-                else:
-                    starting_mu = float(np.percentile(existing_mus, 50))
-            else:
-                # not enough existing players -> fallback to baseline (sep - de/dc)
-                starting_mu = baseline_mu
-
-        # create or update players
         for player in player_array:
             if player not in self.p_dict:
                 self.p_dict[player] = Player_ADD(
                     name=player,
                     starting_rating=starting_mu,
-                    starting_rd=self.rd_max,  # start with max RD to be conservative
+                    starting_rd=self.entry_rd,
                     starting_sigma=0.06,
                     glicko_scale=self.GLICKO_SCALE,
                     tau=self.tau,
@@ -485,24 +1001,42 @@ class GLICKO_ADD:
                     rd_inflation_mode=self.rd_inflation_mode,
                     buffer_days=self.buffer_days,
                     decay_tau_days=self.decay_tau_days,
-                    sat_power=self.sat_power
+                    sat_power=self.sat_power,
+                    provisional=self.provisional_flag,
+                    provisional_min_tournaments=self.provisional_min_tournaments,
+                    provisional_min_games=self.provisional_min_games,
+                    cap_provisional_update=self.cap_provisional_update,
+                    provisional_cap_first_gain_elo=self.provisional_cap_first_gain_elo,
+                    provisional_cap_second_gain_elo=self.provisional_cap_second_gain_elo,
                 )
                 self.p_dict[player].add_tourney(tourney)
                 self.p_dict[player].add_division(div)
                 self.p_dict[player].update_time(date)
             else:
-                # existing player: update meta and conservative aging
                 self.p_dict[player].add_tourney(tourney)
                 self.p_dict[player].add_division(div)
 
-                # 1) compute days since last play using previous last_played
                 self.p_dict[player].update_days_last_played(date)
-
-                # 2) inflate RD based on that gap BEFORE any matches are processed
                 self.p_dict[player].update_rd()
-
-                # 3) now set last_played = date for bookkeeping (do not recompute days here)
                 self.p_dict[player].update_time(date)
+
+
+    def _player_basis_div_code(self, player: Player_ADD) -> Optional[int]:
+        """
+        Match the division-basis logic used for global entry, but on live players.
+        """
+        basis = str(getattr(self, "global_entry_division_basis", "entry")).lower()
+
+        if basis == "highest":
+            return getattr(player, "highest_division", None)
+        elif basis == "last":
+            return getattr(player, "last_division", None)
+        else:
+            return getattr(player, "entry_division", None)
+
+
+
+
     # -------------------------
     # read_games (filter)
     # -------------------------
@@ -518,6 +1052,7 @@ class GLICKO_ADD:
         # ensure players exist
         for p in (player1, player2, player3, player4):
             if p not in self.p_dict:
+                print(p)
                 self.p_dict[p] = Player_ADD(
                     name=p,
                     starting_rating=self.sep,
@@ -534,6 +1069,7 @@ class GLICKO_ADD:
                     buffer_days=self.buffer_days,
                     decay_tau_days=self.decay_tau_days,
                     sat_power=self.sat_power,
+                    provisional=self.provisional_flag
                 )
         p1 = self.p_dict[player1]
         p2 = self.p_dict[player2]
@@ -564,6 +1100,16 @@ class GLICKO_ADD:
         team1_mu, team1_phi = self._team_stats([p1, p2])
         team2_mu, team2_phi = self._team_stats([p3, p4])
 
+        #compute team reliablity
+        team1_rel = self._team_reliability([p1, p2])
+        team2_rel = self._team_reliability([p3, p4])
+
+        # Compute self weigth for provisional
+        p1_self_w = self._player_self_update_weight(p1)
+        p2_self_w = self._player_self_update_weight(p2)
+        p3_self_w = self._player_self_update_weight(p3)
+        p4_self_w = self._player_self_update_weight(p4)
+
         # team-level probability (for logging)
         prob_team1 = E(team1_mu, team2_mu, team2_phi)
         prob_team2 = 1.0 - prob_team1
@@ -581,11 +1127,12 @@ class GLICKO_ADD:
         E_p3 = E(p3.mu, team1_mu, team1_phi)
         E_p4 = E(p4.mu, team1_mu, team1_phi)
 
-        # per-player v (single match inverse variance)
-        v_inv_p1 = (g_team2 ** 2) * E_p1 * (1.0 - E_p1)
-        v_inv_p2 = (g_team2 ** 2) * E_p2 * (1.0 - E_p2)
-        v_inv_p3 = (g_team1 ** 2) * E_p3 * (1.0 - E_p3)
-        v_inv_p4 = (g_team1 ** 2) * E_p4 * (1.0 - E_p4)
+
+        # per-player v (single match inverse variance), discounted by opponent-team reliability
+        v_inv_p1 = p1_self_w * team2_rel * (g_team2 ** 2) * E_p1 * (1.0 - E_p1)
+        v_inv_p2 = p2_self_w * team2_rel * (g_team2 ** 2) * E_p2 * (1.0 - E_p2)
+        v_inv_p3 = p3_self_w * team1_rel * (g_team1 ** 2) * E_p3 * (1.0 - E_p3)
+        v_inv_p4 = p4_self_w * team1_rel * (g_team1 ** 2) * E_p4 * (1.0 - E_p4)
 
         v_p1 = 1.0 / max(v_inv_p1, 1e-12)
         v_p2 = 1.0 / max(v_inv_p2, 1e-12)
@@ -597,10 +1144,10 @@ class GLICKO_ADD:
         team2_score = 1 - team1_score
 
         # per-player delta (g * (s - E_player))
-        delta_p1 = g_team2 * (team1_score - E_p1)
-        delta_p2 = g_team2 * (team1_score - E_p2)
-        delta_p3 = g_team1 * (team2_score - E_p3)
-        delta_p4 = g_team1 * (team2_score - E_p4)
+        delta_p1 = p1_self_w * team2_rel * g_team2 * (team1_score - E_p1)
+        delta_p2 = p2_self_w * team2_rel * g_team2 * (team1_score - E_p2)
+        delta_p3 = p3_self_w * team1_rel * g_team1 * (team2_score - E_p3)
+        delta_p4 = p4_self_w * team1_rel * g_team1 * (team2_score - E_p4)
 
         # store per-player evidence
         p1.add_team_result(delta_p1, g_team2, E_p1, v_p1)
@@ -799,6 +1346,7 @@ class GLICKO_ADD:
         expected_fn = expected_match_delta
         GLICKO_SCALE = self.GLICKO_SCALE
         team_stats = self._team_stats
+        team_reliability = self._team_reliability
 
         # Fast iteration
         # itertuples(index=True) would return index as first field; use itertuples(index=False) for positional fields
@@ -816,6 +1364,7 @@ class GLICKO_ADD:
             # Ensure players exist (same semantics as record_game)
             for name in (p1_name, p2_name, p3_name, p4_name):
                 if name not in p_dict:
+                    print(name)
                     p_dict[name] = Player_ADD(
                         name=name,
                         starting_rating=self.sep,
@@ -837,6 +1386,15 @@ class GLICKO_ADD:
             # team stats and probabilities (same as original)
             team1_mu, team1_phi = team_stats([p1, p2])
             team2_mu, team2_phi = team_stats([p3, p4])
+
+            team1_rel = team_reliability([p1, p2])
+            team2_rel = team_reliability([p3, p4])
+
+            p1_self_w = self._player_self_update_weight(p1)
+            p2_self_w = self._player_self_update_weight(p2)
+            p3_self_w = self._player_self_update_weight(p3)
+            p4_self_w = self._player_self_update_weight(p4)
+            
             prob_team1 = E_fn(team1_mu, team2_mu, team2_phi)
             prob_team2 = 1.0 - prob_team1
 
@@ -846,19 +1404,19 @@ class GLICKO_ADD:
             E_p3 = E_fn(p3.mu, team1_mu, team1_phi)
             E_p4 = E_fn(p4.mu, team1_mu, team1_phi)
 
-            v_p1 = 1.0 / max((g_team2**2)*E_p1*(1.0 - E_p1), 1e-12)
-            v_p2 = 1.0 / max((g_team2**2)*E_p2*(1.0 - E_p2), 1e-12)
-            v_p3 = 1.0 / max((g_team1**2)*E_p3*(1.0 - E_p3), 1e-12)
-            v_p4 = 1.0 / max((g_team1**2)*E_p4*(1.0 - E_p4), 1e-12)
+            v_p1 = 1.0 / max(p1_self_w * team2_rel * (g_team2**2) * E_p1 * (1.0 - E_p1), 1e-12)
+            v_p2 = 1.0 / max(p2_self_w * team2_rel * (g_team2**2) * E_p2 * (1.0 - E_p2), 1e-12)
+            v_p3 = 1.0 / max(p3_self_w * team1_rel * (g_team1**2) * E_p3 * (1.0 - E_p3), 1e-12)
+            v_p4 = 1.0 / max(p4_self_w * team1_rel * (g_team1**2) * E_p4 * (1.0 - E_p4), 1e-12)
 
             # scores and deltas
             team1_score = 1 if winner == 1 else 0
             team2_score = 1 - team1_score
 
-            delta_p1 = g_team2 * (team1_score - E_p1)
-            delta_p2 = g_team2 * (team1_score - E_p2)
-            delta_p3 = g_team1 * (team2_score - E_p3)
-            delta_p4 = g_team1 * (team2_score - E_p4)
+            delta_p1 = p1_self_w * team2_rel * g_team2 * (team1_score - E_p1)
+            delta_p2 = p2_self_w * team2_rel * g_team2 * (team1_score - E_p2)
+            delta_p3 = p3_self_w * team1_rel * g_team1 * (team2_score - E_p3)
+            delta_p4 = p4_self_w * team1_rel * g_team1 * (team2_score - E_p4)
 
             # store per-player evidence (unchanged logic)
             p1.add_team_result(delta_p1, g_team2, E_p1, v_p1)
@@ -911,6 +1469,7 @@ class GLICKO_ADD:
         for player in self.p_dict.values():
             player.update_player(date)
 
+
         
 
         if self.remove:
@@ -932,14 +1491,22 @@ class GLICKO_ADD:
                     avg_mu_flag = False
                 else:
                     avg_mu_flag = bool(row.get("AVG_ELO", False))
+
                 self.record_tourney_fast(data, row["tourney"], row["Division"], row["Date"], avg_mu=avg_mu_flag)
-            # Final per-order player update (matching original semantics)
-            for p in self.p_dict.values():
-                p.update_player(combos_t.loc[i, "Date"])
-            try:
-                self.players_total = pd.concat([self.players_total, self.give_players_df(combos_t.loc[i, "tourney"], combos_t.loc[i, "Date"])], ignore_index=True)
-            except Exception:
-                pass
+
+                # after the last division row for a tournament/date block, save one snapshot
+                is_last_row = (i == len(combos_t) - 1)
+                if not is_last_row:
+                    next_row = combos_t.loc[i + 1]
+                    same_block = (
+                        (next_row["tourney"] == row["tourney"]) and
+                        (pd.Timestamp(next_row["Date"]) == pd.Timestamp(row["Date"]))
+                    )
+                else:
+                    same_block = False
+
+                if not same_block:
+                    self._append_tournament_snapshot_once(row["tourney"], row["Date"])
 
     def predict_tourney(self, data: pd.DataFrame, tourney: str, division: str):
         self.create_teams(data, tourney, division, date=pd.Timestamp.now())
@@ -971,14 +1538,39 @@ class GLICKO_ADD:
     def give_players_df(self, tourney: Optional[str] = None, date: Optional[Any] = None) -> pd.DataFrame:
         data = []
         for player_name, player_obj in self.p_dict.items():
-            data.append([player_obj.name, player_obj.rating, player_obj.RD, player_obj.games, len(player_obj.tournies), player_obj.days_since_played, self._div_dict[player_obj.highest_division]])
-        df = pd.DataFrame(data, columns=['name', 'rating', "RD", 'game', 'tournies', 'days_since_played', "Highest_Division"])
+            highest_div = getattr(player_obj, "highest_division", None)
+            entry_div = getattr(player_obj, "entry_division", None)
+            last_div = getattr(player_obj, "last_division", None)
+
+            data.append([
+            player_obj.name,
+            player_obj.rating,
+            getattr(player_obj, "entry_rating", np.nan),
+            player_obj.RD,
+            player_obj.games,
+            len(player_obj.tournies),
+            player_obj.days_since_played,
+            self._div_dict.get(highest_div, highest_div),
+            self._div_dict.get(entry_div, entry_div),
+            self._div_dict.get(last_div, last_div),
+        ])
+
+        df = pd.DataFrame(
+            data,
+            columns=[
+                'name', 'rating', 'entry_rating', "RD", 'game', 'tournies', 'days_since_played',
+                "Highest_Division", "Entry_Division", "Last_Division"
+            ]
+        )
         df = df.sort_values(by='rating', ascending=False).reset_index(drop=True)
+
         if tourney is not None and date is not None:
             df["Date"] = [date] * len(df)
             df["Tournament"] = [tourney] * len(df)
+
         df = df.rename(columns={'game': 'Games_Played', 'tournies': 'Tournaments_Played'})
         return df
+
 
     def give_players_all(self) -> pd.DataFrame:
         return self.players_total.reset_index(drop=True) if not self.players_total.empty else pd.DataFrame()
@@ -1019,3 +1611,81 @@ class GLICKO_ADD:
             "rd_p90": rd_p90,
             "num_games": len(games),
         }
+    def entrant_spike_metrics(
+    self,
+    gain_threshold: float = 100.0,
+    max_tournaments: int = 1,
+    ) -> Optional[Dict[str, float]]:
+        """
+        Diagnostics for entrant overshoot.
+
+        Uses the earliest snapshot for each player among players with
+        Tournaments_Played <= max_tournaments, then measures:
+        - rating gain vs entry_rating
+        - distribution summaries
+        - fraction above a large-gain threshold
+
+        This is for tracking/diagnostics only, not model selection.
+        """
+        if not hasattr(self, "players_total") or self.players_total is None or self.players_total.empty:
+            return None
+
+        df = self.players_total.copy()
+
+        required = {"name", "rating", "entry_rating", "Tournaments_Played"}
+        if not required.issubset(df.columns):
+            return None
+
+        # make sure we can identify the earliest eligible snapshot per player
+        if "Date" in df.columns:
+            df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
+            sort_cols = ["name", "Date", "Tournaments_Played", "rating"]
+        else:
+            sort_cols = ["name", "Tournaments_Played", "rating"]
+
+        df = df.loc[df["Tournaments_Played"] <= max_tournaments].copy()
+        if df.empty:
+            return None
+
+        df = df.sort_values(sort_cols).drop_duplicates(subset=["name"], keep="first")
+
+        df["entry_gain"] = pd.to_numeric(df["rating"], errors="coerce") - pd.to_numeric(df["entry_rating"], errors="coerce")
+        gains = df["entry_gain"].replace([np.inf, -np.inf], np.nan).dropna()
+
+        if gains.empty:
+            return None
+
+        return {
+            "entrant_n": int(len(gains)),
+            "entrant_gain_mean": float(gains.mean()),
+            "entrant_gain_median": float(gains.median()),
+            "entrant_gain_p75": float(gains.quantile(0.75)),
+            "entrant_gain_p90": float(gains.quantile(0.90)),
+            "entrant_gain_p95": float(gains.quantile(0.95)),
+            "entrant_gain_max": float(gains.max()),
+            "entrant_frac_gt_thresh": float((gains > gain_threshold).mean()),
+        }
+
+    def trace_player(self, name: str):
+        if name not in self.p_dict:
+            print(f"{name} not in p_dict")
+            return
+
+        p = self.p_dict[name]
+        print("name:", p.name)
+        print("current_rating:", p.rating)
+        print("entry_rating:", p.entry_rating)
+        print("games:", p.games)
+        print("tournaments:", p.tournies)
+        print("entry_division:", p.entry_division)
+        print("last_division:", p.last_division)
+        print("highest_division:", p.highest_division)
+
+        if not self.players_total.empty:
+            df = self.players_total[self.players_total["name"] == name].copy()
+            if not df.empty:
+                df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
+                print(df.sort_values("Date")[["Date", "Tournament", "rating", "entry_rating",
+                                            "Games_Played", "Tournaments_Played",
+                                            "Entry_Division", "Last_Division",
+                                            "Highest_Division"]].head(10))

@@ -4,45 +4,56 @@ OPEN_P= {
 "BASE_PATH": "",
 "DATA_PATH": "data/open_full_tournaments.csv",
 
-# Set number of events to use to use intial sperateion for (25 is what was used for final model)
 "NUMB_INITAL" : 25,
 
-# Set up Model parameters
-
+# core model
 "remove":True,
 "team_method":"inv_var",
 "avg_mu":False,
 
-            # RD bounds
-"RD_MIN":80,      # ~80.36
+# separation
+"SEP":2250,
 
+# RD bounds
+"RD_MIN":60,
+"RD_MAX":350,
+"ENTRY_RD":350,
 
-            # team uncertainty (inv-var)
-"team_var_alpha":1.32,   # ~1.317
+# team uncertainty
+"team_var_alpha":0.75,
 "inv_var_gamma":0.60,
 
-            # RD shrink cap
+# RD shrink cap
 "cap_redux":True,
-"max_reduction_frac":0.67,  # ~0.6699
+"max_reduction_frac":0.57,
 
-            # volatility learning
-"tau":0.50,  # ~0.491
+# volatility learning
+"tau":0.6,
 
-            # inactivity RD inflation curve (your chosen saturating form)
+# inactivity inflation
 "rd_inflation_mode":"saturating",
-"time_constant":0.90,         # time_constant_phi
+"time_constant":0.90,
 "buffer_days":25,
-"decay_tau_days":365 * 1.5,   # 547.5
+"decay_tau_days":365 * 1.5,
 "sat_power":0.95,
 
- # kept for compatibility (ignored in saturating mode)
+# blend entry
+"blend_entry":True,
+"blend_existing_k":6.0,
+"blend_max_weight":0.85,
+"blend_exclude_provisional":True,
+"blend_min_div_players":1,
+
+# compatibility
 "convexity":0.70,
-"DE":450,
-"DC":625,
 
+# logistic scale
+"DE":350,
+"DC":450,
 
-# Export results filename
-"EXPORT_FILENAME" : "open"}
+# export
+"EXPORT_FILENAME" : "open"
+}
 
 WOMENS_P= {
 # Filepath to where the data is
