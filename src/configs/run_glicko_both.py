@@ -15,20 +15,20 @@ OPEN_P= {
 "SEP":2250,
 
 # RD bounds
-"RD_MIN":60,
+"RD_MIN":70,
 "RD_MAX":350,
-"ENTRY_RD":350,
+"ENTRY_RD":300,
 
 # team uncertainty
-"team_var_alpha":0.75,
+"team_var_alpha":0.7,
 "inv_var_gamma":0.60,
 
 # RD shrink cap
 "cap_redux":True,
-"max_reduction_frac":0.57,
+"max_reduction_frac":0.45,
 
 # volatility learning
-"tau":0.6,
+"tau":0.7,
 
 # inactivity inflation
 "rd_inflation_mode":"saturating",

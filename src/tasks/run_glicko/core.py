@@ -290,7 +290,7 @@ class Player_ADD:
         for delta, g_op, E_val, v_match in self._team_results:
             v_inv += 1.0 / max(v_match, 1e-12)
             delta_sum += delta
-
+        
         # guard
         v_inv = max(v_inv, 1e-12)
         v = 1.0 / v_inv
@@ -1122,17 +1122,17 @@ class GLICKO_ADD:
         g_team2 = g(team2_phi)
         g_team1 = g(team1_phi)
 
-        E_p1 = E(p1.mu, team2_mu, team2_phi)
-        E_p2 = E(p2.mu, team2_mu, team2_phi)
-        E_p3 = E(p3.mu, team1_mu, team1_phi)
-        E_p4 = E(p4.mu, team1_mu, team1_phi)
+        # E_p1 = E(p1.mu, team2_mu, team2_phi)
+        # E_p2 = E(p2.mu, team2_mu, team2_phi)
+        # E_p3 = E(p3.mu, team1_mu, team1_phi)
+        # E_p4 = E(p4.mu, team1_mu, team1_phi)
 
 
         # per-player v (single match inverse variance), discounted by opponent-team reliability
-        v_inv_p1 = p1_self_w * team2_rel * (g_team2 ** 2) * E_p1 * (1.0 - E_p1)
-        v_inv_p2 = p2_self_w * team2_rel * (g_team2 ** 2) * E_p2 * (1.0 - E_p2)
-        v_inv_p3 = p3_self_w * team1_rel * (g_team1 ** 2) * E_p3 * (1.0 - E_p3)
-        v_inv_p4 = p4_self_w * team1_rel * (g_team1 ** 2) * E_p4 * (1.0 - E_p4)
+        v_inv_p1 = p1_self_w * team2_rel * (g_team2 ** 2) * prob_team1 * (1.0 - prob_team1)
+        v_inv_p2 = p2_self_w * team2_rel * (g_team2 ** 2) * prob_team1 * (1.0 - prob_team1)
+        v_inv_p3 = p3_self_w * team1_rel * (g_team1 ** 2) * prob_team2 * (1.0 - prob_team2)
+        v_inv_p4 = p4_self_w * team1_rel * (g_team1 ** 2) * prob_team2 * (1.0 - prob_team2)
 
         v_p1 = 1.0 / max(v_inv_p1, 1e-12)
         v_p2 = 1.0 / max(v_inv_p2, 1e-12)
@@ -1144,16 +1144,16 @@ class GLICKO_ADD:
         team2_score = 1 - team1_score
 
         # per-player delta (g * (s - E_player))
-        delta_p1 = p1_self_w * team2_rel * g_team2 * (team1_score - E_p1)
-        delta_p2 = p2_self_w * team2_rel * g_team2 * (team1_score - E_p2)
-        delta_p3 = p3_self_w * team1_rel * g_team1 * (team2_score - E_p3)
-        delta_p4 = p4_self_w * team1_rel * g_team1 * (team2_score - E_p4)
+        delta_p1 = p1_self_w * team2_rel * g_team2 * (team1_score - prob_team1)
+        delta_p2 = p2_self_w * team2_rel * g_team2 * (team1_score - prob_team1)
+        delta_p3 = p3_self_w * team1_rel * g_team1 * (team2_score - prob_team2)
+        delta_p4 = p4_self_w * team1_rel * g_team1 * (team2_score - prob_team2)
 
         # store per-player evidence
-        p1.add_team_result(delta_p1, g_team2, E_p1, v_p1)
-        p2.add_team_result(delta_p2, g_team2, E_p2, v_p2)
-        p3.add_team_result(delta_p3, g_team1, E_p3, v_p3)
-        p4.add_team_result(delta_p4, g_team1, E_p4, v_p4)
+        p1.add_team_result(delta_p1, g_team2, prob_team1, v_p1)
+        p2.add_team_result(delta_p2, g_team2, prob_team1, v_p2)
+        p3.add_team_result(delta_p3, g_team1, prob_team2, v_p3)
+        p4.add_team_result(delta_p4, g_team1, prob_team2, v_p4)
 
         # legacy-style expected deltas for logging (approx)
         p1_expected = expected_match_delta(p1.mu, p1.phi, team2_phi, team1_score, prob_team1)
@@ -1399,30 +1399,30 @@ class GLICKO_ADD:
             prob_team2 = 1.0 - prob_team1
 
             g_team2 = g_fn(team2_phi); g_team1 = g_fn(team1_phi)
-            E_p1 = E_fn(p1.mu, team2_mu, team2_phi)
-            E_p2 = E_fn(p2.mu, team2_mu, team2_phi)
-            E_p3 = E_fn(p3.mu, team1_mu, team1_phi)
-            E_p4 = E_fn(p4.mu, team1_mu, team1_phi)
+            # E_p1 = E_fn(p1.mu, team2_mu, team2_phi)
+            # E_p2 = E_fn(p2.mu, team2_mu, team2_phi)
+            # E_p3 = E_fn(p3.mu, team1_mu, team1_phi)
+            # E_p4 = E_fn(p4.mu, team1_mu, team1_phi)
 
-            v_p1 = 1.0 / max(p1_self_w * team2_rel * (g_team2**2) * E_p1 * (1.0 - E_p1), 1e-12)
-            v_p2 = 1.0 / max(p2_self_w * team2_rel * (g_team2**2) * E_p2 * (1.0 - E_p2), 1e-12)
-            v_p3 = 1.0 / max(p3_self_w * team1_rel * (g_team1**2) * E_p3 * (1.0 - E_p3), 1e-12)
-            v_p4 = 1.0 / max(p4_self_w * team1_rel * (g_team1**2) * E_p4 * (1.0 - E_p4), 1e-12)
+            v_p1 = 1.0 / max(p1_self_w * team2_rel * (g_team2**2) * prob_team1 * (1.0 - prob_team1), 1e-12)
+            v_p2 = 1.0 / max(p2_self_w * team2_rel * (g_team2**2) * prob_team1 * (1.0 - prob_team1), 1e-12)
+            v_p3 = 1.0 / max(p3_self_w * team1_rel * (g_team1**2) * prob_team2 * (1.0 - prob_team2), 1e-12)
+            v_p4 = 1.0 / max(p4_self_w * team1_rel * (g_team1**2) * prob_team2 * (1.0 - prob_team2), 1e-12)
 
             # scores and deltas
             team1_score = 1 if winner == 1 else 0
             team2_score = 1 - team1_score
 
-            delta_p1 = p1_self_w * team2_rel * g_team2 * (team1_score - E_p1)
-            delta_p2 = p2_self_w * team2_rel * g_team2 * (team1_score - E_p2)
-            delta_p3 = p3_self_w * team1_rel * g_team1 * (team2_score - E_p3)
-            delta_p4 = p4_self_w * team1_rel * g_team1 * (team2_score - E_p4)
+            delta_p1 = p1_self_w * team2_rel * g_team2 * (team1_score - prob_team1)
+            delta_p2 = p2_self_w * team2_rel * g_team2 * (team1_score - prob_team1)
+            delta_p3 = p3_self_w * team1_rel * g_team1 * (team2_score - prob_team2)
+            delta_p4 = p4_self_w * team1_rel * g_team1 * (team2_score - prob_team2)
 
             # store per-player evidence (unchanged logic)
-            p1.add_team_result(delta_p1, g_team2, E_p1, v_p1)
-            p2.add_team_result(delta_p2, g_team2, E_p2, v_p2)
-            p3.add_team_result(delta_p3, g_team1, E_p3, v_p3)
-            p4.add_team_result(delta_p4, g_team1, E_p4, v_p4)
+            p1.add_team_result(delta_p1, g_team2, prob_team1, v_p1)
+            p2.add_team_result(delta_p2, g_team2, prob_team1, v_p2)
+            p3.add_team_result(delta_p3, g_team1, prob_team2, v_p3)
+            p4.add_team_result(delta_p4, g_team1, prob_team2, v_p4)
 
             # legacy expected deltas for logging
             p1_expected = expected_fn(p1.mu, p1.phi, team2_phi, team1_score, prob_team1)
