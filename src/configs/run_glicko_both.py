@@ -8,6 +8,7 @@ OPEN_P= {
 
 # core model
 "remove":True,
+"remove_time": float(365.0 * 1.5),
 "team_method":"inv_var",
 "avg_mu":False,
 
@@ -62,6 +63,7 @@ WOMENS_P= {
 
 # Set number of events to use to use intial sperateion for (25 is what was used for final model)
 "remove":True,
+"remove_time": float(365.0 * 2),
 "team_method":"inv_var",
 "avg_mu":False,
 

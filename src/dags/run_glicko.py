@@ -33,6 +33,7 @@ def main():
         test = GLICKO_ADD(
         sep=param.get("SEP",1500),
         remove=param["remove"],
+        remove_time=param["remove_time"],
         team_method=param["team_method"],
         avg_mu=param["avg_mu"],
 
