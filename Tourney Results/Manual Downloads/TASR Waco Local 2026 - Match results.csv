@@ -1,0 +1,57 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,4.0 Contender+,Group A,1,Single game,Split Squat Haters,rice cakes,Split Squat Haters,21,12,,,,,Luke Mowry,Garrett Ashton,Owen Lynch,JP Chincuanco
+Group Stage,4.0 Contender+,Group A,1,Single game,Good Combo,Mm monkee 🦧,Good Combo,21,15,,,,,Rahul Murthy,Rohil Senapati,Spencer Straddeck,Jared Almon
+Group Stage,4.0 Contender+,Group B,1,Single game,Receipt Rejects,"Sgt. Snuggles & Lt. Lollipop ",Receipt Rejects,21,11,,,,,Ian Austin,Tyler Fernandez,Luis Orozco,Bryce Wagoner
+Group Stage,4.0 Contender+,Group B,1,Single game,Allin/Riley,Balls in Play,Allin/Riley,21,9,,,,,Aidan Riley,Micah Allin,Evan Deragon,David Z
+Group Stage,4.0 Contender+,Group A,2,Single game,Split Squat Haters,Mm monkee 🦧,Split Squat Haters,21,13,,,,,Luke Mowry,Garrett Ashton,Spencer Straddeck,Jared Almon
+Group Stage,4.0 Contender+,Group A,2,Single game,Jesuit Runaways,rice cakes,rice cakes,17,21,,,,,Alex Vilela,James Ledbetter IV,Owen Lynch,JP Chincuanco
+Group Stage,4.0 Contender+,Group B,2,Single game,Receipt Rejects,Balls in Play,Receipt Rejects,21,10,,,,,Ian Austin,Tyler Fernandez,Evan Deragon,David Z
+Group Stage,4.0 Contender+,Group B,2,Single game,Slim Chickens,"Sgt. Snuggles & Lt. Lollipop ","Sgt. Snuggles & Lt. Lollipop ",18,21,,,,,Iason Hayes,Nathan Garcia,Luis Orozco,Bryce Wagoner
+Group Stage,4.0 Contender+,Group A,3,Single game,Split Squat Haters,Jesuit Runaways,Split Squat Haters,21,8,,,,,Luke Mowry,Garrett Ashton,Alex Vilela,James Ledbetter IV
+Group Stage,4.0 Contender+,Group A,3,Single game,Good Combo,rice cakes,Good Combo,21,15,,,,,Rahul Murthy,Rohil Senapati,Owen Lynch,JP Chincuanco
+Group Stage,4.0 Contender+,Group B,3,Single game,Receipt Rejects,Slim Chickens,Receipt Rejects,21,17,,,,,Ian Austin,Tyler Fernandez,Iason Hayes,Nathan Garcia
+Group Stage,4.0 Contender+,Group B,3,Single game,Allin/Riley,"Sgt. Snuggles & Lt. Lollipop ",Allin/Riley,21,12,,,,,Aidan Riley,Micah Allin,Luis Orozco,Bryce Wagoner
+Group Stage,4.0 Contender+,Group A,4,Single game,Good Combo,Jesuit Runaways,Good Combo,22,20,,,,,Rahul Murthy,Rohil Senapati,Alex Vilela,James Ledbetter IV
+Group Stage,4.0 Contender+,Group A,4,Single game,Mm monkee 🦧,rice cakes,rice cakes,15,21,,,,,Spencer Straddeck,Jared Almon,Owen Lynch,JP Chincuanco
+Group Stage,4.0 Contender+,Group B,4,Single game,Allin/Riley,Slim Chickens,Allin/Riley,21,19,,,,,Aidan Riley,Micah Allin,Iason Hayes,Nathan Garcia
+Group Stage,4.0 Contender+,Group B,4,Single game,Balls in Play,"Sgt. Snuggles & Lt. Lollipop ",Balls in Play,21,13,,,,,Evan Deragon,David Z,Luis Orozco,Bryce Wagoner
+Group Stage,4.0 Contender+,Group A,5,Single game,Split Squat Haters,Good Combo,Split Squat Haters,21,19,,,,,Luke Mowry,Garrett Ashton,Rahul Murthy,Rohil Senapati
+Group Stage,4.0 Contender+,Group A,5,Single game,Jesuit Runaways,Mm monkee 🦧,Jesuit Runaways,21,12,,,,,Alex Vilela,James Ledbetter IV,Spencer Straddeck,Jared Almon
+Group Stage,4.0 Contender+,Group B,5,Single game,Receipt Rejects,Allin/Riley,Allin/Riley,16,21,,,,,Ian Austin,Tyler Fernandez,Aidan Riley,Micah Allin
+Group Stage,4.0 Contender+,Group B,5,Single game,Slim Chickens,Balls in Play,Slim Chickens,23,21,,,,,Iason Hayes,Nathan Garcia,Evan Deragon,David Z
+Bracket Stage,4.0 Contender+,Bracket A,Round of 16,Best of 3,Jesuit Runaways,Mm monkee 🦧,Jesuit Runaways,15,21,21,16,21,17,Alex Vilela,James Ledbetter IV,Spencer Straddeck,Jared Almon
+Bracket Stage,4.0 Contender+,Bracket A,Round of 16,Best of 3,Balls in Play,"Sgt. Snuggles & Lt. Lollipop ","Sgt. Snuggles & Lt. Lollipop ",18,21,21,18,13,21,Evan Deragon,David Z,Luis Orozco,Bryce Wagoner
+Bracket Stage,4.0 Contender+,Bracket A,Quarter-final,Best of 3,Split Squat Haters,"Sgt. Snuggles & Lt. Lollipop ",Split Squat Haters,21,13,21,16,,,Luke Mowry,Garrett Ashton,Luis Orozco,Bryce Wagoner
+Bracket Stage,4.0 Contender+,Bracket A,Quarter-final,Best of 3,Allin/Riley,Jesuit Runaways,Allin/Riley,21,11,21,15,,,Aidan Riley,Micah Allin,Alex Vilela,James Ledbetter IV
+Bracket Stage,4.0 Contender+,Bracket A,Quarter-final,Best of 3,Receipt Rejects,Slim Chickens,Receipt Rejects,21,8,21,13,,,Ian Austin,Tyler Fernandez,Iason Hayes,Nathan Garcia
+Bracket Stage,4.0 Contender+,Bracket A,Quarter-final,Best of 3,Good Combo,rice cakes,Good Combo,22,20,21,11,,,Rahul Murthy,Rohil Senapati,Owen Lynch,JP Chincuanco
+Bracket Stage,4.0 Contender+,Bracket A,Semi-final,Best of 3,Split Squat Haters,Good Combo,Split Squat Haters,21,9,21,19,,,Luke Mowry,Garrett Ashton,Rahul Murthy,Rohil Senapati
+Bracket Stage,4.0 Contender+,Bracket A,Semi-final,Best of 3,Allin/Riley,Receipt Rejects,Receipt Rejects,13,21,19,21,,,Aidan Riley,Micah Allin,Ian Austin,Tyler Fernandez
+Bracket Stage,4.0 Contender+,Bracket A,P5: Semi-final,Single game,rice cakes,"Sgt. Snuggles & Lt. Lollipop ","Sgt. Snuggles & Lt. Lollipop ",-1,0,,,,,Owen Lynch,JP Chincuanco,Luis Orozco,Bryce Wagoner
+Bracket Stage,4.0 Contender+,Bracket A,P5: Semi-final,Single game,Slim Chickens,Jesuit Runaways,Jesuit Runaways,-1,0,,,,,Iason Hayes,Nathan Garcia,Alex Vilela,James Ledbetter IV
+Bracket Stage,4.0 Contender+,Bracket A,Final,Best of 3,Split Squat Haters,Receipt Rejects,Split Squat Haters,21,19,21,17,,,Luke Mowry,Garrett Ashton,Ian Austin,Tyler Fernandez
+Bracket Stage,4.0 Contender+,Bracket A,P3: Final,Best of 3,Allin/Riley,Good Combo,Allin/Riley,19,13,0,-1,,,Aidan Riley,Micah Allin,Rahul Murthy,Rohil Senapati
+Bracket Stage,4.0 Contender+,Bracket A,P5: Final,Best of 3,"Sgt. Snuggles & Lt. Lollipop ",Jesuit Runaways,Jesuit Runaways,21,17,15,21,18,21,Luis Orozco,Bryce Wagoner,Alex Vilela,James Ledbetter IV
+Bracket Stage,4.0 Contender+,Bracket A,P9: Final,Best of 3,Balls in Play,Mm monkee 🦧,Balls in Play,23,21,12,21,21,10,Evan Deragon,David Z,Spencer Straddeck,Jared Almon
+Group Stage,3.0 Advanced/Intermediate,Group A,1,Single game,Double Baylor Bear Clutch,Magnifique 🤌,Magnifique 🤌,6,21,,,,,Elijah Robledo,Paxton Lemonds,Joshua Wilson,Isaac Chew
+Group Stage,3.0 Advanced/Intermediate,Group A,1,Single game,Straftat,Jaspikers,Straftat,21,14,,,,,Lee Forbes,Robert Dabney,Preston Oliver,Jake Rasmussen
+Group Stage,3.0 Advanced/Intermediate,Group A,1,Single game,Parker Bros,Girl Gang,Parker Bros,21,7,,,,,Bennett Parker,parker hall,Haleigh Manske,Katherine Burnett
+Group Stage,3.0 Advanced/Intermediate,Group A,2,Single game,Double Baylor Bear Clutch,Jaspikers,Jaspikers,11,21,,,,,Elijah Robledo,Paxton Lemonds,Preston Oliver,Jake Rasmussen
+Group Stage,3.0 Advanced/Intermediate,Group A,2,Single game,Straftat,Parker Bros,Straftat,24,22,,,,,Lee Forbes,Robert Dabney,Bennett Parker,parker hall
+Group Stage,3.0 Advanced/Intermediate,Group A,2,Single game,Girl Gang,Magnifique 🤌,Magnifique 🤌,12,21,,,,,Haleigh Manske,Katherine Burnett,Joshua Wilson,Isaac Chew
+Group Stage,3.0 Advanced/Intermediate,Group A,3,Single game,Double Baylor Bear Clutch,Girl Gang,Girl Gang,16,21,,,,,Elijah Robledo,Paxton Lemonds,Haleigh Manske,Katherine Burnett
+Group Stage,3.0 Advanced/Intermediate,Group A,3,Single game,Straftat,Magnifique 🤌,Magnifique 🤌,16,21,,,,,Lee Forbes,Robert Dabney,Joshua Wilson,Isaac Chew
+Group Stage,3.0 Advanced/Intermediate,Group A,3,Single game,Parker Bros,Jaspikers,Parker Bros,21,15,,,,,Bennett Parker,parker hall,Preston Oliver,Jake Rasmussen
+Group Stage,3.0 Advanced/Intermediate,Group A,4,Single game,Double Baylor Bear Clutch,Parker Bros,Parker Bros,8,21,,,,,Elijah Robledo,Paxton Lemonds,Bennett Parker,parker hall
+Group Stage,3.0 Advanced/Intermediate,Group A,4,Single game,Straftat,Girl Gang,Straftat,21,4,,,,,Lee Forbes,Robert Dabney,Haleigh Manske,Katherine Burnett
+Group Stage,3.0 Advanced/Intermediate,Group A,4,Single game,Jaspikers,Magnifique 🤌,Magnifique 🤌,11,21,,,,,Preston Oliver,Jake Rasmussen,Joshua Wilson,Isaac Chew
+Group Stage,3.0 Advanced/Intermediate,Group A,5,Single game,Double Baylor Bear Clutch,Straftat,Straftat,20,22,,,,,Elijah Robledo,Paxton Lemonds,Lee Forbes,Robert Dabney
+Group Stage,3.0 Advanced/Intermediate,Group A,5,Single game,Parker Bros,Magnifique 🤌,Parker Bros,21,16,,,,,Bennett Parker,parker hall,Joshua Wilson,Isaac Chew
+Group Stage,3.0 Advanced/Intermediate,Group A,5,Single game,Girl Gang,Jaspikers,Jaspikers,14,21,,,,,Haleigh Manske,Katherine Burnett,Preston Oliver,Jake Rasmussen
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,Straftat,Double Baylor Bear Clutch,Straftat,21,10,21,4,,,Lee Forbes,Robert Dabney,Elijah Robledo,Paxton Lemonds
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,Jaspikers,Girl Gang,Jaspikers,21,8,21,14,,,Preston Oliver,Jake Rasmussen,Haleigh Manske,Katherine Burnett
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Semi-final,Best of 3,Parker Bros,Jaspikers,Parker Bros,21,19,21,17,,,Bennett Parker,parker hall,Preston Oliver,Jake Rasmussen
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Semi-final,Best of 3,Magnifique 🤌,Straftat,Straftat,23,25,21,16,16,21,Joshua Wilson,Isaac Chew,Lee Forbes,Robert Dabney
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,Final,Best of 3,Parker Bros,Straftat,Parker Bros,21,11,22,20,,,Bennett Parker,parker hall,Lee Forbes,Robert Dabney
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,P3: Final,Single game,Magnifique 🤌,Jaspikers,Magnifique 🤌,26,24,,,,,Joshua Wilson,Isaac Chew,Preston Oliver,Jake Rasmussen
+Bracket Stage,3.0 Advanced/Intermediate,Bracket A,P5: Final,Single game,Girl Gang,Double Baylor Bear Clutch,Girl Gang,1,0,,,,,Haleigh Manske,Katherine Burnett,Elijah Robledo,Paxton Lemonds
