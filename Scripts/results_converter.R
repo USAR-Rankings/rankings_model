@@ -19,7 +19,7 @@ manual_downloads = data.frame(`Fwango File Title` = gsub(".csv", "", dir('Tourne
 # 
 # write.csv(sheet_scrape2, file = 'Tourney List.csv')
 
-sheet_scrape2 = read.csv('Tourney List.csv', as.is = T) %>%
+sheet_scrape2 = read.csv('Tourney List.csv', as.is = T, fileEncoding = "UTF-8") %>%
   mutate(Date = as.Date(Date, format = '%m/%d/%Y')) %>%
   add_row(data.frame(tourney = 'END OF SEASON', Date = as.Date(max(.$Date))+7))
 
@@ -45,7 +45,7 @@ for(td in 1:nrow(to_do_list)){
   }
   file_name = file.path('Tourney Results', 'Manual Downloads', paste0(to_do_list$`Fwango File Title`[td], ".csv"))
   cat('\n', file_name)
-  downloaded_dat = read.csv(file_name, as.is = T) %>% 
+  downloaded_dat = read.csv(file_name, as.is = T, fileEncoding = "UTF-8") %>%
     mutate(og_order = row_number(),
            tourney = tolower(to_do_list$tourney[td]))
   if("Best of 3" %in% downloaded_dat$Match.format){
@@ -79,7 +79,7 @@ for(td in 1:nrow(to_do_list)){
   }
   
   
-  write.csv(temp, file.path('Tourney Results', tolower(paste0(to_do_list$tourney[td], ".csv"))), row.names = F)
+  write.csv(temp, file.path('Tourney Results', tolower(paste0(to_do_list$tourney[td], ".csv"))), row.names = F, fileEncoding = "UTF-8")
 }
 
 
