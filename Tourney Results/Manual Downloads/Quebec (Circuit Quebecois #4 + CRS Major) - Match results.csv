@@ -1,239 +1,159 @@
 Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
 Group Stage,5.0 - Premier,Group A,1,Single game,TLMG,TERREBONNE OGs,TLMG,15,12,,,,,Anthony St-Martin,Thomas Dery,Matou Pitchou,Théophane Frémond-Guilbault
-Group Stage,5.0 - Premier,Group A,1,Single game,G-Force,can’t beat em’? join em’,G-Force,15,10,,,,,Guillaume Bilodeau,Jé Gagnon,Sabir Qureshi,Maxime Prince
+Group Stage,5.0 - Premier,Group A,1,Single game,G-Force,can’t beat em’? join em’,G-Force,15,10,,,,,Jé Gagnon,Guillaume Bilodeau,Sabir Qureshi,Maxime Prince
 Group Stage,5.0 - Premier,Group B,1,Single game,Les trous,Swagger Wong Szn,Swagger Wong Szn,15,21,,,,,Élie Pilon,Manouk Momo,Nathan Wong,Adam Hassan
-Group Stage,5.0 - Premier,Group B,1,Single game,Pigeons,Spike the punch,Pigeons,21,12,,,,,Nicolas Leroux,Xavier Lambert,Etienne Rayes,Olivier Raymond
-Group Stage,5.0 - Premier,Group C,1,Single game,Les Vermeilleuses,Super Nannies,Super Nannies,15,21,,,,,Léo Guérin-Morneau,Jacob Tremblay,Clement Lavice,Simon Arseneau
-Group Stage,5.0 - Premier,Group C,1,Single game,"Maison douce maison ",VVW,VVW,22,23,,,,,William Garant,Alexandre Vaillancourt,Luc Vincent Guay,Vincent Lavoie
+Group Stage,5.0 - Premier,Group B,1,Single game,Pigeons,Spike the punch,Pigeons,21,12,,,,,Nicolas Leroux,Xavier Lambert,Olivier Raymond,Etienne Rayes
+Group Stage,5.0 - Premier,Group C,1,Single game,Les Vermeilleuses,Super Nannies,Super Nannies,15,21,,,,,Léo Guérin-Morneau,Jacob Tremblay,Simon Arseneau,Clement Lavice
+Group Stage,5.0 - Premier,Group C,1,Single game,"Maison douce maison ",VVW,VVW,22,23,,,,,Alexandre Vaillancourt,William Garant,Vincent Lavoie,Luc Vincent Guay
 Group Stage,5.0 - Premier,Group A,2,Single game,TLMG,can’t beat em’? join em’,TLMG,15,11,,,,,Anthony St-Martin,Thomas Dery,Sabir Qureshi,Maxime Prince
-Group Stage,5.0 - Premier,Group A,2,Single game,G-Force,TERREBONNE OGs,G-Force,15,8,,,,,Guillaume Bilodeau,Jé Gagnon,Matou Pitchou,Théophane Frémond-Guilbault
-Group Stage,5.0 - Premier,Group B,2,Single game,Les trous,Spike the punch,Les trous,21,7,,,,,Élie Pilon,Manouk Momo,Etienne Rayes,Olivier Raymond
+Group Stage,5.0 - Premier,Group A,2,Single game,G-Force,TERREBONNE OGs,G-Force,15,8,,,,,Jé Gagnon,Guillaume Bilodeau,Matou Pitchou,Théophane Frémond-Guilbault
+Group Stage,5.0 - Premier,Group B,2,Single game,Les trous,Spike the punch,Les trous,21,7,,,,,Élie Pilon,Manouk Momo,Olivier Raymond,Etienne Rayes
 Group Stage,5.0 - Premier,Group B,2,Single game,PaPete,Swagger Wong Szn,Swagger Wong Szn,7,21,,,,,Pierre-Luc Robitaille,Pierre-André Gaumond,Nathan Wong,Adam Hassan
-Group Stage,5.0 - Premier,Group C,2,Single game,Les Vermeilleuses,VVW,Les Vermeilleuses,21,15,,,,,Léo Guérin-Morneau,Jacob Tremblay,Luc Vincent Guay,Vincent Lavoie
-Group Stage,5.0 - Premier,Group C,2,Single game,Groovy Goofies,Super Nannies,Super Nannies,12,21,,,,,Samuel Poirier,Guillaume Boilard,Clement Lavice,Simon Arseneau
-Group Stage,5.0 - Premier,Group A,3,Single game,TLMG,G-Force,TLMG,15,13,,,,,Anthony St-Martin,Thomas Dery,Guillaume Bilodeau,Jé Gagnon
+Group Stage,5.0 - Premier,Group C,2,Single game,Les Vermeilleuses,VVW,Les Vermeilleuses,21,15,,,,,Léo Guérin-Morneau,Jacob Tremblay,Vincent Lavoie,Luc Vincent Guay
+Group Stage,5.0 - Premier,Group C,2,Single game,Groovy Goofies,Super Nannies,Super Nannies,12,21,,,,,Samuel Poirier,Guillaume Boilard,Simon Arseneau,Clement Lavice
+Group Stage,5.0 - Premier,Group A,3,Single game,TLMG,G-Force,TLMG,15,13,,,,,Anthony St-Martin,Thomas Dery,Jé Gagnon,Guillaume Bilodeau
 Group Stage,5.0 - Premier,Group A,3,Single game,can’t beat em’? join em’,TERREBONNE OGs,can’t beat em’? join em’,15,9,,,,,Sabir Qureshi,Maxime Prince,Matou Pitchou,Théophane Frémond-Guilbault
 Group Stage,5.0 - Premier,Group B,3,Single game,Les trous,PaPete,Les trous,21,19,,,,,Élie Pilon,Manouk Momo,Pierre-Luc Robitaille,Pierre-André Gaumond
 Group Stage,5.0 - Premier,Group B,3,Single game,Pigeons,Swagger Wong Szn,Swagger Wong Szn,10,21,,,,,Nicolas Leroux,Xavier Lambert,Nathan Wong,Adam Hassan
 Group Stage,5.0 - Premier,Group C,3,Single game,Les Vermeilleuses,Groovy Goofies,Groovy Goofies,15,21,,,,,Léo Guérin-Morneau,Jacob Tremblay,Samuel Poirier,Guillaume Boilard
-Group Stage,5.0 - Premier,Group C,3,Single game,"Maison douce maison ",Super Nannies,"Maison douce maison ",21,10,,,,,William Garant,Alexandre Vaillancourt,Clement Lavice,Simon Arseneau
+Group Stage,5.0 - Premier,Group C,3,Single game,"Maison douce maison ",Super Nannies,"Maison douce maison ",21,10,,,,,Alexandre Vaillancourt,William Garant,Simon Arseneau,Clement Lavice
 Group Stage,5.0 - Premier,Group B,4,Single game,Pigeons,PaPete,Pigeons,21,19,,,,,Nicolas Leroux,Xavier Lambert,Pierre-Luc Robitaille,Pierre-André Gaumond
-Group Stage,5.0 - Premier,Group B,4,Single game,Spike the punch,Swagger Wong Szn,Swagger Wong Szn,5,21,,,,,Etienne Rayes,Olivier Raymond,Nathan Wong,Adam Hassan
-Group Stage,5.0 - Premier,Group C,4,Single game,"Maison douce maison ",Groovy Goofies,"Maison douce maison ",21,6,,,,,William Garant,Alexandre Vaillancourt,Samuel Poirier,Guillaume Boilard
-Group Stage,5.0 - Premier,Group C,4,Single game,VVW,Super Nannies,VVW,21,16,,,,,Luc Vincent Guay,Vincent Lavoie,Clement Lavice,Simon Arseneau
+Group Stage,5.0 - Premier,Group B,4,Single game,Spike the punch,Swagger Wong Szn,Swagger Wong Szn,5,21,,,,,Olivier Raymond,Etienne Rayes,Nathan Wong,Adam Hassan
+Group Stage,5.0 - Premier,Group C,4,Single game,"Maison douce maison ",Groovy Goofies,"Maison douce maison ",21,6,,,,,Alexandre Vaillancourt,William Garant,Samuel Poirier,Guillaume Boilard
+Group Stage,5.0 - Premier,Group C,4,Single game,VVW,Super Nannies,VVW,21,16,,,,,Vincent Lavoie,Luc Vincent Guay,Simon Arseneau,Clement Lavice
 Group Stage,5.0 - Premier,Group B,5,Single game,Les trous,Pigeons,Les trous,21,16,,,,,Élie Pilon,Manouk Momo,Nicolas Leroux,Xavier Lambert
-Group Stage,5.0 - Premier,Group B,5,Single game,PaPete,Spike the punch,PaPete,21,14,,,,,Pierre-Luc Robitaille,Pierre-André Gaumond,Etienne Rayes,Olivier Raymond
-Group Stage,5.0 - Premier,Group C,5,Single game,Les Vermeilleuses,"Maison douce maison ","Maison douce maison ",13,21,,,,,Léo Guérin-Morneau,Jacob Tremblay,William Garant,Alexandre Vaillancourt
-Group Stage,5.0 - Premier,Group C,5,Single game,Groovy Goofies,VVW,Groovy Goofies,21,11,,,,,Samuel Poirier,Guillaume Boilard,Luc Vincent Guay,Vincent Lavoie
+Group Stage,5.0 - Premier,Group B,5,Single game,PaPete,Spike the punch,PaPete,21,14,,,,,Pierre-Luc Robitaille,Pierre-André Gaumond,Olivier Raymond,Etienne Rayes
+Group Stage,5.0 - Premier,Group C,5,Single game,Les Vermeilleuses,"Maison douce maison ","Maison douce maison ",13,21,,,,,Léo Guérin-Morneau,Jacob Tremblay,Alexandre Vaillancourt,William Garant
+Group Stage,5.0 - Premier,Group C,5,Single game,Groovy Goofies,VVW,Groovy Goofies,21,11,,,,,Samuel Poirier,Guillaume Boilard,Vincent Lavoie,Luc Vincent Guay
 Group Stage,5.0 - Premier,Group A,4,Single game,TLMG,TERREBONNE OGs,TLMG,15,8,,,,,Anthony St-Martin,Thomas Dery,Matou Pitchou,Théophane Frémond-Guilbault
-Group Stage,5.0 - Premier,Group A,4,Single game,G-Force,can’t beat em’? join em’,G-Force,15,12,,,,,Guillaume Bilodeau,Jé Gagnon,Sabir Qureshi,Maxime Prince
+Group Stage,5.0 - Premier,Group A,4,Single game,G-Force,can’t beat em’? join em’,G-Force,15,12,,,,,Jé Gagnon,Guillaume Bilodeau,Sabir Qureshi,Maxime Prince
 Group Stage,5.0 - Premier,Group A,5,Single game,TLMG,can’t beat em’? join em’,TLMG,15,13,,,,,Anthony St-Martin,Thomas Dery,Sabir Qureshi,Maxime Prince
-Group Stage,5.0 - Premier,Group A,5,Single game,G-Force,TERREBONNE OGs,G-Force,15,9,,,,,Guillaume Bilodeau,Jé Gagnon,Matou Pitchou,Théophane Frémond-Guilbault
-Group Stage,5.0 - Premier,Group A,6,Single game,TLMG,G-Force,G-Force,9,15,,,,,Anthony St-Martin,Thomas Dery,Guillaume Bilodeau,Jé Gagnon
+Group Stage,5.0 - Premier,Group A,5,Single game,G-Force,TERREBONNE OGs,G-Force,15,9,,,,,Jé Gagnon,Guillaume Bilodeau,Matou Pitchou,Théophane Frémond-Guilbault
+Group Stage,5.0 - Premier,Group A,6,Single game,TLMG,G-Force,G-Force,9,15,,,,,Anthony St-Martin,Thomas Dery,Jé Gagnon,Guillaume Bilodeau
 Group Stage,5.0 - Premier,Group A,6,Single game,can’t beat em’? join em’,TERREBONNE OGs,can’t beat em’? join em’,15,11,,,,,Sabir Qureshi,Maxime Prince,Matou Pitchou,Théophane Frémond-Guilbault
-Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,can’t beat em’? join em’,Spike the punch,can’t beat em’? join em’,21,13,21,15,,,Sabir Qureshi,Maxime Prince,Etienne Rayes,Olivier Raymond
+Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,can’t beat em’? join em’,Spike the punch,can’t beat em’? join em’,21,13,21,15,,,Sabir Qureshi,Maxime Prince,Olivier Raymond,Etienne Rayes
 Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,TERREBONNE OGs,Les Vermeilleuses,TERREBONNE OGs,21,11,21,11,,,Matou Pitchou,Théophane Frémond-Guilbault,Léo Guérin-Morneau,Jacob Tremblay
 Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,Swagger Wong Szn,PaPete,Swagger Wong Szn,26,24,21,16,,,Nathan Wong,Adam Hassan,Pierre-Luc Robitaille,Pierre-André Gaumond
-Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,"Maison douce maison ",VVW,"Maison douce maison ",21,10,21,12,,,William Garant,Alexandre Vaillancourt,Luc Vincent Guay,Vincent Lavoie
+Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,"Maison douce maison ",VVW,"Maison douce maison ",21,10,21,12,,,Alexandre Vaillancourt,William Garant,Vincent Lavoie,Luc Vincent Guay
 Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,Les trous,Groovy Goofies,Les trous,21,9,21,14,,,Élie Pilon,Manouk Momo,Samuel Poirier,Guillaume Boilard
-Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,Super Nannies,Pigeons,Pigeons,19,21,21,16,15,21,Clement Lavice,Simon Arseneau,Nicolas Leroux,Xavier Lambert
-Bracket Stage,5.0 - Premier,Bracket A,Quarter-final,Best of 3,G-Force,Pigeons,G-Force,21,18,21,17,,,Guillaume Bilodeau,Jé Gagnon,Nicolas Leroux,Xavier Lambert
+Bracket Stage,5.0 - Premier,Bracket A,Round of 16,Best of 3,Super Nannies,Pigeons,Pigeons,19,21,21,16,15,21,Simon Arseneau,Clement Lavice,Nicolas Leroux,Xavier Lambert
+Bracket Stage,5.0 - Premier,Bracket A,Quarter-final,Best of 3,G-Force,Pigeons,G-Force,21,18,21,17,,,Jé Gagnon,Guillaume Bilodeau,Nicolas Leroux,Xavier Lambert
 Bracket Stage,5.0 - Premier,Bracket A,Quarter-final,Best of 3,TLMG,Les trous,TLMG,21,11,21,11,,,Anthony St-Martin,Thomas Dery,Élie Pilon,Manouk Momo
-Bracket Stage,5.0 - Premier,Bracket A,Quarter-final,Best of 3,can’t beat em’? join em’,"Maison douce maison ",can’t beat em’? join em’,27,29,21,15,21,11,Sabir Qureshi,Maxime Prince,William Garant,Alexandre Vaillancourt
+Bracket Stage,5.0 - Premier,Bracket A,Quarter-final,Best of 3,can’t beat em’? join em’,"Maison douce maison ",can’t beat em’? join em’,27,29,21,15,21,11,Sabir Qureshi,Maxime Prince,Alexandre Vaillancourt,William Garant
 Bracket Stage,5.0 - Premier,Bracket A,Quarter-final,Best of 3,TERREBONNE OGs,Swagger Wong Szn,TERREBONNE OGs,0,-1,1,0,,,Matou Pitchou,Théophane Frémond-Guilbault,Nathan Wong,Adam Hassan
-Bracket Stage,5.0 - Premier,Bracket A,P9: Quarter-final,Single game,VVW,Spike the punch,VVW,22,20,,,,,Luc Vincent Guay,Vincent Lavoie,Etienne Rayes,Olivier Raymond
+Bracket Stage,5.0 - Premier,Bracket A,P9: Quarter-final,Single game,VVW,Spike the punch,VVW,22,20,,,,,Vincent Lavoie,Luc Vincent Guay,Olivier Raymond,Etienne Rayes
 Bracket Stage,5.0 - Premier,Bracket A,P9: Quarter-final,Single game,PaPete,Les Vermeilleuses,PaPete,21,18,,,,,Pierre-Luc Robitaille,Pierre-André Gaumond,Léo Guérin-Morneau,Jacob Tremblay
-Bracket Stage,5.0 - Premier,Bracket A,Semi-final,Best of 3,G-Force,TERREBONNE OGs,G-Force,23,21,21,15,,,Guillaume Bilodeau,Jé Gagnon,Matou Pitchou,Théophane Frémond-Guilbault
+Bracket Stage,5.0 - Premier,Bracket A,Semi-final,Best of 3,G-Force,TERREBONNE OGs,G-Force,23,21,21,15,,,Jé Gagnon,Guillaume Bilodeau,Matou Pitchou,Théophane Frémond-Guilbault
 Bracket Stage,5.0 - Premier,Bracket A,Semi-final,Best of 3,TLMG,can’t beat em’? join em’,TLMG,11,21,21,18,21,13,Anthony St-Martin,Thomas Dery,Sabir Qureshi,Maxime Prince
 Bracket Stage,5.0 - Premier,Bracket A,P5: Semi-final,Single game,Swagger Wong Szn,Pigeons,Swagger Wong Szn,21,10,,,,,Nathan Wong,Adam Hassan,Nicolas Leroux,Xavier Lambert
-Bracket Stage,5.0 - Premier,Bracket A,P5: Semi-final,Single game,"Maison douce maison ",Les trous,Les trous,0,1,,,,,William Garant,Alexandre Vaillancourt,Élie Pilon,Manouk Momo
-Bracket Stage,5.0 - Premier,Bracket A,P9: Semi-final,Single game,Super Nannies,PaPete,Super Nannies,21,16,,,,,Clement Lavice,Simon Arseneau,Pierre-Luc Robitaille,Pierre-André Gaumond
-Bracket Stage,5.0 - Premier,Bracket A,P9: Semi-final,Single game,Groovy Goofies,VVW,Groovy Goofies,21,18,,,,,Samuel Poirier,Guillaume Boilard,Luc Vincent Guay,Vincent Lavoie
-Bracket Stage,5.0 - Premier,Bracket A,Final,Best of 3,G-Force,TLMG,G-Force,21,16,21,11,,,Guillaume Bilodeau,Jé Gagnon,Anthony St-Martin,Thomas Dery
+Bracket Stage,5.0 - Premier,Bracket A,P5: Semi-final,Single game,"Maison douce maison ",Les trous,Les trous,0,1,,,,,Alexandre Vaillancourt,William Garant,Élie Pilon,Manouk Momo
+Bracket Stage,5.0 - Premier,Bracket A,P9: Semi-final,Single game,Super Nannies,PaPete,Super Nannies,21,16,,,,,Simon Arseneau,Clement Lavice,Pierre-Luc Robitaille,Pierre-André Gaumond
+Bracket Stage,5.0 - Premier,Bracket A,P9: Semi-final,Single game,Groovy Goofies,VVW,Groovy Goofies,21,18,,,,,Samuel Poirier,Guillaume Boilard,Vincent Lavoie,Luc Vincent Guay
+Bracket Stage,5.0 - Premier,Bracket A,Final,Best of 3,G-Force,TLMG,G-Force,21,16,21,11,,,Jé Gagnon,Guillaume Bilodeau,Anthony St-Martin,Thomas Dery
 Bracket Stage,5.0 - Premier,Bracket A,P3: Final,Single game,can’t beat em’? join em’,TERREBONNE OGs,TERREBONNE OGs,18,21,,,,,Sabir Qureshi,Maxime Prince,Matou Pitchou,Théophane Frémond-Guilbault
 Bracket Stage,5.0 - Premier,Bracket A,P5: Final,Single game,Swagger Wong Szn,Les trous,Swagger Wong Szn,21,19,,,,,Nathan Wong,Adam Hassan,Élie Pilon,Manouk Momo
-Bracket Stage,5.0 - Premier,Bracket A,P7: Final,Single game,"Maison douce maison ",Pigeons,Pigeons,1,4,,,,,William Garant,Alexandre Vaillancourt,Nicolas Leroux,Xavier Lambert
-Bracket Stage,5.0 - Premier,Bracket A,P9: Final,Single game,Super Nannies,Groovy Goofies,Super Nannies,21,12,,,,,Clement Lavice,Simon Arseneau,Samuel Poirier,Guillaume Boilard
-Bracket Stage,5.0 - Premier,Bracket A,P13: Final,Single game,Les Vermeilleuses,Spike the punch,Les Vermeilleuses,1,0,,,,,Léo Guérin-Morneau,Jacob Tremblay,Etienne Rayes,Olivier Raymond
+Bracket Stage,5.0 - Premier,Bracket A,P7: Final,Single game,"Maison douce maison ",Pigeons,Pigeons,1,4,,,,,Alexandre Vaillancourt,William Garant,Nicolas Leroux,Xavier Lambert
+Bracket Stage,5.0 - Premier,Bracket A,P9: Final,Single game,Super Nannies,Groovy Goofies,Super Nannies,21,12,,,,,Simon Arseneau,Clement Lavice,Samuel Poirier,Guillaume Boilard
+Bracket Stage,5.0 - Premier,Bracket A,P13: Final,Single game,Les Vermeilleuses,Spike the punch,Les Vermeilleuses,1,0,,,,,Léo Guérin-Morneau,Jacob Tremblay,Olivier Raymond,Etienne Rayes
 Group Stage,4.5 - Avancé+ / Contender,Group A,1,Single game,Double Trouble,Hinder en cachette,Hinder en cachette,17,21,,,,,Émile Fortin,Simon Parent,Carlos Algarra,Christopher Hébert
-Group Stage,4.5 - Avancé+ / Contender,Group A,1,Single game,Dancing Queen,Shrimps,Shrimps,4,21,,,,,Pamela Mimeault,Marie-Eve Bergeron,Olivier Bernard,Laurence Vallée
-Group Stage,4.5 - Avancé+ / Contender,Group B,1,Single game,Chill & Kill,Marmelade,Chill & Kill,23,21,,,,,Jean-Francois Chevalier,Marc-olivier Fontaine,Adele Lapointe-Roy,Mélissa Paquet
-Group Stage,4.5 - Avancé+ / Contender,Group B,1,Single game,Capital Krunch,La Pat'Patrouille,Capital Krunch,21,5,,,,,Mathis Mensour,Noah Baccin,Samuel Dube,Maxime Sansfaçon
-Group Stage,4.5 - Avancé+ / Contender,Group C,1,Single game,Pedro on the loose 🦝,Broken Ankles,Pedro on the loose 🦝,21,12,,,,,Thomas Leduc,Daphnée Dorval,Wīlłiam Canţīñ,Frédéric Boutin
+Group Stage,4.5 - Avancé+ / Contender,Group A,1,Single game,Dancing Queen,Shrimps,Shrimps,4,21,,,,,Pamela Mimeault,Marie-Eve Bergeron,Laurence Vallée,Olivier Bernard
+Group Stage,4.5 - Avancé+ / Contender,Group B,1,Single game,Chill & Kill,Marmelade,Chill & Kill,23,21,,,,,Marc-olivier Fontaine,Jean-Francois Chevalier,Adele Lapointe-Roy,Mélissa Paquet
+Group Stage,4.5 - Avancé+ / Contender,Group B,1,Single game,Capital Krunch,La Pat'Patrouille,Capital Krunch,21,5,,,,,Mathis Mensour,Noah Baccin,Maxime Sansfaçon,Samuel Dube
+Group Stage,4.5 - Avancé+ / Contender,Group C,1,Single game,Pedro on the loose 🦝,Broken Ankles,Pedro on the loose 🦝,21,12,,,,,Thomas Leduc,Daphnée Dorval,Frédéric Boutin,Wīlłiam Canţīñ
 Group Stage,4.5 - Avancé+ / Contender,Group C,1,Single game,Les poids lourd,Benilo,Les poids lourd,21,9,,,,,Kellie Forand,david lachance,Benjamin Alleau,Nil Malavoi
 Group Stage,4.5 - Avancé+ / Contender,Group C,1,Single game,Les Coccinelles,Pas de bras pas de chocolat,Pas de bras pas de chocolat,18,21,,,,,Jon Coté,Robert Cote,Jeremie Chausse,Samuel Bernard
-Group Stage,4.5 - Avancé+ / Contender,Group A,2,Single game,Double Trouble,Shrimps,Shrimps,21,23,,,,,Émile Fortin,Simon Parent,Olivier Bernard,Laurence Vallée
+Group Stage,4.5 - Avancé+ / Contender,Group A,2,Single game,Double Trouble,Shrimps,Shrimps,21,23,,,,,Émile Fortin,Simon Parent,Laurence Vallée,Olivier Bernard
 Group Stage,4.5 - Avancé+ / Contender,Group A,2,Single game,Cielito Lindo,Hinder en cachette,Cielito Lindo,21,14,,,,,Olivier Mallette,Luis Alvarez,Carlos Algarra,Christopher Hébert
-Group Stage,4.5 - Avancé+ / Contender,Group B,2,Single game,Chill & Kill,La Pat'Patrouille,Chill & Kill,21,4,,,,,Jean-Francois Chevalier,Marc-olivier Fontaine,Samuel Dube,Maxime Sansfaçon
+Group Stage,4.5 - Avancé+ / Contender,Group B,2,Single game,Chill & Kill,La Pat'Patrouille,Chill & Kill,21,4,,,,,Marc-olivier Fontaine,Jean-Francois Chevalier,Maxime Sansfaçon,Samuel Dube
 Group Stage,4.5 - Avancé+ / Contender,Group B,2,Single game,Sweaty nuts,Marmelade,Sweaty nuts,21,6,,,,,Robinson Patry,Maximus Patry,Adele Lapointe-Roy,Mélissa Paquet
 Group Stage,4.5 - Avancé+ / Contender,Group C,2,Single game,Pedro on the loose 🦝,Benilo,Pedro on the loose 🦝,21,18,,,,,Thomas Leduc,Daphnée Dorval,Benjamin Alleau,Nil Malavoi
 Group Stage,4.5 - Avancé+ / Contender,Group C,2,Single game,Les poids lourd,Les Coccinelles,Les poids lourd,21,8,,,,,Kellie Forand,david lachance,Jon Coté,Robert Cote
-Group Stage,4.5 - Avancé+ / Contender,Group C,2,Single game,Pas de bras pas de chocolat,Broken Ankles,Broken Ankles,7,21,,,,,Jeremie Chausse,Samuel Bernard,Wīlłiam Canţīñ,Frédéric Boutin
+Group Stage,4.5 - Avancé+ / Contender,Group C,2,Single game,Pas de bras pas de chocolat,Broken Ankles,Broken Ankles,7,21,,,,,Jeremie Chausse,Samuel Bernard,Frédéric Boutin,Wīlłiam Canţīñ
 Group Stage,4.5 - Avancé+ / Contender,Group A,3,Single game,Double Trouble,Cielito Lindo,Cielito Lindo,14,21,,,,,Émile Fortin,Simon Parent,Olivier Mallette,Luis Alvarez
 Group Stage,4.5 - Avancé+ / Contender,Group A,3,Single game,Dancing Queen,Hinder en cachette,Hinder en cachette,18,21,,,,,Pamela Mimeault,Marie-Eve Bergeron,Carlos Algarra,Christopher Hébert
-Group Stage,4.5 - Avancé+ / Contender,Group B,3,Single game,Chill & Kill,Sweaty nuts,Sweaty nuts,15,21,,,,,Jean-Francois Chevalier,Marc-olivier Fontaine,Robinson Patry,Maximus Patry
+Group Stage,4.5 - Avancé+ / Contender,Group B,3,Single game,Chill & Kill,Sweaty nuts,Sweaty nuts,15,21,,,,,Marc-olivier Fontaine,Jean-Francois Chevalier,Robinson Patry,Maximus Patry
 Group Stage,4.5 - Avancé+ / Contender,Group B,3,Single game,Capital Krunch,Marmelade,Capital Krunch,21,15,,,,,Mathis Mensour,Noah Baccin,Adele Lapointe-Roy,Mélissa Paquet
 Group Stage,4.5 - Avancé+ / Contender,Group C,3,Single game,Pedro on the loose 🦝,Pas de bras pas de chocolat,Pedro on the loose 🦝,21,19,,,,,Thomas Leduc,Daphnée Dorval,Jeremie Chausse,Samuel Bernard
-Group Stage,4.5 - Avancé+ / Contender,Group C,3,Single game,Les poids lourd,Broken Ankles,Les poids lourd,21,18,,,,,Kellie Forand,david lachance,Wīlłiam Canţīñ,Frédéric Boutin
+Group Stage,4.5 - Avancé+ / Contender,Group C,3,Single game,Les poids lourd,Broken Ankles,Les poids lourd,21,18,,,,,Kellie Forand,david lachance,Frédéric Boutin,Wīlłiam Canţīñ
 Group Stage,4.5 - Avancé+ / Contender,Group C,3,Single game,Les Coccinelles,Benilo,Les Coccinelles,21,19,,,,,Jon Coté,Robert Cote,Benjamin Alleau,Nil Malavoi
 Group Stage,4.5 - Avancé+ / Contender,Group A,4,Single game,Dancing Queen,Cielito Lindo,Cielito Lindo,8,21,,,,,Pamela Mimeault,Marie-Eve Bergeron,Olivier Mallette,Luis Alvarez
-Group Stage,4.5 - Avancé+ / Contender,Group A,4,Single game,Shrimps,Hinder en cachette,Shrimps,21,10,,,,,Olivier Bernard,Laurence Vallée,Carlos Algarra,Christopher Hébert
+Group Stage,4.5 - Avancé+ / Contender,Group A,4,Single game,Shrimps,Hinder en cachette,Shrimps,21,10,,,,,Laurence Vallée,Olivier Bernard,Carlos Algarra,Christopher Hébert
 Group Stage,4.5 - Avancé+ / Contender,Group B,4,Single game,Capital Krunch,Sweaty nuts,Sweaty nuts,17,21,,,,,Mathis Mensour,Noah Baccin,Robinson Patry,Maximus Patry
-Group Stage,4.5 - Avancé+ / Contender,Group B,4,Single game,La Pat'Patrouille,Marmelade,Marmelade,9,21,,,,,Samuel Dube,Maxime Sansfaçon,Adele Lapointe-Roy,Mélissa Paquet
+Group Stage,4.5 - Avancé+ / Contender,Group B,4,Single game,La Pat'Patrouille,Marmelade,Marmelade,9,21,,,,,Maxime Sansfaçon,Samuel Dube,Adele Lapointe-Roy,Mélissa Paquet
 Group Stage,4.5 - Avancé+ / Contender,Group C,4,Single game,Pedro on the loose 🦝,Les Coccinelles,Pedro on the loose 🦝,21,18,,,,,Thomas Leduc,Daphnée Dorval,Jon Coté,Robert Cote
 Group Stage,4.5 - Avancé+ / Contender,Group C,4,Single game,Les poids lourd,Pas de bras pas de chocolat,Les poids lourd,21,15,,,,,Kellie Forand,david lachance,Jeremie Chausse,Samuel Bernard
-Group Stage,4.5 - Avancé+ / Contender,Group C,4,Single game,Benilo,Broken Ankles,Broken Ankles,3,21,,,,,Benjamin Alleau,Nil Malavoi,Wīlłiam Canţīñ,Frédéric Boutin
+Group Stage,4.5 - Avancé+ / Contender,Group C,4,Single game,Benilo,Broken Ankles,Broken Ankles,3,21,,,,,Benjamin Alleau,Nil Malavoi,Frédéric Boutin,Wīlłiam Canţīñ
 Group Stage,4.5 - Avancé+ / Contender,Group A,5,Single game,Double Trouble,Dancing Queen,Double Trouble,21,10,,,,,Émile Fortin,Simon Parent,Pamela Mimeault,Marie-Eve Bergeron
-Group Stage,4.5 - Avancé+ / Contender,Group A,5,Single game,Cielito Lindo,Shrimps,Cielito Lindo,21,15,,,,,Olivier Mallette,Luis Alvarez,Olivier Bernard,Laurence Vallée
-Group Stage,4.5 - Avancé+ / Contender,Group B,5,Single game,Chill & Kill,Capital Krunch,Chill & Kill,21,13,,,,,Jean-Francois Chevalier,Marc-olivier Fontaine,Mathis Mensour,Noah Baccin
-Group Stage,4.5 - Avancé+ / Contender,Group B,5,Single game,Sweaty nuts,La Pat'Patrouille,Sweaty nuts,21,10,,,,,Robinson Patry,Maximus Patry,Samuel Dube,Maxime Sansfaçon
+Group Stage,4.5 - Avancé+ / Contender,Group A,5,Single game,Cielito Lindo,Shrimps,Cielito Lindo,21,15,,,,,Olivier Mallette,Luis Alvarez,Laurence Vallée,Olivier Bernard
+Group Stage,4.5 - Avancé+ / Contender,Group B,5,Single game,Chill & Kill,Capital Krunch,Chill & Kill,21,13,,,,,Marc-olivier Fontaine,Jean-Francois Chevalier,Mathis Mensour,Noah Baccin
+Group Stage,4.5 - Avancé+ / Contender,Group B,5,Single game,Sweaty nuts,La Pat'Patrouille,Sweaty nuts,21,10,,,,,Robinson Patry,Maximus Patry,Maxime Sansfaçon,Samuel Dube
 Group Stage,4.5 - Avancé+ / Contender,Group C,5,Single game,Pedro on the loose 🦝,Les poids lourd,Les poids lourd,20,22,,,,,Thomas Leduc,Daphnée Dorval,Kellie Forand,david lachance
-Group Stage,4.5 - Avancé+ / Contender,Group C,5,Single game,Les Coccinelles,Broken Ankles,Broken Ankles,9,21,,,,,Jon Coté,Robert Cote,Wīlłiam Canţīñ,Frédéric Boutin
+Group Stage,4.5 - Avancé+ / Contender,Group C,5,Single game,Les Coccinelles,Broken Ankles,Broken Ankles,9,21,,,,,Jon Coté,Robert Cote,Frédéric Boutin,Wīlłiam Canţīñ
 Group Stage,4.5 - Avancé+ / Contender,Group C,5,Single game,Pas de bras pas de chocolat,Benilo,Pas de bras pas de chocolat,21,13,,,,,Jeremie Chausse,Samuel Bernard,Benjamin Alleau,Nil Malavoi
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Sweaty nuts,Benilo,Sweaty nuts,21,11,21,7,,,Robinson Patry,Maximus Patry,Benjamin Alleau,Nil Malavoi
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Cielito Lindo,La Pat'Patrouille,Cielito Lindo,21,2,21,12,,,Olivier Mallette,Luis Alvarez,Samuel Dube,Maxime Sansfaçon
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Cielito Lindo,La Pat'Patrouille,Cielito Lindo,21,2,21,12,,,Olivier Mallette,Luis Alvarez,Maxime Sansfaçon,Samuel Dube
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Les poids lourd,Dancing Queen,Les poids lourd,21,13,23,21,,,Kellie Forand,david lachance,Pamela Mimeault,Marie-Eve Bergeron
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Shrimps,Les Coccinelles,Shrimps,21,7,21,9,,,Olivier Bernard,Laurence Vallée,Jon Coté,Robert Cote
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Chill & Kill,Marmelade,Chill & Kill,21,18,21,11,,,Jean-Francois Chevalier,Marc-olivier Fontaine,Adele Lapointe-Roy,Mélissa Paquet
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Shrimps,Les Coccinelles,Shrimps,21,7,21,9,,,Laurence Vallée,Olivier Bernard,Jon Coté,Robert Cote
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Chill & Kill,Marmelade,Chill & Kill,21,18,21,11,,,Marc-olivier Fontaine,Jean-Francois Chevalier,Adele Lapointe-Roy,Mélissa Paquet
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Pedro on the loose 🦝,Pas de bras pas de chocolat,Pedro on the loose 🦝,21,17,18,21,21,18,Thomas Leduc,Daphnée Dorval,Jeremie Chausse,Samuel Bernard
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Broken Ankles,Double Trouble,Broken Ankles,21,17,21,17,,,Wīlłiam Canţīñ,Frédéric Boutin,Émile Fortin,Simon Parent
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Broken Ankles,Double Trouble,Broken Ankles,21,17,21,17,,,Frédéric Boutin,Wīlłiam Canţīñ,Émile Fortin,Simon Parent
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Round of 16,Best of 3,Capital Krunch,Hinder en cachette,Hinder en cachette,16,21,22,20,18,21,Mathis Mensour,Noah Baccin,Carlos Algarra,Christopher Hébert
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Quarter-final,Best of 3,Sweaty nuts,Hinder en cachette,Sweaty nuts,21,8,21,10,,,Robinson Patry,Maximus Patry,Carlos Algarra,Christopher Hébert
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Quarter-final,Best of 3,Cielito Lindo,Broken Ankles,Cielito Lindo,22,20,21,12,,,Olivier Mallette,Luis Alvarez,Wīlłiam Canţīñ,Frédéric Boutin
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Quarter-final,Best of 3,Cielito Lindo,Broken Ankles,Cielito Lindo,22,20,21,12,,,Olivier Mallette,Luis Alvarez,Frédéric Boutin,Wīlłiam Canţīñ
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Quarter-final,Best of 3,Les poids lourd,Pedro on the loose 🦝,Les poids lourd,21,15,18,21,21,19,Kellie Forand,david lachance,Thomas Leduc,Daphnée Dorval
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Quarter-final,Best of 3,Shrimps,Chill & Kill,Shrimps,22,20,21,17,,,Olivier Bernard,Laurence Vallée,Jean-Francois Chevalier,Marc-olivier Fontaine
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Quarter-final,Best of 3,Shrimps,Chill & Kill,Shrimps,22,20,21,17,,,Laurence Vallée,Olivier Bernard,Marc-olivier Fontaine,Jean-Francois Chevalier
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P9: Quarter-final,Single game,Capital Krunch,Benilo,Benilo,0,1,,,,,Mathis Mensour,Noah Baccin,Benjamin Alleau,Nil Malavoi
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P9: Quarter-final,Single game,Double Trouble,La Pat'Patrouille,Double Trouble,21,15,,,,,Émile Fortin,Simon Parent,Samuel Dube,Maxime Sansfaçon
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P9: Quarter-final,Single game,Double Trouble,La Pat'Patrouille,Double Trouble,21,15,,,,,Émile Fortin,Simon Parent,Maxime Sansfaçon,Samuel Dube
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P9: Quarter-final,Single game,Pas de bras pas de chocolat,Dancing Queen,Dancing Queen,0,1,,,,,Jeremie Chausse,Samuel Bernard,Pamela Mimeault,Marie-Eve Bergeron
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P9: Quarter-final,Single game,Marmelade,Les Coccinelles,Marmelade,22,20,,,,,Adele Lapointe-Roy,Mélissa Paquet,Jon Coté,Robert Cote
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Semi-final,Best of 3,Sweaty nuts,Shrimps,Sweaty nuts,18,21,21,18,21,18,Robinson Patry,Maximus Patry,Olivier Bernard,Laurence Vallée
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Semi-final,Best of 3,Sweaty nuts,Shrimps,Sweaty nuts,18,21,21,18,21,18,Robinson Patry,Maximus Patry,Laurence Vallée,Olivier Bernard
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Semi-final,Best of 3,Cielito Lindo,Les poids lourd,Cielito Lindo,1,0,1,0,,,Olivier Mallette,Luis Alvarez,Kellie Forand,david lachance
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P5: Semi-final,Single game,Chill & Kill,Hinder en cachette,Chill & Kill,21,13,,,,,Jean-Francois Chevalier,Marc-olivier Fontaine,Carlos Algarra,Christopher Hébert
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P5: Semi-final,Single game,Pedro on the loose 🦝,Broken Ankles,Broken Ankles,19,21,,,,,Thomas Leduc,Daphnée Dorval,Wīlłiam Canţīñ,Frédéric Boutin
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P5: Semi-final,Single game,Chill & Kill,Hinder en cachette,Chill & Kill,21,13,,,,,Marc-olivier Fontaine,Jean-Francois Chevalier,Carlos Algarra,Christopher Hébert
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P5: Semi-final,Single game,Pedro on the loose 🦝,Broken Ankles,Broken Ankles,19,21,,,,,Thomas Leduc,Daphnée Dorval,Frédéric Boutin,Wīlłiam Canţīñ
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P9: Semi-final,Single game,Benilo,Marmelade,Marmelade,11,20,,,,,Benjamin Alleau,Nil Malavoi,Adele Lapointe-Roy,Mélissa Paquet
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P9: Semi-final,Single game,Double Trouble,Dancing Queen,Double Trouble,21,18,,,,,Émile Fortin,Simon Parent,Pamela Mimeault,Marie-Eve Bergeron
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P13: Semi-final,Single game,Les Coccinelles,Capital Krunch,Les Coccinelles,1,0,,,,,Jon Coté,Robert Cote,Mathis Mensour,Noah Baccin
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P13: Semi-final,Single game,Pas de bras pas de chocolat,La Pat'Patrouille,La Pat'Patrouille,0,1,,,,,Jeremie Chausse,Samuel Bernard,Samuel Dube,Maxime Sansfaçon
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P13: Semi-final,Single game,Pas de bras pas de chocolat,La Pat'Patrouille,La Pat'Patrouille,0,1,,,,,Jeremie Chausse,Samuel Bernard,Maxime Sansfaçon,Samuel Dube
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,Final,Best of 3,Sweaty nuts,Cielito Lindo,Sweaty nuts,21,18,18,21,21,17,Robinson Patry,Maximus Patry,Olivier Mallette,Luis Alvarez
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P3: Final,Best of 3,Les poids lourd,Shrimps,Shrimps,0,1,0,1,,,Kellie Forand,david lachance,Olivier Bernard,Laurence Vallée
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P3: Final,Best of 3,Les poids lourd,Shrimps,Shrimps,0,1,0,1,,,Kellie Forand,david lachance,Laurence Vallée,Olivier Bernard
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P7: Final,Single game,Pedro on the loose 🦝,Hinder en cachette,Pedro on the loose 🦝,1,0,,,,,Thomas Leduc,Daphnée Dorval,Carlos Algarra,Christopher Hébert
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P9: Final,Single game,Marmelade,Double Trouble,Double Trouble,14,21,,,,,Adele Lapointe-Roy,Mélissa Paquet,Émile Fortin,Simon Parent
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P11: Final,Single game,Dancing Queen,Benilo,Dancing Queen,21,10,,,,,Pamela Mimeault,Marie-Eve Bergeron,Benjamin Alleau,Nil Malavoi
-Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P13: Final,Single game,Les Coccinelles,La Pat'Patrouille,Les Coccinelles,21,17,,,,,Jon Coté,Robert Cote,Samuel Dube,Maxime Sansfaçon
+Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P13: Final,Single game,Les Coccinelles,La Pat'Patrouille,Les Coccinelles,21,17,,,,,Jon Coté,Robert Cote,Maxime Sansfaçon,Samuel Dube
 Bracket Stage,4.5 - Avancé+ / Contender,Bracket A,P15: Final,Single game,Pas de bras pas de chocolat,Capital Krunch,Pas de bras pas de chocolat,0,-1,,,,,Jeremie Chausse,Samuel Bernard,Mathis Mensour,Noah Baccin
 Group Stage,4.0 - Avancé,Group A,1,Single game,Les retardataire,Marchoux,Les retardataire,21,17,,,,,Bruno Tanguay,Oscar Dupouy,Alice Leroux-Chartier,Jade Marchand
-Group Stage,4.0 - Avancé,Group A,1,Single game,Spike ball enthousiastes,Les Wackaks,Les Wackaks,0,1,,,,,Louis Corbeil,Nathan Marcoux,Yan Longpre,Vincent Pronovost
-Group Stage,4.0 - Avancé,Group B,1,Single game,Les frères Gagnon,FYD,Les frères Gagnon,21,12,,,,,Alexandre Gagnon,Mathieu Gagnon,Caroline Nadeau,Sophie Laberge-Chamberland
-Group Stage,4.0 - Avancé,Group B,1,Single game,Frencheese 🧀,Ça s'en vient,Frencheese 🧀,21,14,,,,,Fanette Bourdens,Solene Manescau,Amelie Francoeur,Lorianne Gonzalez-Bayard
+Group Stage,4.0 - Avancé,Group A,1,Single game,Spike ball enthousiastes,Les Wackaks,Les Wackaks,0,1,,,,,Nathan Marcoux,Louis Corbeil,Yan Longpre,Vincent Pronovost
+Group Stage,4.0 - Avancé,Group B,1,Single game,Les frères Gagnon,FYD,Les frères Gagnon,21,12,,,,,Mathieu Gagnon,Alexandre Gagnon,Caroline Nadeau,Sophie Laberge-Chamberland
+Group Stage,4.0 - Avancé,Group B,1,Single game,Frencheese 🧀,Ça s'en vient,Frencheese 🧀,21,14,,,,,Solene Manescau,Fanette Bourdens,Amelie Francoeur,Lorianne Gonzalez-Bayard
 Group Stage,4.0 - Avancé,Group A,2,Single game,Les retardataire,Les Wackaks,Les retardataire,21,19,,,,,Bruno Tanguay,Oscar Dupouy,Yan Longpre,Vincent Pronovost
-Group Stage,4.0 - Avancé,Group A,2,Single game,Spike ball enthousiastes,Marchoux,Marchoux,0,1,,,,,Louis Corbeil,Nathan Marcoux,Alice Leroux-Chartier,Jade Marchand
-Group Stage,4.0 - Avancé,Group B,2,Single game,Les frères Gagnon,Ça s'en vient,Les frères Gagnon,15,10,,,,,Alexandre Gagnon,Mathieu Gagnon,Amelie Francoeur,Lorianne Gonzalez-Bayard
-Group Stage,4.0 - Avancé,Group B,2,Single game,Frencheese 🧀,FYD,Frencheese 🧀,16,14,,,,,Fanette Bourdens,Solene Manescau,Caroline Nadeau,Sophie Laberge-Chamberland
-Group Stage,4.0 - Avancé,Group A,3,Single game,Les retardataire,Spike ball enthousiastes,Les retardataire,1,0,,,,,Bruno Tanguay,Oscar Dupouy,Louis Corbeil,Nathan Marcoux
+Group Stage,4.0 - Avancé,Group A,2,Single game,Spike ball enthousiastes,Marchoux,Marchoux,0,1,,,,,Nathan Marcoux,Louis Corbeil,Alice Leroux-Chartier,Jade Marchand
+Group Stage,4.0 - Avancé,Group B,2,Single game,Les frères Gagnon,Ça s'en vient,Les frères Gagnon,15,10,,,,,Mathieu Gagnon,Alexandre Gagnon,Amelie Francoeur,Lorianne Gonzalez-Bayard
+Group Stage,4.0 - Avancé,Group B,2,Single game,Frencheese 🧀,FYD,Frencheese 🧀,16,14,,,,,Solene Manescau,Fanette Bourdens,Caroline Nadeau,Sophie Laberge-Chamberland
+Group Stage,4.0 - Avancé,Group A,3,Single game,Les retardataire,Spike ball enthousiastes,Les retardataire,1,0,,,,,Bruno Tanguay,Oscar Dupouy,Nathan Marcoux,Louis Corbeil
 Group Stage,4.0 - Avancé,Group A,3,Single game,Les Wackaks,Marchoux,Marchoux,16,21,,,,,Yan Longpre,Vincent Pronovost,Alice Leroux-Chartier,Jade Marchand
-Group Stage,4.0 - Avancé,Group B,3,Single game,Les frères Gagnon,Frencheese 🧀,Les frères Gagnon,15,4,,,,,Alexandre Gagnon,Mathieu Gagnon,Fanette Bourdens,Solene Manescau
+Group Stage,4.0 - Avancé,Group B,3,Single game,Les frères Gagnon,Frencheese 🧀,Les frères Gagnon,15,4,,,,,Mathieu Gagnon,Alexandre Gagnon,Solene Manescau,Fanette Bourdens
 Group Stage,4.0 - Avancé,Group B,3,Single game,Ça s'en vient,FYD,FYD,12,15,,,,,Amelie Francoeur,Lorianne Gonzalez-Bayard,Caroline Nadeau,Sophie Laberge-Chamberland
 Group Stage,4.0 - Avancé,Group A,4,Single game,Les retardataire,Marchoux,Les retardataire,21,12,,,,,Bruno Tanguay,Oscar Dupouy,Alice Leroux-Chartier,Jade Marchand
-Group Stage,4.0 - Avancé,Group A,4,Single game,Spike ball enthousiastes,Les Wackaks,Les Wackaks,0,1,,,,,Louis Corbeil,Nathan Marcoux,Yan Longpre,Vincent Pronovost
-Group Stage,4.0 - Avancé,Group B,4,Single game,Les frères Gagnon,FYD,Les frères Gagnon,15,8,,,,,Alexandre Gagnon,Mathieu Gagnon,Caroline Nadeau,Sophie Laberge-Chamberland
-Group Stage,4.0 - Avancé,Group B,4,Single game,Frencheese 🧀,Ça s'en vient,Frencheese 🧀,15,13,,,,,Fanette Bourdens,Solene Manescau,Amelie Francoeur,Lorianne Gonzalez-Bayard
+Group Stage,4.0 - Avancé,Group A,4,Single game,Spike ball enthousiastes,Les Wackaks,Les Wackaks,0,1,,,,,Nathan Marcoux,Louis Corbeil,Yan Longpre,Vincent Pronovost
+Group Stage,4.0 - Avancé,Group B,4,Single game,Les frères Gagnon,FYD,Les frères Gagnon,15,8,,,,,Mathieu Gagnon,Alexandre Gagnon,Caroline Nadeau,Sophie Laberge-Chamberland
+Group Stage,4.0 - Avancé,Group B,4,Single game,Frencheese 🧀,Ça s'en vient,Frencheese 🧀,15,13,,,,,Solene Manescau,Fanette Bourdens,Amelie Francoeur,Lorianne Gonzalez-Bayard
 Group Stage,4.0 - Avancé,Group A,5,Single game,Les retardataire,Les Wackaks,Les retardataire,21,19,,,,,Bruno Tanguay,Oscar Dupouy,Yan Longpre,Vincent Pronovost
-Group Stage,4.0 - Avancé,Group A,5,Single game,Spike ball enthousiastes,Marchoux,Marchoux,0,1,,,,,Louis Corbeil,Nathan Marcoux,Alice Leroux-Chartier,Jade Marchand
-Group Stage,4.0 - Avancé,Group B,5,Single game,Les frères Gagnon,Ça s'en vient,Les frères Gagnon,15,12,,,,,Alexandre Gagnon,Mathieu Gagnon,Amelie Francoeur,Lorianne Gonzalez-Bayard
-Group Stage,4.0 - Avancé,Group B,5,Single game,Frencheese 🧀,FYD,FYD,8,15,,,,,Fanette Bourdens,Solene Manescau,Caroline Nadeau,Sophie Laberge-Chamberland
-Group Stage,4.0 - Avancé,Group A,6,Single game,Les retardataire,Spike ball enthousiastes,Les retardataire,1,0,,,,,Bruno Tanguay,Oscar Dupouy,Louis Corbeil,Nathan Marcoux
+Group Stage,4.0 - Avancé,Group A,5,Single game,Spike ball enthousiastes,Marchoux,Marchoux,0,1,,,,,Nathan Marcoux,Louis Corbeil,Alice Leroux-Chartier,Jade Marchand
+Group Stage,4.0 - Avancé,Group B,5,Single game,Les frères Gagnon,Ça s'en vient,Les frères Gagnon,15,12,,,,,Mathieu Gagnon,Alexandre Gagnon,Amelie Francoeur,Lorianne Gonzalez-Bayard
+Group Stage,4.0 - Avancé,Group B,5,Single game,Frencheese 🧀,FYD,FYD,8,15,,,,,Solene Manescau,Fanette Bourdens,Caroline Nadeau,Sophie Laberge-Chamberland
+Group Stage,4.0 - Avancé,Group A,6,Single game,Les retardataire,Spike ball enthousiastes,Les retardataire,1,0,,,,,Bruno Tanguay,Oscar Dupouy,Nathan Marcoux,Louis Corbeil
 Group Stage,4.0 - Avancé,Group A,6,Single game,Les Wackaks,Marchoux,Les Wackaks,21,14,,,,,Yan Longpre,Vincent Pronovost,Alice Leroux-Chartier,Jade Marchand
-Group Stage,4.0 - Avancé,Group B,6,Single game,Les frères Gagnon,Frencheese 🧀,Les frères Gagnon,15,10,,,,,Alexandre Gagnon,Mathieu Gagnon,Fanette Bourdens,Solene Manescau
+Group Stage,4.0 - Avancé,Group B,6,Single game,Les frères Gagnon,Frencheese 🧀,Les frères Gagnon,15,10,,,,,Mathieu Gagnon,Alexandre Gagnon,Solene Manescau,Fanette Bourdens
 Group Stage,4.0 - Avancé,Group B,6,Single game,Ça s'en vient,FYD,FYD,9,15,,,,,Amelie Francoeur,Lorianne Gonzalez-Bayard,Caroline Nadeau,Sophie Laberge-Chamberland
-Bracket Stage,4.0 - Avancé,Bracket A,Quarter-final,Best of 3,Les frères Gagnon,Ça s'en vient,Les frères Gagnon,31,29,21,13,,,Alexandre Gagnon,Mathieu Gagnon,Amelie Francoeur,Lorianne Gonzalez-Bayard
-Bracket Stage,4.0 - Avancé,Bracket A,Quarter-final,Best of 3,Les retardataire,Spike ball enthousiastes,Les retardataire,1,0,1,0,,,Bruno Tanguay,Oscar Dupouy,Louis Corbeil,Nathan Marcoux
+Bracket Stage,4.0 - Avancé,Bracket A,Quarter-final,Best of 3,Les frères Gagnon,Ça s'en vient,Les frères Gagnon,31,29,21,13,,,Mathieu Gagnon,Alexandre Gagnon,Amelie Francoeur,Lorianne Gonzalez-Bayard
+Bracket Stage,4.0 - Avancé,Bracket A,Quarter-final,Best of 3,Les retardataire,Spike ball enthousiastes,Les retardataire,1,0,1,0,,,Bruno Tanguay,Oscar Dupouy,Nathan Marcoux,Louis Corbeil
 Bracket Stage,4.0 - Avancé,Bracket A,Quarter-final,Best of 3,Les Wackaks,Marchoux,Marchoux,16,21,21,17,14,21,Yan Longpre,Vincent Pronovost,Alice Leroux-Chartier,Jade Marchand
-Bracket Stage,4.0 - Avancé,Bracket A,Quarter-final,Best of 3,FYD,Frencheese 🧀,FYD,1,0,1,0,,,Caroline Nadeau,Sophie Laberge-Chamberland,Fanette Bourdens,Solene Manescau
-Bracket Stage,4.0 - Avancé,Bracket A,Semi-final,Best of 3,Les frères Gagnon,FYD,Les frères Gagnon,21,13,19,21,21,18,Alexandre Gagnon,Mathieu Gagnon,Caroline Nadeau,Sophie Laberge-Chamberland
+Bracket Stage,4.0 - Avancé,Bracket A,Quarter-final,Best of 3,FYD,Frencheese 🧀,FYD,1,0,1,0,,,Caroline Nadeau,Sophie Laberge-Chamberland,Solene Manescau,Fanette Bourdens
+Bracket Stage,4.0 - Avancé,Bracket A,Semi-final,Best of 3,Les frères Gagnon,FYD,Les frères Gagnon,21,13,19,21,21,18,Mathieu Gagnon,Alexandre Gagnon,Caroline Nadeau,Sophie Laberge-Chamberland
 Bracket Stage,4.0 - Avancé,Bracket A,Semi-final,Best of 3,Les retardataire,Marchoux,Les retardataire,21,19,21,17,,,Bruno Tanguay,Oscar Dupouy,Alice Leroux-Chartier,Jade Marchand
-Bracket Stage,4.0 - Avancé,Bracket A,P5: Semi-final,Single game,Frencheese 🧀,Ça s'en vient,Ça s'en vient,0,1,,,,,Fanette Bourdens,Solene Manescau,Amelie Francoeur,Lorianne Gonzalez-Bayard
-Bracket Stage,4.0 - Avancé,Bracket A,P5: Semi-final,Single game,Les Wackaks,Spike ball enthousiastes,Les Wackaks,1,0,,,,,Yan Longpre,Vincent Pronovost,Louis Corbeil,Nathan Marcoux
-Bracket Stage,4.0 - Avancé,Bracket A,Final,Best of 3,Les frères Gagnon,Les retardataire,Les retardataire,21,14,17,21,19,21,Alexandre Gagnon,Mathieu Gagnon,Bruno Tanguay,Oscar Dupouy
+Bracket Stage,4.0 - Avancé,Bracket A,P5: Semi-final,Single game,Frencheese 🧀,Ça s'en vient,Ça s'en vient,0,1,,,,,Solene Manescau,Fanette Bourdens,Amelie Francoeur,Lorianne Gonzalez-Bayard
+Bracket Stage,4.0 - Avancé,Bracket A,P5: Semi-final,Single game,Les Wackaks,Spike ball enthousiastes,Les Wackaks,1,0,,,,,Yan Longpre,Vincent Pronovost,Nathan Marcoux,Louis Corbeil
+Bracket Stage,4.0 - Avancé,Bracket A,Final,Best of 3,Les frères Gagnon,Les retardataire,Les retardataire,21,14,17,21,19,21,Mathieu Gagnon,Alexandre Gagnon,Bruno Tanguay,Oscar Dupouy
 Bracket Stage,4.0 - Avancé,Bracket A,P3: Final,Single game,Marchoux,FYD,FYD,19,21,,,,,Alice Leroux-Chartier,Jade Marchand,Caroline Nadeau,Sophie Laberge-Chamberland
 Bracket Stage,4.0 - Avancé,Bracket A,P5: Final,Single game,Ça s'en vient,Les Wackaks,Les Wackaks,0,1,,,,,Amelie Francoeur,Lorianne Gonzalez-Bayard,Yan Longpre,Vincent Pronovost
-Bracket Stage,4.0 - Avancé,Bracket A,P7: Final,Single game,Spike ball enthousiastes,Frencheese 🧀,Frencheese 🧀,0,1,,,,,Louis Corbeil,Nathan Marcoux,Fanette Bourdens,Solene Manescau
-Group Stage,2.0-3.0 - Récréatif,Group A,1,Single game,Les Balls en feu,Team Rocket,Les Balls en feu,21,14,,,,,Samuel Fortin,Mathieu Fortin,Pascal Guay,Andres Zambrano
-Group Stage,2.0-3.0 - Récréatif,Group A,1,Single game,Les darons,Spike moé les balls,Spike moé les balls,6,21,,,,,Francis Brochu,Nicolas Angers,Francis Fortin,Édouard Fortin
-Group Stage,2.0-3.0 - Récréatif,Group A,1,Single game,Les matantes,Les TDA,Les matantes,21,8,,,,,Vicky Paquin,Marie-lyne Guay,Titouan Binet,Alex Beauchesne
-Group Stage,2.0-3.0 - Récréatif,Group A,2,Single game,Les Balls en feu,Spike moé les balls,Les Balls en feu,21,13,,,,,Samuel Fortin,Mathieu Fortin,Francis Fortin,Édouard Fortin
-Group Stage,2.0-3.0 - Récréatif,Group A,2,Single game,Les darons,Les petites madames bronzées,Les darons,21,18,,,,,Francis Brochu,Nicolas Angers,Mirah Duarte,May Lee Viel
-Group Stage,2.0-3.0 - Récréatif,Group A,2,Single game,Les TDA,Team Rocket,Team Rocket,8,21,,,,,Titouan Binet,Alex Beauchesne,Pascal Guay,Andres Zambrano
-Group Stage,2.0-3.0 - Récréatif,Group A,3,Single game,Les Balls en feu,Les TDA,Les Balls en feu,21,11,,,,,Samuel Fortin,Mathieu Fortin,Titouan Binet,Alex Beauchesne
-Group Stage,2.0-3.0 - Récréatif,Group A,3,Single game,Les darons,Les matantes,Les darons,21,19,,,,,Francis Brochu,Nicolas Angers,Vicky Paquin,Marie-lyne Guay
-Group Stage,2.0-3.0 - Récréatif,Group A,3,Single game,Les petites madames bronzées,Spike moé les balls,Spike moé les balls,8,21,,,,,Mirah Duarte,May Lee Viel,Francis Fortin,Édouard Fortin
-Group Stage,2.0-3.0 - Récréatif,Group A,4,Single game,Les Balls en feu,Les petites madames bronzées,Les Balls en feu,21,8,,,,,Samuel Fortin,Mathieu Fortin,Mirah Duarte,May Lee Viel
-Group Stage,2.0-3.0 - Récréatif,Group A,4,Single game,Les darons,Team Rocket,Team Rocket,15,21,,,,,Francis Brochu,Nicolas Angers,Pascal Guay,Andres Zambrano
-Group Stage,2.0-3.0 - Récréatif,Group A,4,Single game,Les matantes,Spike moé les balls,Spike moé les balls,7,21,,,,,Vicky Paquin,Marie-lyne Guay,Francis Fortin,Édouard Fortin
-Group Stage,2.0-3.0 - Récréatif,Group A,5,Single game,Les darons,Les TDA,Les darons,21,9,,,,,Francis Brochu,Nicolas Angers,Titouan Binet,Alex Beauchesne
-Group Stage,2.0-3.0 - Récréatif,Group A,5,Single game,Les matantes,Les petites madames bronzées,Les petites madames bronzées,14,21,,,,,Vicky Paquin,Marie-lyne Guay,Mirah Duarte,May Lee Viel
-Group Stage,2.0-3.0 - Récréatif,Group A,5,Single game,Spike moé les balls,Team Rocket,Spike moé les balls,21,17,,,,,Francis Fortin,Édouard Fortin,Pascal Guay,Andres Zambrano
-Group Stage,2.0-3.0 - Récréatif,Group A,6,Single game,Les Balls en feu,Les matantes,Les Balls en feu,21,9,,,,,Samuel Fortin,Mathieu Fortin,Vicky Paquin,Marie-lyne Guay
-Group Stage,2.0-3.0 - Récréatif,Group A,6,Single game,Les petites madames bronzées,Team Rocket,Team Rocket,18,21,,,,,Mirah Duarte,May Lee Viel,Pascal Guay,Andres Zambrano
-Group Stage,2.0-3.0 - Récréatif,Group A,6,Single game,Les TDA,Spike moé les balls,Spike moé les balls,7,21,,,,,Titouan Binet,Alex Beauchesne,Francis Fortin,Édouard Fortin
-Group Stage,2.0-3.0 - Récréatif,Group A,7,Single game,Les Balls en feu,Les darons,Les Balls en feu,21,8,,,,,Samuel Fortin,Mathieu Fortin,Francis Brochu,Nicolas Angers
-Group Stage,2.0-3.0 - Récréatif,Group A,7,Single game,Les matantes,Team Rocket,Team Rocket,5,21,,,,,Vicky Paquin,Marie-lyne Guay,Pascal Guay,Andres Zambrano
-Group Stage,2.0-3.0 - Récréatif,Group A,7,Single game,Les petites madames bronzées,Les TDA,Les TDA,22,23,,,,,Mirah Duarte,May Lee Viel,Titouan Binet,Alex Beauchesne
-Bracket Stage,2.0-3.0 - Récréatif,Bracket A,Quarter-final,Best of 3,Spike moé les balls,Les TDA,Spike moé les balls,21,13,21,9,,,Francis Fortin,Édouard Fortin,Titouan Binet,Alex Beauchesne
-Bracket Stage,2.0-3.0 - Récréatif,Bracket A,Quarter-final,Best of 3,Team Rocket,Les matantes,Team Rocket,21,15,21,14,,,Pascal Guay,Andres Zambrano,Vicky Paquin,Marie-lyne Guay
-Bracket Stage,2.0-3.0 - Récréatif,Bracket A,Quarter-final,Best of 3,Les darons,Les petites madames bronzées,Les petites madames bronzées,13,21,21,15,17,21,Francis Brochu,Nicolas Angers,Mirah Duarte,May Lee Viel
-Bracket Stage,2.0-3.0 - Récréatif,Bracket A,Semi-final,Best of 3,Les Balls en feu,Les petites madames bronzées,Les Balls en feu,1,0,1,0,,,Samuel Fortin,Mathieu Fortin,Mirah Duarte,May Lee Viel
-Bracket Stage,2.0-3.0 - Récréatif,Bracket A,Semi-final,Best of 3,Spike moé les balls,Team Rocket,Spike moé les balls,21,14,21,18,,,Francis Fortin,Édouard Fortin,Pascal Guay,Andres Zambrano
-Bracket Stage,2.0-3.0 - Récréatif,Bracket A,P5: Semi-final,Single game,Les matantes,Les TDA,Les TDA,16,21,,,,,Vicky Paquin,Marie-lyne Guay,Titouan Binet,Alex Beauchesne
-Bracket Stage,2.0-3.0 - Récréatif,Bracket A,Final,Best of 3,Les Balls en feu,Spike moé les balls,Les Balls en feu,22,20,21,19,,,Samuel Fortin,Mathieu Fortin,Francis Fortin,Édouard Fortin
-Bracket Stage,2.0-3.0 - Récréatif,Bracket A,P3: Final,Single game,Team Rocket,Les petites madames bronzées,Team Rocket,1,0,,,,,Pascal Guay,Andres Zambrano,Mirah Duarte,May Lee Viel
-Group Stage,Junior,Group A,1,Single game,Les flemmards,Emile Champagne + Noah-Charles Drouin,Les flemmards,15,4,,,,,Logan Bellerive,Enzé Brochu,Noah-Charles Drouin,Emile Champagne
-Group Stage,Junior,Group A,1,Single game,Crevettes sauvages,Les p’tits fantastiques,Crevettes sauvages,17,15,,,,,Lowan Tanguay,Néo Tanguay,Victoria Martel,Arthur  Martel
-Group Stage,Junior,Group A,2,Single game,Les flemmards,Les p’tits fantastiques,Les flemmards,15,7,,,,,Logan Bellerive,Enzé Brochu,Victoria Martel,Arthur  Martel
-Group Stage,Junior,Group A,2,Single game,Crevettes sauvages,Emile Champagne + Noah-Charles Drouin,Crevettes sauvages,15,9,,,,,Lowan Tanguay,Néo Tanguay,Noah-Charles Drouin,Emile Champagne
-Group Stage,Junior,Group A,3,Single game,Les flemmards,Crevettes sauvages,Les flemmards,15,9,,,,,Logan Bellerive,Enzé Brochu,Lowan Tanguay,Néo Tanguay
-Group Stage,Junior,Group A,3,Single game,Les p’tits fantastiques,Emile Champagne + Noah-Charles Drouin,Les p’tits fantastiques,15,8,,,,,Victoria Martel,Arthur  Martel,Noah-Charles Drouin,Emile Champagne
-Group Stage,Junior,Group A,4,Single game,Les flemmards,Emile Champagne + Noah-Charles Drouin,Les flemmards,15,7,,,,,Logan Bellerive,Enzé Brochu,Noah-Charles Drouin,Emile Champagne
-Group Stage,Junior,Group A,4,Single game,Crevettes sauvages,Les p’tits fantastiques,Crevettes sauvages,15,11,,,,,Lowan Tanguay,Néo Tanguay,Victoria Martel,Arthur  Martel
-Group Stage,Junior,Group A,5,Single game,Les flemmards,Les p’tits fantastiques,Les p’tits fantastiques,12,15,,,,,Logan Bellerive,Enzé Brochu,Victoria Martel,Arthur  Martel
-Group Stage,Junior,Group A,5,Single game,Crevettes sauvages,Emile Champagne + Noah-Charles Drouin,Emile Champagne + Noah-Charles Drouin,12,15,,,,,Lowan Tanguay,Néo Tanguay,Noah-Charles Drouin,Emile Champagne
-Group Stage,Junior,Group A,6,Single game,Les flemmards,Crevettes sauvages,Les flemmards,15,6,,,,,Logan Bellerive,Enzé Brochu,Lowan Tanguay,Néo Tanguay
-Group Stage,Junior,Group A,6,Single game,Les p’tits fantastiques,Emile Champagne + Noah-Charles Drouin,Les p’tits fantastiques,15,9,,,,,Victoria Martel,Arthur  Martel,Noah-Charles Drouin,Emile Champagne
-Bracket Stage,Junior,Bracket A,Semi-final,Best of 3,Les flemmards,Emile Champagne + Noah-Charles Drouin,Les flemmards,21,11,21,8,,,Logan Bellerive,Enzé Brochu,Noah-Charles Drouin,Emile Champagne
-Bracket Stage,Junior,Bracket A,Semi-final,Best of 3,Les p’tits fantastiques,Crevettes sauvages,Crevettes sauvages,18,21,18,21,,,Victoria Martel,Arthur  Martel,Lowan Tanguay,Néo Tanguay
-Bracket Stage,Junior,Bracket A,Final,Best of 3,Les flemmards,Crevettes sauvages,Les flemmards,15,21,21,16,1,0,Logan Bellerive,Enzé Brochu,Lowan Tanguay,Néo Tanguay
-Bracket Stage,Junior,Bracket A,P3: Final,Best of 3,Les p’tits fantastiques,Emile Champagne + Noah-Charles Drouin,Les p’tits fantastiques,1,0,1,0,,,Victoria Martel,Arthur  Martel,Noah-Charles Drouin,Emile Champagne
-Group Stage,5.0-4.5 - Mixte Élite,Group A,1,Single game,Princess,Pour Québec!,Princess,15,4,,,,,Maxime Prince,Laurence Vallée,Caroline Nadeau,Benjamin Alleau
-Group Stage,5.0-4.5 - Mixte Élite,Group A,1,Single game,Les mille maux,French Roast,French Roast,9,15,,,,,Simon Arseneau,Alice Leroux-Chartier,Manon Caron,Clement Lavice
-Group Stage,5.0-4.5 - Mixte Élite,Group B,1,Single game,Bingo,Spike’n’Roll,Bingo,21,6,,,,,Adele Lapointe-Roy,Alexandre Vaillancourt,Léa Suzor,Axel Guimberteau
-Group Stage,5.0-4.5 - Mixte Élite,Group B,1,Single game,Silk Touch ⛏️,Les lopettes,Silk Touch ⛏️,21,16,,,,,Jade Marchand,Léo Guérin-Morneau,Maximus Patry,Mirah Duarte
-Group Stage,5.0-4.5 - Mixte Élite,Group A,2,Single game,Princess,French Roast,Princess,15,3,,,,,Maxime Prince,Laurence Vallée,Manon Caron,Clement Lavice
-Group Stage,5.0-4.5 - Mixte Élite,Group A,2,Single game,Les mille maux,Pour Québec!,Pour Québec!,13,15,,,,,Simon Arseneau,Alice Leroux-Chartier,Caroline Nadeau,Benjamin Alleau
-Group Stage,5.0-4.5 - Mixte Élite,Group B,2,Single game,Bingo,Les lopettes,Bingo,21,7,,,,,Adele Lapointe-Roy,Alexandre Vaillancourt,Maximus Patry,Mirah Duarte
-Group Stage,5.0-4.5 - Mixte Élite,Group B,2,Single game,Les daddys font la père,Spike’n’Roll,Les daddys font la père,21,7,,,,,Kevin Plante,Lorianne Gonzalez-Bayard,Léa Suzor,Axel Guimberteau
-Group Stage,5.0-4.5 - Mixte Élite,Group A,3,Single game,Princess,Les mille maux,Princess,15,2,,,,,Maxime Prince,Laurence Vallée,Simon Arseneau,Alice Leroux-Chartier
-Group Stage,5.0-4.5 - Mixte Élite,Group A,3,Single game,French Roast,Pour Québec!,French Roast,15,3,,,,,Manon Caron,Clement Lavice,Caroline Nadeau,Benjamin Alleau
-Group Stage,5.0-4.5 - Mixte Élite,Group B,3,Single game,Bingo,Les daddys font la père,Bingo,21,13,,,,,Adele Lapointe-Roy,Alexandre Vaillancourt,Kevin Plante,Lorianne Gonzalez-Bayard
-Group Stage,5.0-4.5 - Mixte Élite,Group B,3,Single game,Silk Touch ⛏️,Spike’n’Roll,Silk Touch ⛏️,21,10,,,,,Jade Marchand,Léo Guérin-Morneau,Léa Suzor,Axel Guimberteau
-Group Stage,5.0-4.5 - Mixte Élite,Group B,4,Single game,Silk Touch ⛏️,Les daddys font la père,Les daddys font la père,18,21,,,,,Jade Marchand,Léo Guérin-Morneau,Kevin Plante,Lorianne Gonzalez-Bayard
-Group Stage,5.0-4.5 - Mixte Élite,Group B,4,Single game,Les lopettes,Spike’n’Roll,Les lopettes,21,12,,,,,Maximus Patry,Mirah Duarte,Léa Suzor,Axel Guimberteau
-Group Stage,5.0-4.5 - Mixte Élite,Group B,5,Single game,Bingo,Silk Touch ⛏️,Bingo,21,9,,,,,Adele Lapointe-Roy,Alexandre Vaillancourt,Jade Marchand,Léo Guérin-Morneau
-Group Stage,5.0-4.5 - Mixte Élite,Group B,5,Single game,Les daddys font la père,Les lopettes,Les daddys font la père,21,9,,,,,Kevin Plante,Lorianne Gonzalez-Bayard,Maximus Patry,Mirah Duarte
-Group Stage,5.0-4.5 - Mixte Élite,Group A,4,Single game,Princess,Pour Québec!,Princess,15,4,,,,,Maxime Prince,Laurence Vallée,Caroline Nadeau,Benjamin Alleau
-Group Stage,5.0-4.5 - Mixte Élite,Group A,4,Single game,Les mille maux,French Roast,French Roast,7,15,,,,,Simon Arseneau,Alice Leroux-Chartier,Manon Caron,Clement Lavice
-Group Stage,5.0-4.5 - Mixte Élite,Group A,5,Single game,Princess,French Roast,Princess,15,6,,,,,Maxime Prince,Laurence Vallée,Manon Caron,Clement Lavice
-Group Stage,5.0-4.5 - Mixte Élite,Group A,5,Single game,Les mille maux,Pour Québec!,Les mille maux,15,11,,,,,Simon Arseneau,Alice Leroux-Chartier,Caroline Nadeau,Benjamin Alleau
-Group Stage,5.0-4.5 - Mixte Élite,Group A,6,Single game,Princess,Les mille maux,Princess,15,3,,,,,Maxime Prince,Laurence Vallée,Simon Arseneau,Alice Leroux-Chartier
-Group Stage,5.0-4.5 - Mixte Élite,Group A,6,Single game,French Roast,Pour Québec!,French Roast,15,7,,,,,Manon Caron,Clement Lavice,Caroline Nadeau,Benjamin Alleau
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,Round of 16,Best of 3,Pour Québec!,Spike’n’Roll,Pour Québec!,21,7,21,9,,,Caroline Nadeau,Benjamin Alleau,Léa Suzor,Axel Guimberteau
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,Quarter-final,Best of 3,Princess,Pour Québec!,Princess,21,4,21,14,,,Maxime Prince,Laurence Vallée,Caroline Nadeau,Benjamin Alleau
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,Quarter-final,Best of 3,Bingo,Les mille maux,Bingo,21,7,21,9,,,Adele Lapointe-Roy,Alexandre Vaillancourt,Simon Arseneau,Alice Leroux-Chartier
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,Quarter-final,Best of 3,French Roast,Les lopettes,French Roast,21,9,21,17,,,Manon Caron,Clement Lavice,Maximus Patry,Mirah Duarte
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,Quarter-final,Best of 3,Les daddys font la père,Silk Touch ⛏️,Silk Touch ⛏️,21,16,17,21,0,1,Kevin Plante,Lorianne Gonzalez-Bayard,Jade Marchand,Léo Guérin-Morneau
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,Semi-final,Best of 3,Princess,Silk Touch ⛏️,Princess,1,0,1,0,,,Maxime Prince,Laurence Vallée,Jade Marchand,Léo Guérin-Morneau
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,Semi-final,Best of 3,Bingo,French Roast,Bingo,14,21,21,11,21,11,Adele Lapointe-Roy,Alexandre Vaillancourt,Manon Caron,Clement Lavice
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,P5: Semi-final,Best of 3,Les daddys font la père,Pour Québec!,Pour Québec!,13,15,13,15,,,Kevin Plante,Lorianne Gonzalez-Bayard,Caroline Nadeau,Benjamin Alleau
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,P5: Semi-final,Best of 3,Les lopettes,Les mille maux,Les lopettes,22,20,22,20,,,Maximus Patry,Mirah Duarte,Simon Arseneau,Alice Leroux-Chartier
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,Final,Best of 3,Princess,Bingo,Princess,21,18,18,21,21,16,Maxime Prince,Laurence Vallée,Adele Lapointe-Roy,Alexandre Vaillancourt
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,P3: Final,Best of 3,French Roast,Silk Touch ⛏️,French Roast,17,15,13,15,15,5,Manon Caron,Clement Lavice,Jade Marchand,Léo Guérin-Morneau
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,P5: Final,Best of 3,Pour Québec!,Les lopettes,Pour Québec!,22,20,22,20,,,Caroline Nadeau,Benjamin Alleau,Maximus Patry,Mirah Duarte
-Bracket Stage,5.0-4.5 - Mixte Élite,Bracket A,P7: Final,Best of 3,Les mille maux,Les daddys font la père,Les mille maux,21,19,21,19,,,Simon Arseneau,Alice Leroux-Chartier,Kevin Plante,Lorianne Gonzalez-Bayard
+Bracket Stage,4.0 - Avancé,Bracket A,P7: Final,Single game,Spike ball enthousiastes,Frencheese 🧀,Frencheese 🧀,0,1,,,,,Nathan Marcoux,Louis Corbeil,Solene Manescau,Fanette Bourdens

@@ -1,0 +1,150 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,5.0 Open Premier/Bronze+,Group A,1,Single game,spot on,Hero Callers,spot on,21,17,,,,,Will Ries,Nick Wideman,Jason Xu,Nicolas Caballero
+Pool Play,5.0 Open Premier/Bronze+,Group A,1,Single game,Rice Rocket,Josh/Calvin,Rice Rocket,21,17,,,,,Carlin Vicera,Jeffrey Cheng,Josh Wozniak,Calvin Cai
+Pool Play,5.0 Open Premier/Bronze+,Group B,1,Single game,Algorithm,Abysmall,Algorithm,21,10,,,,,Solomon Berry,Juan Moscoso,Jason Small,Zachary Abas
+Pool Play,5.0 Open Premier/Bronze+,Group B,1,Single game,Cool Cool LJ,Be Nice or Else,Be Nice or Else,13,21,,,,,Joshua Grant,lucas peng,Jensen Elsemore,Max Nice
+Pool Play,5.0 Open Premier/Bronze+,Group A,2,Single game,spot on,Josh/Calvin,spot on,21,12,,,,,Will Ries,Nick Wideman,Josh Wozniak,Calvin Cai
+Pool Play,5.0 Open Premier/Bronze+,Group A,2,Single game,Segeon/Erick,Hero Callers,Hero Callers,18,21,,,,,Segeon Jang,Erick Ostheimer,Jason Xu,Nicolas Caballero
+Pool Play,5.0 Open Premier/Bronze+,Group B,2,Single game,Algorithm,Be Nice or Else,Algorithm,21,14,,,,,Solomon Berry,Juan Moscoso,Jensen Elsemore,Max Nice
+Pool Play,5.0 Open Premier/Bronze+,Group B,2,Single game,Cool Cool LJ,Abysmall,Abysmall,14,21,,,,,Joshua Grant,lucas peng,Jason Small,Zachary Abas
+Pool Play,5.0 Open Premier/Bronze+,Group A,3,Single game,spot on,Segeon/Erick,spot on,21,15,,,,,Will Ries,Nick Wideman,Segeon Jang,Erick Ostheimer
+Pool Play,5.0 Open Premier/Bronze+,Group A,3,Single game,Rice Rocket,Hero Callers,Hero Callers,15,21,,,,,Carlin Vicera,Jeffrey Cheng,Jason Xu,Nicolas Caballero
+Pool Play,5.0 Open Premier/Bronze+,Group B,3,Single game,Algorithm,Cool Cool LJ,Algorithm,21,7,,,,,Solomon Berry,Juan Moscoso,Joshua Grant,lucas peng
+Pool Play,5.0 Open Premier/Bronze+,Group B,3,Single game,Be Nice or Else,Abysmall,Be Nice or Else,22,20,,,,,Jensen Elsemore,Max Nice,Jason Small,Zachary Abas
+Pool Play,5.0 Open Premier/Bronze+,Group A,4,Single game,Rice Rocket,Segeon/Erick,Segeon/Erick,19,21,,,,,Carlin Vicera,Jeffrey Cheng,Segeon Jang,Erick Ostheimer
+Pool Play,5.0 Open Premier/Bronze+,Group A,4,Single game,Josh/Calvin,Hero Callers,Hero Callers,20,21,,,,,Josh Wozniak,Calvin Cai,Jason Xu,Nicolas Caballero
+Pool Play,5.0 Open Premier/Bronze+,Group A,5,Single game,spot on,Rice Rocket,spot on,21,12,,,,,Will Ries,Nick Wideman,Carlin Vicera,Jeffrey Cheng
+Pool Play,5.0 Open Premier/Bronze+,Group A,5,Single game,Segeon/Erick,Josh/Calvin,Josh/Calvin,20,21,,,,,Segeon Jang,Erick Ostheimer,Josh Wozniak,Calvin Cai
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Round of 16,Best of 3,Josh/Calvin,Cool Cool LJ,Josh/Calvin,23,21,21,18,,,Josh Wozniak,Calvin Cai,Joshua Grant,lucas peng
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Algorithm,Josh/Calvin,Algorithm,21,11,21,9,,,Solomon Berry,Juan Moscoso,Josh Wozniak,Calvin Cai
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Quarter-final,Best of 3,spot on,Rice Rocket,spot on,23,25,21,15,21,17,Will Ries,Nick Wideman,Carlin Vicera,Jeffrey Cheng
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Hero Callers,Segeon/Erick,Hero Callers,20,22,21,8,21,12,Jason Xu,Nicolas Caballero,Segeon Jang,Erick Ostheimer
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Quarter-final,Best of 3,Be Nice or Else,Abysmall,Abysmall,21,19,9,21,22,24,Jensen Elsemore,Max Nice,Jason Small,Zachary Abas
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Semi-final,Best of 3,Algorithm,Abysmall,Algorithm,21,6,21,14,,,Solomon Berry,Juan Moscoso,Jason Small,Zachary Abas
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Semi-final,Best of 3,spot on,Hero Callers,spot on,21,17,21,13,,,Will Ries,Nick Wideman,Jason Xu,Nicolas Caballero
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,P5: Semi-final,Best of 3,Be Nice or Else,Josh/Calvin,Josh/Calvin,18,21,-1,0,,,Jensen Elsemore,Max Nice,Josh Wozniak,Calvin Cai
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,P5: Semi-final,Best of 3,Segeon/Erick,Rice Rocket,Rice Rocket,19,21,14,21,,,Segeon Jang,Erick Ostheimer,Carlin Vicera,Jeffrey Cheng
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,Final,Best of 3,Algorithm,spot on,spot on,19,21,21,17,-1,0,Solomon Berry,Juan Moscoso,Will Ries,Nick Wideman
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,P3: Final,Best of 3,Hero Callers,Abysmall,Abysmall,14,21,21,14,17,21,Jason Xu,Nicolas Caballero,Jason Small,Zachary Abas
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,P5: Final,Single game,Josh/Calvin,Rice Rocket,Rice Rocket,15,21,,,,,Josh Wozniak,Calvin Cai,Carlin Vicera,Jeffrey Cheng
+Bracket Stage,5.0 Open Premier/Bronze+,Bracket A,P7: Final,Single game,Segeon/Erick,Be Nice or Else,Segeon/Erick,1,0,,,,,Segeon Jang,Erick Ostheimer,Jensen Elsemore,Max Nice
+Pool Play,Women's Advanced/Intermediate,Group A,1,Single game,Yu/Morehouse,Networking? I sure hope it does,Yu/Morehouse,17,3,,,,,Stacy Yu,Maddy Morehouse,Jenna M,Chantal Simono
+Pool Play,Women's Advanced/Intermediate,Group A,1,Single game,Banana Spaghetti,Spikological Warfare,Banana Spaghetti,17,2,,,,,Betty Yan,Rachel Cheung,Brooke Lightburn,Neenah Williams
+Pool Play,Women's Advanced/Intermediate,Group A,1,Single game,Les Goh,Mission Impossible,Les Goh,17,6,,,,,Chau Nguyen,Caroline Chin,Joani Su,Alex Palmer
+Pool Play,Women's Advanced/Intermediate,Group A,2,Single game,Yu/Morehouse,Spikological Warfare,Yu/Morehouse,17,4,,,,,Stacy Yu,Maddy Morehouse,Brooke Lightburn,Neenah Williams
+Pool Play,Women's Advanced/Intermediate,Group A,2,Single game,Banana Spaghetti,Team Evelyn and Deepti,Banana Spaghetti,17,7,,,,,Betty Yan,Rachel Cheung,Deepti Prabha,Evelyn Hootman
+Pool Play,Women's Advanced/Intermediate,Group A,2,Single game,Mission Impossible,Networking? I sure hope it does,Mission Impossible,17,11,,,,,Joani Su,Alex Palmer,Jenna M,Chantal Simono
+Pool Play,Women's Advanced/Intermediate,Group A,3,Single game,Yu/Morehouse,Mission Impossible,Yu/Morehouse,17,2,,,,,Stacy Yu,Maddy Morehouse,Joani Su,Alex Palmer
+Pool Play,Women's Advanced/Intermediate,Group A,3,Single game,Banana Spaghetti,Les Goh,Banana Spaghetti,17,14,,,,,Betty Yan,Rachel Cheung,Chau Nguyen,Caroline Chin
+Pool Play,Women's Advanced/Intermediate,Group A,3,Single game,Team Evelyn and Deepti,Spikological Warfare,Team Evelyn and Deepti,17,9,,,,,Deepti Prabha,Evelyn Hootman,Brooke Lightburn,Neenah Williams
+Pool Play,Women's Advanced/Intermediate,Group A,4,Single game,Yu/Morehouse,Team Evelyn and Deepti,Yu/Morehouse,17,5,,,,,Stacy Yu,Maddy Morehouse,Deepti Prabha,Evelyn Hootman
+Pool Play,Women's Advanced/Intermediate,Group A,4,Single game,Banana Spaghetti,Networking? I sure hope it does,Banana Spaghetti,17,7,,,,,Betty Yan,Rachel Cheung,Jenna M,Chantal Simono
+Pool Play,Women's Advanced/Intermediate,Group A,4,Single game,Les Goh,Spikological Warfare,Les Goh,17,4,,,,,Chau Nguyen,Caroline Chin,Brooke Lightburn,Neenah Williams
+Pool Play,Women's Advanced/Intermediate,Group A,5,Single game,Banana Spaghetti,Mission Impossible,Banana Spaghetti,17,6,,,,,Betty Yan,Rachel Cheung,Joani Su,Alex Palmer
+Pool Play,Women's Advanced/Intermediate,Group A,5,Single game,Les Goh,Team Evelyn and Deepti,Les Goh,17,8,,,,,Chau Nguyen,Caroline Chin,Deepti Prabha,Evelyn Hootman
+Pool Play,Women's Advanced/Intermediate,Group A,5,Single game,Spikological Warfare,Networking? I sure hope it does,Spikological Warfare,17,15,,,,,Brooke Lightburn,Neenah Williams,Jenna M,Chantal Simono
+Pool Play,Women's Advanced/Intermediate,Group A,6,Single game,Yu/Morehouse,Les Goh,Yu/Morehouse,17,8,,,,,Stacy Yu,Maddy Morehouse,Chau Nguyen,Caroline Chin
+Pool Play,Women's Advanced/Intermediate,Group A,6,Single game,Team Evelyn and Deepti,Networking? I sure hope it does,Networking? I sure hope it does,12,17,,,,,Deepti Prabha,Evelyn Hootman,Jenna M,Chantal Simono
+Pool Play,Women's Advanced/Intermediate,Group A,6,Single game,Mission Impossible,Spikological Warfare,Mission Impossible,17,13,,,,,Joani Su,Alex Palmer,Brooke Lightburn,Neenah Williams
+Pool Play,Women's Advanced/Intermediate,Group A,7,Single game,Yu/Morehouse,Banana Spaghetti,Yu/Morehouse,17,10,,,,,Stacy Yu,Maddy Morehouse,Betty Yan,Rachel Cheung
+Pool Play,Women's Advanced/Intermediate,Group A,7,Single game,Les Goh,Networking? I sure hope it does,Les Goh,17,6,,,,,Chau Nguyen,Caroline Chin,Jenna M,Chantal Simono
+Pool Play,Women's Advanced/Intermediate,Group A,7,Single game,Team Evelyn and Deepti,Mission Impossible,Team Evelyn and Deepti,17,9,,,,,Deepti Prabha,Evelyn Hootman,Joani Su,Alex Palmer
+Bracket Stage,Women's Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,Banana Spaghetti,Spikological Warfare,Banana Spaghetti,1,0,1,0,,,Betty Yan,Rachel Cheung,Brooke Lightburn,Neenah Williams
+Bracket Stage,Women's Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,Les Goh,Networking? I sure hope it does,Les Goh,1,0,1,0,,,Chau Nguyen,Caroline Chin,Jenna M,Chantal Simono
+Bracket Stage,Women's Advanced/Intermediate,Bracket A,Quarter-final,Best of 3,Team Evelyn and Deepti,Mission Impossible,Team Evelyn and Deepti,0,1,1,0,1,0,Deepti Prabha,Evelyn Hootman,Joani Su,Alex Palmer
+Bracket Stage,Women's Advanced/Intermediate,Bracket A,Semi-final,Best of 3,Yu/Morehouse,Team Evelyn and Deepti,Yu/Morehouse,21,4,21,5,,,Stacy Yu,Maddy Morehouse,Deepti Prabha,Evelyn Hootman
+Bracket Stage,Women's Advanced/Intermediate,Bracket A,Semi-final,Best of 3,Banana Spaghetti,Les Goh,Banana Spaghetti,1,0,1,0,,,Betty Yan,Rachel Cheung,Chau Nguyen,Caroline Chin
+Bracket Stage,Women's Advanced/Intermediate,Bracket A,Final,Best of 3,Yu/Morehouse,Banana Spaghetti,Yu/Morehouse,21,9,21,13,,,Stacy Yu,Maddy Morehouse,Betty Yan,Rachel Cheung
+Bracket Stage,Women's Advanced/Intermediate,Bracket A,P3: Final,Best of 3,Les Goh,Team Evelyn and Deepti,Les Goh,1,0,1,0,,,Chau Nguyen,Caroline Chin,Deepti Prabha,Evelyn Hootman
+Pool Play,4.0 Open Contender,Group A,1,Single game,Rusty,Prairie Poutine Spikers,Rusty,17,8,,,,,Justin White,Blake Clarke,Francois Martel,Taylor Bailey
+Pool Play,4.0 Open Contender,Group A,1,Single game,Team Aidan,Ashaun/Caleb,Team Aidan,17,14,,,,,Aidan Erickson,Mo ElMoursi,Ashaun Anand,Caleb Poznikoff
+Pool Play,4.0 Open Contender,Group A,1,Single game,Just Hungry,Andy/Rico,Just Hungry,17,6,,,,,Quentin Chiu,Winston Brandt,Andrew Samson,Rico Li
+Pool Play,4.0 Open Contender,Group B,1,Single game,Fresh Doh on a Plater,Smack n Cheese,Fresh Doh on a Plater,17,10,,,,,Thai Do,Jack Plater,Alex Ensworth,Matija Erceg
+Pool Play,4.0 Open Contender,Group B,1,Single game,Zabu,Alec/Nate,Zabu,17,4,,,,,Ethan Ma,La John,Nate Yandle,Alec Read
+Pool Play,4.0 Open Contender,Group B,1,Single game,Peter/Joel,The Inters,Peter/Joel,17,9,,,,,Joel Kim,Peter Riegle,Vishnu Bhasker,Remy Nguyen
+Pool Play,4.0 Open Contender,Group A,2,Single game,Rusty,Ashaun/Caleb,Rusty,17,14,,,,,Justin White,Blake Clarke,Ashaun Anand,Caleb Poznikoff
+Pool Play,4.0 Open Contender,Group A,2,Single game,Team Aidan,this one’s cutting,Team Aidan,17,10,,,,,Aidan Erickson,Mo ElMoursi,Timothy HAN,Edward Cheng
+Pool Play,4.0 Open Contender,Group A,2,Single game,Andy/Rico,Prairie Poutine Spikers,Prairie Poutine Spikers,11,17,,,,,Andrew Samson,Rico Li,Francois Martel,Taylor Bailey
+Pool Play,4.0 Open Contender,Group B,2,Single game,Fresh Doh on a Plater,Alec/Nate,Fresh Doh on a Plater,17,9,,,,,Thai Do,Jack Plater,Nate Yandle,Alec Read
+Pool Play,4.0 Open Contender,Group B,2,Single game,Zabu,Broken Clock,Zabu,21,20,,,,,Ethan Ma,La John,Patrick McManus,Hongyi Zhu
+Pool Play,4.0 Open Contender,Group B,2,Single game,The Inters,Smack n Cheese,The Inters,17,9,,,,,Vishnu Bhasker,Remy Nguyen,Alex Ensworth,Matija Erceg
+Pool Play,4.0 Open Contender,Group A,3,Single game,Rusty,Andy/Rico,Rusty,17,8,,,,,Justin White,Blake Clarke,Andrew Samson,Rico Li
+Pool Play,4.0 Open Contender,Group A,3,Single game,Team Aidan,Just Hungry,Team Aidan,17,5,,,,,Aidan Erickson,Mo ElMoursi,Quentin Chiu,Winston Brandt
+Pool Play,4.0 Open Contender,Group A,3,Single game,this one’s cutting,Ashaun/Caleb,Ashaun/Caleb,16,18,,,,,Timothy HAN,Edward Cheng,Ashaun Anand,Caleb Poznikoff
+Pool Play,4.0 Open Contender,Group B,3,Single game,Fresh Doh on a Plater,The Inters,Fresh Doh on a Plater,17,10,,,,,Thai Do,Jack Plater,Vishnu Bhasker,Remy Nguyen
+Pool Play,4.0 Open Contender,Group B,3,Single game,Zabu,Peter/Joel,Zabu,17,8,,,,,Ethan Ma,La John,Joel Kim,Peter Riegle
+Pool Play,4.0 Open Contender,Group B,3,Single game,Broken Clock,Alec/Nate,Broken Clock,17,3,,,,,Patrick McManus,Hongyi Zhu,Nate Yandle,Alec Read
+Pool Play,4.0 Open Contender,Group A,4,Single game,Rusty,this one’s cutting,Rusty,17,13,,,,,Justin White,Blake Clarke,Timothy HAN,Edward Cheng
+Pool Play,4.0 Open Contender,Group A,4,Single game,Team Aidan,Prairie Poutine Spikers,Team Aidan,17,10,,,,,Aidan Erickson,Mo ElMoursi,Francois Martel,Taylor Bailey
+Pool Play,4.0 Open Contender,Group A,4,Single game,Just Hungry,Ashaun/Caleb,Just Hungry,17,12,,,,,Quentin Chiu,Winston Brandt,Ashaun Anand,Caleb Poznikoff
+Pool Play,4.0 Open Contender,Group B,4,Single game,Fresh Doh on a Plater,Broken Clock,Broken Clock,15,17,,,,,Thai Do,Jack Plater,Patrick McManus,Hongyi Zhu
+Pool Play,4.0 Open Contender,Group B,4,Single game,Zabu,Smack n Cheese,Zabu,17,6,,,,,Ethan Ma,La John,Alex Ensworth,Matija Erceg
+Pool Play,4.0 Open Contender,Group B,4,Single game,Peter/Joel,Alec/Nate,Peter/Joel,17,11,,,,,Joel Kim,Peter Riegle,Nate Yandle,Alec Read
+Pool Play,4.0 Open Contender,Group A,5,Single game,Team Aidan,Andy/Rico,Team Aidan,17,5,,,,,Aidan Erickson,Mo ElMoursi,Andrew Samson,Rico Li
+Pool Play,4.0 Open Contender,Group A,5,Single game,Just Hungry,this one’s cutting,Just Hungry,17,12,,,,,Quentin Chiu,Winston Brandt,Timothy HAN,Edward Cheng
+Pool Play,4.0 Open Contender,Group A,5,Single game,Ashaun/Caleb,Prairie Poutine Spikers,Ashaun/Caleb,17,12,,,,,Ashaun Anand,Caleb Poznikoff,Francois Martel,Taylor Bailey
+Pool Play,4.0 Open Contender,Group B,5,Single game,Zabu,The Inters,Zabu,17,3,,,,,Ethan Ma,La John,Vishnu Bhasker,Remy Nguyen
+Pool Play,4.0 Open Contender,Group B,5,Single game,Peter/Joel,Broken Clock,Broken Clock,6,17,,,,,Joel Kim,Peter Riegle,Patrick McManus,Hongyi Zhu
+Pool Play,4.0 Open Contender,Group B,5,Single game,Alec/Nate,Smack n Cheese,Alec/Nate,17,12,,,,,Nate Yandle,Alec Read,Alex Ensworth,Matija Erceg
+Pool Play,4.0 Open Contender,Group A,6,Single game,Rusty,Just Hungry,Rusty,17,9,,,,,Justin White,Blake Clarke,Quentin Chiu,Winston Brandt
+Pool Play,4.0 Open Contender,Group A,6,Single game,this one’s cutting,Prairie Poutine Spikers,this one’s cutting,17,6,,,,,Timothy HAN,Edward Cheng,Francois Martel,Taylor Bailey
+Pool Play,4.0 Open Contender,Group A,6,Single game,Andy/Rico,Ashaun/Caleb,Ashaun/Caleb,9,17,,,,,Andrew Samson,Rico Li,Ashaun Anand,Caleb Poznikoff
+Pool Play,4.0 Open Contender,Group B,6,Single game,Fresh Doh on a Plater,Peter/Joel,Fresh Doh on a Plater,17,13,,,,,Thai Do,Jack Plater,Joel Kim,Peter Riegle
+Pool Play,4.0 Open Contender,Group B,6,Single game,Broken Clock,Smack n Cheese,Broken Clock,17,6,,,,,Patrick McManus,Hongyi Zhu,Alex Ensworth,Matija Erceg
+Pool Play,4.0 Open Contender,Group B,6,Single game,The Inters,Alec/Nate,Alec/Nate,12,17,,,,,Vishnu Bhasker,Remy Nguyen,Nate Yandle,Alec Read
+Pool Play,4.0 Open Contender,Group A,7,Single game,Rusty,Team Aidan,Team Aidan,13,17,,,,,Justin White,Blake Clarke,Aidan Erickson,Mo ElMoursi
+Pool Play,4.0 Open Contender,Group A,7,Single game,Just Hungry,Prairie Poutine Spikers,Just Hungry,17,8,,,,,Quentin Chiu,Winston Brandt,Francois Martel,Taylor Bailey
+Pool Play,4.0 Open Contender,Group A,7,Single game,this one’s cutting,Andy/Rico,this one’s cutting,20,18,,,,,Timothy HAN,Edward Cheng,Andrew Samson,Rico Li
+Pool Play,4.0 Open Contender,Group B,7,Single game,Fresh Doh on a Plater,Zabu,Fresh Doh on a Plater,17,10,,,,,Thai Do,Jack Plater,Ethan Ma,La John
+Pool Play,4.0 Open Contender,Group B,7,Single game,Peter/Joel,Smack n Cheese,Peter/Joel,17,2,,,,,Joel Kim,Peter Riegle,Alex Ensworth,Matija Erceg
+Pool Play,4.0 Open Contender,Group B,7,Single game,Broken Clock,The Inters,Broken Clock,17,5,,,,,Patrick McManus,Hongyi Zhu,Vishnu Bhasker,Remy Nguyen
+Bracket Stage,4.0 Open Contender,Bracket A,Round of 16,Best of 3,Fresh Doh on a Plater,Andy/Rico,Fresh Doh on a Plater,21,12,21,13,,,Thai Do,Jack Plater,Andrew Samson,Rico Li
+Bracket Stage,4.0 Open Contender,Bracket A,Round of 16,Best of 3,Rusty,The Inters,Rusty,21,8,21,9,,,Justin White,Blake Clarke,Vishnu Bhasker,Remy Nguyen
+Bracket Stage,4.0 Open Contender,Bracket A,Round of 16,Best of 3,Just Hungry,Prairie Poutine Spikers,Just Hungry,21,13,21,7,,,Quentin Chiu,Winston Brandt,Francois Martel,Taylor Bailey
+Bracket Stage,4.0 Open Contender,Bracket A,Round of 16,Best of 3,Peter/Joel,Alec/Nate,Peter/Joel,21,15,21,9,,,Joel Kim,Peter Riegle,Nate Yandle,Alec Read
+Bracket Stage,4.0 Open Contender,Bracket A,Round of 16,Best of 3,Ashaun/Caleb,this one’s cutting,Ashaun/Caleb,21,17,21,10,,,Ashaun Anand,Caleb Poznikoff,Timothy HAN,Edward Cheng
+Bracket Stage,4.0 Open Contender,Bracket A,Quarter-final,Best of 3,Team Aidan,Ashaun/Caleb,Team Aidan,21,17,21,15,,,Aidan Erickson,Mo ElMoursi,Ashaun Anand,Caleb Poznikoff
+Bracket Stage,4.0 Open Contender,Bracket A,Quarter-final,Best of 3,Broken Clock,Peter/Joel,Broken Clock,21,18,21,7,,,Patrick McManus,Hongyi Zhu,Joel Kim,Peter Riegle
+Bracket Stage,4.0 Open Contender,Bracket A,Quarter-final,Best of 3,Zabu,Just Hungry,Zabu,21,18,18,21,21,15,Ethan Ma,La John,Quentin Chiu,Winston Brandt
+Bracket Stage,4.0 Open Contender,Bracket A,Quarter-final,Best of 3,Fresh Doh on a Plater,Rusty,Rusty,15,21,17,21,,,Thai Do,Jack Plater,Justin White,Blake Clarke
+Bracket Stage,4.0 Open Contender,Bracket A,P9: Quarter-final,Best of 3,The Inters,Andy/Rico,Andy/Rico,18,21,21,14,19,21,Vishnu Bhasker,Remy Nguyen,Andrew Samson,Rico Li
+Bracket Stage,4.0 Open Contender,Bracket A,Semi-final,Best of 3,Team Aidan,Rusty,Team Aidan,16,21,21,18,21,15,Aidan Erickson,Mo ElMoursi,Justin White,Blake Clarke
+Bracket Stage,4.0 Open Contender,Bracket A,Semi-final,Best of 3,Broken Clock,Zabu,Broken Clock,16,21,21,17,21,19,Patrick McManus,Hongyi Zhu,Ethan Ma,La John
+Bracket Stage,4.0 Open Contender,Bracket A,P5: Semi-final,Best of 3,Fresh Doh on a Plater,Ashaun/Caleb,Ashaun/Caleb,18,21,0,1,,,Thai Do,Jack Plater,Ashaun Anand,Caleb Poznikoff
+Bracket Stage,4.0 Open Contender,Bracket A,P5: Semi-final,Best of 3,Just Hungry,Peter/Joel,Just Hungry,21,7,1,0,,,Quentin Chiu,Winston Brandt,Joel Kim,Peter Riegle
+Bracket Stage,4.0 Open Contender,Bracket A,P9: Semi-final,Best of 3,this one’s cutting,Andy/Rico,this one’s cutting,21,17,21,14,,,Timothy HAN,Edward Cheng,Andrew Samson,Rico Li
+Bracket Stage,4.0 Open Contender,Bracket A,P9: Semi-final,Best of 3,Alec/Nate,Prairie Poutine Spikers,Alec/Nate,19,21,21,19,21,19,Nate Yandle,Alec Read,Francois Martel,Taylor Bailey
+Bracket Stage,4.0 Open Contender,Bracket A,Final,Best of 3,Team Aidan,Broken Clock,Team Aidan,21,17,21,19,,,Aidan Erickson,Mo ElMoursi,Patrick McManus,Hongyi Zhu
+Bracket Stage,4.0 Open Contender,Bracket A,P3: Final,Single game,Zabu,Rusty,Zabu,1,0,,,,,Ethan Ma,La John,Justin White,Blake Clarke
+Bracket Stage,4.0 Open Contender,Bracket A,P5: Final,Single game,Ashaun/Caleb,Just Hungry,Just Hungry,22,24,,,,,Ashaun Anand,Caleb Poznikoff,Quentin Chiu,Winston Brandt
+Bracket Stage,4.0 Open Contender,Bracket A,P7: Final,Single game,Peter/Joel,Fresh Doh on a Plater,Fresh Doh on a Plater,0,1,,,,,Joel Kim,Peter Riegle,Thai Do,Jack Plater
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,1,Single game,HUCK DYNASTY,Adobros,HUCK DYNASTY,17,13,,,,,Scott Xu,Matt Li,Rhys Dobson,Zaiah Dobson
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,1,Single game,May the 3rd,The Apple Pickers,May the 3rd,17,9,,,,,Peter Miyoshi,Chris Concha,Trevor Gysbertsen,Tom Jones
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,1,Single game,#opentowork,Divers,#opentowork,17,1,,,,,Jacky Chen,Kumail Chinoy,Pablo Garcia,David Joseph
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,2,Single game,HUCK DYNASTY,The Apple Pickers,The Apple Pickers,11,17,,,,,Scott Xu,Matt Li,Trevor Gysbertsen,Tom Jones
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,2,Single game,May the 3rd,David/Armin,David/Armin,14,17,,,,,Peter Miyoshi,Chris Concha,David Minic,Armin Brajlovic
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,2,Single game,Divers,Adobros,Adobros,3,17,,,,,Pablo Garcia,David Joseph,Rhys Dobson,Zaiah Dobson
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,3,Single game,HUCK DYNASTY,Divers,HUCK DYNASTY,17,5,,,,,Scott Xu,Matt Li,Pablo Garcia,David Joseph
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,3,Single game,May the 3rd,#opentowork,#opentowork,9,17,,,,,Peter Miyoshi,Chris Concha,Jacky Chen,Kumail Chinoy
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,3,Single game,David/Armin,The Apple Pickers,David/Armin,17,7,,,,,David Minic,Armin Brajlovic,Trevor Gysbertsen,Tom Jones
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,4,Single game,HUCK DYNASTY,David/Armin,David/Armin,10,17,,,,,Scott Xu,Matt Li,David Minic,Armin Brajlovic
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,4,Single game,May the 3rd,Adobros,May the 3rd,17,7,,,,,Peter Miyoshi,Chris Concha,Rhys Dobson,Zaiah Dobson
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,4,Single game,#opentowork,The Apple Pickers,#opentowork,17,13,,,,,Jacky Chen,Kumail Chinoy,Trevor Gysbertsen,Tom Jones
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,5,Single game,May the 3rd,Divers,May the 3rd,17,9,,,,,Peter Miyoshi,Chris Concha,Pablo Garcia,David Joseph
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,5,Single game,#opentowork,David/Armin,#opentowork,17,12,,,,,Jacky Chen,Kumail Chinoy,David Minic,Armin Brajlovic
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,5,Single game,The Apple Pickers,Adobros,The Apple Pickers,17,7,,,,,Trevor Gysbertsen,Tom Jones,Rhys Dobson,Zaiah Dobson
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,6,Single game,HUCK DYNASTY,#opentowork,#opentowork,7,17,,,,,Scott Xu,Matt Li,Jacky Chen,Kumail Chinoy
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,6,Single game,David/Armin,Adobros,David/Armin,17,7,,,,,David Minic,Armin Brajlovic,Rhys Dobson,Zaiah Dobson
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,6,Single game,Divers,The Apple Pickers,The Apple Pickers,8,17,,,,,Pablo Garcia,David Joseph,Trevor Gysbertsen,Tom Jones
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,7,Single game,HUCK DYNASTY,May the 3rd,May the 3rd,10,17,,,,,Scott Xu,Matt Li,Peter Miyoshi,Chris Concha
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,7,Single game,#opentowork,Adobros,#opentowork,17,9,,,,,Jacky Chen,Kumail Chinoy,Rhys Dobson,Zaiah Dobson
+Pool Play,2.0-3.0 Open Beginner/Intermediate,Group A,7,Single game,David/Armin,Divers,David/Armin,17,7,,,,,David Minic,Armin Brajlovic,Pablo Garcia,David Joseph
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,Quarter-final,Best of 3,David/Armin,Divers,David/Armin,21,5,21,8,,,David Minic,Armin Brajlovic,Pablo Garcia,David Joseph
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,Quarter-final,Best of 3,May the 3rd,Adobros,May the 3rd,21,13,21,5,,,Peter Miyoshi,Chris Concha,Rhys Dobson,Zaiah Dobson
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,Quarter-final,Best of 3,The Apple Pickers,HUCK DYNASTY,HUCK DYNASTY,10,21,17,21,,,Trevor Gysbertsen,Tom Jones,Scott Xu,Matt Li
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,Semi-final,Best of 3,#opentowork,HUCK DYNASTY,#opentowork,21,14,21,10,,,Jacky Chen,Kumail Chinoy,Scott Xu,Matt Li
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,Semi-final,Best of 3,David/Armin,May the 3rd,May the 3rd,18,21,21,18,16,21,David Minic,Armin Brajlovic,Peter Miyoshi,Chris Concha
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,P5: Semi-final,Best of 3,Adobros,Divers,Divers,-1,0,-1,0,,,Rhys Dobson,Zaiah Dobson,Pablo Garcia,David Joseph
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,Final,Best of 3,#opentowork,May the 3rd,#opentowork,21,14,21,18,,,Jacky Chen,Kumail Chinoy,Peter Miyoshi,Chris Concha
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,P3: Final,Best of 3,David/Armin,HUCK DYNASTY,David/Armin,1,0,1,0,,,David Minic,Armin Brajlovic,Scott Xu,Matt Li
+Bracket Stage,2.0-3.0 Open Beginner/Intermediate,Bracket A,P5: Final,Best of 3,The Apple Pickers,Divers,Divers,0,1,1,0,0,1,Trevor Gysbertsen,Tom Jones,Pablo Garcia,David Joseph
