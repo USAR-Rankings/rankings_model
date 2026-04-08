@@ -18,7 +18,7 @@ def main():
     params =[OPEN_P,WOMENS_P]  
     for param in params:  
         # Read in game data
-        west_r=pd.read_csv(param["BASE_PATH"] + param["DATA_PATH"],encoding= 'unicode_escape').dropna(subset = ['mT1P1', 'mT1P2', 'mT2P1',"mT2P2"]).reset_index(drop=True)
+        west_r=pd.read_csv(param["BASE_PATH"] + param["DATA_PATH"],encoding= 'utf-8').dropna(subset = ['mT1P1', 'mT1P2', 'mT2P1',"mT2P2"]).reset_index(drop=True)
 
         # Create tournemtnand dvisions combinations to play and teh order they occur in
         west_r_c=west_r[['tourney','Division',"Date"]].drop_duplicates().reset_index(drop=True)
