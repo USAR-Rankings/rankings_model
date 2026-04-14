@@ -295,6 +295,37 @@ class ELO_Model:
          
     
     
+    def _local_starting_elo(self, player_array, div: int, baseline_elo: float) -> float:
+        starting_elo = baseline_elo
+        existing_elos = [self.p_dict[p].elo for p in player_array if p in self.p_dict]
+
+        if len(existing_elos) > 0:
+            starting_elo = float(np.percentile(existing_elos, self.start_per))
+        else:
+            # All players are new — fall back to division-wide average
+            div_elos = [p.elo for p in self.p_dict.values() if p.highest_division == div]
+            if len(div_elos) > 0:
+                starting_elo = float(np.percentile(div_elos, self.start_per))
+
+        return starting_elo
+
+    def _parse_division_code(self, division: str) -> int:
+        division = str(division).upper()
+        if ("PREMIER" in division) or ("PRO" in division):
+            return 0 if "PRO" in division else 1
+        elif any(x in division for x in ["EXPERT", "ELITE", "ADVANCED", "GOLD", "WOMEN"]):
+            return 2
+        else:
+            return 3
+
+    def _fixed_baseline_for_div(self, div: int) -> float:
+        if div in (0, 1):
+            return self.sep
+        elif div == 2:
+            return self.sep - self.de
+        else:
+            return self.sep - self.dc
+
     def create_teams(self,data,tourney,division,date,avg_elo=False):
         """
         Constructs a new player dictionary and team table based on the first tournament.
@@ -312,19 +343,8 @@ class ELO_Model:
         avg_elo : bool, optional
             Whether to calculate average Elo for starting Elo (default is False).
         """
-        # Sets starting elo based on the division
-        if ("PREMIER" in division) or ( "PRO" in division):
-            starting_elo=self.sep
-            if("PRO" in division):
-                div=0
-            else: 
-                div=1
-        elif (("EXPERT" in division) or ("ELITE" in division) or ("ADVANCED" in division)or ("GOLD" in division) or ("WOMEN" in division)):
-            starting_elo=self.sep-self.de
-            div=2
-        else:
-            starting_elo=self.sep-self.dc
-            div=3
+        div = self._parse_division_code(division)
+        starting_elo = self._fixed_baseline_for_div(div)
         
         
         
@@ -336,17 +356,8 @@ class ELO_Model:
         #Gets list of all players
         player_array=list(set(list(filt_tab["mT1P1"])+list(filt_tab["mT1P2"])+list(filt_tab["mT2P1"])+list(filt_tab["mT2P2"])))
         
-        average_elo=[]
         if avg_elo == True:
-            # Calculate average ELO
-            for player in player_array:
-                if player in self.p_dict.keys():
-                    average_elo.append(self.p_dict[player].elo)
-            
-            start_elo=np.percentile(average_elo, self.start_per)
-            
-            # Set new starting elo
-            starting_elo=start_elo
+            starting_elo = self._local_starting_elo(player_array, div, starting_elo)
         
         if self.p_dict == []:
             #Create new player object for each player in the tournament and assign them the starting elo
