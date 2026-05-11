@@ -24,9 +24,7 @@ sheet_scrape2 = read.csv('Tourney List.csv', as.is = T, fileEncoding = "UTF-8") 
   add_row(data.frame(tourney = 'END OF SEASON', Date = as.Date(max(.$Date))+7))
 
 tourney_status =  sheet_scrape2 %>% 
-  select(Year, Date, `For Model Use` = 'For.Model.Use', `URL identifier` = 'URL.identifier', tourney, `Fwango File Title` = 'Fwango.File.Title', `Scraped?` = 'scraped') %>% 
-  filter(scraped != "Manual Preprocess") %>% 
-  select(-scraped) %>% 
+  select(Year, Date, `For Model Use` = 'For.Model.Use', `URL identifier` = 'URL.identifier', tourney, `Fwango File Title` = 'Fwango.File.Title') %>% 
   left_join(
     data.frame(URL.identifier = toupper(gsub(".csv", "", dir('Tourney Results'))),
                complete = T) %>% 
