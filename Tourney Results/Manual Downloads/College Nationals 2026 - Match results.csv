@@ -1,7 +1,7 @@
-Stage,Division,Group/Bracket,Round,Match format,Squad,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Ä,Division,Group/Bracket,Round,Match format,Squad,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
 Pool Play,Division 1 Open,PP A,1,Single game,Michigan State D1 vs NC State D1,Michigan State D1 Open A,NC State D1 Open A,Michigan State D1 Open A,21,12,,,,,Jack Drouare,Korbin Thompson,john buchanan,nathan benjiman
-Pool Play,Division 1 Open,PP A,1,Single game,Michigan State D1 vs NC State D1,Michigan State D1 Open B,NC State D1 Open B,NC State D1 Open B,14,21,,,,,Weston Motloch,Zach Mazzuchi,jonah walker,vaughn gooding
-Pool Play,Division 1 Open,PP A,1,Single game,Michigan State D1 vs NC State D1,Michigan State D1 Open C,NC State D1 Open C,NC State D1 Open C,15,21,,,,,Jacob Purser,Nathan Warner,aaron simpson,eli mosley
+Pool Play,Division 1 Open,PP A,1,Single game,Michigan State D1 vs NC State D1,Michigan State D1 Open B,NC State D1 Open B,NC State D1 Open B,14,21,,,,,Weston Motloch,Zach Mazzuchi,jonah walker,Aaron Simpson
+Pool Play,Division 1 Open,PP A,1,Single game,Michigan State D1 vs NC State D1,Michigan State D1 Open C,NC State D1 Open C,NC State D1 Open C,15,21,,,,,Jacob Purser,Nathan Warner,Vaughn gooding,eli mosley
 Pool Play,Division 1 Open,PP A,1,Single game,Michigan State D1 vs NC State D1,Michigan State D1 Coed,NC State D1 Coed,Michigan State D1 Coed,21,18,,,,,Caleb Rellis,Emily Lubahn,Alex DuBois,jadyn steele
 Pool Play,Division 1 Women's,PP A,1,Single game,Michigan State D1 vs NC State D1,Michigan State D1 Women's,NC State D1 Women's,Michigan State D1 Women's,21,14,,,,,Katie Hansen,Natalie Hansen,laura zachar,rosie craven
 Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs Michigan State D1,UGA Black Open A,Michigan State D1 Open A,UGA Black Open A,21,17,,,,,Andrew Yancey,Peyton Stack,Jack Drouare,Korbin Thompson
@@ -10,8 +10,8 @@ Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs Michigan State D1,UGA 
 Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs Michigan State D1,UGA Black Coed,Michigan State D1 Coed,UGA Black Coed,21,17,,,,,Braedan Thomas,Kirra Diaz,Caleb Rellis,Emily Lubahn
 Pool Play,Division 1 Women's,PP A,1,Single game,UGA Black vs Michigan State D1,UGA Black Women's,Michigan State D1 Women's,UGA Black Women's,21,7,,,,,Mckenna Mckean,Savannah Obert,Katie Hansen,Natalie Hansen
 Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs NC State D1,NEU D1 Open A,NC State D1 Open A,NEU D1 Open A,21,19,,,,,Andrew Nee,sam diani,john buchanan,nathan benjiman
-Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs NC State D1,NEU D1 Open B,NC State D1 Open B,NEU D1 Open B,21,9,,,,,Jackson Biggs,Mitchell Whelan,jonah walker,vaughn gooding
-Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs NC State D1,NEU D1 Open C,NC State D1 Open C,NEU D1 Open C,21,10,,,,,Aidan Sprouls,Tim Matten,aaron simpson,eli mosley
+Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs NC State D1,NEU D1 Open B,NC State D1 Open B,NEU D1 Open B,21,9,,,,,Jackson Biggs,Mitchell Whelan,jonah walker,Aaron Simpson
+Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs NC State D1,NEU D1 Open C,NC State D1 Open C,NEU D1 Open C,21,10,,,,,Aidan Sprouls,Tim Matten,Vaughn gooding,eli mosley
 Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs NC State D1,NEU D1 Coed,NC State D1 Coed,NEU D1 Coed,21,6,,,,,Abigale Lamontagne,Matt Wallach,Alex DuBois,jadyn steele
 Pool Play,Division 1 Women's,PP A,1,Single game,NEU D1 vs NC State D1,NEU D1 Women's,NC State D1 Women's,NEU D1 Women's,21,9,,,,,Lia Maag,Malia Wanderer,laura zachar,rosie craven
 Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs Michigan State D1,NEU D1 Open A,Michigan State D1 Open A,NEU D1 Open A,21,17,,,,,Andrew Nee,sam diani,Jack Drouare,Korbin Thompson
@@ -20,8 +20,8 @@ Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs Michigan State D1,NEU D1 
 Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs Michigan State D1,NEU D1 Coed,Michigan State D1 Coed,NEU D1 Coed,21,11,,,,,Abigale Lamontagne,Matt Wallach,Caleb Rellis,Emily Lubahn
 Pool Play,Division 1 Women's,PP A,1,Single game,NEU D1 vs Michigan State D1,NEU D1 Women's,Michigan State D1 Women's,NEU D1 Women's,21,6,,,,,Lia Maag,Malia Wanderer,Katie Hansen,Natalie Hansen
 Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs NC State D1,UGA Black Open A,NC State D1 Open A,UGA Black Open A,21,10,,,,,Andrew Yancey,Peyton Stack,john buchanan,nathan benjiman
-Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs NC State D1,UGA Black Open B,NC State D1 Open B,UGA Black Open B,21,13,,,,,Isaac Mixon,Nate Von Der Sitt,jonah walker,vaughn gooding
-Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs NC State D1,UGA Black Open C,NC State D1 Open C,UGA Black Open C,21,15,,,,,Jeremy Lee,Luke Nettles,aaron simpson,eli mosley
+Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs NC State D1,UGA Black Open B,NC State D1 Open B,UGA Black Open B,21,13,,,,,Isaac Mixon,Nate Von Der Sitt,jonah walker,Aaron Simpson
+Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs NC State D1,UGA Black Open C,NC State D1 Open C,UGA Black Open C,21,15,,,,,Jeremy Lee,Luke Nettles,Vaughn gooding,eli mosley
 Pool Play,Division 1 Open,PP A,1,Single game,UGA Black vs NC State D1,UGA Black Coed,NC State D1 Coed,NC State D1 Coed,16,21,,,,,Braedan Thomas,Kirra Diaz,Alex DuBois,jadyn steele
 Pool Play,Division 1 Women's,PP A,1,Single game,UGA Black vs NC State D1,UGA Black Women's,NC State D1 Women's,UGA Black Women's,21,15,,,,,Mckenna Mckean,Savannah Obert,laura zachar,rosie craven
 Pool Play,Division 1 Open,PP A,1,Single game,NEU D1 vs UGA Black,NEU D1 Open A,UGA Black Open A,UGA Black Open A,11,21,,,,,Andrew Nee,sam diani,Andrew Yancey,Peyton Stack
@@ -230,8 +230,8 @@ Pool Play,Division 1 Open,Silver D,2,Single game,KSU D1 vs Liberty D1,KSU D1 Ope
 Pool Play,Division 1 Open,Silver D,2,Single game,KSU D1 vs Liberty D1,KSU D1 Coed,Liberty D1 Coed,KSU D1 Coed,21,10,,,,,Austin Niles,Leah Freeman,JP Hoheisel,Seth Stokarski
 Pool Play,Division 1 Women's,Silver D,2,Single game,KSU D1 vs Liberty D1,KSU D1 Women's,Liberty D1 Women's,Liberty D1 Women's,16,21,,,,,Ava Holtz,Ellie Bennett,Becca Tussi,Jo Malone
 Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs Liberty D1,NC State D1 Open A,Liberty D1 Open A,NC State D1 Open A,21,18,,,,,john buchanan,nathan benjiman,Ethan Davis,Jacob Summers
-Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs Liberty D1,NC State D1 Open B,Liberty D1 Open B,NC State D1 Open B,21,17,,,,,jonah walker,vaughn gooding,Josh Puffenberger,Tim G.
-Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs Liberty D1,NC State D1 Open C,Liberty D1 Open C,NC State D1 Open C,21,16,,,,,aaron simpson,eli mosley,Daniel Porter,Isaac Haynes
+Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs Liberty D1,NC State D1 Open B,Liberty D1 Open B,NC State D1 Open B,21,17,,,,,jonah walker,Aaron Simpson,Josh Puffenberger,Tim G.
+Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs Liberty D1,NC State D1 Open C,Liberty D1 Open C,NC State D1 Open C,21,16,,,,,Vaughn gooding,eli mosley,Daniel Porter,Isaac Haynes
 Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs Liberty D1,NC State D1 Coed,Liberty D1 Coed,NC State D1 Coed,22,20,,,,,Alex DuBois,jadyn steele,JP Hoheisel,Seth Stokarski
 Pool Play,Division 1 Women's,Silver D,2,Single game,NC State D1 vs Liberty D1,NC State D1 Women's,Liberty D1 Women's,NC State D1 Women's,21,13,,,,,laura zachar,rosie craven,Becca Tussi,Jo Malone
 Pool Play,Division 1 Open,Silver D,2,Single game,KSU D1 vs UB D1,KSU D1 Open A,UB D1 Open A,UB D1 Open A,17,21,,,,,Connar Kloehn,Parker McKinney,Evan Leatherbarrow,George Reagan
@@ -240,18 +240,18 @@ Pool Play,Division 1 Open,Silver D,2,Single game,KSU D1 vs UB D1,KSU D1 Open C,U
 Pool Play,Division 1 Open,Silver D,2,Single game,KSU D1 vs UB D1,KSU D1 Coed,UB D1 Coed,KSU D1 Coed,21,13,,,,,Austin Niles,Leah Freeman,Coralys Desarden,Jamie Sullivan
 Pool Play,Division 1 Women's,Silver D,2,Single game,KSU D1 vs UB D1,KSU D1 Women's,UB D1 Women's,KSU D1 Women's,21,6,,,,,Ava Holtz,Ellie Bennett,Autumn Ragonese,Caroline Dexter
 Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs KSU D1,NC State D1 Open A,KSU D1 Open A,NC State D1 Open A,21,7,,,,,john buchanan,nathan benjiman,Connar Kloehn,Parker McKinney
-Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs KSU D1,NC State D1 Open B,KSU D1 Open B,NC State D1 Open B,21,10,,,,,jonah walker,vaughn gooding,Jake Kelley,Parker Smith
-Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs KSU D1,NC State D1 Open C,KSU D1 Open C,NC State D1 Open C,21,16,,,,,aaron simpson,eli mosley,Collin Ireland,Lane Morris
+Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs KSU D1,NC State D1 Open B,KSU D1 Open B,NC State D1 Open B,21,10,,,,,jonah walker,Aaron Simpson,Jake Kelley,Parker Smith
+Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs KSU D1,NC State D1 Open C,KSU D1 Open C,NC State D1 Open C,21,16,,,,,Vaughn gooding,eli mosley,Collin Ireland,Lane Morris
 Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs KSU D1,NC State D1 Coed,KSU D1 Coed,KSU D1 Coed,15,21,,,,,Alex DuBois,jadyn steele,Austin Niles,Leah Freeman
 Pool Play,Division 1 Women's,Silver D,2,Single game,NC State D1 vs KSU D1,NC State D1 Women's,KSU D1 Women's,NC State D1 Women's,21,12,,,,,laura zachar,rosie craven,Ava Holtz,Ellie Bennett
 Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UNC Wilmington D1,NC State D1 Open A,UNC Wilmington D1 Open A,UNC Wilmington D1 Open A,20,22,,,,,john buchanan,nathan benjiman,Jake Dooley,Noah Kopetic
-Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UNC Wilmington D1,NC State D1 Open B,UNC Wilmington D1 Open B,UNC Wilmington D1 Open B,19,21,,,,,jonah walker,vaughn gooding,Polk Denmark,Sam Weber
-Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UNC Wilmington D1,NC State D1 Open C,UNC Wilmington D1 Open C,NC State D1 Open C,21,17,,,,,aaron simpson,eli mosley,Michael Creedon,Zack Glew
+Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UNC Wilmington D1,NC State D1 Open B,UNC Wilmington D1 Open B,UNC Wilmington D1 Open B,19,21,,,,,jonah walker,Aaron Simpson,Polk Denmark,Sam Weber
+Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UNC Wilmington D1,NC State D1 Open C,UNC Wilmington D1 Open C,NC State D1 Open C,21,17,,,,,Vaughn gooding,eli mosley,Michael Creedon,Zack Glew
 Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UNC Wilmington D1,NC State D1 Coed,UNC Wilmington D1 Coed,NC State D1 Coed,21,6,,,,,Alex DuBois,jadyn steele,Claire Schnee,Jason Lyons
 Pool Play,Division 1 Women's,Silver D,2,Single game,NC State D1 vs UNC Wilmington D1,NC State D1 Women's,UNC Wilmington D1 Women's,NC State D1 Women's,21,6,,,,,laura zachar,rosie craven,Julie Gibbs,Tristen Rogers
 Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UB D1,NC State D1 Open A,UB D1 Open A,NC State D1 Open A,24,22,,,,,john buchanan,nathan benjiman,Evan Leatherbarrow,George Reagan
-Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UB D1,NC State D1 Open B,UB D1 Open B,UB D1 Open B,19,21,,,,,jonah walker,vaughn gooding,Alden Nash,Camillo Cruz
-Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UB D1,NC State D1 Open C,UB D1 Open C,NC State D1 Open C,21,19,,,,,aaron simpson,eli mosley,Izak Krajeski,Mason Hansen
+Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UB D1,NC State D1 Open B,UB D1 Open B,UB D1 Open B,19,21,,,,,jonah walker,Aaron Simpson,Alden Nash,Camillo Cruz
+Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UB D1,NC State D1 Open C,UB D1 Open C,NC State D1 Open C,21,19,,,,,Vaughn gooding,eli mosley,Izak Krajeski,Mason Hansen
 Pool Play,Division 1 Open,Silver D,2,Single game,NC State D1 vs UB D1,NC State D1 Coed,UB D1 Coed,NC State D1 Coed,21,4,,,,,Alex DuBois,jadyn steele,Coralys Desarden,Jamie Sullivan
 Pool Play,Division 1 Women's,Silver D,2,Single game,NC State D1 vs UB D1,NC State D1 Women's,UB D1 Women's,NC State D1 Women's,21,4,,,,,laura zachar,rosie craven,Autumn Ragonese,Caroline Dexter
 Pool Play,Division 1 Open,Silver D,2,Single game,Liberty D1 vs UB D1,Liberty D1 Open A,UB D1 Open A,Liberty D1 Open A,21,18,,,,,Ethan Davis,Jacob Summers,Evan Leatherbarrow,George Reagan
@@ -345,8 +345,8 @@ Playoff Bracket,Division 1 Open,Bracket A,P9: Final,Best of 3,UConn D1 vs Clemso
 Playoff Bracket,Division 1 Open,Bracket A,P9: Final,Best of 3,UConn D1 vs Clemson,UConn D1 Coed,Clemson Coed,UConn D1 Coed,21,7,,,,,Noah Malewicki,Sabine Lucas,Anthony Schenk,Maddie Huffstetler
 Playoff Bracket,Division 1 Women's,Bracket A,P9: Final,Best of 3,UConn D1 vs Clemson,UConn D1 Women's,Clemson Women's,UConn D1 Women's,21,3,,,,,Aisling,Samantha Wilkins,Rachael Notch,Summer Kowalski
 Playoff Bracket,Division 1 Open,Bracket A,P5: Semi-final,Best of 3,Virginia Tech D1 vs NC State D1,Virginia Tech D1 Open A,NC State D1 Open A,Virginia Tech D1 Open A,21,15,21,14,,,Jaxon Gonzalez,Jon Esposo,john buchanan,nathan benjiman
-Playoff Bracket,Division 1 Open,Bracket A,P5: Semi-final,Best of 3,Virginia Tech D1 vs NC State D1,Virginia Tech D1 Open B,NC State D1 Open B,NC State D1 Open B,21,12,19,21,19,21,Dylan DiDona,Porter DuHadway,jonah walker,vaughn gooding
-Playoff Bracket,Division 1 Open,Bracket A,P5: Semi-final,Best of 3,Virginia Tech D1 vs NC State D1,Virginia Tech D1 Open C,NC State D1 Open C,Virginia Tech D1 Open C,21,16,22,24,21,17,Ben Epps,Owen Stuckman,aaron simpson,eli mosley
+Playoff Bracket,Division 1 Open,Bracket A,P5: Semi-final,Best of 3,Virginia Tech D1 vs NC State D1,Virginia Tech D1 Open B,NC State D1 Open B,NC State D1 Open B,21,12,19,21,19,21,Dylan DiDona,Porter DuHadway,jonah walker,Aaron Simpson
+Playoff Bracket,Division 1 Open,Bracket A,P5: Semi-final,Best of 3,Virginia Tech D1 vs NC State D1,Virginia Tech D1 Open C,NC State D1 Open C,Virginia Tech D1 Open C,21,16,22,24,21,17,Ben Epps,Owen Stuckman,Vaughn gooding,eli mosley
 Playoff Bracket,Division 1 Open,Bracket A,P5: Semi-final,Best of 3,Virginia Tech D1 vs NC State D1,Virginia Tech D1 Coed,NC State D1 Coed,Virginia Tech D1 Coed,21,14,21,16,,,Drew Keely,Katheleen Phan,Alex DuBois,jadyn steele
 Playoff Bracket,Division 1 Women's,Bracket A,P5: Semi-final,Best of 3,Virginia Tech D1 vs NC State D1,Virginia Tech D1 Women's,NC State D1 Women's,NC State D1 Women's,20,22,21,19,-18,18,Ashley Hunt,Elly Kuzma,laura zachar,rosie craven
 Playoff Bracket,Division 1 Open,Bracket B,P5: Semi-final,Best of 3,UNC D1 vs UB D1,UNC D1 Open A,UB D1 Open A,UB D1 Open A,14,21,,,,,Bryce von Haefen,Thayer Hicks,Evan Leatherbarrow,George Reagan
@@ -360,8 +360,8 @@ Playoff Bracket,Division 1 Open,Bracket B,Quarter-final,Best of 3,UNC Wilmington
 Playoff Bracket,Division 1 Open,Bracket B,Quarter-final,Best of 3,UNC Wilmington D1 vs Tufts D1,UNC Wilmington D1 Coed,Tufts D1 Coed,UNC Wilmington D1 Coed,21,15,21,9,,,Claire Schnee,Jason Lyons,Dylan Block,Dylan Duda
 Playoff Bracket,Division 1 Women's,Bracket B,Quarter-final,Best of 3,UNC Wilmington D1 vs Tufts D1,UNC Wilmington D1 Women's,Tufts D1 Women's,UNC Wilmington D1 Women's,21,5,21,16,,,Julie Gibbs,Tristen Rogers,Abigail Bayog,Adele Beamer
 Playoff Bracket,Division 1 Open,Bracket A,Round of 16,Best of 3,UConn D1 vs NC State D1,UConn D1 Open A,NC State D1 Open A,NC State D1 Open A,18,21,12,21,,,Matthew Tiongko,Sam Panek,john buchanan,nathan benjiman
-Playoff Bracket,Division 1 Open,Bracket A,Round of 16,Best of 3,UConn D1 vs NC State D1,UConn D1 Open B,NC State D1 Open B,UConn D1 Open B,18,21,21,17,21,18,Scotty McCabe,Vince Hackl,jonah walker,vaughn gooding
-Playoff Bracket,Division 1 Open,Bracket A,Round of 16,Best of 3,UConn D1 vs NC State D1,UConn D1 Open C,NC State D1 Open C,NC State D1 Open C,19,21,17,21,,,Jacob Lamontagne,Sreesai Katiki,aaron simpson,eli mosley
+Playoff Bracket,Division 1 Open,Bracket A,Round of 16,Best of 3,UConn D1 vs NC State D1,UConn D1 Open B,NC State D1 Open B,UConn D1 Open B,18,21,21,17,21,18,Scotty McCabe,Vince Hackl,jonah walker,Aaron Simpson
+Playoff Bracket,Division 1 Open,Bracket A,Round of 16,Best of 3,UConn D1 vs NC State D1,UConn D1 Open C,NC State D1 Open C,NC State D1 Open C,19,21,17,21,,,Jacob Lamontagne,Sreesai Katiki,Vaughn gooding,eli mosley
 Playoff Bracket,Division 1 Open,Bracket A,Round of 16,Best of 3,UConn D1 vs NC State D1,UConn D1 Coed,NC State D1 Coed,UConn D1 Coed,21,16,21,18,,,Noah Malewicki,Sabine Lucas,Alex DuBois,jadyn steele
 Playoff Bracket,Division 1 Women's,Bracket A,Round of 16,Best of 3,UConn D1 vs NC State D1,UConn D1 Women's,NC State D1 Women's,NC State D1 Women's,16,21,17,21,,,Aisling,Samantha Wilkins,laura zachar,rosie craven
 Playoff Bracket,Division 1 Open,Bracket A,P5: Semi-final,Best of 3,Michigan State D1 vs VCU D1,Michigan State D1 Open A,VCU D1 Open A,Michigan State D1 Open A,21,13,21,18,,,Jack Drouare,Korbin Thompson,Brock Lodato,Sean Santos
@@ -390,8 +390,8 @@ Playoff Bracket,Division 1 Open,Bracket B,Semi-final,Best of 3,Liberty D1 vs Tuf
 Playoff Bracket,Division 1 Open,Bracket B,Semi-final,Best of 3,Liberty D1 vs Tufts D1,Liberty D1 Coed,Tufts D1 Coed,Liberty D1 Coed,21,19,24,22,,,JP Hoheisel,Seth Stokarski,Dylan Block,Dylan Duda
 Playoff Bracket,Division 1 Women's,Bracket B,Semi-final,Best of 3,Liberty D1 vs Tufts D1,Liberty D1 Women's,Tufts D1 Women's,Liberty D1 Women's,21,16,21,19,,,Becca Tussi,Jo Malone,Abigail Bayog,Adele Beamer
 Playoff Bracket,Division 1 Open,Bracket A,Quarter-final,Best of 3,NEU D1 vs NC State D1,NEU D1 Open A,NC State D1 Open A,NEU D1 Open A,21,9,21,11,,,Andrew Nee,sam diani,john buchanan,nathan benjiman
-Playoff Bracket,Division 1 Open,Bracket A,Quarter-final,Best of 3,NEU D1 vs NC State D1,NEU D1 Open B,NC State D1 Open B,NEU D1 Open B,21,8,21,13,,,Jackson Biggs,Mitchell Whelan,jonah walker,vaughn gooding
-Playoff Bracket,Division 1 Open,Bracket A,Quarter-final,Best of 3,NEU D1 vs NC State D1,NEU D1 Open C,NC State D1 Open C,NEU D1 Open C,21,11,21,18,,,Aidan Sprouls,Tim Matten,aaron simpson,eli mosley
+Playoff Bracket,Division 1 Open,Bracket A,Quarter-final,Best of 3,NEU D1 vs NC State D1,NEU D1 Open B,NC State D1 Open B,NEU D1 Open B,21,8,21,13,,,Jackson Biggs,Mitchell Whelan,jonah walker,Aaron Simpson
+Playoff Bracket,Division 1 Open,Bracket A,Quarter-final,Best of 3,NEU D1 vs NC State D1,NEU D1 Open C,NC State D1 Open C,NEU D1 Open C,21,11,21,18,,,Aidan Sprouls,Tim Matten,Vaughn gooding,eli mosley
 Playoff Bracket,Division 1 Open,Bracket A,Quarter-final,Best of 3,NEU D1 vs NC State D1,NEU D1 Coed,NC State D1 Coed,NEU D1 Coed,21,8,21,4,,,Abigale Lamontagne,Matt Wallach,Alex DuBois,jadyn steele
 Playoff Bracket,Division 1 Women's,Bracket A,Quarter-final,Best of 3,NEU D1 vs NC State D1,NEU D1 Women's,NC State D1 Women's,NEU D1 Women's,21,4,21,12,,,Lia Maag,Malia Wanderer,laura zachar,rosie craven
 Playoff Bracket,Division 1 Open,Bracket A,P5: Final,Best of 3,Virginia Tech D1 vs Michigan State D1,Virginia Tech D1 Open A,Michigan State D1 Open A,Michigan State D1 Open A,17,21,21,13,15,21,Jaxon Gonzalez,Jon Esposo,Jack Drouare,Korbin Thompson
@@ -405,8 +405,8 @@ Playoff Bracket,Division 1 Open,Bracket B,Semi-final,Best of 3,KSU D1 vs Siena/R
 Playoff Bracket,Division 1 Open,Bracket B,Semi-final,Best of 3,KSU D1 vs Siena/RPI D1,KSU D1 Coed,Siena/RPI D1 Coed,KSU D1 Coed,21,6,21,6,,,Austin Niles,Leah Freeman,Cole Bombard,Megan Dwire
 Playoff Bracket,Division 1 Women's,Bracket B,Semi-final,Best of 3,KSU D1 vs Siena/RPI D1,KSU D1 Women's,Siena/RPI D1 Women's,Siena/RPI D1 Women's,7,21,6,21,,,Ava Holtz,Ellie Bennett,Emily Stewart,Kelsey Higgins
 Playoff Bracket,Division 1 Open,Bracket A,P5: Final,Best of 3,NC State D1 vs VCU D1,NC State D1 Open A,VCU D1 Open A,,,,,,,,john buchanan,nathan benjiman,Brock Lodato,Sean Santos
-Playoff Bracket,Division 1 Open,Bracket A,P5: Final,Best of 3,NC State D1 vs VCU D1,NC State D1 Open B,VCU D1 Open B,,,,,,,,jonah walker,vaughn gooding,Owen Wallace,Ryland Holdren
-Playoff Bracket,Division 1 Open,Bracket A,P5: Final,Best of 3,NC State D1 vs VCU D1,NC State D1 Open C,VCU D1 Open C,,,,,,,,aaron simpson,eli mosley,Sebastian Grant,Zachary Small
+Playoff Bracket,Division 1 Open,Bracket A,P5: Final,Best of 3,NC State D1 vs VCU D1,NC State D1 Open B,VCU D1 Open B,,,,,,,,jonah walker,Aaron Simpson,Owen Wallace,Ryland Holdren
+Playoff Bracket,Division 1 Open,Bracket A,P5: Final,Best of 3,NC State D1 vs VCU D1,NC State D1 Open C,VCU D1 Open C,,,,,,,,Vaughn gooding,eli mosley,Sebastian Grant,Zachary Small
 Playoff Bracket,Division 1 Open,Bracket A,P5: Final,Best of 3,NC State D1 vs VCU D1,NC State D1 Coed,VCU D1 Coed,,,,,,,,Alex DuBois,jadyn steele,Jyneece Conway-Layman,Nathaniel Hughes
 Playoff Bracket,Division 1 Women's,Bracket A,P5: Final,Best of 3,NC State D1 vs VCU D1,NC State D1 Women's,VCU D1 Women's,,,,,,,,laura zachar,rosie craven,Bel Belvedere,Lauren Viado
 Playoff Bracket,Division 1 Open,Bracket A,Quarter-final,Best of 3,Penn State D1 Blue vs Virginia Tech D1,Penn State D1 Blue Open A,Virginia Tech D1 Open A,,24,26,21,15,,,Jake Hurst,Matthew Mesaros,Jaxon Gonzalez,Jon Esposo
