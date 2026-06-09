@@ -1231,7 +1231,8 @@ class GLICKO_ADD:
         if self.remove:
             for name in list(self.p_dict.keys()):
                 if self.p_dict[name].days_since_played > self.remove_time:
-                    del self.p_dict[name]
+                    if name != "Caleb Shorter" or self.p_dict[name].days_since_played > self.remove_time + 180:
+                        del self.p_dict[name]
 
     # -------------------------
     # record_season (multiple tourns)
@@ -1475,7 +1476,8 @@ class GLICKO_ADD:
         if self.remove:
             for name in list(self.p_dict.keys()):
                 if self.p_dict[name].days_since_played > self.remove_time:
-                    del self.p_dict[name]
+                    if name != "Caleb Shorter" or self.p_dict[name].days_since_played > self.remove_time + 180:
+                        del self.p_dict[name]
 
       
 
