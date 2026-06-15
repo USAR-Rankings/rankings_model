@@ -1,0 +1,31 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,Casual + Competitive (3.0-4.5),Group A,1,Single game,Are we in charge?,Top Shelf,Are we in charge?,13,7,,,,,Jamisen Wrinkle,Andrew Gasaway,Patrick Moll,Nathaniel Alexander
+Group Stage,Casual + Competitive (3.0-4.5),Group A,1,Single game,Brookside Bandits,Super Duper Mega Team,Super Duper Mega Team,10,13,,,,,Thad Richard,Ivan Marin Carlson,Connor Mahony,Grant Bauman
+Group Stage,Casual + Competitive (3.0-4.5),Group A,1,Single game,Mac N' Cheese,Raw Sauce,Raw Sauce,8,13,,,,,Sadie Lauser,Austin Lauser,Jose Knight,Anil Patel
+Group Stage,Casual + Competitive (3.0-4.5),Group A,2,Single game,Are we in charge?,Super Duper Mega Team,Are we in charge?,13,10,,,,,Jamisen Wrinkle,Andrew Gasaway,Connor Mahony,Grant Bauman
+Group Stage,Casual + Competitive (3.0-4.5),Group A,2,Single game,Brookside Bandits,Miner Chaps,Miner Chaps,9,13,,,,,Thad Richard,Ivan Marin Carlson,James Hunter,Everett Pinon
+Group Stage,Casual + Competitive (3.0-4.5),Group A,2,Single game,Raw Sauce,Top Shelf,Raw Sauce,13,7,,,,,Jose Knight,Anil Patel,Patrick Moll,Nathaniel Alexander
+Group Stage,Casual + Competitive (3.0-4.5),Group A,3,Single game,Are we in charge?,Raw Sauce,Raw Sauce,12,14,,,,,Jamisen Wrinkle,Andrew Gasaway,Jose Knight,Anil Patel
+Group Stage,Casual + Competitive (3.0-4.5),Group A,3,Single game,Brookside Bandits,Mac N' Cheese,Mac N' Cheese,6,13,,,,,Thad Richard,Ivan Marin Carlson,Sadie Lauser,Austin Lauser
+Group Stage,Casual + Competitive (3.0-4.5),Group A,3,Single game,Miner Chaps,Super Duper Mega Team,Super Duper Mega Team,11,13,,,,,James Hunter,Everett Pinon,Connor Mahony,Grant Bauman
+Group Stage,Casual + Competitive (3.0-4.5),Group A,4,Single game,Are we in charge?,Miner Chaps,Are we in charge?,13,8,,,,,Jamisen Wrinkle,Andrew Gasaway,James Hunter,Everett Pinon
+Group Stage,Casual + Competitive (3.0-4.5),Group A,4,Single game,Brookside Bandits,Top Shelf,Top Shelf,8,13,,,,,Thad Richard,Ivan Marin Carlson,Patrick Moll,Nathaniel Alexander
+Group Stage,Casual + Competitive (3.0-4.5),Group A,4,Single game,Mac N' Cheese,Super Duper Mega Team,Mac N' Cheese,13,4,,,,,Sadie Lauser,Austin Lauser,Connor Mahony,Grant Bauman
+Group Stage,Casual + Competitive (3.0-4.5),Group A,5,Single game,Brookside Bandits,Raw Sauce,Raw Sauce,6,13,,,,,Thad Richard,Ivan Marin Carlson,Jose Knight,Anil Patel
+Group Stage,Casual + Competitive (3.0-4.5),Group A,5,Single game,Mac N' Cheese,Miner Chaps,Mac N' Cheese,13,9,,,,,Sadie Lauser,Austin Lauser,James Hunter,Everett Pinon
+Group Stage,Casual + Competitive (3.0-4.5),Group A,5,Single game,Super Duper Mega Team,Top Shelf,Top Shelf,8,13,,,,,Connor Mahony,Grant Bauman,Patrick Moll,Nathaniel Alexander
+Group Stage,Casual + Competitive (3.0-4.5),Group A,6,Single game,Are we in charge?,Mac N' Cheese,Are we in charge?,13,11,,,,,Jamisen Wrinkle,Andrew Gasaway,Sadie Lauser,Austin Lauser
+Group Stage,Casual + Competitive (3.0-4.5),Group A,6,Single game,Miner Chaps,Top Shelf,Top Shelf,10,13,,,,,James Hunter,Everett Pinon,Patrick Moll,Nathaniel Alexander
+Group Stage,Casual + Competitive (3.0-4.5),Group A,6,Single game,Raw Sauce,Super Duper Mega Team,Raw Sauce,13,4,,,,,Jose Knight,Anil Patel,Connor Mahony,Grant Bauman
+Group Stage,Casual + Competitive (3.0-4.5),Group A,7,Single game,Are we in charge?,Brookside Bandits,Are we in charge?,13,9,,,,,Jamisen Wrinkle,Andrew Gasaway,Thad Richard,Ivan Marin Carlson
+Group Stage,Casual + Competitive (3.0-4.5),Group A,7,Single game,Mac N' Cheese,Top Shelf,Top Shelf,9,13,,,,,Sadie Lauser,Austin Lauser,Patrick Moll,Nathaniel Alexander
+Group Stage,Casual + Competitive (3.0-4.5),Group A,7,Single game,Miner Chaps,Raw Sauce,Raw Sauce,6,13,,,,,James Hunter,Everett Pinon,Jose Knight,Anil Patel
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,Quarter-final,Best of 3,Are we in charge?,Brookside Bandits,Are we in charge?,21,9,21,18,,,Jamisen Wrinkle,Andrew Gasaway,Thad Richard,Ivan Marin Carlson
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,Quarter-final,Best of 3,Top Shelf,Miner Chaps,Top Shelf,21,12,21,9,,,Patrick Moll,Nathaniel Alexander,James Hunter,Everett Pinon
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,Quarter-final,Best of 3,Mac N' Cheese,Super Duper Mega Team,Super Duper Mega Team,21,11,15,21,15,21,Sadie Lauser,Austin Lauser,Connor Mahony,Grant Bauman
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,Semi-final,Best of 3,Raw Sauce,Super Duper Mega Team,Raw Sauce,21,13,21,16,,,Jose Knight,Anil Patel,Connor Mahony,Grant Bauman
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,Semi-final,Best of 3,Are we in charge?,Top Shelf,Are we in charge?,21,17,21,17,,,Jamisen Wrinkle,Andrew Gasaway,Patrick Moll,Nathaniel Alexander
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,P5: Semi-final,Best of 3,Miner Chaps,Brookside Bandits,Miner Chaps,21,17,21,19,,,James Hunter,Everett Pinon,Thad Richard,Ivan Marin Carlson
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,Final,Best of 3,Raw Sauce,Are we in charge?,Raw Sauce,21,9,24,22,,,Jose Knight,Anil Patel,Jamisen Wrinkle,Andrew Gasaway
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,P3: Final,Best of 3,Top Shelf,Super Duper Mega Team,Top Shelf,1,0,0,1,21,16,Patrick Moll,Nathaniel Alexander,Connor Mahony,Grant Bauman
+Bracket Stage,Casual + Competitive (3.0-4.5),Bracket A,P5: Final,Best of 3,Mac N' Cheese,Miner Chaps,Mac N' Cheese,21,14,21,11,,,Sadie Lauser,Austin Lauser,James Hunter,Everett Pinon
