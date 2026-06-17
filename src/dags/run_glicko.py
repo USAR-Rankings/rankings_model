@@ -65,6 +65,9 @@ def main():
         de=param["DE"],
         dc=param["DC"],
 
+        # Indiviidaulalized
+        use_individual_expected_results=param["individual"],
+
         # optional entry blending (only used by open)
         blend_entry=param.get("blend_entry",False),
         blend_existing_k=param.get("blend_existing_k",6.0),
