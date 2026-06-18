@@ -1243,7 +1243,7 @@ class GLICKO_ADD:
         if self.remove:
             for name in list(self.p_dict.keys()):
                 if self.p_dict[name].days_since_played > self.remove_time:
-                    if name != "CALEB SHORTER" or self.p_dict[name].days_since_played > self.remove_time + 180:
+                    if name != "CALEB SHORTER" and self.p_dict[name].days_since_played > self.remove_time + 180:
                         del self.p_dict[name]
 
     # -------------------------
@@ -1501,7 +1501,7 @@ class GLICKO_ADD:
         if self.remove:
             for name in list(self.p_dict.keys()):
                 if self.p_dict[name].days_since_played > self.remove_time:
-                    if name != "CALEB SHORTER" or self.p_dict[name].days_since_played > self.remove_time + 180:
+                    if name != "CALEB SHORTER" and self.p_dict[name].days_since_played > self.remove_time + 180:
                         del self.p_dict[name]
 
       
