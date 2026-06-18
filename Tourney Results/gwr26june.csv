@@ -1,0 +1,58 @@
+tourney,Division,Round,Team1,Team2,T1P1,T1P2,T2P1,T2P2,t1score,t2score
+gwr26june,Open 4.0+ Advanced,Round 1,Cheung/Perlson,Chappell/Chenard,Henry Cheung,Brian Perlson,Hampton Chappell,Riley Chenard,13,10
+gwr26june,Open 4.0+ Advanced,Round 1,Martin/Coffelt,Porter/Borja,A.j. Martin,Logan Coffelt,Daniel Porter,Michael Borja,13,5
+gwr26june,Open 4.0+ Advanced,Round 1,Taylor/Haynes,Stuckman/Holdren,Paul Taylor,Isaac Haynes,Owen Stuckman,Ryland Holdren,3,13
+gwr26june,Open 4.0+ Advanced,Round 1,Ross/Brown,Gross/Marcus,Thomas Ross,Soren Brown,Ryan Gross,Samuel Marcus,5,13
+gwr26june,Open 4.0+ Advanced,Round 1,Weeks/Starfeldt,Phan/Arzaga,Brooks Weeks,Jon Starfeldt,Katheleen Phan,Jacob Arzaga,13,9
+gwr26june,Open 4.0+ Advanced,Round 1,Wallace/Jones,Small/Labarge,Owen Wallace,Charlotte Jones,Zachary Small,Charlie Labarge,13,10
+gwr26june,Open 4.0+ Advanced,Round 2,Stuckman/Arzaga,Brown/Martin,Owen Stuckman,Jacob Arzaga,Soren Brown,A.j. Martin,13,2
+gwr26june,Open 4.0+ Advanced,Round 2,Holdren/Porter,Weeks/Marcus,Ryland Holdren,Daniel Porter,Brooks Weeks,Samuel Marcus,13,8
+gwr26june,Open 4.0+ Advanced,Round 2,Esposo/Cheung,Taylor/Starfeldt,Jon Esposo,Henry Cheung,Paul Taylor,Jon Starfeldt,13,4
+gwr26june,Open 4.0+ Advanced,Round 2,Ross/Chenard,Jones/Borja,Thomas Ross,Riley Chenard,Charlotte Jones,Michael Borja,11,13
+gwr26june,Open 4.0+ Advanced,Round 2,Gross/Wallace,Chappell/Haynes,Ryan Gross,Owen Wallace,Hampton Chappell,Isaac Haynes,13,7
+gwr26june,Open 4.0+ Advanced,Round 2,Phan/Small,Coffelt/Perlson,Katheleen Phan,Zachary Small,Logan Coffelt,Brian Perlson,10,13
+gwr26june,Open 4.0+ Advanced,Round 3,Borja/Coffelt,Gross/Weeks,Michael Borja,Logan Coffelt,Ryan Gross,Brooks Weeks,2,13
+gwr26june,Open 4.0+ Advanced,Round 3,Chappell/Arzaga,Porter/Jones,Hampton Chappell,Jacob Arzaga,Daniel Porter,Charlotte Jones,13,10
+gwr26june,Open 4.0+ Advanced,Round 3,Perlson/Wallace,Starfeldt/Holdren,Brian Perlson,Owen Wallace,Jon Starfeldt,Ryland Holdren,13,8
+gwr26june,Open 4.0+ Advanced,Round 3,Ross/Cheung,Small/Martin,Thomas Ross,Henry Cheung,Zachary Small,A.j. Martin,9,13
+gwr26june,Open 4.0+ Advanced,Round 3,Phan/Chenard,Esposo/Brown,Katheleen Phan,Riley Chenard,Jon Esposo,Soren Brown,3,13
+gwr26june,Open 4.0+ Advanced,Round 3,Labarge/Marcus,Stuckman/Taylor,Charlie Labarge,Samuel Marcus,Owen Stuckman,Paul Taylor,13,11
+gwr26june,Open 4.0+ Advanced,Round 4,Taylor/Wallace,Martin/Jones,Paul Taylor,Owen Wallace,A.j. Martin,Charlotte Jones,13,11
+gwr26june,Open 4.0+ Advanced,Round 4,Borja/Labarge,Phan/Haynes,Michael Borja,Charlie Labarge,Katheleen Phan,Isaac Haynes,11,13
+gwr26june,Open 4.0+ Advanced,Round 4,Stuckman/Gross,Holdren/Ross,Owen Stuckman,Ryan Gross,Ryland Holdren,Thomas Ross,13,4
+gwr26june,Open 4.0+ Advanced,Round 4,Porter/Cheung,Perlson/Esposo,Daniel Porter,Henry Cheung,Brian Perlson,Jon Esposo,9,13
+gwr26june,Open 4.0+ Advanced,Round 4,Chappell/Weeks,Marcus/Starfeldt,Hampton Chappell,Brooks Weeks,Samuel Marcus,Jon Starfeldt,13,5
+gwr26june,Open 4.0+ Advanced,Round 4,Arzaga/Chenard,Coffelt/Small,Jacob Arzaga,Riley Chenard,Logan Coffelt,Zachary Small,11,13
+gwr26june,Open 4.0+ Advanced,Round 5,Weeks/Jones,Small/Gross,Brooks Weeks,Charlotte Jones,Zachary Small,Ryan Gross,4,13
+gwr26june,Open 4.0+ Advanced,Round 5,Wallace/Cheung,Arzaga/Borja,Owen Wallace,Henry Cheung,Jacob Arzaga,Michael Borja,9,13
+gwr26june,Open 4.0+ Advanced,Round 5,Esposo/Phan,Chappell/Holdren,Jon Esposo,Katheleen Phan,Hampton Chappell,Ryland Holdren,13,8
+gwr26june,Open 4.0+ Advanced,Round 5,Porter/Haynes,Ross/Starfeldt,Daniel Porter,Isaac Haynes,Thomas Ross,Jon Starfeldt,13,7
+gwr26june,Open 4.0+ Advanced,Round 5,Chenard/Perlson,Martin/Stuckman,Riley Chenard,Brian Perlson,A.j. Martin,Owen Stuckman,12,14
+gwr26june,Open 4.0+ Advanced,Round 5,Marcus/Brown,Labarge/Coffelt,Samuel Marcus,Soren Brown,Charlie Labarge,Logan Coffelt,11,13
+gwr26june,Open 4.0+ Advanced,Semifinal,Wallace/Small,Weeks/Cheung,Owen Wallace,Zachary Small,Brooks Weeks,Henry Cheung,4,13
+gwr26june,Open 4.0+ Advanced,Semifinal,Haynes/Perlson,Holdren/Gross,Isaac Haynes,Brian Perlson,Ryland Holdren,Ryan Gross,8,13
+gwr26june,Open 4.0+ Advanced,Semifinal,Small/Weeks,Haynes/Holdren,Zachary Small,Brooks Weeks,Isaac Haynes,Ryland Holdren,14,12
+gwr26june,Open 4.0+ Advanced,Semifinal,Cheung/Wallace,Perlson/Gross,Henry Cheung,Owen Wallace,Brian Perlson,Ryan Gross,13,11
+gwr26june,Open 4.0+ Advanced,Semifinal,Weeks/Haynes,Cheung/Perlson,Brooks Weeks,Isaac Haynes,Henry Cheung,Brian Perlson,13,8
+gwr26june,Open 4.0+ Advanced,Semifinal,Holdren/Small,Wallace/Gross,Ryland Holdren,Zachary Small,Owen Wallace,Ryan Gross,8,13
+gwr26june,Open 4.0+ Advanced,Semifinal,Haynes/Cheung,Holdren/Wallace,Isaac Haynes,Henry Cheung,Ryland Holdren,Owen Wallace,13,10
+gwr26june,Open 4.0+ Advanced,Semifinal,Perlson/Weeks,Small/Gross,Brian Perlson,Brooks Weeks,Zachary Small,Ryan Gross,13,10
+gwr26june,Open 4.0+ Advanced,Semifinal,Coffelt/Arzaga,Martin/Chappell,Logan Coffelt,Jacob Arzaga,A.j. Martin,Hampton Chappell,5,13
+gwr26june,Open 4.0+ Advanced,Semifinal,Labarge/Stuckman,Porter/Esposo,Charlie Labarge,Owen Stuckman,Daniel Porter,Jon Esposo,6,13
+gwr26june,Open 4.0+ Advanced,Semifinal,Arzaga/Martin,Labarge/Porter,Jacob Arzaga,A.j. Martin,Charlie Labarge,Daniel Porter,13,7
+gwr26june,Open 4.0+ Advanced,Semifinal,Chappell/Coffelt,Stuckman/Esposo,Hampton Chappell,Logan Coffelt,Owen Stuckman,Jon Esposo,8,13
+gwr26june,Open 4.0+ Advanced,Semifinal,Martin/Labarge,Chappell/Stuckman,A.j. Martin,Charlie Labarge,Hampton Chappell,Owen Stuckman,5,13
+gwr26june,Open 4.0+ Advanced,Semifinal,Porter/Arzaga,Coffelt/Esposo,Daniel Porter,Jacob Arzaga,Logan Coffelt,Jon Esposo,13,11
+gwr26june,Open 4.0+ Advanced,Semifinal,Labarge/Chappell,Porter/Coffelt,Charlie Labarge,Hampton Chappell,Daniel Porter,Logan Coffelt,13,3
+gwr26june,Open 4.0+ Advanced,Semifinal,Stuckman/Martin,Arzaga/Esposo,Owen Stuckman,A.j. Martin,Jacob Arzaga,Jon Esposo,8,13
+gwr26june,Open 4.0+ Advanced,Placement,Jones/Phan,Borja/Starfeldt,Charlotte Jones,Katheleen Phan,Michael Borja,Jon Starfeldt,13,7
+gwr26june,Open 4.0+ Advanced,Placement,Brown/Ross,Taylor/Chenard,Soren Brown,Thomas Ross,Paul Taylor,Riley Chenard,13,6
+gwr26june,Open 4.0+ Advanced,Placement,Phan/Marcus,Brown/Chenard,Katheleen Phan,Samuel Marcus,Soren Brown,Riley Chenard,10,13
+gwr26june,Open 4.0+ Advanced,Placement,Taylor/Starfeldt,Borja/Ross,Paul Taylor,Jon Starfeldt,Michael Borja,Thomas Ross,11,13
+gwr26june,Open 4.0+ Advanced,Placement,Marcus/Jones,Taylor/Ross,Samuel Marcus,Charlotte Jones,Paul Taylor,Thomas Ross,12,14
+gwr26june,Open 4.0+ Advanced,Placement,Borja/Chenard,Brown/Starfeldt,Michael Borja,Riley Chenard,Soren Brown,Jon Starfeldt,13,11
+gwr26june,Open 4.0+ Advanced,Placement,Brown/Taylor,Starfeldt/Marcus,Soren Brown,Paul Taylor,Jon Starfeldt,Samuel Marcus,13,7
+gwr26june,Open 4.0+ Advanced,Placement,Chenard/Phan,Ross/Jones,Riley Chenard,Katheleen Phan,Thomas Ross,Charlotte Jones,13,11
+gwr26june,Open 4.0+ Advanced,Final,Cheung/Chappell,Weeks/Esposo,Henry Cheung,Hampton Chappell,Brooks Weeks,Jon Esposo,11,13
+gwr26june,Open 4.0+ Advanced,Final,Cheung/Esposo,Weeks/Chappell,Henry Cheung,Jon Esposo,Brooks Weeks,Hampton Chappell,5,13
+gwr26june,Open 4.0+ Advanced,Final,Cheung/Weeks,Chappell/Esposo,Henry Cheung,Brooks Weeks,Hampton Chappell,Jon Esposo,10,13
