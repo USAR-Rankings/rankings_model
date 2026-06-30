@@ -1,0 +1,78 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Expert,Group A,1,Single game,Sugar Rush,Holy Smokes,Sugar Rush,21,11,,,,,Jacob Narayan,Kyle Fowler,Salvatore Guagenti,Billy Jung
+Pool Play,Expert,Group A,1,Single game,Slight,clarked and loaded,clarked and loaded,18,21,,,,,Owen Bass,Grant Marshall,Ellis Bass,Bradley Clark
+Pool Play,Expert,Group B,1,Single game,Bro Code,Minty,Bro Code,21,9,,,,,Peyton Stack,Andrew Yancey,Parker Mckinney,Andrew Felty
+Pool Play,Expert,Group B,1,Single game,Whose your Daddy?,Bone Thugs No Harmony,Bone Thugs No Harmony,20,22,,,,,Paq Clifford,Sam Aven,Yanai Hamel-Sasson,Jackson Carpenter
+Pool Play,Expert,Group A,2,Single game,Sugar Rush,clarked and loaded,Sugar Rush,21,10,,,,,Jacob Narayan,Kyle Fowler,Ellis Bass,Bradley Clark
+Pool Play,Expert,Group A,2,Single game,"Too much sauce ",Holy Smokes,"Too much sauce ",21,11,,,,,Sean Caufield,Austin Niles,Salvatore Guagenti,Billy Jung
+Pool Play,Expert,Group B,2,Single game,Bro Code,Bone Thugs No Harmony,Bro Code,21,16,,,,,Peyton Stack,Andrew Yancey,Yanai Hamel-Sasson,Jackson Carpenter
+Pool Play,Expert,Group B,2,Single game,Out of Pocket,Minty,Out of Pocket,21,12,,,,,Spencer Sexton,Eli Canon,Parker Mckinney,Andrew Felty
+Pool Play,Expert,Group A,3,Single game,Sugar Rush,"Too much sauce ",Sugar Rush,21,14,,,,,Jacob Narayan,Kyle Fowler,Sean Caufield,Austin Niles
+Pool Play,Expert,Group A,3,Single game,Slight,Holy Smokes,Slight,21,8,,,,,Owen Bass,Grant Marshall,Salvatore Guagenti,Billy Jung
+Pool Play,Expert,Group B,3,Single game,Bro Code,Out of Pocket,Bro Code,21,12,,,,,Peyton Stack,Andrew Yancey,Spencer Sexton,Eli Canon
+Pool Play,Expert,Group B,3,Single game,Whose your Daddy?,Minty,Whose your Daddy?,21,8,,,,,Paq Clifford,Sam Aven,Parker Mckinney,Andrew Felty
+Pool Play,Expert,Group A,4,Single game,Slight,"Too much sauce ","Too much sauce ",20,22,,,,,Owen Bass,Grant Marshall,Sean Caufield,Austin Niles
+Pool Play,Expert,Group A,4,Single game,clarked and loaded,Holy Smokes,clarked and loaded,21,13,,,,,Ellis Bass,Bradley Clark,Salvatore Guagenti,Billy Jung
+Pool Play,Expert,Group B,4,Single game,Whose your Daddy?,Out of Pocket,Whose your Daddy?,21,8,,,,,Paq Clifford,Sam Aven,Spencer Sexton,Eli Canon
+Pool Play,Expert,Group B,4,Single game,Bone Thugs No Harmony,Minty,Bone Thugs No Harmony,21,15,,,,,Yanai Hamel-Sasson,Jackson Carpenter,Parker Mckinney,Andrew Felty
+Pool Play,Expert,Group A,5,Single game,Sugar Rush,Slight,Sugar Rush,21,12,,,,,Jacob Narayan,Kyle Fowler,Owen Bass,Grant Marshall
+Pool Play,Expert,Group A,5,Single game,"Too much sauce ",clarked and loaded,"Too much sauce ",21,19,,,,,Sean Caufield,Austin Niles,Ellis Bass,Bradley Clark
+Pool Play,Expert,Group B,5,Single game,Bro Code,Whose your Daddy?,Bro Code,21,16,,,,,Peyton Stack,Andrew Yancey,Paq Clifford,Sam Aven
+Pool Play,Expert,Group B,5,Single game,Out of Pocket,Bone Thugs No Harmony,Out of Pocket,21,15,,,,,Spencer Sexton,Eli Canon,Yanai Hamel-Sasson,Jackson Carpenter
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Out of Pocket,Holy Smokes,Out of Pocket,1,0,1,0,,,Spencer Sexton,Eli Canon,Salvatore Guagenti,Billy Jung
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Slight,Minty,Slight,21,15,21,9,,,Owen Bass,Grant Marshall,Parker Mckinney,Andrew Felty
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Sugar Rush,Slight,Sugar Rush,21,7,21,17,,,Jacob Narayan,Kyle Fowler,Owen Bass,Grant Marshall
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Bro Code,Out of Pocket,Bro Code,21,17,21,14,,,Peyton Stack,Andrew Yancey,Spencer Sexton,Eli Canon
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,"Too much sauce ",Bone Thugs No Harmony,"Too much sauce ",22,20,22,20,,,Sean Caufield,Austin Niles,Yanai Hamel-Sasson,Jackson Carpenter
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Whose your Daddy?,clarked and loaded,Whose your Daddy?,19,21,21,9,21,18,Paq Clifford,Sam Aven,Ellis Bass,Bradley Clark
+Bracket Stage,Expert,Bracket A,Semi-final,Best of 3,Sugar Rush,Whose your Daddy?,Sugar Rush,21,18,21,16,,,Jacob Narayan,Kyle Fowler,Paq Clifford,Sam Aven
+Bracket Stage,Expert,Bracket A,Semi-final,Best of 3,Bro Code,"Too much sauce ",Bro Code,21,15,21,18,,,Peyton Stack,Andrew Yancey,Sean Caufield,Austin Niles
+Bracket Stage,Expert,Bracket A,P5: Semi-final,Single game,clarked and loaded,Slight,clarked and loaded,1,0,,,,,Ellis Bass,Bradley Clark,Owen Bass,Grant Marshall
+Bracket Stage,Expert,Bracket A,P5: Semi-final,Single game,Bone Thugs No Harmony,Out of Pocket,Out of Pocket,19,21,,,,,Yanai Hamel-Sasson,Jackson Carpenter,Spencer Sexton,Eli Canon
+Bracket Stage,Expert,Bracket A,Final,Best of 3,Sugar Rush,Bro Code,Sugar Rush,21,9,21,14,,,Jacob Narayan,Kyle Fowler,Peyton Stack,Andrew Yancey
+Bracket Stage,Expert,Bracket A,P3: Final,Single game,"Too much sauce ",Whose your Daddy?,"Too much sauce ",0,-1,,,,,Sean Caufield,Austin Niles,Paq Clifford,Sam Aven
+Bracket Stage,Expert,Bracket A,P5: Final,Single game,clarked and loaded,Out of Pocket,,0,0,,,,,Ellis Bass,Bradley Clark,Spencer Sexton,Eli Canon
+Pool Play,Contender,Group A,1,Single game,Tim & Greg,No U-Turns Allowed,Tim & Greg,21,6,,,,,Ian Timan,Julia Timan,Daniel Tenbarge,joshua tenbarge
+Pool Play,Contender,Group A,1,Single game,Alex’s Nightmare,The NY Flickerbockers,The NY Flickerbockers,17,21,,,,,Xavier Singh,Andy Trower,"Alex ",Gray Bundy
+Pool Play,Contender,Group B,1,Single game,Chicken Bacon Ranch Loaded Fries,BBB,Chicken Bacon Ranch Loaded Fries,21,6,,,,,Lane Morris,Zeke Beckford,Marrisa Jones,Ava Caron
+Pool Play,Contender,Group B,1,Single game,tiff n henny,ACL Tribal,ACL Tribal,16,21,,,,,Tiff Ding,Henrik Hoeldtke,Cole Kuhlers,Tahzjayee Gaymon
+Pool Play,Contender,Group C,1,Single game,"Conservation of Greatness ",Ellie/McKayla,"Conservation of Greatness ",21,6,,,,,Garret Chaffins,Joseph Motto,McKayla McClary,Elizabeth Bennett
+Pool Play,Contender,Group C,1,Single game,Freakballers,Broadway Belchers,Freakballers,22,20,,,,,Zach Stump,Jacob Eakin,Kyle tomaselli,Tyler Van Note
+Pool Play,Contender,Group D,1,Single game,Boxed Lunch,Isabella/Mia,Boxed Lunch,21,4,,,,,Vinay Gupta,Cole Solomon,Isabella Jennings,Mia Quattrocki
+Pool Play,Contender,Group D,1,Single game,Butterdog,Net Worth,Butterdog,21,6,,,,,Nicko Tomala,Garrett Loiselle,Ian Stutzman,Levi Bieda
+Pool Play,Contender,Group A,2,Single game,Tim & Greg,The NY Flickerbockers,Tim & Greg,21,16,,,,,Ian Timan,Julia Timan,"Alex ",Gray Bundy
+Pool Play,Contender,Group A,2,Single game,Alex’s Nightmare,No U-Turns Allowed,Alex’s Nightmare,21,12,,,,,Xavier Singh,Andy Trower,Daniel Tenbarge,joshua tenbarge
+Pool Play,Contender,Group B,2,Single game,Chicken Bacon Ranch Loaded Fries,ACL Tribal,Chicken Bacon Ranch Loaded Fries,21,13,,,,,Lane Morris,Zeke Beckford,Cole Kuhlers,Tahzjayee Gaymon
+Pool Play,Contender,Group B,2,Single game,tiff n henny,BBB,tiff n henny,21,13,,,,,Tiff Ding,Henrik Hoeldtke,Marrisa Jones,Ava Caron
+Pool Play,Contender,Group C,2,Single game,"Conservation of Greatness ",Broadway Belchers,"Conservation of Greatness ",21,13,,,,,Garret Chaffins,Joseph Motto,Kyle tomaselli,Tyler Van Note
+Pool Play,Contender,Group C,2,Single game,Freakballers,Ellie/McKayla,Freakballers,21,9,,,,,Zach Stump,Jacob Eakin,McKayla McClary,Elizabeth Bennett
+Pool Play,Contender,Group D,2,Single game,Boxed Lunch,Net Worth,Boxed Lunch,21,11,,,,,Vinay Gupta,Cole Solomon,Ian Stutzman,Levi Bieda
+Pool Play,Contender,Group D,2,Single game,Butterdog,Isabella/Mia,Butterdog,21,6,,,,,Nicko Tomala,Garrett Loiselle,Isabella Jennings,Mia Quattrocki
+Pool Play,Contender,Group A,3,Single game,Tim & Greg,Alex’s Nightmare,Tim & Greg,21,14,,,,,Ian Timan,Julia Timan,Xavier Singh,Andy Trower
+Pool Play,Contender,Group A,3,Single game,The NY Flickerbockers,No U-Turns Allowed,The NY Flickerbockers,21,8,,,,,"Alex ",Gray Bundy,Daniel Tenbarge,joshua tenbarge
+Pool Play,Contender,Group B,3,Single game,Chicken Bacon Ranch Loaded Fries,tiff n henny,Chicken Bacon Ranch Loaded Fries,21,15,,,,,Lane Morris,Zeke Beckford,Tiff Ding,Henrik Hoeldtke
+Pool Play,Contender,Group B,3,Single game,ACL Tribal,BBB,ACL Tribal,21,16,,,,,Cole Kuhlers,Tahzjayee Gaymon,Marrisa Jones,Ava Caron
+Pool Play,Contender,Group C,3,Single game,"Conservation of Greatness ",Freakballers,"Conservation of Greatness ",21,16,,,,,Garret Chaffins,Joseph Motto,Zach Stump,Jacob Eakin
+Pool Play,Contender,Group C,3,Single game,Broadway Belchers,Ellie/McKayla,Broadway Belchers,21,5,,,,,Kyle tomaselli,Tyler Van Note,McKayla McClary,Elizabeth Bennett
+Pool Play,Contender,Group D,3,Single game,Boxed Lunch,Butterdog,Boxed Lunch,21,11,,,,,Vinay Gupta,Cole Solomon,Nicko Tomala,Garrett Loiselle
+Pool Play,Contender,Group D,3,Single game,Net Worth,Isabella/Mia,Isabella/Mia,16,21,,,,,Ian Stutzman,Levi Bieda,Isabella Jennings,Mia Quattrocki
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Boxed Lunch,Ellie/McKayla,Boxed Lunch,21,11,21,11,,,Vinay Gupta,Cole Solomon,McKayla McClary,Elizabeth Bennett
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Chicken Bacon Ranch Loaded Fries,No U-Turns Allowed,Chicken Bacon Ranch Loaded Fries,21,6,21,14,,,Lane Morris,Zeke Beckford,Daniel Tenbarge,joshua tenbarge
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,"Conservation of Greatness ",Net Worth,"Conservation of Greatness ",21,12,21,6,,,Garret Chaffins,Joseph Motto,Ian Stutzman,Levi Bieda
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Tim & Greg,BBB,Tim & Greg,21,5,21,3,,,Ian Timan,Julia Timan,Marrisa Jones,Ava Caron
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Butterdog,Isabella/Mia,Butterdog,21,7,21,14,,,Nicko Tomala,Garrett Loiselle,Isabella Jennings,Mia Quattrocki
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,The NY Flickerbockers,tiff n henny,The NY Flickerbockers,21,15,18,21,21,18,"Alex ",Gray Bundy,Tiff Ding,Henrik Hoeldtke
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Freakballers,Alex’s Nightmare,Freakballers,21,19,16,21,21,14,Zach Stump,Jacob Eakin,Xavier Singh,Andy Trower
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,ACL Tribal,Broadway Belchers,Broadway Belchers,17,21,11,21,,,Cole Kuhlers,Tahzjayee Gaymon,Kyle tomaselli,Tyler Van Note
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,Boxed Lunch,Broadway Belchers,Boxed Lunch,21,15,21,13,,,Vinay Gupta,Cole Solomon,Kyle tomaselli,Tyler Van Note
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,Chicken Bacon Ranch Loaded Fries,Freakballers,Chicken Bacon Ranch Loaded Fries,21,8,21,6,,,Lane Morris,Zeke Beckford,Zach Stump,Jacob Eakin
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,"Conservation of Greatness ",The NY Flickerbockers,"Conservation of Greatness ",21,19,22,20,,,Garret Chaffins,Joseph Motto,"Alex ",Gray Bundy
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,Tim & Greg,Butterdog,Tim & Greg,21,15,21,16,,,Ian Timan,Julia Timan,Nicko Tomala,Garrett Loiselle
+Bracket Stage,Contender,Bracket A,Semi-final,Best of 3,Boxed Lunch,Tim & Greg,Tim & Greg,18,21,13,21,,,Vinay Gupta,Cole Solomon,Ian Timan,Julia Timan
+Bracket Stage,Contender,Bracket A,Semi-final,Best of 3,Chicken Bacon Ranch Loaded Fries,"Conservation of Greatness ",Chicken Bacon Ranch Loaded Fries,15,21,21,15,23,21,Lane Morris,Zeke Beckford,Garret Chaffins,Joseph Motto
+Bracket Stage,Contender,Bracket A,P5: Semi-final,Single game,Butterdog,Broadway Belchers,Butterdog,1,0,,,,,Nicko Tomala,Garrett Loiselle,Kyle tomaselli,Tyler Van Note
+Bracket Stage,Contender,Bracket A,P5: Semi-final,Single game,The NY Flickerbockers,Freakballers,The NY Flickerbockers,1,0,,,,,"Alex ",Gray Bundy,Zach Stump,Jacob Eakin
+Bracket Stage,Contender,Bracket A,Final,Best of 3,Tim & Greg,Chicken Bacon Ranch Loaded Fries,Tim & Greg,21,19,21,18,,,Ian Timan,Julia Timan,Lane Morris,Zeke Beckford
+Bracket Stage,Contender,Bracket A,P3: Final,Single game,"Conservation of Greatness ",Boxed Lunch,,21,21,,,,,Garret Chaffins,Joseph Motto,Vinay Gupta,Cole Solomon
+Bracket Stage,Contender,Bracket A,P5: Final,Single game,Butterdog,The NY Flickerbockers,Butterdog,1,0,,,,,Nicko Tomala,Garrett Loiselle,"Alex ",Gray Bundy
+Bracket Stage,Contender,Bracket A,P7: Final,Single game,Freakballers,Broadway Belchers,,0,0,,,,,Zach Stump,Jacob Eakin,Kyle tomaselli,Tyler Van Note
