@@ -1,0 +1,50 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,4.0 Challenger,Group A,1,Single game,We Thought This was Pickleball,Gemini,We Thought This was Pickleball,15,6,,,,,Ryley Duke,Ryan Kartchner,Trevor Goodson,Ian Goodson
+Pool Play,4.0 Challenger,Group A,1,Single game,The Moppers,Como Se Juega,The Moppers,16,14,,,,,Devin Perkins,Payton Perkins,Nathan Brueck,Adam Brueck
+Pool Play,4.0 Challenger,Group A,1,Single game,Mom and Dad,CJack,CJack,11,15,,,,,jesse rowley,Kylie Rowley,Kieren Henness,Chad Lewis
+Pool Play,4.0 Challenger,Group A,2,Single game,We Thought This was Pickleball,Como Se Juega,We Thought This was Pickleball,15,9,,,,,Ryley Duke,Ryan Kartchner,Nathan Brueck,Adam Brueck
+Pool Play,4.0 Challenger,Group A,2,Single game,The Moppers,Full Metal Alche-Missed Our Serve,The Moppers,15,13,,,,,Devin Perkins,Payton Perkins,Justin Mecham,Sam Turner
+Pool Play,4.0 Challenger,Group A,2,Single game,CJack,Gemini,Gemini,12,15,,,,,Kieren Henness,Chad Lewis,Trevor Goodson,Ian Goodson
+Pool Play,4.0 Challenger,Group A,3,Single game,We Thought This was Pickleball,CJack,We Thought This was Pickleball,15,11,,,,,Ryley Duke,Ryan Kartchner,Kieren Henness,Chad Lewis
+Pool Play,4.0 Challenger,Group A,3,Single game,The Moppers,Mom and Dad,Mom and Dad,8,15,,,,,Devin Perkins,Payton Perkins,jesse rowley,Kylie Rowley
+Pool Play,4.0 Challenger,Group A,3,Single game,Full Metal Alche-Missed Our Serve,Como Se Juega,Full Metal Alche-Missed Our Serve,16,14,,,,,Justin Mecham,Sam Turner,Nathan Brueck,Adam Brueck
+Pool Play,4.0 Challenger,Group A,4,Single game,We Thought This was Pickleball,Full Metal Alche-Missed Our Serve,We Thought This was Pickleball,15,9,,,,,Ryley Duke,Ryan Kartchner,Justin Mecham,Sam Turner
+Pool Play,4.0 Challenger,Group A,4,Single game,The Moppers,Gemini,The Moppers,15,10,,,,,Devin Perkins,Payton Perkins,Trevor Goodson,Ian Goodson
+Pool Play,4.0 Challenger,Group A,4,Single game,Mom and Dad,Como Se Juega,Mom and Dad,15,8,,,,,jesse rowley,Kylie Rowley,Nathan Brueck,Adam Brueck
+Pool Play,4.0 Challenger,Group A,5,Single game,The Moppers,CJack,The Moppers,15,9,,,,,Devin Perkins,Payton Perkins,Kieren Henness,Chad Lewis
+Pool Play,4.0 Challenger,Group A,5,Single game,Mom and Dad,Full Metal Alche-Missed Our Serve,Mom and Dad,15,11,,,,,jesse rowley,Kylie Rowley,Justin Mecham,Sam Turner
+Pool Play,4.0 Challenger,Group A,5,Single game,Como Se Juega,Gemini,Gemini,8,15,,,,,Nathan Brueck,Adam Brueck,Trevor Goodson,Ian Goodson
+Pool Play,4.0 Challenger,Group A,6,Single game,We Thought This was Pickleball,Mom and Dad,Mom and Dad,12,15,,,,,Ryley Duke,Ryan Kartchner,jesse rowley,Kylie Rowley
+Pool Play,4.0 Challenger,Group A,6,Single game,Full Metal Alche-Missed Our Serve,Gemini,Full Metal Alche-Missed Our Serve,15,11,,,,,Justin Mecham,Sam Turner,Trevor Goodson,Ian Goodson
+Pool Play,4.0 Challenger,Group A,6,Single game,CJack,Como Se Juega,CJack,15,9,,,,,Kieren Henness,Chad Lewis,Nathan Brueck,Adam Brueck
+Pool Play,4.0 Challenger,Group A,7,Single game,We Thought This was Pickleball,The Moppers,We Thought This was Pickleball,15,7,,,,,Ryley Duke,Ryan Kartchner,Devin Perkins,Payton Perkins
+Pool Play,4.0 Challenger,Group A,7,Single game,Mom and Dad,Gemini,Mom and Dad,15,11,,,,,jesse rowley,Kylie Rowley,Trevor Goodson,Ian Goodson
+Pool Play,4.0 Challenger,Group A,7,Single game,Full Metal Alche-Missed Our Serve,CJack,CJack,8,15,,,,,Justin Mecham,Sam Turner,Kieren Henness,Chad Lewis
+Bracket Stage,4.0 Challenger,Bracket A,Quarter-final,Best of 3,We Thought This was Pickleball,Como Se Juega,We Thought This was Pickleball,21,19,21,10,,,Ryley Duke,Ryan Kartchner,Nathan Brueck,Adam Brueck
+Bracket Stage,4.0 Challenger,Bracket A,Quarter-final,Best of 3,The Moppers,Gemini,The Moppers,21,13,21,15,,,Devin Perkins,Payton Perkins,Trevor Goodson,Ian Goodson
+Bracket Stage,4.0 Challenger,Bracket A,Quarter-final,Best of 3,CJack,Full Metal Alche-Missed Our Serve,CJack,23,21,21,18,,,Kieren Henness,Chad Lewis,Justin Mecham,Sam Turner
+Bracket Stage,4.0 Challenger,Bracket A,Semi-final,Best of 3,Mom and Dad,CJack,Mom and Dad,22,20,23,21,,,jesse rowley,Kylie Rowley,Kieren Henness,Chad Lewis
+Bracket Stage,4.0 Challenger,Bracket A,Semi-final,Best of 3,We Thought This was Pickleball,The Moppers,We Thought This was Pickleball,15,8,15,9,,,Ryley Duke,Ryan Kartchner,Devin Perkins,Payton Perkins
+Bracket Stage,4.0 Challenger,Bracket A,Final,Best of 3,Mom and Dad,We Thought This was Pickleball,Mom and Dad,16,14,1,0,,,jesse rowley,Kylie Rowley,Ryley Duke,Ryan Kartchner
+Bracket Stage,4.0 Challenger,Bracket A,P3: Final,Best of 3,The Moppers,CJack,CJack,19,21,0,1,,,Devin Perkins,Payton Perkins,Kieren Henness,Chad Lewis
+Pool Play,4.5 Elite,Group A,1,Single game,Charlie / Matt,Just Anderson,Charlie / Matt,21,14,,,,,Charlie Bratsman,Matt Barlow,Ben Reid,Anderson Perry
+Pool Play,4.5 Elite,Group A,1,Single game,Good Sets,Kyler / Chandler,Kyler / Chandler,13,21,,,,,Lazarus Shettell,Garrett Carver,Kyler Cote,Chandler Hertzler
+Pool Play,4.5 Elite,Group A,1,Single game,Cook / Church,Sleeveless,Cook / Church,21,12,,,,,Luke Cook,Taylor Church,Christopher Marcusen,Kody Price
+Pool Play,4.5 Elite,Group A,2,Single game,Charlie / Matt,Kyler / Chandler,Kyler / Chandler,12,21,,,,,Charlie Bratsman,Matt Barlow,Kyler Cote,Chandler Hertzler
+Pool Play,4.5 Elite,Group A,2,Single game,Good Sets,Cook / Church,Good Sets,21,17,,,,,Lazarus Shettell,Garrett Carver,Luke Cook,Taylor Church
+Pool Play,4.5 Elite,Group A,2,Single game,Sleeveless,Just Anderson,Sleeveless,21,14,,,,,Christopher Marcusen,Kody Price,Ben Reid,Anderson Perry
+Pool Play,4.5 Elite,Group A,3,Single game,Charlie / Matt,Sleeveless,Sleeveless,14,21,,,,,Charlie Bratsman,Matt Barlow,Christopher Marcusen,Kody Price
+Pool Play,4.5 Elite,Group A,3,Single game,Good Sets,Just Anderson,Good Sets,21,10,,,,,Lazarus Shettell,Garrett Carver,Ben Reid,Anderson Perry
+Pool Play,4.5 Elite,Group A,3,Single game,Cook / Church,Kyler / Chandler,Cook / Church,25,24,,,,,Luke Cook,Taylor Church,Kyler Cote,Chandler Hertzler
+Pool Play,4.5 Elite,Group A,4,Single game,Charlie / Matt,Cook / Church,Charlie / Matt,21,18,,,,,Charlie Bratsman,Matt Barlow,Luke Cook,Taylor Church
+Pool Play,4.5 Elite,Group A,4,Single game,Good Sets,Sleeveless,Sleeveless,24,25,,,,,Lazarus Shettell,Garrett Carver,Christopher Marcusen,Kody Price
+Pool Play,4.5 Elite,Group A,4,Single game,Kyler / Chandler,Just Anderson,Kyler / Chandler,21,10,,,,,Kyler Cote,Chandler Hertzler,Ben Reid,Anderson Perry
+Pool Play,4.5 Elite,Group A,5,Single game,Charlie / Matt,Good Sets,Charlie / Matt,21,10,,,,,Charlie Bratsman,Matt Barlow,Lazarus Shettell,Garrett Carver
+Pool Play,4.5 Elite,Group A,5,Single game,Cook / Church,Just Anderson,Cook / Church,21,8,,,,,Luke Cook,Taylor Church,Ben Reid,Anderson Perry
+Pool Play,4.5 Elite,Group A,5,Single game,Sleeveless,Kyler / Chandler,Sleeveless,23,21,,,,,Christopher Marcusen,Kody Price,Kyler Cote,Chandler Hertzler
+Bracket Stage,4.5 Elite,Bracket A,Quarter-final,Best of 3,Cook / Church,Just Anderson,Cook / Church,21,15,21,8,,,Luke Cook,Taylor Church,Ben Reid,Anderson Perry
+Bracket Stage,4.5 Elite,Bracket A,Quarter-final,Best of 3,Charlie / Matt,Good Sets,Good Sets,26,24,13,21,22,24,Charlie Bratsman,Matt Barlow,Lazarus Shettell,Garrett Carver
+Bracket Stage,4.5 Elite,Bracket A,Semi-final,Best of 3,Sleeveless,Good Sets,Good Sets,17,21,18,21,,,Christopher Marcusen,Kody Price,Lazarus Shettell,Garrett Carver
+Bracket Stage,4.5 Elite,Bracket A,Semi-final,Best of 3,Kyler / Chandler,Cook / Church,Kyler / Chandler,21,18,15,21,21,17,Kyler Cote,Chandler Hertzler,Luke Cook,Taylor Church
+Bracket Stage,4.5 Elite,Bracket A,Final,Best of 3,Good Sets,Kyler / Chandler,Kyler / Chandler,21,15,24,26,15,21,Lazarus Shettell,Garrett Carver,Kyler Cote,Chandler Hertzler
+Bracket Stage,4.5 Elite,Bracket A,P3: Final,Best of 3,Cook / Church,Sleeveless,Cook / Church,21,17,21,10,,,Luke Cook,Taylor Church,Christopher Marcusen,Kody Price

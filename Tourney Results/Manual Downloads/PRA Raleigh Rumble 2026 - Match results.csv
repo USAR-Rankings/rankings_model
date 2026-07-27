@@ -1,0 +1,132 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,Expert,Group A,1,Single game,Simulmaxxing,Two Bodacious Latino Women,Simulmaxxing,21,18,,,,,Jake Dooley,Kyle Fowler,Justin Kehoe,Sam Bunze
+Pool Play,Expert,Group A,1,Single game,Jawn,Spike Bros,Jawn,21,16,,,,,John Mankowich,John Buchanan,Chase Bremner,Cullen Bremner
+Pool Play,Expert,Group B,1,Single game,Set Apart,Sonic Boom,Set Apart,21,11,,,,,Jacob Summers,Andrew Greer,Benjamin Bunze,Connor Harte
+Pool Play,Expert,Group B,1,Single game,it happened once in a dream,"Call(foot)ballers ",it happened once in a dream,21,15,,,,,Bradley Clark,Cole Maddox,Austin Niles,Noah Kopetic
+Pool Play,Expert,Group C,1,Single game,KAB Crumb,LeBrandon/LeStef,KAB Crumb,21,6,,,,,Paq Clifford,Peyton Stack,Stef Ding,Brandon Stokes
+Pool Play,Expert,Group C,1,Single game,Aim Assist,KAB Sam/Polk,KAB Sam/Polk,7,21,,,,,Jared Beaufait,Adam Porter,Sam Aven,Polk Denmark
+Pool Play,Expert,Group A,2,Single game,Simulmaxxing,Spike Bros,Simulmaxxing,21,14,,,,,Jake Dooley,Kyle Fowler,Chase Bremner,Cullen Bremner
+Pool Play,Expert,Group A,2,Single game,Brenna’s Mom,Two Bodacious Latino Women,Brenna’s Mom,21,14,,,,,Kurt Lannetti,Eli Canon,Justin Kehoe,Sam Bunze
+Pool Play,Expert,Group B,2,Single game,Set Apart,"Call(foot)ballers ",Set Apart,21,19,,,,,Jacob Summers,Andrew Greer,Austin Niles,Noah Kopetic
+Pool Play,Expert,Group B,2,Single game,Voodoo,Sonic Boom,Voodoo,21,9,,,,,Diego Lopez,Drew Ryder,Benjamin Bunze,Connor Harte
+Pool Play,Expert,Group C,2,Single game,KAB Crumb,KAB Sam/Polk,KAB Crumb,25,23,,,,,Paq Clifford,Peyton Stack,Sam Aven,Polk Denmark
+Pool Play,Expert,Group C,2,Single game,Doozy Does It,LeBrandon/LeStef,Doozy Does It,21,14,,,,,Sean Caufield,Spencer Sexton,Stef Ding,Brandon Stokes
+Pool Play,Expert,Group A,3,Single game,Simulmaxxing,Brenna’s Mom,Simulmaxxing,21,17,,,,,Jake Dooley,Kyle Fowler,Kurt Lannetti,Eli Canon
+Pool Play,Expert,Group A,3,Single game,Jawn,Two Bodacious Latino Women,Jawn,21,14,,,,,John Mankowich,John Buchanan,Justin Kehoe,Sam Bunze
+Pool Play,Expert,Group B,3,Single game,Set Apart,Voodoo,Set Apart,21,19,,,,,Jacob Summers,Andrew Greer,Diego Lopez,Drew Ryder
+Pool Play,Expert,Group B,3,Single game,it happened once in a dream,Sonic Boom,it happened once in a dream,21,10,,,,,Bradley Clark,Cole Maddox,Benjamin Bunze,Connor Harte
+Pool Play,Expert,Group C,3,Single game,KAB Crumb,Doozy Does It,KAB Crumb,21,14,,,,,Paq Clifford,Peyton Stack,Sean Caufield,Spencer Sexton
+Pool Play,Expert,Group C,3,Single game,Aim Assist,LeBrandon/LeStef,Aim Assist,21,10,,,,,Jared Beaufait,Adam Porter,Stef Ding,Brandon Stokes
+Pool Play,Expert,Group A,4,Single game,Jawn,Brenna’s Mom,Jawn,22,20,,,,,John Mankowich,John Buchanan,Kurt Lannetti,Eli Canon
+Pool Play,Expert,Group A,4,Single game,Spike Bros,Two Bodacious Latino Women,Spike Bros,21,13,,,,,Chase Bremner,Cullen Bremner,Justin Kehoe,Sam Bunze
+Pool Play,Expert,Group B,4,Single game,it happened once in a dream,Voodoo,Voodoo,18,21,,,,,Bradley Clark,Cole Maddox,Diego Lopez,Drew Ryder
+Pool Play,Expert,Group B,4,Single game,"Call(foot)ballers ",Sonic Boom,"Call(foot)ballers ",21,17,,,,,Austin Niles,Noah Kopetic,Benjamin Bunze,Connor Harte
+Pool Play,Expert,Group C,4,Single game,Aim Assist,Doozy Does It,Doozy Does It,20,22,,,,,Jared Beaufait,Adam Porter,Sean Caufield,Spencer Sexton
+Pool Play,Expert,Group C,4,Single game,KAB Sam/Polk,LeBrandon/LeStef,KAB Sam/Polk,21,14,,,,,Sam Aven,Polk Denmark,Stef Ding,Brandon Stokes
+Pool Play,Expert,Group A,5,Single game,Simulmaxxing,Jawn,Simulmaxxing,21,12,,,,,Jake Dooley,Kyle Fowler,John Mankowich,John Buchanan
+Pool Play,Expert,Group A,5,Single game,Brenna’s Mom,Spike Bros,Brenna’s Mom,21,13,,,,,Kurt Lannetti,Eli Canon,Chase Bremner,Cullen Bremner
+Pool Play,Expert,Group B,5,Single game,Set Apart,it happened once in a dream,Set Apart,21,16,,,,,Jacob Summers,Andrew Greer,Bradley Clark,Cole Maddox
+Pool Play,Expert,Group B,5,Single game,Voodoo,"Call(foot)ballers ",Voodoo,21,14,,,,,Diego Lopez,Drew Ryder,Austin Niles,Noah Kopetic
+Pool Play,Expert,Group C,5,Single game,KAB Crumb,Aim Assist,KAB Crumb,21,14,,,,,Paq Clifford,Peyton Stack,Jared Beaufait,Adam Porter
+Pool Play,Expert,Group C,5,Single game,Doozy Does It,KAB Sam/Polk,Doozy Does It,21,17,,,,,Sean Caufield,Spencer Sexton,Sam Aven,Polk Denmark
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Simulmaxxing,LeBrandon/LeStef,Simulmaxxing,21,6,21,10,,,Jake Dooley,Kyle Fowler,Stef Ding,Brandon Stokes
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Set Apart,Sonic Boom,Set Apart,1,0,1,0,,,Jacob Summers,Andrew Greer,Benjamin Bunze,Connor Harte
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Voodoo,Two Bodacious Latino Women,Voodoo,21,10,21,18,,,Diego Lopez,Drew Ryder,Justin Kehoe,Sam Bunze
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Doozy Does It,Spike Bros,Doozy Does It,21,23,21,19,21,15,Sean Caufield,Spencer Sexton,Chase Bremner,Cullen Bremner
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,Jawn,Aim Assist,Jawn,21,14,21,19,,,John Mankowich,John Buchanan,Jared Beaufait,Adam Porter
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,KAB Sam/Polk,"Call(foot)ballers ",KAB Sam/Polk,21,12,21,18,,,Sam Aven,Polk Denmark,Austin Niles,Noah Kopetic
+Bracket Stage,Expert,Bracket A,Round of 16,Best of 3,it happened once in a dream,Brenna’s Mom,it happened once in a dream,21,18,21,19,,,Bradley Clark,Cole Maddox,Kurt Lannetti,Eli Canon
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,KAB Crumb,it happened once in a dream,KAB Crumb,21,5,23,21,,,Paq Clifford,Peyton Stack,Bradley Clark,Cole Maddox
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Simulmaxxing,KAB Sam/Polk,Simulmaxxing,21,16,21,7,,,Jake Dooley,Kyle Fowler,Sam Aven,Polk Denmark
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Set Apart,Jawn,Set Apart,21,11,21,19,,,Jacob Summers,Andrew Greer,John Mankowich,John Buchanan
+Bracket Stage,Expert,Bracket A,Quarter-final,Best of 3,Voodoo,Doozy Does It,Voodoo,21,16,15,21,21,15,Diego Lopez,Drew Ryder,Sean Caufield,Spencer Sexton
+Bracket Stage,Expert,Bracket A,P9: Quarter-final,Best of 3,"Call(foot)ballers ",LeBrandon/LeStef,"Call(foot)ballers ",21,10,21,19,,,Austin Niles,Noah Kopetic,Stef Ding,Brandon Stokes
+Bracket Stage,Expert,Bracket A,P9: Quarter-final,Best of 3,Aim Assist,Sonic Boom,Aim Assist,21,8,1,0,,,Jared Beaufait,Adam Porter,Benjamin Bunze,Connor Harte
+Bracket Stage,Expert,Bracket A,P9: Quarter-final,Best of 3,Spike Bros,Two Bodacious Latino Women,Two Bodacious Latino Women,0,1,12,21,,,Chase Bremner,Cullen Bremner,Justin Kehoe,Sam Bunze
+Bracket Stage,Expert,Bracket A,Semi-final,Best of 3,KAB Crumb,Voodoo,KAB Crumb,21,11,21,17,,,Paq Clifford,Peyton Stack,Diego Lopez,Drew Ryder
+Bracket Stage,Expert,Bracket A,Semi-final,Best of 3,Simulmaxxing,Set Apart,Set Apart,16,21,14,21,,,Jake Dooley,Kyle Fowler,Jacob Summers,Andrew Greer
+Bracket Stage,Expert,Bracket A,P5: Semi-final,Best of 3,Jawn,KAB Sam/Polk,KAB Sam/Polk,21,17,18,21,7,21,John Mankowich,John Buchanan,Sam Aven,Polk Denmark
+Bracket Stage,Expert,Bracket A,P9: Semi-final,Best of 3,Brenna’s Mom,Two Bodacious Latino Women,Brenna’s Mom,21,18,0,-1,,,Kurt Lannetti,Eli Canon,Justin Kehoe,Sam Bunze
+Bracket Stage,Expert,Bracket A,P9: Semi-final,Best of 3,"Call(foot)ballers ",Aim Assist,"Call(foot)ballers ",21,18,21,18,,,Austin Niles,Noah Kopetic,Jared Beaufait,Adam Porter
+Bracket Stage,Expert,Bracket A,Final,Best of 3,KAB Crumb,Set Apart,Set Apart,12,21,11,9,-1,0,Paq Clifford,Peyton Stack,Jacob Summers,Andrew Greer
+Bracket Stage,Expert,Bracket A,P3: Final,Best of 3,Simulmaxxing,Voodoo,Simulmaxxing,21,17,21,19,,,Jake Dooley,Kyle Fowler,Diego Lopez,Drew Ryder
+Bracket Stage,Expert,Bracket A,P9: Final,Best of 3,Brenna’s Mom,"Call(foot)ballers ",Brenna’s Mom,0,-1,0,-1,,,Kurt Lannetti,Eli Canon,Austin Niles,Noah Kopetic
+Pool Play,Contender,Group A,1,Single game,Cool Whip,No Game Plan,Cool Whip,21,11,,,,,Zeke Beckford,Joseph Gibson,Derek Mcilvenna,Heather Tsapp
+Pool Play,Contender,Group A,1,Single game,Hoagie,one of us hates chocolate,Hoagie,21,15,,,,,Logan DuBois,Caleb Mosley,Rosie Craven,Audrey Denmark
+Pool Play,Contender,Group B,1,Single game,"Conservation of Greatness ",The Odyssey,"Conservation of Greatness ",21,12,,,,,Garret Chaffins,Joseph Motto,Meki Mvuendy,Nolan White
+Pool Play,Contender,Group B,1,Single game,The Rim Jobs,Cole’s kids,The Rim Jobs,21,14,,,,,Hugh Telke,Josh Lairamore,Gray Bundy,Henrik Hoeldtke
+Pool Play,Contender,Group C,1,Single game,Squarenet,All Aboard the Break Train,Squarenet,21,11,,,,,Alex DuBois,Evan Grabarczyk,Caylin Breakfield,Hannahlisa Breakfield
+Pool Play,Contender,Group C,1,Single game,Riptide,Humble and Rumble,Riptide,21,12,,,,,Ben Celestino,Ryan Field,Andrew Murray,Garrett Loiselle
+Pool Play,Contender,Group D,1,Single game,TwoPresidents,Spike n’ Bike,TwoPresidents,21,1,,,,,Mason Dancausse,Bryce Von Haefen,Haley Stokes,Molly Gundermann
+Pool Play,Contender,Group D,1,Single game,Budget Balls,Parkes/McGrath,Budget Balls,21,8,,,,,Grayson Lloyd,Eli Mosley,Lindsay Parkes,Rachel McGrath
+Pool Play,Contender,Group D,1,Single game,Fence Shakers,Rim Magnet,Fence Shakers,21,16,,,,,Drew Davis,Yanai Hamel-Sasson,Elijah Young,Levi Thorne
+Pool Play,Contender,Group A,2,Single game,Cool Whip,one of us hates chocolate,Cool Whip,21,8,,,,,Zeke Beckford,Joseph Gibson,Rosie Craven,Audrey Denmark
+Pool Play,Contender,Group A,2,Single game,Paq’s Dream Threesome,No Game Plan,Paq’s Dream Threesome,21,13,,,,,Ellie Bennett,Jacob Narayan,Derek Mcilvenna,Heather Tsapp
+Pool Play,Contender,Group B,2,Single game,"Conservation of Greatness ",Cole’s kids,"Conservation of Greatness ",21,10,,,,,Garret Chaffins,Joseph Motto,Gray Bundy,Henrik Hoeldtke
+Pool Play,Contender,Group B,2,Single game,LARGE and in charge,The Odyssey,LARGE and in charge,21,16,,,,,Tiff Ding,Leah Freeman,Meki Mvuendy,Nolan White
+Pool Play,Contender,Group C,2,Single game,Squarenet,Humble and Rumble,Humble and Rumble,18,21,,,,,Alex DuBois,Evan Grabarczyk,Andrew Murray,Garrett Loiselle
+Pool Play,Contender,Group C,2,Single game,3 balls total,All Aboard the Break Train,3 balls total,21,7,,,,,Carter Boxell,Cameron O'Brien,Caylin Breakfield,Hannahlisa Breakfield
+Pool Play,Contender,Group D,2,Single game,TwoPresidents,Parkes/McGrath,TwoPresidents,21,6,,,,,Mason Dancausse,Bryce Von Haefen,Lindsay Parkes,Rachel McGrath
+Pool Play,Contender,Group D,2,Single game,Budget Balls,Fence Shakers,Fence Shakers,10,21,,,,,Grayson Lloyd,Eli Mosley,Drew Davis,Yanai Hamel-Sasson
+Pool Play,Contender,Group D,2,Single game,Rim Magnet,Spike n’ Bike,Rim Magnet,21,2,,,,,Elijah Young,Levi Thorne,Haley Stokes,Molly Gundermann
+Pool Play,Contender,Group A,3,Single game,Cool Whip,Paq’s Dream Threesome,Cool Whip,22,20,,,,,Zeke Beckford,Joseph Gibson,Ellie Bennett,Jacob Narayan
+Pool Play,Contender,Group A,3,Single game,Hoagie,No Game Plan,Hoagie,21,14,,,,,Logan DuBois,Caleb Mosley,Derek Mcilvenna,Heather Tsapp
+Pool Play,Contender,Group B,3,Single game,"Conservation of Greatness ",LARGE and in charge,"Conservation of Greatness ",21,9,,,,,Garret Chaffins,Joseph Motto,Tiff Ding,Leah Freeman
+Pool Play,Contender,Group B,3,Single game,The Rim Jobs,The Odyssey,The Rim Jobs,21,9,,,,,Hugh Telke,Josh Lairamore,Meki Mvuendy,Nolan White
+Pool Play,Contender,Group C,3,Single game,Squarenet,3 balls total,Squarenet,21,15,,,,,Alex DuBois,Evan Grabarczyk,Carter Boxell,Cameron O'Brien
+Pool Play,Contender,Group C,3,Single game,Riptide,All Aboard the Break Train,Riptide,21,14,,,,,Ben Celestino,Ryan Field,Caylin Breakfield,Hannahlisa Breakfield
+Pool Play,Contender,Group D,3,Single game,TwoPresidents,Rim Magnet,TwoPresidents,21,13,,,,,Mason Dancausse,Bryce Von Haefen,Elijah Young,Levi Thorne
+Pool Play,Contender,Group D,3,Single game,Budget Balls,Spike n’ Bike,Budget Balls,21,6,,,,,Grayson Lloyd,Eli Mosley,Haley Stokes,Molly Gundermann
+Pool Play,Contender,Group D,3,Single game,Fence Shakers,Parkes/McGrath,Fence Shakers,21,10,,,,,Drew Davis,Yanai Hamel-Sasson,Lindsay Parkes,Rachel McGrath
+Pool Play,Contender,Group A,4,Single game,Hoagie,Paq’s Dream Threesome,Paq’s Dream Threesome,20,22,,,,,Logan DuBois,Caleb Mosley,Ellie Bennett,Jacob Narayan
+Pool Play,Contender,Group A,4,Single game,one of us hates chocolate,No Game Plan,No Game Plan,13,21,,,,,Rosie Craven,Audrey Denmark,Derek Mcilvenna,Heather Tsapp
+Pool Play,Contender,Group B,4,Single game,The Rim Jobs,LARGE and in charge,The Rim Jobs,21,11,,,,,Hugh Telke,Josh Lairamore,Tiff Ding,Leah Freeman
+Pool Play,Contender,Group B,4,Single game,Cole’s kids,The Odyssey,Cole’s kids,21,8,,,,,Gray Bundy,Henrik Hoeldtke,Meki Mvuendy,Nolan White
+Pool Play,Contender,Group C,4,Single game,Riptide,3 balls total,Riptide,21,14,,,,,Ben Celestino,Ryan Field,Carter Boxell,Cameron O'Brien
+Pool Play,Contender,Group C,4,Single game,Humble and Rumble,All Aboard the Break Train,Humble and Rumble,21,6,,,,,Andrew Murray,Garrett Loiselle,Caylin Breakfield,Hannahlisa Breakfield
+Pool Play,Contender,Group D,4,Single game,TwoPresidents,Fence Shakers,TwoPresidents,21,14,,,,,Mason Dancausse,Bryce Von Haefen,Drew Davis,Yanai Hamel-Sasson
+Pool Play,Contender,Group D,4,Single game,Budget Balls,Rim Magnet,Budget Balls,21,7,,,,,Grayson Lloyd,Eli Mosley,Elijah Young,Levi Thorne
+Pool Play,Contender,Group D,4,Single game,Parkes/McGrath,Spike n’ Bike,Parkes/McGrath,21,16,,,,,Lindsay Parkes,Rachel McGrath,Haley Stokes,Molly Gundermann
+Pool Play,Contender,Group A,5,Single game,Cool Whip,Hoagie,Cool Whip,21,16,,,,,Zeke Beckford,Joseph Gibson,Logan DuBois,Caleb Mosley
+Pool Play,Contender,Group A,5,Single game,Paq’s Dream Threesome,one of us hates chocolate,Paq’s Dream Threesome,21,18,,,,,Ellie Bennett,Jacob Narayan,Rosie Craven,Audrey Denmark
+Pool Play,Contender,Group B,5,Single game,"Conservation of Greatness ",The Rim Jobs,The Rim Jobs,17,21,,,,,Garret Chaffins,Joseph Motto,Hugh Telke,Josh Lairamore
+Pool Play,Contender,Group B,5,Single game,LARGE and in charge,Cole’s kids,Cole’s kids,19,21,,,,,Tiff Ding,Leah Freeman,Gray Bundy,Henrik Hoeldtke
+Pool Play,Contender,Group C,5,Single game,Squarenet,Riptide,Riptide,17,21,,,,,Alex DuBois,Evan Grabarczyk,Ben Celestino,Ryan Field
+Pool Play,Contender,Group C,5,Single game,3 balls total,Humble and Rumble,Humble and Rumble,17,21,,,,,Carter Boxell,Cameron O'Brien,Andrew Murray,Garrett Loiselle
+Pool Play,Contender,Group D,5,Single game,TwoPresidents,Budget Balls,Budget Balls,19,21,,,,,Mason Dancausse,Bryce Von Haefen,Grayson Lloyd,Eli Mosley
+Pool Play,Contender,Group D,5,Single game,Fence Shakers,Spike n’ Bike,Fence Shakers,21,1,,,,,Drew Davis,Yanai Hamel-Sasson,Haley Stokes,Molly Gundermann
+Pool Play,Contender,Group D,5,Single game,Rim Magnet,Parkes/McGrath,Rim Magnet,21,8,,,,,Elijah Young,Levi Thorne,Lindsay Parkes,Rachel McGrath
+Bracket Stage,Contender,Bracket A,Round of 32,Best of 3,Cole’s kids,Spike n’ Bike,Cole’s kids,21,0,21,0,,,Gray Bundy,Henrik Hoeldtke,Haley Stokes,Molly Gundermann
+Bracket Stage,Contender,Bracket A,Round of 32,Best of 3,Rim Magnet,All Aboard the Break Train,Rim Magnet,19,21,21,2,21,12,Elijah Young,Levi Thorne,Caylin Breakfield,Hannahlisa Breakfield
+Bracket Stage,Contender,Bracket A,Round of 32,Best of 3,3 balls total,The Odyssey,3 balls total,21,8,21,15,,,Carter Boxell,Cameron O'Brien,Meki Mvuendy,Nolan White
+Bracket Stage,Contender,Bracket A,Round of 32,Best of 3,No Game Plan,Parkes/McGrath,No Game Plan,21,10,21,14,,,Derek Mcilvenna,Heather Tsapp,Lindsay Parkes,Rachel McGrath
+Bracket Stage,Contender,Bracket A,Round of 32,Best of 3,LARGE and in charge,one of us hates chocolate,LARGE and in charge,21,9,21,9,,,Tiff Ding,Leah Freeman,Rosie Craven,Audrey Denmark
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,The Rim Jobs,LARGE and in charge,The Rim Jobs,21,11,21,16,,,Hugh Telke,Josh Lairamore,Tiff Ding,Leah Freeman
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Cool Whip,No Game Plan,Cool Whip,21,16,21,8,,,Zeke Beckford,Joseph Gibson,Derek Mcilvenna,Heather Tsapp
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Riptide,3 balls total,Riptide,21,19,21,19,,,Ben Celestino,Ryan Field,Carter Boxell,Cameron O'Brien
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,TwoPresidents,Rim Magnet,TwoPresidents,21,13,21,16,,,Mason Dancausse,Bryce Von Haefen,Elijah Young,Levi Thorne
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Fence Shakers,Cole’s kids,Fence Shakers,21,5,21,18,,,Drew Davis,Yanai Hamel-Sasson,Gray Bundy,Henrik Hoeldtke
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,"Conservation of Greatness ",Hoagie,"Conservation of Greatness ",21,12,22,20,,,Garret Chaffins,Joseph Motto,Logan DuBois,Caleb Mosley
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Budget Balls,Squarenet,Budget Balls,18,21,21,18,21,16,Grayson Lloyd,Eli Mosley,Alex DuBois,Evan Grabarczyk
+Bracket Stage,Contender,Bracket A,Round of 16,Best of 3,Humble and Rumble,Paq’s Dream Threesome,Humble and Rumble,21,17,21,10,,,Andrew Murray,Garrett Loiselle,Ellie Bennett,Jacob Narayan
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,The Rim Jobs,Humble and Rumble,The Rim Jobs,21,15,18,21,21,7,Hugh Telke,Josh Lairamore,Andrew Murray,Garrett Loiselle
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,Cool Whip,Budget Balls,Cool Whip,21,18,21,19,,,Zeke Beckford,Joseph Gibson,Grayson Lloyd,Eli Mosley
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,Riptide,"Conservation of Greatness ","Conservation of Greatness ",8,21,12,21,,,Ben Celestino,Ryan Field,Garret Chaffins,Joseph Motto
+Bracket Stage,Contender,Bracket A,Quarter-final,Best of 3,TwoPresidents,Fence Shakers,Fence Shakers,16,21,19,21,,,Mason Dancausse,Bryce Von Haefen,Drew Davis,Yanai Hamel-Sasson
+Bracket Stage,Contender,Bracket A,P9: Quarter-final,Best of 3,Paq’s Dream Threesome,LARGE and in charge,Paq’s Dream Threesome,21,17,1,0,,,Ellie Bennett,Jacob Narayan,Tiff Ding,Leah Freeman
+Bracket Stage,Contender,Bracket A,P9: Quarter-final,Best of 3,Squarenet,No Game Plan,Squarenet,1,0,1,0,,,Alex DuBois,Evan Grabarczyk,Derek Mcilvenna,Heather Tsapp
+Bracket Stage,Contender,Bracket A,P9: Quarter-final,Best of 3,Hoagie,3 balls total,Hoagie,22,20,1,0,,,Logan DuBois,Caleb Mosley,Carter Boxell,Cameron O'Brien
+Bracket Stage,Contender,Bracket A,P9: Quarter-final,Best of 3,Cole’s kids,Rim Magnet,Cole’s kids,1,0,0,1,1,0,Gray Bundy,Henrik Hoeldtke,Elijah Young,Levi Thorne
+Bracket Stage,Contender,Bracket A,P17: Quarter-final,Best of 3,All Aboard the Break Train,Spike n’ Bike,All Aboard the Break Train,0,-1,0,-1,0,-1,Caylin Breakfield,Hannahlisa Breakfield,Haley Stokes,Molly Gundermann
+Bracket Stage,Contender,Bracket A,Semi-final,Best of 3,The Rim Jobs,Fence Shakers,Fence Shakers,17,21,16,21,,,Hugh Telke,Josh Lairamore,Drew Davis,Yanai Hamel-Sasson
+Bracket Stage,Contender,Bracket A,Semi-final,Best of 3,Cool Whip,"Conservation of Greatness ",Cool Whip,21,19,15,21,21,11,Zeke Beckford,Joseph Gibson,Garret Chaffins,Joseph Motto
+Bracket Stage,Contender,Bracket A,P5: Semi-final,Best of 3,TwoPresidents,Humble and Rumble,TwoPresidents,21,13,1,0,,,Mason Dancausse,Bryce Von Haefen,Andrew Murray,Garrett Loiselle
+Bracket Stage,Contender,Bracket A,P5: Semi-final,Best of 3,Riptide,Budget Balls,Riptide,21,15,1,0,,,Ben Celestino,Ryan Field,Grayson Lloyd,Eli Mosley
+Bracket Stage,Contender,Bracket A,P9: Semi-final,Best of 3,Squarenet,Hoagie,Squarenet,1,0,0,1,1,0,Alex DuBois,Evan Grabarczyk,Logan DuBois,Caleb Mosley
+Bracket Stage,Contender,Bracket A,P17: Semi-final,Best of 3,one of us hates chocolate,All Aboard the Break Train,All Aboard the Break Train,12,21,13,21,,,Rosie Craven,Audrey Denmark,Caylin Breakfield,Hannahlisa Breakfield
+Bracket Stage,Contender,Bracket A,P17: Semi-final,Best of 3,Parkes/McGrath,The Odyssey,The Odyssey,13,21,11,21,,,Lindsay Parkes,Rachel McGrath,Meki Mvuendy,Nolan White
+Bracket Stage,Contender,Bracket A,Final,Best of 3,Fence Shakers,Cool Whip,Cool Whip,16,21,16,21,,,Drew Davis,Yanai Hamel-Sasson,Zeke Beckford,Joseph Gibson
+Bracket Stage,Contender,Bracket A,P3: Final,Best of 3,"Conservation of Greatness ",The Rim Jobs,"Conservation of Greatness ",21,16,20,22,21,15,Garret Chaffins,Joseph Motto,Hugh Telke,Josh Lairamore
+Bracket Stage,Contender,Bracket A,P5: Final,Best of 3,TwoPresidents,Riptide,Riptide,16,21,0,1,,,Mason Dancausse,Bryce Von Haefen,Ben Celestino,Ryan Field
+Bracket Stage,Contender,Bracket A,P7: Final,Best of 3,Budget Balls,Humble and Rumble,Humble and Rumble,-1,0,-1,0,,,Grayson Lloyd,Eli Mosley,Andrew Murray,Garrett Loiselle
+Bracket Stage,Contender,Bracket A,P17: Final,Best of 3,All Aboard the Break Train,The Odyssey,All Aboard the Break Train,21,16,21,18,,,Caylin Breakfield,Hannahlisa Breakfield,Meki Mvuendy,Nolan White
