@@ -1,0 +1,112 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Expert,Group A,1,Single game,Omnomnomnomnom,Gabe/Rehan,Omnomnomnomnom,21,15,,,,,Noah Saddik,Connor Nelson,Rehan Kabir,Gabriel Rouse
+Group Stage,5.0 Expert,Group A,1,Single game,Perfect Attendance,Oswalt/Schrag,Perfect Attendance,21,15,,,,,Liam Martinez,Jake Young,Nathaniel Schrag,Ryan Oswalt
+Group Stage,5.0 Expert,Group B,1,Single game,Just Here to Observe,coughing baby,Just Here to Observe,21,12,,,,,Ahren Gwynn,Rafi Moldovsky,Cooper Patcheak,Ally Chou
+Group Stage,5.0 Expert,Group B,1,Single game,Sluggish,In Due Time,Sluggish,21,13,,,,,Sasha Mariniuk,Jakob Seidner,Michael Du,Tim Gaskin
+Group Stage,5.0 Expert,Group B,1,Single game,ABG Scale Theory,Trevor/Aniket,Trevor/Aniket,22,24,,,,,Karah Hui,Elle Lowe,Trevor Folden,Aniket Matharasi
+Group Stage,5.0 Expert,Group A,2,Single game,Omnomnomnomnom,Oswalt/Schrag,Omnomnomnomnom,21,12,,,,,Noah Saddik,Connor Nelson,Nathaniel Schrag,Ryan Oswalt
+Group Stage,5.0 Expert,Group A,2,Single game,Hit & Run,Gabe/Rehan,Gabe/Rehan,12,21,,,,,Alec Galbo,CJ Wallace,Rehan Kabir,Gabriel Rouse
+Group Stage,5.0 Expert,Group B,2,Single game,Just Here to Observe,In Due Time,Just Here to Observe,21,16,,,,,Ahren Gwynn,Rafi Moldovsky,Michael Du,Tim Gaskin
+Group Stage,5.0 Expert,Group B,2,Single game,Sluggish,ABG Scale Theory,Sluggish,25,24,,,,,Sasha Mariniuk,Jakob Seidner,Karah Hui,Elle Lowe
+Group Stage,5.0 Expert,Group B,2,Single game,Trevor/Aniket,coughing baby,Trevor/Aniket,21,16,,,,,Trevor Folden,Aniket Matharasi,Cooper Patcheak,Ally Chou
+Group Stage,5.0 Expert,Group A,3,Single game,Omnomnomnomnom,Hit & Run,Omnomnomnomnom,21,13,,,,,Noah Saddik,Connor Nelson,Alec Galbo,CJ Wallace
+Group Stage,5.0 Expert,Group A,3,Single game,Perfect Attendance,Gabe/Rehan,Gabe/Rehan,18,21,,,,,Liam Martinez,Jake Young,Rehan Kabir,Gabriel Rouse
+Group Stage,5.0 Expert,Group B,3,Single game,Just Here to Observe,Trevor/Aniket,Just Here to Observe,21,12,,,,,Ahren Gwynn,Rafi Moldovsky,Trevor Folden,Aniket Matharasi
+Group Stage,5.0 Expert,Group B,3,Single game,Sluggish,coughing baby,Sluggish,21,13,,,,,Sasha Mariniuk,Jakob Seidner,Cooper Patcheak,Ally Chou
+Group Stage,5.0 Expert,Group B,3,Single game,ABG Scale Theory,In Due Time,ABG Scale Theory,21,18,,,,,Karah Hui,Elle Lowe,Michael Du,Tim Gaskin
+Group Stage,5.0 Expert,Group A,4,Single game,Perfect Attendance,Hit & Run,Perfect Attendance,21,19,,,,,Liam Martinez,Jake Young,Alec Galbo,CJ Wallace
+Group Stage,5.0 Expert,Group A,4,Single game,Oswalt/Schrag,Gabe/Rehan,Gabe/Rehan,10,21,,,,,Nathaniel Schrag,Ryan Oswalt,Rehan Kabir,Gabriel Rouse
+Group Stage,5.0 Expert,Group B,4,Single game,Just Here to Observe,ABG Scale Theory,Just Here to Observe,21,15,,,,,Ahren Gwynn,Rafi Moldovsky,Karah Hui,Elle Lowe
+Group Stage,5.0 Expert,Group B,4,Single game,Sluggish,Trevor/Aniket,Sluggish,21,9,,,,,Sasha Mariniuk,Jakob Seidner,Trevor Folden,Aniket Matharasi
+Group Stage,5.0 Expert,Group B,4,Single game,In Due Time,coughing baby,coughing baby,18,21,,,,,Michael Du,Tim Gaskin,Cooper Patcheak,Ally Chou
+Group Stage,5.0 Expert,Group A,5,Single game,Omnomnomnomnom,Perfect Attendance,Omnomnomnomnom,21,16,,,,,Noah Saddik,Connor Nelson,Liam Martinez,Jake Young
+Group Stage,5.0 Expert,Group A,5,Single game,Hit & Run,Oswalt/Schrag,Hit & Run,21,9,,,,,Alec Galbo,CJ Wallace,Nathaniel Schrag,Ryan Oswalt
+Group Stage,5.0 Expert,Group B,5,Single game,Just Here to Observe,Sluggish,Sluggish,18,21,,,,,Ahren Gwynn,Rafi Moldovsky,Sasha Mariniuk,Jakob Seidner
+Group Stage,5.0 Expert,Group B,5,Single game,ABG Scale Theory,coughing baby,ABG Scale Theory,21,16,,,,,Karah Hui,Elle Lowe,Cooper Patcheak,Ally Chou
+Group Stage,5.0 Expert,Group B,5,Single game,Trevor/Aniket,In Due Time,Trevor/Aniket,21,16,,,,,Trevor Folden,Aniket Matharasi,Michael Du,Tim Gaskin
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,Trevor/Aniket,In Due Time,Trevor/Aniket,21,12,21,13,,,Trevor Folden,Aniket Matharasi,Michael Du,Tim Gaskin
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,ABG Scale Theory,Oswalt/Schrag,Oswalt/Schrag,21,17,19,21,14,21,Karah Hui,Elle Lowe,Nathaniel Schrag,Ryan Oswalt
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,Hit & Run,coughing baby,Hit & Run,21,11,21,12,,,Alec Galbo,CJ Wallace,Cooper Patcheak,Ally Chou
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Omnomnomnomnom,Hit & Run,Omnomnomnomnom,21,18,21,19,,,Noah Saddik,Connor Nelson,Alec Galbo,CJ Wallace
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Sluggish,Oswalt/Schrag,Sluggish,22,20,21,18,,,Sasha Mariniuk,Jakob Seidner,Nathaniel Schrag,Ryan Oswalt
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Just Here to Observe,Trevor/Aniket,Just Here to Observe,24,22,13,21,21,13,Ahren Gwynn,Rafi Moldovsky,Trevor Folden,Aniket Matharasi
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Gabe/Rehan,Perfect Attendance,Gabe/Rehan,21,19,21,17,,,Rehan Kabir,Gabriel Rouse,Liam Martinez,Jake Young
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Omnomnomnomnom,Gabe/Rehan,Omnomnomnomnom,21,10,21,12,,,Noah Saddik,Connor Nelson,Rehan Kabir,Gabriel Rouse
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Sluggish,Just Here to Observe,Sluggish,21,14,21,18,,,Sasha Mariniuk,Jakob Seidner,Ahren Gwynn,Rafi Moldovsky
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Single game,Perfect Attendance,Hit & Run,Hit & Run,10,21,,,,,Liam Martinez,Jake Young,Alec Galbo,CJ Wallace
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Single game,Trevor/Aniket,Oswalt/Schrag,Trevor/Aniket,0,-2,,,,,Trevor Folden,Aniket Matharasi,Nathaniel Schrag,Ryan Oswalt
+Bracket Stage,5.0 Expert,Bracket A,Final,Best of 3,Omnomnomnomnom,Sluggish,Omnomnomnomnom,21,11,21,18,,,Noah Saddik,Connor Nelson,Sasha Mariniuk,Jakob Seidner
+Bracket Stage,5.0 Expert,Bracket A,P3: Final,Best of 3,Just Here to Observe,Gabe/Rehan,Gabe/Rehan,19,21,21,16,15,21,Ahren Gwynn,Rafi Moldovsky,Rehan Kabir,Gabriel Rouse
+Bracket Stage,5.0 Expert,Bracket A,P5: Final,Single game,Hit & Run,Trevor/Aniket,Hit & Run,0,-1,,,,,Alec Galbo,CJ Wallace,Trevor Folden,Aniket Matharasi
+Bracket Stage,5.0 Expert,Bracket A,P7: Final,Single game,Oswalt/Schrag,Perfect Attendance,Perfect Attendance,-2,0,,,,,Nathaniel Schrag,Ryan Oswalt,Liam Martinez,Jake Young
+Group Stage,4.0+ Contender,Group A,1,Single game,Trevor/costas,two feminists,Trevor/costas,21,6,,,,,Trevor Buchan,Costas Foster,Christopher Kim,Benjamin Leong
+Group Stage,4.0+ Contender,Group A,1,Single game,Caius/Luis,Sneak attack,Caius/Luis,21,17,,,,,Luis Mancilla,Caius Leung,Giana Brunetti,Jack Quaccia
+Group Stage,4.0+ Contender,Group B,1,Single game,big steppa,Sky & Friend,big steppa,21,14,,,,,Matthew Kamimura,Nathan Gauthier,Sauram Vasanawala,Sky Jafar
+Group Stage,4.0+ Contender,Group B,1,Single game,Rim Reapers,Soviet spike,Rim Reapers,21,11,,,,,Edson Bonilla,Michael Twersky,Matthew Zablotskiy,Gabriel Voronov
+Group Stage,4.0+ Contender,Group C,1,Single game,Sean and Thomas,Misflailed 2,Sean and Thomas,21,7,,,,,Sean Chen,Thompson Yang,Matt,div curl
+Group Stage,4.0+ Contender,Group C,1,Single game,Luki,Yellow river,Luki,21,7,,,,,Lukas Wiggers,Lucas Fedronic,Jake Sawyer,Archer Huang
+Group Stage,4.0+ Contender,Group D,1,Single game,Poly Spike,Halle/Achint,Poly Spike,21,4,,,,,Greyson Farrar,Zachary D'Souza,Halle Teh,
+Group Stage,4.0+ Contender,Group D,1,Single game,G Money’s,SpikeWell,G Money’s,21,4,,,,,Guillermo R.,Gammy Bravo,Linnea Wolniewicz,
+Group Stage,4.0+ Contender,Group D,1,Single game,BLT🥬,Lam the Clam,BLT🥬,23,21,,,,,Tirany Magdaleno,Olivia Baker,Collin Liou,Torin Lam
+Group Stage,4.0+ Contender,Group A,2,Single game,Trevor/costas,Sneak attack,Trevor/costas,21,15,,,,,Trevor Buchan,Costas Foster,Giana Brunetti,Jack Quaccia
+Group Stage,4.0+ Contender,Group A,2,Single game,The Reno Rizzidents,two feminists,The Reno Rizzidents,21,16,,,,,Kylan Wilcox,Christian Andrade,Christopher Kim,Benjamin Leong
+Group Stage,4.0+ Contender,Group B,2,Single game,big steppa,Soviet spike,big steppa,21,11,,,,,Matthew Kamimura,Nathan Gauthier,Matthew Zablotskiy,Gabriel Voronov
+Group Stage,4.0+ Contender,Group B,2,Single game,Jensen (and Max),Sky & Friend,Jensen (and Max),21,17,,,,,Jensen Merten,max gehm,Sauram Vasanawala,Sky Jafar
+Group Stage,4.0+ Contender,Group C,2,Single game,Sean and Thomas,Yellow river,Sean and Thomas,21,5,,,,,Sean Chen,Thompson Yang,Jake Sawyer,Archer Huang
+Group Stage,4.0+ Contender,Group C,2,Single game,Haley / Bryant,Misflailed 2,Misflailed 2,19,21,,,,,Haley Burke,Bryant Odom,Matt,div curl
+Group Stage,4.0+ Contender,Group D,2,Single game,Poly Spike,SpikeWell,Poly Spike,21,1,,,,,Greyson Farrar,Zachary D'Souza,Linnea Wolniewicz,
+Group Stage,4.0+ Contender,Group D,2,Single game,G Money’s,BLT🥬,G Money’s,21,9,,,,,Guillermo R.,Gammy Bravo,Tirany Magdaleno,Olivia Baker
+Group Stage,4.0+ Contender,Group D,2,Single game,Lam the Clam,Halle/Achint,Halle/Achint,21,23,,,,,Collin Liou,Torin Lam,Halle Teh,
+Group Stage,4.0+ Contender,Group A,3,Single game,Trevor/costas,The Reno Rizzidents,Trevor/costas,21,18,,,,,Trevor Buchan,Costas Foster,Kylan Wilcox,Christian Andrade
+Group Stage,4.0+ Contender,Group A,3,Single game,Caius/Luis,two feminists,Caius/Luis,21,7,,,,,Luis Mancilla,Caius Leung,Christopher Kim,Benjamin Leong
+Group Stage,4.0+ Contender,Group B,3,Single game,big steppa,Jensen (and Max),big steppa,21,16,,,,,Matthew Kamimura,Nathan Gauthier,Jensen Merten,max gehm
+Group Stage,4.0+ Contender,Group B,3,Single game,Rim Reapers,Sky & Friend,Rim Reapers,21,7,,,,,Edson Bonilla,Michael Twersky,Sauram Vasanawala,Sky Jafar
+Group Stage,4.0+ Contender,Group C,3,Single game,Sean and Thomas,Haley / Bryant,Sean and Thomas,21,6,,,,,Sean Chen,Thompson Yang,Haley Burke,Bryant Odom
+Group Stage,4.0+ Contender,Group C,3,Single game,Luki,Misflailed 2,Luki,21,8,,,,,Lukas Wiggers,Lucas Fedronic,Matt,div curl
+Group Stage,4.0+ Contender,Group D,3,Single game,Poly Spike,Lam the Clam,Poly Spike,21,11,,,,,Greyson Farrar,Zachary D'Souza,Collin Liou,Torin Lam
+Group Stage,4.0+ Contender,Group D,3,Single game,G Money’s,Halle/Achint,G Money’s,21,7,,,,,Guillermo R.,Gammy Bravo,Halle Teh,
+Group Stage,4.0+ Contender,Group D,3,Single game,BLT🥬,SpikeWell,BLT🥬,21,5,,,,,Tirany Magdaleno,Olivia Baker,Linnea Wolniewicz,
+Group Stage,4.0+ Contender,Group A,4,Single game,Caius/Luis,The Reno Rizzidents,Caius/Luis,21,15,,,,,Luis Mancilla,Caius Leung,Kylan Wilcox,Christian Andrade
+Group Stage,4.0+ Contender,Group A,4,Single game,Sneak attack,two feminists,Sneak attack,21,14,,,,,Giana Brunetti,Jack Quaccia,Christopher Kim,Benjamin Leong
+Group Stage,4.0+ Contender,Group B,4,Single game,Rim Reapers,Jensen (and Max),Rim Reapers,21,11,,,,,Edson Bonilla,Michael Twersky,Jensen Merten,max gehm
+Group Stage,4.0+ Contender,Group B,4,Single game,Soviet spike,Sky & Friend,Sky & Friend,12,21,,,,,Matthew Zablotskiy,Gabriel Voronov,Sauram Vasanawala,Sky Jafar
+Group Stage,4.0+ Contender,Group C,4,Single game,Luki,Haley / Bryant,Luki,21,14,,,,,Lukas Wiggers,Lucas Fedronic,Haley Burke,Bryant Odom
+Group Stage,4.0+ Contender,Group C,4,Single game,Yellow river,Misflailed 2,Misflailed 2,12,21,,,,,Jake Sawyer,Archer Huang,Matt,div curl
+Group Stage,4.0+ Contender,Group D,4,Single game,Poly Spike,BLT🥬,Poly Spike,21,0,,,,,Greyson Farrar,Zachary D'Souza,Tirany Magdaleno,Olivia Baker
+Group Stage,4.0+ Contender,Group D,4,Single game,G Money’s,Lam the Clam,G Money’s,21,6,,,,,Guillermo R.,Gammy Bravo,Collin Liou,Torin Lam
+Group Stage,4.0+ Contender,Group D,4,Single game,SpikeWell,Halle/Achint,Halle/Achint,12,21,,,,,Linnea Wolniewicz,,Halle Teh,
+Group Stage,4.0+ Contender,Group A,5,Single game,Trevor/costas,Caius/Luis,Trevor/costas,23,21,,,,,Trevor Buchan,Costas Foster,Luis Mancilla,Caius Leung
+Group Stage,4.0+ Contender,Group A,5,Single game,The Reno Rizzidents,Sneak attack,Sneak attack,16,21,,,,,Kylan Wilcox,Christian Andrade,Giana Brunetti,Jack Quaccia
+Group Stage,4.0+ Contender,Group B,5,Single game,big steppa,Rim Reapers,Rim Reapers,14,21,,,,,Matthew Kamimura,Nathan Gauthier,Edson Bonilla,Michael Twersky
+Group Stage,4.0+ Contender,Group B,5,Single game,Jensen (and Max),Soviet spike,Jensen (and Max),21,13,,,,,Jensen Merten,max gehm,Matthew Zablotskiy,Gabriel Voronov
+Group Stage,4.0+ Contender,Group C,5,Single game,Sean and Thomas,Luki,Sean and Thomas,21,8,,,,,Sean Chen,Thompson Yang,Lukas Wiggers,Lucas Fedronic
+Group Stage,4.0+ Contender,Group C,5,Single game,Haley / Bryant,Yellow river,Haley / Bryant,24,22,,,,,Haley Burke,Bryant Odom,Jake Sawyer,Archer Huang
+Group Stage,4.0+ Contender,Group D,5,Single game,Poly Spike,G Money’s,G Money’s,19,21,,,,,Greyson Farrar,Zachary D'Souza,Guillermo R.,Gammy Bravo
+Group Stage,4.0+ Contender,Group D,5,Single game,BLT🥬,Halle/Achint,BLT🥬,21,16,,,,,Tirany Magdaleno,Olivia Baker,Halle Teh,
+Group Stage,4.0+ Contender,Group D,5,Single game,Lam the Clam,SpikeWell,Lam the Clam,21,12,,,,,Collin Liou,Torin Lam,Linnea Wolniewicz,
+Bracket Stage,4.0+ Contender,Bracket A,Round of 16,Best of 3,Poly Spike,Misflailed 2,Poly Spike,21,11,21,4,,,Greyson Farrar,Zachary D'Souza,Matt,div curl
+Bracket Stage,4.0+ Contender,Bracket A,Round of 16,Best of 3,Caius/Luis,BLT🥬,Caius/Luis,21,11,21,11,,,Luis Mancilla,Caius Leung,Tirany Magdaleno,Olivia Baker
+Bracket Stage,4.0+ Contender,Bracket A,Round of 16,Best of 3,Luki,Jensen (and Max),Jensen (and Max),15,21,15,21,,,Lukas Wiggers,Lucas Fedronic,Jensen Merten,max gehm
+Bracket Stage,4.0+ Contender,Bracket A,Round of 16,Best of 3,big steppa,Sneak attack,big steppa,21,15,21,14,,,Matthew Kamimura,Nathan Gauthier,Giana Brunetti,Jack Quaccia
+Bracket Stage,4.0+ Contender,Bracket A,Quarter-final,Best of 3,Sean and Thomas,big steppa,Sean and Thomas,21,17,16,21,21,16,Sean Chen,Thompson Yang,Matthew Kamimura,Nathan Gauthier
+Bracket Stage,4.0+ Contender,Bracket A,Quarter-final,Best of 3,G Money’s,Jensen (and Max),G Money’s,21,17,21,13,,,Guillermo R.,Gammy Bravo,Jensen Merten,max gehm
+Bracket Stage,4.0+ Contender,Bracket A,Quarter-final,Best of 3,Rim Reapers,Caius/Luis,Rim Reapers,21,19,21,18,,,Edson Bonilla,Michael Twersky,Luis Mancilla,Caius Leung
+Bracket Stage,4.0+ Contender,Bracket A,Quarter-final,Best of 3,Trevor/costas,Poly Spike,Poly Spike,21,18,21,23,18,21,Trevor Buchan,Costas Foster,Greyson Farrar,Zachary D'Souza
+Bracket Stage,4.0+ Contender,Bracket A,Semi-final,Best of 3,Sean and Thomas,Poly Spike,Poly Spike,21,12,12,21,19,21,Sean Chen,Thompson Yang,Greyson Farrar,Zachary D'Souza
+Bracket Stage,4.0+ Contender,Bracket A,Semi-final,Best of 3,G Money’s,Rim Reapers,Rim Reapers,20,22,14,21,,,Guillermo R.,Gammy Bravo,Edson Bonilla,Michael Twersky
+Bracket Stage,4.0+ Contender,Bracket A,P5: Semi-final,Single game,Trevor/costas,big steppa,big steppa,0,1,,,,,Trevor Buchan,Costas Foster,Matthew Kamimura,Nathan Gauthier
+Bracket Stage,4.0+ Contender,Bracket A,P5: Semi-final,Single game,Caius/Luis,Jensen (and Max),Caius/Luis,21,19,,,,,Luis Mancilla,Caius Leung,Jensen Merten,max gehm
+Bracket Stage,4.0+ Contender,Bracket A,P9: Semi-final,Single game,Sneak attack,Misflailed 2,Sneak attack,21,18,,,,,Giana Brunetti,Jack Quaccia,Matt,div curl
+Bracket Stage,4.0+ Contender,Bracket A,P9: Semi-final,Single game,Luki,BLT🥬,BLT🥬,-2,0,,,,,Lukas Wiggers,Lucas Fedronic,Tirany Magdaleno,Olivia Baker
+Bracket Stage,4.0+ Contender,Bracket A,Final,Best of 3,Poly Spike,Rim Reapers,Rim Reapers,10,21,9,21,,,Greyson Farrar,Zachary D'Souza,Edson Bonilla,Michael Twersky
+Bracket Stage,4.0+ Contender,Bracket A,P3: Final,Best of 3,G Money’s,Sean and Thomas,Sean and Thomas,11,7,5,11,11,15,Guillermo R.,Gammy Bravo,Sean Chen,Thompson Yang
+Bracket Stage,4.0+ Contender,Bracket A,P5: Final,Single game,big steppa,Caius/Luis,Caius/Luis,0,1,,,,,Matthew Kamimura,Nathan Gauthier,Luis Mancilla,Caius Leung
+Bracket Stage,4.0+ Contender,Bracket B,Round of 16,Best of 3,two feminists,SpikeWell,two feminists,21,4,21,2,,,Christopher Kim,Benjamin Leong,Linnea Wolniewicz,
+Bracket Stage,4.0+ Contender,Bracket B,Quarter-final,Best of 3,The Reno Rizzidents,two feminists,The Reno Rizzidents,21,18,13,21,23,21,Kylan Wilcox,Christian Andrade,Christopher Kim,Benjamin Leong
+Bracket Stage,4.0+ Contender,Bracket B,Quarter-final,Best of 3,Sky & Friend,Yellow river,Sky & Friend,21,16,21,9,,,Sauram Vasanawala,Sky Jafar,Jake Sawyer,Archer Huang
+Bracket Stage,4.0+ Contender,Bracket B,Quarter-final,Best of 3,Halle/Achint,Soviet spike,Soviet spike,12,21,12,21,,,Halle Teh,,Matthew Zablotskiy,Gabriel Voronov
+Bracket Stage,4.0+ Contender,Bracket B,Quarter-final,Best of 3,Haley / Bryant,Lam the Clam,Lam the Clam,18,21,19,21,,,Haley Burke,Bryant Odom,Collin Liou,Torin Lam
+Bracket Stage,4.0+ Contender,Bracket B,Semi-final,Best of 3,The Reno Rizzidents,Lam the Clam,Lam the Clam,21,16,0,2,0,2,Kylan Wilcox,Christian Andrade,Collin Liou,Torin Lam
+Bracket Stage,4.0+ Contender,Bracket B,Semi-final,Best of 3,Sky & Friend,Soviet spike,Sky & Friend,21,15,21,19,,,Sauram Vasanawala,Sky Jafar,Matthew Zablotskiy,Gabriel Voronov
+Bracket Stage,4.0+ Contender,Bracket B,Final,Best of 3,Lam the Clam,Sky & Friend,Sky & Friend,10,21,6,21,,,Collin Liou,Torin Lam,Sauram Vasanawala,Sky Jafar
+Bracket Stage,4.0+ Contender,Bracket B,P3: Final,Best of 3,Soviet spike,The Reno Rizzidents,The Reno Rizzidents,-2,0,-2,0,,,Matthew Zablotskiy,Gabriel Voronov,Kylan Wilcox,Christian Andrade
