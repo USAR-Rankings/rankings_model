@@ -17,7 +17,7 @@ CFGS = {
     "minimum_misspelling_confidence": 80,
     "interactive_spelling_correction": True,
     "str_cols_to_check": [
-        'division',  # This means division names
+        # 'division',  # This means division names
         # 'team_names',  # This means team names
         'player_names',  # This means player names
     ],
