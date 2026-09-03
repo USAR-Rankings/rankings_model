@@ -1,0 +1,109 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Pool Play,2.0-3.0 Recreational,Group A,1,Single game,JDZ Ninjas,Really Good Team,JDZ Ninjas,15,10,,,,,"Dakota Stevens ","Joseph White, Jr",Damien Foster,Karee Brown
+Pool Play,2.0-3.0 Recreational,Group A,1,Single game,Rams,lobsters,lobsters,12,15,,,,,Ryan Tomlinson,Marin Langston,Chase Barlow,Drex Larson
+Pool Play,2.0-3.0 Recreational,Group A,2,Single game,JDZ Ninjas,lobsters,JDZ Ninjas,15,10,,,,,"Dakota Stevens ","Joseph White, Jr",Chase Barlow,Drex Larson
+Pool Play,2.0-3.0 Recreational,Group A,2,Single game,Rams,Really Good Team,Really Good Team,13,15,,,,,Ryan Tomlinson,Marin Langston,Damien Foster,Karee Brown
+Pool Play,2.0-3.0 Recreational,Group A,3,Single game,JDZ Ninjas,Rams,JDZ Ninjas,15,11,,,,,"Dakota Stevens ","Joseph White, Jr",Ryan Tomlinson,Marin Langston
+Pool Play,2.0-3.0 Recreational,Group A,3,Single game,lobsters,Really Good Team,lobsters,15,10,,,,,Chase Barlow,Drex Larson,Damien Foster,Karee Brown
+Pool Play,2.0-3.0 Recreational,Group A,4,Single game,JDZ Ninjas,Really Good Team,Really Good Team,15,17,,,,,"Dakota Stevens ","Joseph White, Jr",Damien Foster,Karee Brown
+Pool Play,2.0-3.0 Recreational,Group A,4,Single game,Rams,lobsters,lobsters,11,15,,,,,Ryan Tomlinson,Marin Langston,Chase Barlow,Drex Larson
+Pool Play,2.0-3.0 Recreational,Group A,5,Single game,JDZ Ninjas,lobsters,lobsters,9,15,,,,,"Dakota Stevens ","Joseph White, Jr",Chase Barlow,Drex Larson
+Pool Play,2.0-3.0 Recreational,Group A,5,Single game,Rams,Really Good Team,Rams,15,12,,,,,Ryan Tomlinson,Marin Langston,Damien Foster,Karee Brown
+Pool Play,2.0-3.0 Recreational,Group A,6,Single game,JDZ Ninjas,Rams,Rams,11,15,,,,,"Dakota Stevens ","Joseph White, Jr",Ryan Tomlinson,Marin Langston
+Pool Play,2.0-3.0 Recreational,Group A,6,Single game,lobsters,Really Good Team,lobsters,15,11,,,,,Chase Barlow,Drex Larson,Damien Foster,Karee Brown
+Bracket Stage,2.0-3.0 Recreational,Bracket A,Semi-final,Best of 3,lobsters,Really Good Team,lobsters,1,0,1,0,,,Chase Barlow,Drex Larson,Damien Foster,Karee Brown
+Bracket Stage,2.0-3.0 Recreational,Bracket A,Semi-final,Best of 3,JDZ Ninjas,Rams,JDZ Ninjas,1,0,1,0,,,"Dakota Stevens ","Joseph White, Jr",Ryan Tomlinson,Marin Langston
+Bracket Stage,2.0-3.0 Recreational,Bracket A,Final,Best of 3,lobsters,JDZ Ninjas,JDZ Ninjas,21,14,18,21,19,21,Chase Barlow,Drex Larson,"Dakota Stevens ","Joseph White, Jr"
+Pool Play,4.0 Challenger,Group A,1,Single game,Declining Performance,Prison Mikes,Prison Mikes,11,21,,,,,Gabe Memmott,Ian Morgan,Ainsley Barlow,Kody Price
+Pool Play,4.0 Challenger,Group A,1,Single game,"Rent Due, Gotta Win",Dalton Gang,"Rent Due, Gotta Win",21,15,,,,,Calon Heindel,Ryan Kartchner,Bridger Dalton,Luke Dalton
+Pool Play,4.0 Challenger,Group B,1,Single game,Spike and Subscribe,Nifty nibblers,Spike and Subscribe,21,16,,,,,Becca Feller,Dylan Mundy,Reed Berg,Chase Fauset
+Pool Play,4.0 Challenger,Group B,1,Single game,The Corn burgers,Brim Breakers,Brim Breakers,13,21,,,,,Ty Griffeth,Dom Haynes,Devin Perkins,Miles Egbert
+Pool Play,4.0 Challenger,Group B,1,Single game,KaChowskies,The Empire Spikes Back,The Empire Spikes Back,18,21,,,,,Kimball Sanpp,Ansen Christensen,Justin Tobin,Aysha Lewis
+Pool Play,4.0 Challenger,Group C,1,Single game,Plaisted/Anderson,2016 Cavs,2016 Cavs,13,21,,,,,Anne Marie Gibbs,Justin Anderson,Austin Squire,Jace Durfey
+Pool Play,4.0 Challenger,Group C,1,Single game,Canes?,The Dawgs,Canes?,21,18,,,,,Tyler Caswell,Spencer Hodson,Zeb Daw,June Cazier
+Pool Play,4.0 Challenger,Group C,1,Single game,Josh's Make-A-Wish Adventure,Cave,Josh's Make-A-Wish Adventure,21,15,,,,,Anna Balmforth,Joshua Balmforth,Thomas Hales,Ian Goodson
+Pool Play,4.0 Challenger,Group A,2,Single game,United,We Thought This Was Pickleball?,United,21,17,,,,,LeGrand Callister,Breven Imes,Sam Eagar,Alex Eagar
+Pool Play,4.0 Challenger,Group A,2,Single game,Dalton Gang,Prison Mikes,Prison Mikes,14,21,,,,,Bridger Dalton,Luke Dalton,Ainsley Barlow,Kody Price
+Pool Play,4.0 Challenger,Group B,2,Single game,Spike and Subscribe,Brim Breakers,Spike and Subscribe,21,14,,,,,Becca Feller,Dylan Mundy,Devin Perkins,Miles Egbert
+Pool Play,4.0 Challenger,Group B,2,Single game,The Corn burgers,KaChowskies,KaChowskies,16,21,,,,,Ty Griffeth,Dom Haynes,Kimball Sanpp,Ansen Christensen
+Pool Play,4.0 Challenger,Group B,2,Single game,The Empire Spikes Back,Nifty nibblers,The Empire Spikes Back,21,16,,,,,Justin Tobin,Aysha Lewis,Reed Berg,Chase Fauset
+Pool Play,4.0 Challenger,Group C,2,Single game,Plaisted/Anderson,The Dawgs,Plaisted/Anderson,21,13,,,,,Anne Marie Gibbs,Justin Anderson,Zeb Daw,June Cazier
+Pool Play,4.0 Challenger,Group C,2,Single game,Canes?,Josh's Make-A-Wish Adventure,Canes?,21,13,,,,,Tyler Caswell,Spencer Hodson,Anna Balmforth,Joshua Balmforth
+Pool Play,4.0 Challenger,Group C,2,Single game,Cave,2016 Cavs,2016 Cavs,6,21,,,,,Thomas Hales,Ian Goodson,Austin Squire,Jace Durfey
+Pool Play,4.0 Challenger,Group A,3,Single game,Declining Performance,Dalton Gang,Declining Performance,21,9,,,,,Gabe Memmott,Ian Morgan,Bridger Dalton,Luke Dalton
+Pool Play,4.0 Challenger,Group A,3,Single game,United,"Rent Due, Gotta Win","Rent Due, Gotta Win",15,21,,,,,LeGrand Callister,Breven Imes,Calon Heindel,Ryan Kartchner
+Pool Play,4.0 Challenger,Group B,3,Single game,Spike and Subscribe,The Empire Spikes Back,Spike and Subscribe,23,21,,,,,Becca Feller,Dylan Mundy,Justin Tobin,Aysha Lewis
+Pool Play,4.0 Challenger,Group B,3,Single game,The Corn burgers,Nifty nibblers,Nifty nibblers,18,21,,,,,Ty Griffeth,Dom Haynes,Reed Berg,Chase Fauset
+Pool Play,4.0 Challenger,Group B,3,Single game,KaChowskies,Brim Breakers,Brim Breakers,21,23,,,,,Kimball Sanpp,Ansen Christensen,Devin Perkins,Miles Egbert
+Pool Play,4.0 Challenger,Group C,3,Single game,Plaisted/Anderson,Cave,Plaisted/Anderson,21,4,,,,,Anne Marie Gibbs,Justin Anderson,Thomas Hales,Ian Goodson
+Pool Play,4.0 Challenger,Group C,3,Single game,Canes?,2016 Cavs,2016 Cavs,18,21,,,,,Tyler Caswell,Spencer Hodson,Austin Squire,Jace Durfey
+Pool Play,4.0 Challenger,Group C,3,Single game,Josh's Make-A-Wish Adventure,The Dawgs,The Dawgs,21,23,,,,,Anna Balmforth,Joshua Balmforth,Zeb Daw,June Cazier
+Pool Play,4.0 Challenger,Group A,4,Single game,Declining Performance,We Thought This Was Pickleball?,Declining Performance,21,9,,,,,Gabe Memmott,Ian Morgan,Sam Eagar,Alex Eagar
+Pool Play,4.0 Challenger,Group A,4,Single game,United,Prison Mikes,Prison Mikes,24,25,,,,,LeGrand Callister,Breven Imes,Ainsley Barlow,Kody Price
+Pool Play,4.0 Challenger,Group B,4,Single game,Spike and Subscribe,KaChowskies,Spike and Subscribe,21,15,,,,,Becca Feller,Dylan Mundy,Kimball Sanpp,Ansen Christensen
+Pool Play,4.0 Challenger,Group B,4,Single game,The Corn burgers,The Empire Spikes Back,The Empire Spikes Back,14,21,,,,,Ty Griffeth,Dom Haynes,Justin Tobin,Aysha Lewis
+Pool Play,4.0 Challenger,Group B,4,Single game,Brim Breakers,Nifty nibblers,Nifty nibblers,19,21,,,,,Devin Perkins,Miles Egbert,Reed Berg,Chase Fauset
+Pool Play,4.0 Challenger,Group C,4,Single game,Plaisted/Anderson,Josh's Make-A-Wish Adventure,Plaisted/Anderson,21,14,,,,,Anne Marie Gibbs,Justin Anderson,Anna Balmforth,Joshua Balmforth
+Pool Play,4.0 Challenger,Group C,4,Single game,Canes?,Cave,Canes?,21,13,,,,,Tyler Caswell,Spencer Hodson,Thomas Hales,Ian Goodson
+Pool Play,4.0 Challenger,Group C,4,Single game,The Dawgs,2016 Cavs,2016 Cavs,14,21,,,,,Zeb Daw,June Cazier,Austin Squire,Jace Durfey
+Pool Play,4.0 Challenger,Group A,5,Single game,United,Dalton Gang,United,22,20,,,,,LeGrand Callister,Breven Imes,Bridger Dalton,Luke Dalton
+Pool Play,4.0 Challenger,Group A,5,Single game,"Rent Due, Gotta Win",We Thought This Was Pickleball?,We Thought This Was Pickleball?,19,21,,,,,Calon Heindel,Ryan Kartchner,Sam Eagar,Alex Eagar
+Pool Play,4.0 Challenger,Group B,5,Single game,Spike and Subscribe,The Corn burgers,Spike and Subscribe,21,11,,,,,Becca Feller,Dylan Mundy,Ty Griffeth,Dom Haynes
+Pool Play,4.0 Challenger,Group B,5,Single game,KaChowskies,Nifty nibblers,KaChowskies,21,19,,,,,Kimball Sanpp,Ansen Christensen,Reed Berg,Chase Fauset
+Pool Play,4.0 Challenger,Group B,5,Single game,The Empire Spikes Back,Brim Breakers,The Empire Spikes Back,21,17,,,,,Justin Tobin,Aysha Lewis,Devin Perkins,Miles Egbert
+Pool Play,4.0 Challenger,Group C,5,Single game,Plaisted/Anderson,Canes?,Plaisted/Anderson,21,12,,,,,Anne Marie Gibbs,Justin Anderson,Tyler Caswell,Spencer Hodson
+Pool Play,4.0 Challenger,Group C,5,Single game,Josh's Make-A-Wish Adventure,2016 Cavs,2016 Cavs,13,21,,,,,Anna Balmforth,Joshua Balmforth,Austin Squire,Jace Durfey
+Pool Play,4.0 Challenger,Group C,5,Single game,Cave,The Dawgs,The Dawgs,10,21,,,,,Thomas Hales,Ian Goodson,Zeb Daw,June Cazier
+Pool Play,4.0 Challenger,Group A,6,Single game,Declining Performance,"Rent Due, Gotta Win",Declining Performance,21,17,,,,,Gabe Memmott,Ian Morgan,Calon Heindel,Ryan Kartchner
+Pool Play,4.0 Challenger,Group A,6,Single game,We Thought This Was Pickleball?,Prison Mikes,Prison Mikes,7,21,,,,,Sam Eagar,Alex Eagar,Ainsley Barlow,Kody Price
+Pool Play,4.0 Challenger,Group A,7,Single game,Declining Performance,United,Declining Performance,21,13,,,,,Gabe Memmott,Ian Morgan,LeGrand Callister,Breven Imes
+Pool Play,4.0 Challenger,Group A,7,Single game,"Rent Due, Gotta Win",Prison Mikes,Prison Mikes,20,22,,,,,Calon Heindel,Ryan Kartchner,Ainsley Barlow,Kody Price
+Pool Play,4.0 Challenger,Group A,7,Single game,We Thought This Was Pickleball?,Dalton Gang,Dalton Gang,14,21,,,,,Sam Eagar,Alex Eagar,Bridger Dalton,Luke Dalton
+Bracket Stage,4.0 Challenger,Bracket A,Round of 32,Best of 3,Dalton Gang,Cave,Cave,23,21,19,21,19,21,Bridger Dalton,Luke Dalton,Thomas Hales,Ian Goodson
+Bracket Stage,4.0 Challenger,Bracket A,Round of 32,Best of 3,We Thought This Was Pickleball?,The Corn burgers,The Corn burgers,22,24,0,1,,,Sam Eagar,Alex Eagar,Ty Griffeth,Dom Haynes
+Bracket Stage,4.0 Challenger,Bracket A,Round of 16,Best of 3,2016 Cavs,The Corn burgers,2016 Cavs,21,11,21,7,,,Austin Squire,Jace Durfey,Ty Griffeth,Dom Haynes
+Bracket Stage,4.0 Challenger,Bracket A,Round of 16,Best of 3,Prison Mikes,Cave,Prison Mikes,21,16,21,14,,,Ainsley Barlow,Kody Price,Thomas Hales,Ian Goodson
+Bracket Stage,4.0 Challenger,Bracket A,Round of 16,Best of 3,Spike and Subscribe,Josh's Make-A-Wish Adventure,Spike and Subscribe,1,0,1,0,,,Becca Feller,Dylan Mundy,Anna Balmforth,Joshua Balmforth
+Bracket Stage,4.0 Challenger,Bracket A,Round of 16,Best of 3,Plaisted/Anderson,KaChowskies,Plaisted/Anderson,21,13,21,17,,,Anne Marie Gibbs,Justin Anderson,Kimball Sanpp,Ansen Christensen
+Bracket Stage,4.0 Challenger,Bracket A,Round of 16,Best of 3,Declining Performance,United,Declining Performance,21,14,13,21,15,9,Gabe Memmott,Ian Morgan,LeGrand Callister,Breven Imes
+Bracket Stage,4.0 Challenger,Bracket A,Round of 16,Best of 3,The Empire Spikes Back,Nifty nibblers,The Empire Spikes Back,21,8,21,15,,,Justin Tobin,Aysha Lewis,Reed Berg,Chase Fauset
+Bracket Stage,4.0 Challenger,Bracket A,Round of 16,Best of 3,Canes?,The Dawgs,Canes?,21,15,21,18,,,Tyler Caswell,Spencer Hodson,Zeb Daw,June Cazier
+Bracket Stage,4.0 Challenger,Bracket A,Round of 16,Best of 3,"Rent Due, Gotta Win",Brim Breakers,Brim Breakers,20,22,19,21,,,Calon Heindel,Ryan Kartchner,Devin Perkins,Miles Egbert
+Bracket Stage,4.0 Challenger,Bracket A,Quarter-final,Best of 3,2016 Cavs,Brim Breakers,2016 Cavs,3,1,1,0,,,Austin Squire,Jace Durfey,Devin Perkins,Miles Egbert
+Bracket Stage,4.0 Challenger,Bracket A,Quarter-final,Best of 3,Prison Mikes,Canes?,Canes?,11,21,15,21,,,Ainsley Barlow,Kody Price,Tyler Caswell,Spencer Hodson
+Bracket Stage,4.0 Challenger,Bracket A,Quarter-final,Best of 3,Spike and Subscribe,The Empire Spikes Back,Spike and Subscribe,1,0,1,0,,,Becca Feller,Dylan Mundy,Justin Tobin,Aysha Lewis
+Bracket Stage,4.0 Challenger,Bracket A,Quarter-final,Best of 3,Plaisted/Anderson,Declining Performance,Plaisted/Anderson,22,20,21,19,,,Anne Marie Gibbs,Justin Anderson,Gabe Memmott,Ian Morgan
+Bracket Stage,4.0 Challenger,Bracket A,P9: Quarter-final,Single game,"Rent Due, Gotta Win",The Corn burgers,The Corn burgers,0,1,,,,,Calon Heindel,Ryan Kartchner,Ty Griffeth,Dom Haynes
+Bracket Stage,4.0 Challenger,Bracket A,P9: Quarter-final,Single game,The Dawgs,Cave,The Dawgs,21,6,,,,,Zeb Daw,June Cazier,Thomas Hales,Ian Goodson
+Bracket Stage,4.0 Challenger,Bracket A,P9: Quarter-final,Single game,Nifty nibblers,Josh's Make-A-Wish Adventure,Josh's Make-A-Wish Adventure,0,1,,,,,Reed Berg,Chase Fauset,Anna Balmforth,Joshua Balmforth
+Bracket Stage,4.0 Challenger,Bracket A,P9: Quarter-final,Single game,United,KaChowskies,KaChowskies,0,1,,,,,LeGrand Callister,Breven Imes,Kimball Sanpp,Ansen Christensen
+Bracket Stage,4.0 Challenger,Bracket A,Semi-final,Best of 3,2016 Cavs,Plaisted/Anderson,2016 Cavs,21,19,21,9,,,Austin Squire,Jace Durfey,Anne Marie Gibbs,Justin Anderson
+Bracket Stage,4.0 Challenger,Bracket A,Semi-final,Best of 3,Canes?,Spike and Subscribe,Canes?,1,0,1,0,,,Tyler Caswell,Spencer Hodson,Becca Feller,Dylan Mundy
+Bracket Stage,4.0 Challenger,Bracket A,P5: Semi-final,Single game,Declining Performance,Brim Breakers,Declining Performance,1,0,,,,,Gabe Memmott,Ian Morgan,Devin Perkins,Miles Egbert
+Bracket Stage,4.0 Challenger,Bracket A,P9: Semi-final,Single game,The Corn burgers,KaChowskies,KaChowskies,8,15,,,,,Ty Griffeth,Dom Haynes,Kimball Sanpp,Ansen Christensen
+Bracket Stage,4.0 Challenger,Bracket A,P9: Semi-final,Single game,The Dawgs,Josh's Make-A-Wish Adventure,The Dawgs,21,11,,,,,Zeb Daw,June Cazier,Anna Balmforth,Joshua Balmforth
+Bracket Stage,4.0 Challenger,Bracket A,Final,Single game,2016 Cavs,Canes?,2016 Cavs,2,0,,,,,Austin Squire,Jace Durfey,Tyler Caswell,Spencer Hodson
+Bracket Stage,4.0 Challenger,Bracket A,P3: Final,Single game,Spike and Subscribe,Plaisted/Anderson,Plaisted/Anderson,0,1,,,,,Becca Feller,Dylan Mundy,Anne Marie Gibbs,Justin Anderson
+Bracket Stage,4.0 Challenger,Bracket A,P9: Final,Single game,KaChowskies,The Dawgs,The Dawgs,19,21,,,,,Kimball Sanpp,Ansen Christensen,Zeb Daw,June Cazier
+Bracket Stage,4.0 Challenger,Bracket A,P17: Final,Single game,We Thought This Was Pickleball?,Dalton Gang,Dalton Gang,0,15,,,,,Sam Eagar,Alex Eagar,Bridger Dalton,Luke Dalton
+Pool Play,4.5 Elite,Group A,1,Single game,10  5  -2  2,Team Ja Ganhou,Team Ja Ganhou,14,21,,,,,Matt Barlow,Luke Cook,Taylor Church,Xande Plaisted
+Pool Play,4.5 Elite,Group A,1,Single game,Chandler is my handler,Premarital Sets,Chandler is my handler,21,10,,,,,Chandler Hertzler,Garrett Carver,Charlie Bratsman,Christopher Marcusen
+Pool Play,4.5 Elite,Group A,1,Single game,Eh Hem,Silent Chaos,Silent Chaos,12,21,,,,,Lazarus Shettell,Kylie Rowley,Bryant Karratti,Kyler Cote
+Pool Play,4.5 Elite,Group A,2,Single game,10  5  -2  2,Premarital Sets,Premarital Sets,16,21,,,,,Matt Barlow,Luke Cook,Charlie Bratsman,Christopher Marcusen
+Pool Play,4.5 Elite,Group A,2,Single game,Chandler is my handler,Eh Hem,Chandler is my handler,21,6,,,,,Chandler Hertzler,Garrett Carver,Lazarus Shettell,Kylie Rowley
+Pool Play,4.5 Elite,Group A,2,Single game,Silent Chaos,Team Ja Ganhou,Team Ja Ganhou,18,21,,,,,Bryant Karratti,Kyler Cote,Taylor Church,Xande Plaisted
+Pool Play,4.5 Elite,Group A,3,Single game,10  5  -2  2,Silent Chaos,Silent Chaos,24,25,,,,,Matt Barlow,Luke Cook,Bryant Karratti,Kyler Cote
+Pool Play,4.5 Elite,Group A,3,Single game,Chandler is my handler,Team Ja Ganhou,Chandler is my handler,21,10,,,,,Chandler Hertzler,Garrett Carver,Taylor Church,Xande Plaisted
+Pool Play,4.5 Elite,Group A,3,Single game,Eh Hem,Premarital Sets,Premarital Sets,14,21,,,,,Lazarus Shettell,Kylie Rowley,Charlie Bratsman,Christopher Marcusen
+Pool Play,4.5 Elite,Group A,4,Single game,10  5  -2  2,Eh Hem,10  5  -2  2,21,9,,,,,Matt Barlow,Luke Cook,Lazarus Shettell,Kylie Rowley
+Pool Play,4.5 Elite,Group A,4,Single game,Chandler is my handler,Silent Chaos,Chandler is my handler,21,19,,,,,Chandler Hertzler,Garrett Carver,Bryant Karratti,Kyler Cote
+Pool Play,4.5 Elite,Group A,4,Single game,Premarital Sets,Team Ja Ganhou,Team Ja Ganhou,5,21,,,,,Charlie Bratsman,Christopher Marcusen,Taylor Church,Xande Plaisted
+Pool Play,4.5 Elite,Group A,5,Single game,10  5  -2  2,Chandler is my handler,Chandler is my handler,10,21,,,,,Matt Barlow,Luke Cook,Chandler Hertzler,Garrett Carver
+Pool Play,4.5 Elite,Group A,5,Single game,Eh Hem,Team Ja Ganhou,Team Ja Ganhou,11,21,,,,,Lazarus Shettell,Kylie Rowley,Taylor Church,Xande Plaisted
+Pool Play,4.5 Elite,Group A,5,Single game,Silent Chaos,Premarital Sets,Premarital Sets,18,21,,,,,Bryant Karratti,Kyler Cote,Charlie Bratsman,Christopher Marcusen
+Bracket Stage,4.5 Elite,Bracket A,Quarter-final,Best of 3,Premarital Sets,Eh Hem,Premarital Sets,21,16,21,15,,,Charlie Bratsman,Christopher Marcusen,Lazarus Shettell,Kylie Rowley
+Bracket Stage,4.5 Elite,Bracket A,Quarter-final,Best of 3,Silent Chaos,10  5  -2  2,Silent Chaos,21,17,14,21,21,14,Bryant Karratti,Kyler Cote,Matt Barlow,Luke Cook
+Bracket Stage,4.5 Elite,Bracket A,Semi-final,Best of 3,Chandler is my handler,Silent Chaos,Chandler is my handler,21,18,21,13,,,Chandler Hertzler,Garrett Carver,Bryant Karratti,Kyler Cote
+Bracket Stage,4.5 Elite,Bracket A,Semi-final,Best of 3,Team Ja Ganhou,Premarital Sets,Team Ja Ganhou,21,11,21,11,,,Taylor Church,Xande Plaisted,Charlie Bratsman,Christopher Marcusen
+Bracket Stage,4.5 Elite,Bracket A,Final,Best of 3,Chandler is my handler,Team Ja Ganhou,Team Ja Ganhou,21,18,22,24,18,21,Chandler Hertzler,Garrett Carver,Taylor Church,Xande Plaisted
+Bracket Stage,4.5 Elite,Bracket A,P3: Final,Best of 3,Premarital Sets,Silent Chaos,Silent Chaos,25,27,20,22,,,Charlie Bratsman,Christopher Marcusen,Bryant Karratti,Kyler Cote
