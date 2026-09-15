@@ -1,0 +1,70 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Bracket Stage,2.0-3.0 Recreational,Bracket A,Semi-final,Single game,Party Pants,Mechanics,Party Pants,2,0,,,,,James Perkes,Elisabeth Ferrell,Enoch Monfreddi,Nathan Hale
+Bracket Stage,2.0-3.0 Recreational,Bracket A,Semi-final,Single game,Claybub,Easy Peasy,Claybub,2,1,,,,,Ethan Utzinger,Clayton Johnson,Jacob Schmadeke,Tanner Early
+Bracket Stage,2.0-3.0 Recreational,Bracket A,Final,Single game,Party Pants,Claybub,Claybub,0,3,,,,,James Perkes,Elisabeth Ferrell,Ethan Utzinger,Clayton Johnson
+Bracket Stage,2.0-3.0 Recreational,Bracket A,P3: Final,Single game,Easy Peasy,Mechanics,Easy Peasy,3,2,,,,,Jacob Schmadeke,Tanner Early,Enoch Monfreddi,Nathan Hale
+Pool Play,2.0-3.0 Recreational,Group A,1,Single game,Claybub,Party Pants,Party Pants,22,24,,,,,Ethan Utzinger,Clayton Johnson,James Perkes,Elisabeth Ferrell
+Pool Play,2.0-3.0 Recreational,Group A,1,Single game,Easy Peasy,Mechanics,Easy Peasy,21,18,,,,,Jacob Schmadeke,Tanner Early,Enoch Monfreddi,Nathan Hale
+Pool Play,2.0-3.0 Recreational,Group A,2,Single game,Claybub,Mechanics,Claybub,21,15,,,,,Ethan Utzinger,Clayton Johnson,Enoch Monfreddi,Nathan Hale
+Pool Play,2.0-3.0 Recreational,Group A,2,Single game,Easy Peasy,Party Pants,Party Pants,14,21,,,,,Jacob Schmadeke,Tanner Early,James Perkes,Elisabeth Ferrell
+Pool Play,2.0-3.0 Recreational,Group A,3,Single game,Claybub,Easy Peasy,Claybub,21,17,,,,,Ethan Utzinger,Clayton Johnson,Jacob Schmadeke,Tanner Early
+Pool Play,2.0-3.0 Recreational,Group A,3,Single game,Mechanics,Party Pants,Party Pants,14,21,,,,,Enoch Monfreddi,Nathan Hale,James Perkes,Elisabeth Ferrell
+Bracket Stage,4.0 Challenger,Bracket A,Quarter-final,Single game,Pão & Queijo,Double Fault,Pão & Queijo,2,1,,,,,Caleb Steinagel,"Joseph White, Jr",Jace Maisey,Rhys enloe
+Bracket Stage,4.0 Challenger,Bracket A,Semi-final,Single game,The Dawgs,Pão & Queijo,The Dawgs,2,0,,,,,June Cazier,Zeb Daw,Caleb Steinagel,"Joseph White, Jr"
+Bracket Stage,4.0 Challenger,Bracket A,Semi-final,Single game,Ainaball,Corbin / Ammy,Ainaball,2,0,,,,,Josh Aina,Adam Aina,Corbin Cote,Anne Marie Gibbs
+Bracket Stage,4.0 Challenger,Bracket A,Final,Single game,The Dawgs,Ainaball,The Dawgs,2,0,,,,,June Cazier,Zeb Daw,Josh Aina,Adam Aina
+Bracket Stage,4.0 Challenger,Bracket A,P3: Final,Single game,Corbin / Ammy,Pão & Queijo,Corbin / Ammy,2,0,,,,,Corbin Cote,Anne Marie Gibbs,Caleb Steinagel,"Joseph White, Jr"
+Pool Play,4.0 Challenger,Group A,1,Single game,Ainaball,The Dawgs,The Dawgs,11,21,,,,,Josh Aina,Adam Aina,June Cazier,Zeb Daw
+Pool Play,4.0 Challenger,Group A,1,Single game,Corbin / Ammy,Pão & Queijo,Corbin / Ammy,21,14,,,,,Corbin Cote,Anne Marie Gibbs,Caleb Steinagel,"Joseph White, Jr"
+Pool Play,4.0 Challenger,Group A,2,Single game,Ainaball,Pão & Queijo,Ainaball,21,14,,,,,Josh Aina,Adam Aina,Caleb Steinagel,"Joseph White, Jr"
+Pool Play,4.0 Challenger,Group A,2,Single game,Double Fault,The Dawgs,The Dawgs,13,21,,,,,Jace Maisey,Rhys enloe,June Cazier,Zeb Daw
+Pool Play,4.0 Challenger,Group A,3,Single game,Ainaball,Double Fault,Ainaball,21,14,,,,,Josh Aina,Adam Aina,Jace Maisey,Rhys enloe
+Pool Play,4.0 Challenger,Group A,3,Single game,Corbin / Ammy,The Dawgs,The Dawgs,15,21,,,,,Corbin Cote,Anne Marie Gibbs,June Cazier,Zeb Daw
+Pool Play,4.0 Challenger,Group A,4,Single game,Corbin / Ammy,Double Fault,Corbin / Ammy,21,16,,,,,Corbin Cote,Anne Marie Gibbs,Jace Maisey,Rhys enloe
+Pool Play,4.0 Challenger,Group A,4,Single game,Pão & Queijo,The Dawgs,The Dawgs,7,21,,,,,Caleb Steinagel,"Joseph White, Jr",June Cazier,Zeb Daw
+Pool Play,4.0 Challenger,Group A,5,Single game,Ainaball,Corbin / Ammy,Ainaball,21,19,,,,,Josh Aina,Adam Aina,Corbin Cote,Anne Marie Gibbs
+Pool Play,4.0 Challenger,Group A,5,Single game,Double Fault,Pão & Queijo,Pão & Queijo,14,21,,,,,Jace Maisey,Rhys enloe,Caleb Steinagel,"Joseph White, Jr"
+Bracket Stage,4.5 Elite,Bracket A,Round of 16,Best of 3,Cook / Cordingley,Weebles Wobble but They Don't Fall Down,Cook / Cordingley,21,11,21,9,,,Luke Cook,Konnor Cordingley,Jason Gurney,Daniel Feller
+Bracket Stage,4.5 Elite,Bracket A,Round of 16,Best of 3,Michigan Redemption,Weenies,Michigan Redemption,21,6,21,11,,,Bryant Karratti,Chandler Hertzler,Aldon Martin,Dylan Ison
+Bracket Stage,4.5 Elite,Bracket A,Round of 16,Best of 3,BLACKOUT,Cote / Beard,BLACKOUT,21,14,21,10,,,Kody Price,Joshua Balmforth,Mo Beard,Cade Cote
+Bracket Stage,4.5 Elite,Bracket A,Round of 16,Best of 3,Gabe & Chris,Freeze Dried,Gabe & Chris,21,14,21,15,,,Christopher Marcusen,Gabe Gerber,Spencer Hansen,Chaz Klein
+Bracket Stage,4.5 Elite,Bracket A,Round of 16,Best of 3,Round Ball Spike Net Players,The a team,The a team,18,21,21,18,18,21,Ben Reid,William Fluckiger,Austin Squire,Anderson Perry
+Bracket Stage,4.5 Elite,Bracket A,Quarter-final,Best of 3,Zero Gravity,The a team,Zero Gravity,21,11,21,15,,,Xande Plaisted,Garrett Carver,Austin Squire,Anderson Perry
+Bracket Stage,4.5 Elite,Bracket A,Quarter-final,Best of 3,Bucketeers,Gabe & Chris,Bucketeers,21,17,21,19,,,Trevor Zaleski,Matt Barlow,Christopher Marcusen,Gabe Gerber
+Bracket Stage,4.5 Elite,Bracket A,Quarter-final,Best of 3,Foot or Two,BLACKOUT,Foot or Two,21,19,27,25,,,Kyler Cote,Charlie Bratsman,Kody Price,Joshua Balmforth
+Bracket Stage,4.5 Elite,Bracket A,Quarter-final,Best of 3,Cook / Cordingley,Michigan Redemption,Michigan Redemption,21,19,14,21,10,21,Luke Cook,Konnor Cordingley,Bryant Karratti,Chandler Hertzler
+Bracket Stage,4.5 Elite,Bracket A,P9: Quarter-final,Best of 3,Weenies,Weebles Wobble but They Don't Fall Down,Weebles Wobble but They Don't Fall Down,19,21,15,21,,,Aldon Martin,Dylan Ison,Jason Gurney,Daniel Feller
+Bracket Stage,4.5 Elite,Bracket A,Semi-final,Best of 3,Zero Gravity,Michigan Redemption,Zero Gravity,21,19,17,21,21,16,Xande Plaisted,Garrett Carver,Bryant Karratti,Chandler Hertzler
+Bracket Stage,4.5 Elite,Bracket A,Semi-final,Best of 3,Bucketeers,Foot or Two,Bucketeers,21,12,17,21,21,13,Trevor Zaleski,Matt Barlow,Kyler Cote,Charlie Bratsman
+Bracket Stage,4.5 Elite,Bracket A,P5: Semi-final,Best of 3,Cook / Cordingley,The a team,Cook / Cordingley,21,10,21,6,,,Luke Cook,Konnor Cordingley,Austin Squire,Anderson Perry
+Bracket Stage,4.5 Elite,Bracket A,P5: Semi-final,Best of 3,BLACKOUT,Gabe & Chris,BLACKOUT,21,17,22,20,,,Kody Price,Joshua Balmforth,Christopher Marcusen,Gabe Gerber
+Bracket Stage,4.5 Elite,Bracket A,P9: Semi-final,Best of 3,Round Ball Spike Net Players,Weebles Wobble but They Don't Fall Down,Round Ball Spike Net Players,21,19,1,0,,,Ben Reid,William Fluckiger,Jason Gurney,Daniel Feller
+Bracket Stage,4.5 Elite,Bracket A,P9: Semi-final,Best of 3,Freeze Dried,Cote / Beard,Freeze Dried,21,15,21,12,,,Spencer Hansen,Chaz Klein,Mo Beard,Cade Cote
+Bracket Stage,4.5 Elite,Bracket A,Final,Best of 3,Zero Gravity,Bucketeers,Zero Gravity,21,17,21,12,,,Xande Plaisted,Garrett Carver,Trevor Zaleski,Matt Barlow
+Bracket Stage,4.5 Elite,Bracket A,P3: Final,Best of 3,Foot or Two,Michigan Redemption,Foot or Two,21,18,22,20,,,Kyler Cote,Charlie Bratsman,Bryant Karratti,Chandler Hertzler
+Bracket Stage,4.5 Elite,Bracket A,P5: Final,Best of 3,Cook / Cordingley,BLACKOUT,Cook / Cordingley,21,16,1,0,,,Luke Cook,Konnor Cordingley,Kody Price,Joshua Balmforth
+Bracket Stage,4.5 Elite,Bracket A,P7: Final,Best of 3,Gabe & Chris,The a team,The a team,18,21,21,19,23,25,Christopher Marcusen,Gabe Gerber,Austin Squire,Anderson Perry
+Bracket Stage,4.5 Elite,Bracket A,P9: Final,Best of 3,Round Ball Spike Net Players,Freeze Dried,Round Ball Spike Net Players,22,20,1,0,,,Ben Reid,William Fluckiger,Spencer Hansen,Chaz Klein
+Bracket Stage,4.5 Elite,Bracket A,P11: Final,Best of 3,Cote / Beard,Weebles Wobble but They Don't Fall Down,Weebles Wobble but They Don't Fall Down,20,22,0,1,,,Mo Beard,Cade Cote,Jason Gurney,Daniel Feller
+Pool Play,4.5 Elite,Group A,1,Single game,Freeze Dried,Cote / Beard,Cote / Beard,18,21,,,,,Spencer Hansen,Chaz Klein,Mo Beard,Cade Cote
+Pool Play,4.5 Elite,Group A,1,Single game,Gabe & Chris,Cook / Cordingley,Cook / Cordingley,17,21,,,,,Christopher Marcusen,Gabe Gerber,Luke Cook,Konnor Cordingley
+Pool Play,4.5 Elite,Group C,1,Single game,BLACKOUT,Zero Gravity,Zero Gravity,15,21,,,,,Kody Price,Joshua Balmforth,Xande Plaisted,Garrett Carver
+Pool Play,4.5 Elite,Group C,1,Single game,Round Ball Spike Net Players,Weebles Wobble but They Don't Fall Down,Round Ball Spike Net Players,21,11,,,,,Ben Reid,William Fluckiger,Jason Gurney,Daniel Feller
+Pool Play,4.5 Elite,Group B,1,Single game,Michigan Redemption,Weenies,Michigan Redemption,21,12,,,,,Bryant Karratti,Chandler Hertzler,Aldon Martin,Dylan Ison
+Pool Play,4.5 Elite,Group B,1,Single game,Foot or Two,The a team,Foot or Two,21,11,,,,,Kyler Cote,Charlie Bratsman,Austin Squire,Anderson Perry
+Pool Play,4.5 Elite,Group A,2,Single game,Freeze Dried,Cook / Cordingley,Cook / Cordingley,6,21,,,,,Spencer Hansen,Chaz Klein,Luke Cook,Konnor Cordingley
+Pool Play,4.5 Elite,Group A,2,Single game,Bucketeers,Cote / Beard,Bucketeers,21,10,,,,,Trevor Zaleski,Matt Barlow,Mo Beard,Cade Cote
+Pool Play,4.5 Elite,Group C,2,Single game,BLACKOUT,Weebles Wobble but They Don't Fall Down,BLACKOUT,21,8,,,,,Kody Price,Joshua Balmforth,Jason Gurney,Daniel Feller
+Pool Play,4.5 Elite,Group C,2,Single game,Round Ball Spike Net Players,Zero Gravity,Zero Gravity,12,21,,,,,Ben Reid,William Fluckiger,Xande Plaisted,Garrett Carver
+Pool Play,4.5 Elite,Group B,2,Single game,Michigan Redemption,The a team,Michigan Redemption,21,8,,,,,Bryant Karratti,Chandler Hertzler,Austin Squire,Anderson Perry
+Pool Play,4.5 Elite,Group B,2,Single game,Foot or Two,Weenies,Foot or Two,21,12,,,,,Kyler Cote,Charlie Bratsman,Aldon Martin,Dylan Ison
+Pool Play,4.5 Elite,Group A,3,Single game,Freeze Dried,Bucketeers,Bucketeers,15,21,,,,,Spencer Hansen,Chaz Klein,Trevor Zaleski,Matt Barlow
+Pool Play,4.5 Elite,Group A,3,Single game,Gabe & Chris,Cote / Beard,Gabe & Chris,21,14,,,,,Christopher Marcusen,Gabe Gerber,Mo Beard,Cade Cote
+Pool Play,4.5 Elite,Group C,3,Single game,BLACKOUT,Round Ball Spike Net Players,BLACKOUT,21,12,,,,,Kody Price,Joshua Balmforth,Ben Reid,William Fluckiger
+Pool Play,4.5 Elite,Group C,3,Single game,Weebles Wobble but They Don't Fall Down,Zero Gravity,Zero Gravity,4,21,,,,,Jason Gurney,Daniel Feller,Xande Plaisted,Garrett Carver
+Pool Play,4.5 Elite,Group B,3,Single game,Michigan Redemption,Foot or Two,Foot or Two,19,21,,,,,Bryant Karratti,Chandler Hertzler,Kyler Cote,Charlie Bratsman
+Pool Play,4.5 Elite,Group B,3,Single game,The a team,Weenies,The a team,21,14,,,,,Austin Squire,Anderson Perry,Aldon Martin,Dylan Ison
+Pool Play,4.5 Elite,Group A,4,Single game,Gabe & Chris,Bucketeers,Bucketeers,17,21,,,,,Christopher Marcusen,Gabe Gerber,Trevor Zaleski,Matt Barlow
+Pool Play,4.5 Elite,Group A,4,Single game,Cook / Cordingley,Cote / Beard,Cook / Cordingley,21,9,,,,,Luke Cook,Konnor Cordingley,Mo Beard,Cade Cote
+Pool Play,4.5 Elite,Group A,5,Single game,Freeze Dried,Gabe & Chris,Freeze Dried,21,16,,,,,Spencer Hansen,Chaz Klein,Christopher Marcusen,Gabe Gerber
+Pool Play,4.5 Elite,Group A,5,Single game,Bucketeers,Cook / Cordingley,Bucketeers,21,17,,,,,Trevor Zaleski,Matt Barlow,Luke Cook,Konnor Cordingley
