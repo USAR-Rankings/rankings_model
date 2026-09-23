@@ -1146,6 +1146,9 @@ class GLICKO_ADD:
             delta_p3 = p3_self_w * team1_rel * g_team1 * (team2_score - E_p3)
             delta_p4 = p4_self_w * team1_rel * g_team1 * (team2_score - E_p4)
         else:
+            E_p1 = E_p2 = prob_team1
+            E_p3 = E_p4 = prob_team2
+
             v_inv_p1 = p1_self_w * team2_rel * (g_team2 ** 2) * prob_team1 * (1.0 - prob_team1)
             v_inv_p2 = p2_self_w * team2_rel * (g_team2 ** 2) * prob_team1 * (1.0 - prob_team1)
             v_inv_p3 = p3_self_w * team1_rel * (g_team1 ** 2) * prob_team2 * (1.0 - prob_team2)
@@ -1168,10 +1171,10 @@ class GLICKO_ADD:
         p4.add_team_result(delta_p4, g_team1, prob_team2, v_p4)
 
         # legacy-style expected deltas for logging (approx)
-        p1_expected = expected_match_delta(p1.mu, p1.phi, team2_phi, team1_score, prob_team1)
-        p2_expected = expected_match_delta(p2.mu, p2.phi, team2_phi, team1_score, prob_team1)
-        p3_expected = expected_match_delta(p3.mu, p3.phi, team1_phi, team2_score, prob_team2)
-        p4_expected = expected_match_delta(p4.mu, p4.phi, team1_phi, team2_score, prob_team2)
+        p1_expected = expected_match_delta(p1.mu, p1.phi, team2_phi, team1_score, E_p1)
+        p2_expected = expected_match_delta(p2.mu, p2.phi, team2_phi, team1_score, E_p2)
+        p3_expected = expected_match_delta(p3.mu, p3.phi, team1_phi, team2_score, E_p3)
+        p4_expected = expected_match_delta(p4.mu, p4.phi, team1_phi, team2_score, E_p4)
 
         # write to temp_games for compatibility
         try:
@@ -1434,6 +1437,9 @@ class GLICKO_ADD:
                 delta_p3 = p3_self_w * team1_rel * g_team1 * (team2_score - E_p3)
                 delta_p4 = p4_self_w * team1_rel * g_team1 * (team2_score - E_p4)
             else:
+                E_p1 = E_p2 = prob_team1
+                E_p3 = E_p4 = prob_team2
+
                 v_p1 = 1.0 / max(p1_self_w * team2_rel * (g_team2**2) * prob_team1 * (1.0 - prob_team1), 1e-12)
                 v_p2 = 1.0 / max(p2_self_w * team2_rel * (g_team2**2) * prob_team1 * (1.0 - prob_team1), 1e-12)
                 v_p3 = 1.0 / max(p3_self_w * team1_rel * (g_team1**2) * prob_team2 * (1.0 - prob_team2), 1e-12)
@@ -1451,10 +1457,10 @@ class GLICKO_ADD:
             p4.add_team_result(delta_p4, g_team1, prob_team2, v_p4)
 
             # legacy expected deltas for logging
-            p1_expected = expected_fn(p1.mu, p1.phi, team2_phi, team1_score, prob_team1)
-            p2_expected = expected_fn(p2.mu, p2.phi, team2_phi, team1_score, prob_team1)
-            p3_expected = expected_fn(p3.mu, p3.phi, team1_phi, team2_score, prob_team2)
-            p4_expected = expected_fn(p4.mu, p4.phi, team1_phi, team2_score, prob_team2)
+            p1_expected = expected_fn(p1.mu, p1.phi, team2_phi, team1_score, E_p1)
+            p2_expected = expected_fn(p2.mu, p2.phi, team2_phi, team1_score, E_p2)
+            p3_expected = expected_fn(p3.mu, p3.phi, team1_phi, team2_score, E_p3)
+            p4_expected = expected_fn(p4.mu, p4.phi, team1_phi, team2_score, E_p4)
 
             # buffer all values (assign once at end)
             buf["T1P1 Change"][idx] = p1_expected * GLICKO_SCALE
