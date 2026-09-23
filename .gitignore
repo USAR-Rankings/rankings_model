@@ -134,3 +134,5 @@ dmypy.json
 # Mac
 .DS_Store
 .idea
+# Experimental models and reports (local testing only)
+experimental/
