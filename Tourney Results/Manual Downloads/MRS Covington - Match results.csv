@@ -1,0 +1,40 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,4.0 Contender,Group A,1,Single game,Shred,Preston^2,Shred,21,7,,,,,Jackson Wood,Salvatore Guagenti,Preston Murray,Preston Winiger
+Group Stage,4.0 Contender,Group A,1,Single game,Banziger Fan Club,Eon,Eon,18,21,,,,,Leeland Fartro,Garrett Loiselle,Elijah Whitesell,John Tran
+Group Stage,4.0 Contender,Group A,1,Single game,The Good Setmaritans,Andricko,Andricko,18,21,,,,,eddie francis,Luke Sanders,Nicko Tomala,Andrew Ping
+Group Stage,4.0 Contender,Group B,1,Single game,Team Name,Slammo,Team Name,21,8,,,,,Zach Carver,Lance Markowitz,Aiden Johnson,Lewis Cooney
+Group Stage,4.0 Contender,Group B,1,Single game,Fishers of men,BBQ Chicken,Fishers of men,21,16,,,,,Logan Graham,Connor Wallace,caleb johnson,Evan Talley
+Group Stage,4.0 Contender,Group A,2,Single game,Shred,Eon,Shred,21,10,,,,,Jackson Wood,Salvatore Guagenti,Elijah Whitesell,John Tran
+Group Stage,4.0 Contender,Group A,2,Single game,Banziger Fan Club,The Good Setmaritans,The Good Setmaritans,11,21,,,,,Leeland Fartro,Garrett Loiselle,eddie francis,Luke Sanders
+Group Stage,4.0 Contender,Group A,2,Single game,Andricko,Preston^2,Andricko,21,10,,,,,Nicko Tomala,Andrew Ping,Preston Murray,Preston Winiger
+Group Stage,4.0 Contender,Group B,2,Single game,Team Name,BBQ Chicken,Team Name,21,13,,,,,Zach Carver,Lance Markowitz,caleb johnson,Evan Talley
+Group Stage,4.0 Contender,Group B,2,Single game,Carver/Nelson,Slammo,Carver/Nelson,21,9,,,,,Colin Nelson,Laura Carver,Aiden Johnson,Lewis Cooney
+Group Stage,4.0 Contender,Group A,3,Single game,Shred,Andricko,Shred,21,8,,,,,Jackson Wood,Salvatore Guagenti,Nicko Tomala,Andrew Ping
+Group Stage,4.0 Contender,Group A,3,Single game,Banziger Fan Club,Preston^2,Banziger Fan Club,21,8,,,,,Leeland Fartro,Garrett Loiselle,Preston Murray,Preston Winiger
+Group Stage,4.0 Contender,Group A,3,Single game,The Good Setmaritans,Eon,The Good Setmaritans,21,15,,,,,eddie francis,Luke Sanders,Elijah Whitesell,John Tran
+Group Stage,4.0 Contender,Group B,3,Single game,Team Name,Carver/Nelson,Team Name,21,12,,,,,Zach Carver,Lance Markowitz,Colin Nelson,Laura Carver
+Group Stage,4.0 Contender,Group B,3,Single game,Fishers of men,Slammo,Fishers of men,21,7,,,,,Logan Graham,Connor Wallace,Aiden Johnson,Lewis Cooney
+Group Stage,4.0 Contender,Group A,4,Single game,Shred,The Good Setmaritans,Shred,21,18,,,,,Jackson Wood,Salvatore Guagenti,eddie francis,Luke Sanders
+Group Stage,4.0 Contender,Group A,4,Single game,Banziger Fan Club,Andricko,Andricko,22,24,,,,,Leeland Fartro,Garrett Loiselle,Nicko Tomala,Andrew Ping
+Group Stage,4.0 Contender,Group A,4,Single game,Eon,Preston^2,Eon,21,7,,,,,Elijah Whitesell,John Tran,Preston Murray,Preston Winiger
+Group Stage,4.0 Contender,Group B,4,Single game,Fishers of men,Carver/Nelson,Fishers of men,21,9,,,,,Logan Graham,Connor Wallace,Colin Nelson,Laura Carver
+Group Stage,4.0 Contender,Group B,4,Single game,BBQ Chicken,Slammo,BBQ Chicken,21,7,,,,,caleb johnson,Evan Talley,Aiden Johnson,Lewis Cooney
+Group Stage,4.0 Contender,Group A,5,Single game,Shred,Banziger Fan Club,Shred,21,10,,,,,Jackson Wood,Salvatore Guagenti,Leeland Fartro,Garrett Loiselle
+Group Stage,4.0 Contender,Group A,5,Single game,The Good Setmaritans,Preston^2,The Good Setmaritans,21,15,,,,,eddie francis,Luke Sanders,Preston Murray,Preston Winiger
+Group Stage,4.0 Contender,Group A,5,Single game,Andricko,Eon,Andricko,21,19,,,,,Nicko Tomala,Andrew Ping,Elijah Whitesell,John Tran
+Group Stage,4.0 Contender,Group B,5,Single game,Team Name,Fishers of men,Fishers of men,12,21,,,,,Zach Carver,Lance Markowitz,Logan Graham,Connor Wallace
+Group Stage,4.0 Contender,Group B,5,Single game,Carver/Nelson,BBQ Chicken,BBQ Chicken,15,21,,,,,Colin Nelson,Laura Carver,caleb johnson,Evan Talley
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,BBQ Chicken,Slammo,BBQ Chicken,21,6,23,21,,,caleb johnson,Evan Talley,Aiden Johnson,Lewis Cooney
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Eon,Preston^2,Eon,21,9,21,15,,,Elijah Whitesell,John Tran,Preston Murray,Preston Winiger
+Bracket Stage,4.0 Contender,Bracket A,Round of 16,Best of 3,Banziger Fan Club,Carver/Nelson,Banziger Fan Club,21,18,26,24,,,Leeland Fartro,Garrett Loiselle,Colin Nelson,Laura Carver
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,Shred,Banziger Fan Club,Shred,21,14,21,13,,,Jackson Wood,Salvatore Guagenti,Leeland Fartro,Garrett Loiselle
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,Fishers of men,Eon,Fishers of men,21,15,21,12,,,Logan Graham,Connor Wallace,Elijah Whitesell,John Tran
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,Andricko,BBQ Chicken,BBQ Chicken,21,18,10,21,14,21,Nicko Tomala,Andrew Ping,caleb johnson,Evan Talley
+Bracket Stage,4.0 Contender,Bracket A,Quarter-final,Best of 3,Team Name,The Good Setmaritans,Team Name,21,18,21,14,,,Zach Carver,Lance Markowitz,eddie francis,Luke Sanders
+Bracket Stage,4.0 Contender,Bracket A,Semi-final,Best of 3,Shred,Team Name,Team Name,18,21,18,21,,,Jackson Wood,Salvatore Guagenti,Zach Carver,Lance Markowitz
+Bracket Stage,4.0 Contender,Bracket A,Semi-final,Best of 3,Fishers of men,BBQ Chicken,Fishers of men,21,12,21,16,,,Logan Graham,Connor Wallace,caleb johnson,Evan Talley
+Bracket Stage,4.0 Contender,Bracket A,P5: Semi-final,Best of 3,The Good Setmaritans,Banziger Fan Club,Banziger Fan Club,21,18,13,21,10,21,eddie francis,Luke Sanders,Leeland Fartro,Garrett Loiselle
+Bracket Stage,4.0 Contender,Bracket A,P5: Semi-final,Best of 3,Andricko,Eon,Eon,15,21,15,21,,,Nicko Tomala,Andrew Ping,Elijah Whitesell,John Tran
+Bracket Stage,4.0 Contender,Bracket A,Final,Best of 3,Team Name,Fishers of men,Fishers of men,12,21,13,21,,,Zach Carver,Lance Markowitz,Logan Graham,Connor Wallace
+Bracket Stage,4.0 Contender,Bracket A,P3: Final,Best of 3,BBQ Chicken,Shred,Shred,0,1,0,1,,,caleb johnson,Evan Talley,Jackson Wood,Salvatore Guagenti
+Bracket Stage,4.0 Contender,Bracket A,P5: Final,Best of 3,Banziger Fan Club,Eon,Eon,19,21,21,17,19,21,Leeland Fartro,Garrett Loiselle,Elijah Whitesell,John Tran
