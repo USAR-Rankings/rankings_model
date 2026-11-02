@@ -1,0 +1,82 @@
+Stage,Division,Group/Bracket,Round,Match format,Team A,Team B,Winning team,Game 1 - Score team A,Game 1 - Score team B,Game 2 - Score team A,Game 2 - Score team B,Game 3 - Score team A,Game 3 - Score team B,Team A - Player 1,Team A - Player 2,Team B - Player 1,Team B - Player 2
+Group Stage,5.0 Expert,Group A,1,Single game,The 5 D’s of Dodgeball,Liam/Devon,The 5 D’s of Dodgeball,21,16,,,,,Kieran Rose,Noah Saddik,Devon Lee,Liam Martinez
+Group Stage,5.0 Expert,Group A,1,Single game,"Almost a full Mexican ",Work for Hire,Work for Hire,9,21,,,,,Josh Fragiacomo,Clifton Miller,Lucas Pruett,Ally Chou
+Group Stage,5.0 Expert,Group B,1,Single game,Utinni!,ben + cooper,Utinni!,21,8,,,,,Reece Greer,Jake Woolley,Cooper Patcheak,Ben Collins
+Group Stage,5.0 Expert,Group B,1,Single game,Cracked,Fried Originality Attack,Cracked,21,15,,,,,Connor Nelson,Trevor Folden,Theo Maiorca,Calvin Chang
+Group Stage,5.0 Expert,Group B,1,Single game,Easy Money,tent sim,Easy Money,21,10,,,,,Eli Wortman,Gabriel Rouse,Hunter Koth,Hongyi Zhu
+Group Stage,5.0 Expert,Group A,2,Single game,The 5 D’s of Dodgeball,Work for Hire,The 5 D’s of Dodgeball,21,19,,,,,Kieran Rose,Noah Saddik,Lucas Pruett,Ally Chou
+Group Stage,5.0 Expert,Group A,2,Single game,Mind the gap,Liam/Devon,Mind the gap,21,9,,,,,Shrey Dhuria,Alec Galbo,Devon Lee,Liam Martinez
+Group Stage,5.0 Expert,Group B,2,Single game,Utinni!,Fried Originality Attack,Utinni!,21,12,,,,,Reece Greer,Jake Woolley,Theo Maiorca,Calvin Chang
+Group Stage,5.0 Expert,Group B,2,Single game,Cracked,Easy Money,Cracked,21,15,,,,,Connor Nelson,Trevor Folden,Eli Wortman,Gabriel Rouse
+Group Stage,5.0 Expert,Group B,2,Single game,tent sim,ben + cooper,tent sim,21,7,,,,,Hunter Koth,Hongyi Zhu,Cooper Patcheak,Ben Collins
+Group Stage,5.0 Expert,Group A,3,Single game,The 5 D’s of Dodgeball,Mind the gap,Mind the gap,21,23,,,,,Kieran Rose,Noah Saddik,Shrey Dhuria,Alec Galbo
+Group Stage,5.0 Expert,Group A,3,Single game,"Almost a full Mexican ",Liam/Devon,"Almost a full Mexican ",21,15,,,,,Josh Fragiacomo,Clifton Miller,Devon Lee,Liam Martinez
+Group Stage,5.0 Expert,Group B,3,Single game,Utinni!,tent sim,Utinni!,21,12,,,,,Reece Greer,Jake Woolley,Hunter Koth,Hongyi Zhu
+Group Stage,5.0 Expert,Group B,3,Single game,Cracked,ben + cooper,Cracked,21,7,,,,,Connor Nelson,Trevor Folden,Cooper Patcheak,Ben Collins
+Group Stage,5.0 Expert,Group B,3,Single game,Easy Money,Fried Originality Attack,Easy Money,21,15,,,,,Eli Wortman,Gabriel Rouse,Theo Maiorca,Calvin Chang
+Group Stage,5.0 Expert,Group A,4,Single game,"Almost a full Mexican ",Mind the gap,"Almost a full Mexican ",21,18,,,,,Josh Fragiacomo,Clifton Miller,Shrey Dhuria,Alec Galbo
+Group Stage,5.0 Expert,Group A,4,Single game,Work for Hire,Liam/Devon,Work for Hire,21,14,,,,,Lucas Pruett,Ally Chou,Devon Lee,Liam Martinez
+Group Stage,5.0 Expert,Group B,4,Single game,Utinni!,Easy Money,Utinni!,21,15,,,,,Reece Greer,Jake Woolley,Eli Wortman,Gabriel Rouse
+Group Stage,5.0 Expert,Group B,4,Single game,Cracked,tent sim,Cracked,21,14,,,,,Connor Nelson,Trevor Folden,Hunter Koth,Hongyi Zhu
+Group Stage,5.0 Expert,Group B,4,Single game,Fried Originality Attack,ben + cooper,Fried Originality Attack,21,10,,,,,Theo Maiorca,Calvin Chang,Cooper Patcheak,Ben Collins
+Group Stage,5.0 Expert,Group A,5,Single game,The 5 D’s of Dodgeball,"Almost a full Mexican ",The 5 D’s of Dodgeball,21,7,,,,,Kieran Rose,Noah Saddik,Josh Fragiacomo,Clifton Miller
+Group Stage,5.0 Expert,Group A,5,Single game,Mind the gap,Work for Hire,Mind the gap,21,7,,,,,Shrey Dhuria,Alec Galbo,Lucas Pruett,Ally Chou
+Group Stage,5.0 Expert,Group B,5,Single game,Utinni!,Cracked,Cracked,11,21,,,,,Reece Greer,Jake Woolley,Connor Nelson,Trevor Folden
+Group Stage,5.0 Expert,Group B,5,Single game,Easy Money,ben + cooper,Easy Money,21,10,,,,,Eli Wortman,Gabriel Rouse,Cooper Patcheak,Ben Collins
+Group Stage,5.0 Expert,Group B,5,Single game,tent sim,Fried Originality Attack,tent sim,21,14,,,,,Hunter Koth,Hongyi Zhu,Theo Maiorca,Calvin Chang
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,Work for Hire,ben + cooper,Work for Hire,21,9,21,18,,,Lucas Pruett,Ally Chou,Cooper Patcheak,Ben Collins
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,"Almost a full Mexican ",Liam/Devon,Liam/Devon,19,21,21,13,12,21,Josh Fragiacomo,Clifton Miller,Devon Lee,Liam Martinez
+Bracket Stage,5.0 Expert,Bracket A,Round of 16,Best of 3,tent sim,Fried Originality Attack,tent sim,20,22,21,7,21,10,Hunter Koth,Hongyi Zhu,Theo Maiorca,Calvin Chang
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Cracked,tent sim,Cracked,21,8,21,17,,,Connor Nelson,Trevor Folden,Hunter Koth,Hongyi Zhu
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Mind the gap,Liam/Devon,Mind the gap,21,17,21,16,,,Shrey Dhuria,Alec Galbo,Devon Lee,Liam Martinez
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,Utinni!,Work for Hire,Utinni!,21,23,21,12,21,16,Reece Greer,Jake Woolley,Lucas Pruett,Ally Chou
+Bracket Stage,5.0 Expert,Bracket A,Quarter-final,Best of 3,The 5 D’s of Dodgeball,Easy Money,The 5 D’s of Dodgeball,21,15,21,15,,,Kieran Rose,Noah Saddik,Eli Wortman,Gabriel Rouse
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Cracked,The 5 D’s of Dodgeball,Cracked,21,15,21,16,,,Connor Nelson,Trevor Folden,Kieran Rose,Noah Saddik
+Bracket Stage,5.0 Expert,Bracket A,Semi-final,Best of 3,Mind the gap,Utinni!,Utinni!,25,23,16,21,18,21,Shrey Dhuria,Alec Galbo,Reece Greer,Jake Woolley
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Single game,Easy Money,tent sim,tent sim,-1,0,,,,,Eli Wortman,Gabriel Rouse,Hunter Koth,Hongyi Zhu
+Bracket Stage,5.0 Expert,Bracket A,P5: Semi-final,Single game,Work for Hire,Liam/Devon,Liam/Devon,-1,0,,,,,Lucas Pruett,Ally Chou,Devon Lee,Liam Martinez
+Bracket Stage,5.0 Expert,Bracket A,Final,Best of 3,Cracked,Utinni!,Cracked,21,17,21,15,,,Connor Nelson,Trevor Folden,Reece Greer,Jake Woolley
+Bracket Stage,5.0 Expert,Bracket A,P3: Final,Best of 3,Mind the gap,The 5 D’s of Dodgeball,The 5 D’s of Dodgeball,14,21,18,21,,,Shrey Dhuria,Alec Galbo,Kieran Rose,Noah Saddik
+Bracket Stage,5.0 Expert,Bracket A,P5: Final,Single game,tent sim,Liam/Devon,Liam/Devon,24,26,,,,,Hunter Koth,Hongyi Zhu,Devon Lee,Liam Martinez
+Group Stage,4.0+ Contender,Group A,1,Single game,Fwango,Oozma Kappa Kappa,Fwango,21,7,,,,,Dante Benedetti,Alex Veron,Killian Murphy,Hope Foley
+Group Stage,4.0+ Contender,Group A,1,Single game,Saint Spikeball,Grant+Aiden,Saint Spikeball,21,7,,,,,Nathan Raschke,Leo Albert,Aiden Charles,Grant Scuba
+Group Stage,4.0+ Contender,Group A,1,Single game,Poly Spike #4,Shortasaurus,Poly Spike #4,21,9,,,,,Jace Frary,Greyson Farrar,Kaiya Endo,Lauren Eckert
+Group Stage,4.0+ Contender,Group B,1,Single game,Brown excellence,Cakey Jakey,Brown excellence,21,3,,,,,Nick Singer,Zachary D'Souza,Jake Sawyer,Collin Liou
+Group Stage,4.0+ Contender,Group B,1,Single game,903,Harry & Avery,903,21,12,,,,,Logan Vu,Brody Bredice,Avery Karner,
+Group Stage,4.0+ Contender,Group B,1,Single game,Jake E’s Pookies,My culture is not your costume,Jake E’s Pookies,21,17,,,,,Alexander Bloomer,Ethan Barnes,Kai Calbreath,Jake Madrid
+Group Stage,4.0+ Contender,Group A,2,Single game,Fwango,Grant+Aiden,Fwango,21,5,,,,,Dante Benedetti,Alex Veron,Aiden Charles,Grant Scuba
+Group Stage,4.0+ Contender,Group A,2,Single game,Saint Spikeball,Poly Spike #4,Poly Spike #4,10,21,,,,,Nathan Raschke,Leo Albert,Jace Frary,Greyson Farrar
+Group Stage,4.0+ Contender,Group A,2,Single game,Shortasaurus,Oozma Kappa Kappa,Shortasaurus,21,9,,,,,Kaiya Endo,Lauren Eckert,Killian Murphy,Hope Foley
+Group Stage,4.0+ Contender,Group B,2,Single game,Brown excellence,Harry & Avery,Brown excellence,21,4,,,,,Nick Singer,Zachary D'Souza,Avery Karner,
+Group Stage,4.0+ Contender,Group B,2,Single game,903,Jake E’s Pookies,903,21,10,,,,,Logan Vu,Brody Bredice,Alexander Bloomer,Ethan Barnes
+Group Stage,4.0+ Contender,Group B,2,Single game,My culture is not your costume,Cakey Jakey,My culture is not your costume,21,18,,,,,Kai Calbreath,Jake Madrid,Jake Sawyer,Collin Liou
+Group Stage,4.0+ Contender,Group A,3,Single game,Fwango,Shortasaurus,Fwango,21,12,,,,,Dante Benedetti,Alex Veron,Kaiya Endo,Lauren Eckert
+Group Stage,4.0+ Contender,Group A,3,Single game,Saint Spikeball,Oozma Kappa Kappa,Saint Spikeball,21,5,,,,,Nathan Raschke,Leo Albert,Killian Murphy,Hope Foley
+Group Stage,4.0+ Contender,Group A,3,Single game,Poly Spike #4,Grant+Aiden,Poly Spike #4,21,11,,,,,Jace Frary,Greyson Farrar,Aiden Charles,Grant Scuba
+Group Stage,4.0+ Contender,Group B,3,Single game,Brown excellence,My culture is not your costume,Brown excellence,21,8,,,,,Nick Singer,Zachary D'Souza,Kai Calbreath,Jake Madrid
+Group Stage,4.0+ Contender,Group B,3,Single game,903,Cakey Jakey,903,21,7,,,,,Logan Vu,Brody Bredice,Jake Sawyer,Collin Liou
+Group Stage,4.0+ Contender,Group B,3,Single game,Jake E’s Pookies,Harry & Avery,Jake E’s Pookies,21,14,,,,,Alexander Bloomer,Ethan Barnes,Avery Karner,
+Group Stage,4.0+ Contender,Group A,4,Single game,Fwango,Poly Spike #4,Poly Spike #4,14,21,,,,,Dante Benedetti,Alex Veron,Jace Frary,Greyson Farrar
+Group Stage,4.0+ Contender,Group A,4,Single game,Saint Spikeball,Shortasaurus,Saint Spikeball,21,6,,,,,Nathan Raschke,Leo Albert,Kaiya Endo,Lauren Eckert
+Group Stage,4.0+ Contender,Group A,4,Single game,Grant+Aiden,Oozma Kappa Kappa,Grant+Aiden,21,12,,,,,Aiden Charles,Grant Scuba,Killian Murphy,Hope Foley
+Group Stage,4.0+ Contender,Group B,4,Single game,Brown excellence,Jake E’s Pookies,Brown excellence,21,15,,,,,Nick Singer,Zachary D'Souza,Alexander Bloomer,Ethan Barnes
+Group Stage,4.0+ Contender,Group B,4,Single game,903,My culture is not your costume,903,21,11,,,,,Logan Vu,Brody Bredice,Kai Calbreath,Jake Madrid
+Group Stage,4.0+ Contender,Group B,4,Single game,Harry & Avery,Cakey Jakey,Harry & Avery,21,11,,,,,Avery Karner,,Jake Sawyer,Collin Liou
+Group Stage,4.0+ Contender,Group A,5,Single game,Fwango,Saint Spikeball,Fwango,21,17,,,,,Dante Benedetti,Alex Veron,Nathan Raschke,Leo Albert
+Group Stage,4.0+ Contender,Group A,5,Single game,Poly Spike #4,Oozma Kappa Kappa,Poly Spike #4,21,5,,,,,Jace Frary,Greyson Farrar,Killian Murphy,Hope Foley
+Group Stage,4.0+ Contender,Group A,5,Single game,Shortasaurus,Grant+Aiden,Grant+Aiden,18,21,,,,,Kaiya Endo,Lauren Eckert,Aiden Charles,Grant Scuba
+Group Stage,4.0+ Contender,Group B,5,Single game,Brown excellence,903,Brown excellence,21,14,,,,,Nick Singer,Zachary D'Souza,Logan Vu,Brody Bredice
+Group Stage,4.0+ Contender,Group B,5,Single game,Jake E’s Pookies,Cakey Jakey,Jake E’s Pookies,21,11,,,,,Alexander Bloomer,Ethan Barnes,Jake Sawyer,Collin Liou
+Group Stage,4.0+ Contender,Group B,5,Single game,My culture is not your costume,Harry & Avery,Harry & Avery,15,21,,,,,Kai Calbreath,Jake Madrid,Avery Karner,
+Bracket Stage,4.0+ Contender,Bracket A,Round of 16,Best of 3,Saint Spikeball,Oozma Kappa Kappa,Saint Spikeball,1,0,1,0,,,Nathan Raschke,Leo Albert,Killian Murphy,Hope Foley
+Bracket Stage,4.0+ Contender,Bracket A,Round of 16,Best of 3,Jake E’s Pookies,Cakey Jakey,Jake E’s Pookies,1,0,1,0,,,Alexander Bloomer,Ethan Barnes,Jake Sawyer,Collin Liou
+Bracket Stage,4.0+ Contender,Bracket A,Round of 16,Best of 3,Harry & Avery,My culture is not your costume,My culture is not your costume,1,0,0,1,0,1,Avery Karner,,Kai Calbreath,Jake Madrid
+Bracket Stage,4.0+ Contender,Bracket A,Round of 16,Best of 3,Grant+Aiden,Shortasaurus,Grant+Aiden,1,0,0,1,1,0,Aiden Charles,Grant Scuba,Kaiya Endo,Lauren Eckert
+Bracket Stage,4.0+ Contender,Bracket A,Quarter-final,Best of 3,Brown excellence,Grant+Aiden,Brown excellence,1,0,1,0,,,Nick Singer,Zachary D'Souza,Aiden Charles,Grant Scuba
+Bracket Stage,4.0+ Contender,Bracket A,Quarter-final,Best of 3,Poly Spike #4,My culture is not your costume,Poly Spike #4,1,0,1,0,,,Jace Frary,Greyson Farrar,Kai Calbreath,Jake Madrid
+Bracket Stage,4.0+ Contender,Bracket A,Quarter-final,Best of 3,903,Jake E’s Pookies,903,1,0,1,0,,,Logan Vu,Brody Bredice,Alexander Bloomer,Ethan Barnes
+Bracket Stage,4.0+ Contender,Bracket A,Quarter-final,Best of 3,Fwango,Saint Spikeball,Saint Spikeball,0,1,0,1,,,Dante Benedetti,Alex Veron,Nathan Raschke,Leo Albert
+Bracket Stage,4.0+ Contender,Bracket A,Semi-final,Best of 3,Brown excellence,Saint Spikeball,Brown excellence,21,13,21,13,,,Nick Singer,Zachary D'Souza,Nathan Raschke,Leo Albert
+Bracket Stage,4.0+ Contender,Bracket A,Semi-final,Best of 3,Poly Spike #4,903,903,17,21,21,12,20,22,Jace Frary,Greyson Farrar,Logan Vu,Brody Bredice
+Bracket Stage,4.0+ Contender,Bracket A,Final,Best of 3,Brown excellence,903,Brown excellence,21,10,21,16,,,Nick Singer,Zachary D'Souza,Logan Vu,Brody Bredice
+Bracket Stage,4.0+ Contender,Bracket A,P3: Final,Single game,Poly Spike #4,Saint Spikeball,Poly Spike #4,21,13,,,,,Jace Frary,Greyson Farrar,Nathan Raschke,Leo Albert
